@@ -1,0 +1,114 @@
+{
+ "117": [
+  {
+   "q": "O'tkir bosqichda tashxisda qaysi usullar hal qiluvchi?",
+   "c": "Serologiya va ko'rinish tekshiruvlari",
+   "w": [
+    "Najas mikroskopiyasi va tuxum topish",
+    "Kato–Katz surtma va boyitish usullari",
+    "Molekulyar usullar va polimeraza zanjir reaksiyasi",
+    "Biokimyo va jigar fermentlari"
+   ],
+   "x": "«Kasallikning ikki bosqichi bor va ular uchun tashxis usullari farq qiladi: o'tkir bosqichda najasda tuxum bo'lmaydi, shuning uchun serologiya va ko'rinish hal qiluvchi; surunkali bosqichda najas mikroskopiyasi asosiy»"
+  },
+  {
+   "q": "Surunkali bosqichda tashxisning asosiy usuli qaysi?",
+   "c": "Najasda tuxum topish",
+   "w": [
+    "Serologiya va antitelolar aniqlash",
+    "Ultratovush va KT tekshiruvi",
+    "Eksperimental molekulyar usullar",
+    "Umumiy qon tahlili"
+   ],
+   "x": "«Surunkali bosqichda tashxisning asosiy usuli — najasda tuxum topish»"
+  },
+  {
+   "q": "O'tkir bosqichda ultratovushda jigarda nima ko'rinadi?",
+   "c": "Parenximada kichik yo'l-yo'l o'choqlar",
+   "w": [
+    "O't yo'llari kengayishi va devorlar qalinlashishi",
+    "O't yo'lida chuvalchang ko'rinishi",
+    "Jigar fermentlari va o't yo'llari fermentlari",
+    "Najasda tuxumlar va antigenlar"
+   ],
+   "x": "«O'tkir bosqichda jigar parenximasida kichik, yo'l-yo'l, subkapsulyar gipoexogen yoki gipodens o'choqlar (lichinkalar yo'li) ko'rinadi; surunkali bosqichda o't yo'llari kengayishi, devorlarning qalinlashishi, ba'zan o't yo'lida chuvalchang ko'rinishi mumkin»"
+  },
+  {
+   "q": "Surunkali bosqichda ko'rinish tekshiruvlarida nima kuzatiladi?",
+   "c": "O't yo'llari kengayishi, devorlarning qalinlashishi",
+   "w": [
+    "Parenximada subkapsulyar gipoexogen o'choqlar",
+    "Lichinkalar yo'li va yo'l-yo'l o'choqlar",
+    "Eozinofiliya va kamqonlik",
+    "Serum namunalarida antitelolar"
+   ],
+   "x": "«O'tkir bosqichda jigar parenximasida kichik, yo'l-yo'l, subkapsulyar gipoexogen yoki gipodens o'choqlar (lichinkalar yo'li) ko'rinadi; surunkali bosqichda o't yo'llari kengayishi, devorlarning qalinlashishi, ba'zan o't yo'lida chuvalchang ko'rinishi mumkin»"
+  },
+  {
+   "q": "Yolg'on fassiolyoz holati qanday yuzaga keladi?",
+   "c": "Jigar yeganda tuxumlar ichakdan o'tib najasda ko'rinadi",
+   "w": [
+    "Odam fassiolalar bilan zararlanadi, tuxumlar topilmaydi",
+    "Najasda antigenlar aniqlanadi, tuxum bo'lmaydi",
+    "Serologiya manfiy, tuxum ichakdan o'tmaydi",
+    "Chuvalchanglar o't yo'llarida tuxum qo'yadi"
+   ],
+   "x": "«Shuningdek, yolg'on fassiolyoz holati mumkin: odam jigar (fassiolalar bilan zararlangan hayvon) yeganda tuxumlar ichakdan o'tib najasda ko'rinadi, ammo odam zararlanmagan»"
+  },
+  {
+   "q": "Yolg'on fassiolyozni qanday aniqlash mumkin?",
+   "c": "Anamnez va jigar iste'moli to'xtatilgach takroriy tekshiruv",
+   "w": [
+    "Triklabendazol bilan davolash va serologiya",
+    "Ultratovush va KT bilan o'tkir bosqichni baholash",
+    "Eozinofiliya va jigar fermentlarini aniqlash",
+    "Polimeraza zanjir reaksiyasi bilan genotiplash"
+   ],
+   "x": "«Bunday holda anamnez (jigar iste'moli) va takroriy tekshiruv (jigar iste'moli to'xtatilgach) tashxisni aniqlaydi»"
+  },
+  {
+   "q": "Immunologik usullarning qanday cheklovi bor?",
+   "c": "Joriy yoki o'tgan infeksiyani ajratmaydi",
+   "w": [
+    "Najasda tuxum bo'lmasa ishlamaydi",
+    "Surunkali bosqichda sezgirligi past",
+    "Antitelolar kech paydo bo'ladi",
+    "Jigar iste'molida aniq natija beradi"
+   ],
+   "x": "«Ular sezgirroq bo'lishi mumkin, ammo antitelolar aniqlanishi joriy, yaqinda yoki o'tgan infeksiyani ajratmaydi va boshqa trematoda antigenlari bilan o'zaro reaksiya bo'lishi mumkin»"
+  },
+  {
+   "q": "Najas mikroskopiyasida nima tavsiya etiladi?",
+   "c": "Ikkita Kato–Katz surtmasini tayyorlash",
+   "w": [
+    "Bitta surtmani bir marta tekshirish",
+    "Boyitish usullarisiz tekshirish",
+    "Faqat o'tkir bosqichda tekshirish",
+    "Surtmani serologiya bilan almashtirish"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti klonorxoz, opistorxoz va fassiolyozda najas namunalarida tuxumlarni parazitologik usullar bilan aniqlash eng keng qo'llanadigan usullardan biri ekanini, ular yengil zararlanishda sezgirligi past bo'lsa-da, mikroskopchilar yaxshi o'qitilgan bo'lsa aniq ekanini, tuxumlarni morfologik farqlash qiyin bo'lishi mumkinligini va ikkita Kato–Katz surtmasini tayyorlash tavsiya etilishini ta'kidlaydi»"
+  },
+  {
+   "q": "Molekulyar usullar tashxisda qaysi holatda?",
+   "c": "Hozircha eksperimental bosqichda",
+   "w": [
+    "Asosiy tashxis usuli hisoblanadi",
+    "Eng sezgir va keng qo'llanadi",
+    "Surunkali bosqichda birinchi navbatda",
+    "Najas antigenlarini aniqlaydi"
+   ],
+   "x": "«Polimeraza zanjir reaksiyasi (PZR) kabi molekulyar usullar ham ma'lum foyda berishi mumkin, ammo Jahon sog'liqni saqlash tashkiloti ularning hozircha eksperimental bosqichda ekanini ta'kidlaydi»"
+  },
+  {
+   "q": "Najas natijasi manfiy va gumon kuchli bo'lsa, nima qilinadi?",
+   "c": "Serologiya, tasdiqlansa davolash",
+   "w": [
+    "Fassiolyoz istisno qilinadi",
+    "Davolash to'xtatiladi",
+    "Jigar iste'moli boshlanadi",
+    "Najas tekshiruvi to'xtatiladi"
+   ],
+   "x": "«Amaliy algoritm: gumon (anamnez, eozinofiliya, jigar belgilari) → ko'rinish (ultratovush) → najas mikroskopiyasi (ikkita Kato–Katz surtma, takroriy) → natija manfiy va gumon kuchli bo'lsa, serologiya → tasdiqlansa, davolash»"
+  }
+ ]
+}

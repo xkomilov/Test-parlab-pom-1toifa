@@ -1,0 +1,450 @@
+{
+ "056": [
+  {
+   "q": "Visseral leyshmanioz tarqalishi uchun yuqish zanjirining qaysi uch bo'g'ini kerak?",
+   "c": "Parazit manbai, tashuvchi chivincha va moyil odam",
+   "w": [
+    "Parazit manbai, tashuvchi it va moyil odam",
+    "Tashuvchi chivincha, belgisiz tashuvchi va tulkilar",
+    "Bemor odam, tashuvchi chivincha va shakallar",
+    "Parazit manbai, moyil odam va epidemiolog"
+   ],
+   "x": "«Visseral leyshmanioz tarqalishi uchun yuqish zanjirining uch bo'g'ini kerak: parazit manbai, tashuvchi chivincha va moyil odam»"
+  },
+  {
+   "q": "Hindiston subkontinenti va Sharqiy Afrikada visseral leyshmaniozning asosiy manbai kim?",
+   "c": "Odamning o'zi",
+   "w": [
+    "It va it oilasi vakillari",
+    "Kasallangan itlar",
+    "Tulkilar, shakallar, bo'rilar",
+    "Belgisiz tashuvchilar"
+   ],
+   "x": "«Hindiston subkontinenti va Sharqiy Afrika kabi hududlarda visseral leyshmaniozning asosiy manbai odamning o'zi, ya'ni Leishmania donovani bilan zararlangan bemorlar»"
+  },
+  {
+   "q": "Antroponoz shaklda zanjir qanday davom etadi?",
+   "c": "Odam–chivincha–odam ko'rinishida",
+   "w": [
+    "It–chivincha–odam ko'rinishida",
+    "Odam–it–chivincha ko'rinishida",
+    "Tulki–chivincha–odam ko'rinishida",
+    "Chivincha–odam–it ko'rinishida"
+   ],
+   "x": "«Bunday hududlarda hayvon rezervuari asosiy rol o'ynamaydi, zanjir odam–chivincha–odam ko'rinishida davom etadi»"
+  },
+  {
+   "q": "Zoonoz shaklda visseral leyshmaniozning asosiy rezervuari kim?",
+   "c": "It va it oilasi vakillari",
+   "w": [
+    "Odam va PKDL bilan og'riganlar",
+    "Belgisiz tashuvchi bemorlar va bolalar",
+    "Besh yashar bola va epidemiolog",
+    "Kasal odamning o'zi va chivinchalar"
+   ],
+   "x": "«O'rta yer dengizi havzasi, Markaziy Osiyo va Amerikada visseral leyshmaniozning qo'zg'atuvchisi asosan Leishmania infantum bo'lib, uning asosiy rezervuari — it va it oilasi vakillari (tulkilar, shakallar, bo'rilar)»"
+  },
+  {
+   "q": "Kasallangan itlar nima sababdan chivinchalar uchun manba bo'lib qoladi?",
+   "c": "Parazitni uzoq vaqt saqlaydi",
+   "w": [
+    "Parazitni uzoq vaqt saqlamaydi",
+    "Parazitni faqat kichik qismda saqlaydi",
+    "Belgilar paydo bo'lguncha saqlaydi",
+    "Chivinchalar chaqishidan himoyalanadi"
+   ],
+   "x": "«Kasallangan itlar parazitni uzoq vaqt saqlaydi, ko'pincha belgilarsiz ham chivinchalar uchun manba bo'lib qoladi»"
+  },
+  {
+   "q": "Kala-azardan keyingi teri leyshmaniozi toshmasi qayerda paydo bo'ladi?",
+   "c": "Yuzda, qo'llarning yuqori qismida va tanada",
+   "w": [
+    "Qorinda, ichki a'zolarda va periferik qonda",
+    "Tanada emas, faqat qonda va ichki a'zolarda",
+    "Ichki a'zolarda, tulkilar va bo'rilarda",
+    "Qo'llarda emas, faqat teri to'qimasida"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti uning odatda visseral leyshmaniozning oqibati sifatida yuzda, qo'llarning yuqori qismida va tanada dog'li, papulyoz yoki tugunli toshma ko'rinishida paydo bo'lishini, Sharqiy Afrikada (asosan Sudan) va Hindiston subkontinentida kala-azar bemorlarining 5–10 foizida uchrashini, odatda davolangandan 6 oy yoki bir necha yildan keyin boshlanishini ta'kidlaydi»"
+  },
+  {
+   "q": "Belgisiz tashuvchilar kasallikni nazorat qilishni nima uchun murakkablashtiradi?",
+   "c": "Ular aniqlanmaydi",
+   "w": [
+    "Ular moyil odam hisoblanadi",
+    "Ular chivinchalarni zararlamaydi",
+    "Ular faqat itlarda uchraydi",
+    "Ular kasallikni rivojlantiradi"
+   ],
+   "x": "«Epidemiologik jihatdan belgisiz tashuvchilar kasallikni nazorat qilishni murakkablashtiradi, chunki ular aniqlanmaydi»"
+  },
+  {
+   "q": "Kala-azardan keyingi teri leyshmaniozi ma'lumoti qaysi o'choqlarda ayniqsa muhim?",
+   "c": "Antroponoz o'choqlarda",
+   "w": [
+    "Zoonoz o'choqlarda",
+    "Amerika o'choqlarida",
+    "O'rta yer dengizi havzasida",
+    "Markaziy Osiyo o'choqlarida"
+   ],
+   "x": "«Bu ma'lumot antroponoz o'choqlarda ayniqsa muhim»"
+  },
+  {
+   "q": "Jahon sog'liqni saqlash tashkilotiga ko'ra, manba bo'lishi mumkin hayvon turlari soni nechta?",
+   "c": "Taxminan 70 hayvon turi",
+   "w": [
+    "Taxminan 95 hayvon turi",
+    "Taxminan 6 hayvon turi",
+    "Taxminan 5 hayvon turi",
+    "Taxminan 10 hayvon turi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti leyshmaniya parazitlari manbai bo'lishi mumkin bo'lgan taxminan 70 hayvon turi, shu jumladan odam borligini ta'kidlaydi»"
+  },
+  {
+   "q": "Zoonoz zanjirda odam qanday xo'jayin hisoblanadi?",
+   "c": "Tasodifiy xo'jayin",
+   "w": [
+    "Asosiy xo'jayin",
+    "Belgisiz xo'jayin",
+    "Yovvoyi xo'jayin",
+    "Moyil xo'jayin"
+   ],
+   "x": "«Odam bu zanjirda tasodifiy xo'jayin hisoblanadi»"
+  }
+ ],
+ "057": [
+  {
+   "q": "Visseral leyshmanioz yana qanday nomlar bilan ataladi?",
+   "c": "Qora azar yoki kala-azar",
+   "w": [
+    "Kala-azardan keyingi teri leyshmaniozi",
+    "Kamqonlik va pansitopeniya",
+    "Tartibsiz isitma xurujlari",
+    "Taloq va jigar kattalashishi"
+   ],
+   "x": "«Visseral leyshmanioz, yana qora azar yoki kala-azar deb ataladi, leyshmaniozning eng og'ir shakli»"
+  },
+  {
+   "q": "Visseral leyshmaniozning xarakterli isitmasi qanday?",
+   "c": "Tartibsiz, to'lqinsimon yoki uzoq davom etuvchi",
+   "w": [
+    "Subfebril va kunlik bir marta ko'tariluvchi",
+    "Doimiy va haftalar davomida pasaymaydigan",
+    "Yuqori va faqat bolalarda uchraydigan",
+    "Asta-sekin boshlanuvchi va belgisiz"
+   ],
+   "x": "«Visseral leyshmaniozning xarakterli belgisi — tartibsiz, to'lqinsimon yoki uzoq davom etuvchi isitma»"
+  },
+  {
+   "q": "Eng xarakterli ob'ektiv belgi qaysi?",
+   "c": "Taloqning kattalashishi",
+   "w": [
+    "Jigarning kattalashishi",
+    "Vazn yo'qotish",
+    "Teri va shilliq pardalarning rangsizligi",
+    "Yurak urishining tezlashuvi"
+   ],
+   "x": "«Eng xarakterli ob'ektiv belgi — taloqning kattalashishi, ko'pincha juda katta, qovurg'a ravog'idan ancha pastga tushadi va zich bo'ladi»"
+  },
+  {
+   "q": "Parazit suyak ko'migida nimani susaytiradi?",
+   "c": "Qon hosil bo'lishini",
+   "w": [
+    "Qon hujayralarini yo'q qilishni",
+    "Ishtaha pasayishini",
+    "Taloq kattalashishini",
+    "Oqsil nisbatini"
+   ],
+   "x": "«Parazit suyak ko'migida ko'payib, qon hosil bo'lishini susaytiradi, taloq esa qon hujayralarini ko'proq yo'q qiladi (giperspleniya)»"
+  },
+  {
+   "q": "Pansitopeniya qaysi o'zgarishlar yig'indisi?",
+   "c": "Kamqonlik, leykopeniya va trombotsitopeniya",
+   "w": [
+    "Kamqonlik, giperspleniya va gipoalbuminemiya",
+    "Leykopeniya, giperglobulinemiya va kaxeksiya",
+    "Trombotsitopeniya, sepsis va zotiljam",
+    "Gemoglobin, EChT va leykotsitlar"
+   ],
+   "x": "«Natijada kamqonlik, leykopeniya va trombotsitopeniya rivojlanadi; bu pansitopeniya deyiladi»"
+  },
+  {
+   "q": "Trombotsitlar kamayishi nimaga olib kelishi mumkin?",
+   "c": "Burun va milk qon ketishiga",
+   "w": [
+    "Teri va shilliq pardalar rangsizligiga",
+    "Yurak urishining tezlashuviga",
+    "Ishtaha pasayishi va ozishga",
+    "Taloq va jigar kattalashishiga"
+   ],
+   "x": "«Trombotsitlar kamayishi burun va milk qon ketishiga olib kelishi mumkin»"
+  },
+  {
+   "q": "Davolanmagan kasallikka qaysi ikkilamchi infeksiyalar qo'shiladi?",
+   "c": "Zotiljam, ich ketishi, sil va sepsis",
+   "w": [
+    "Bezgak, brutsellyoz, kamqonlik va gipoalbuminemiya",
+    "Shishlar, kaxeksiya, giperspleniya va leykopeniya",
+    "Gemoglobin, EChT, leykotsitlar va trombotsitlar",
+    "Bolalar, OIV, bezgak va brutsellyoz"
+   ],
+   "x": "«Kasallik davolanmasa, immunitet susayadi va ikkilamchi infeksiyalar qo'shiladi: zotiljam, ich ketishi, sil, sepsis»"
+  },
+  {
+   "q": "OIV bilan yashovchilarda visseral leyshmanioz qanday kechadi?",
+   "c": "Og'ir rivojlanadi, qaytalanadi, o'lim xavfi yuqori",
+   "w": [
+    "Yengil kechadi yoki belgisiz qoladi",
+    "Asta-sekin boshlanadi, prognoz yaxshi",
+    "Bolalarda ko'proq uchraydi, prognoz yaxshi",
+    "Erta davolanganda asoratlar xavfi past"
+   ],
+   "x": "«OIV bilan yashovchilarda kasallik tez va og'ir rivojlanadi, qaytalanadi, o'lim xavfi yuqori»"
+  },
+  {
+   "q": "Uzoq davom etuvchi isitmada qaysi kasalliklar differensiatsiya qilinadi?",
+   "c": "Bezgak, sil va brutsellyoz",
+   "w": [
+    "Zotiljam, sepsis va kaxeksiya",
+    "Giperspleniya, leykopeniya va shishlar",
+    "Giperglobulinemiya, EChT va gemoglobin",
+    "Kamqonlik, OIV va pansitopeniya"
+   ],
+   "x": "«Bu belgi bezgak, sil, brutsellyoz va boshqa uzoq isitmali kasalliklar bilan differensiatsiya qilishni talab qiladi»"
+  },
+  {
+   "q": "Kasallikning oxirgi bosqichida o'lim ko'pincha nimadan bo'ladi?",
+   "c": "Ikkilamchi infeksiya yoki qon ketishdan",
+   "w": [
+    "Taloq kattalashishi yoki kamqonlikdan",
+    "Isitma xurujlari yoki ozishdan",
+    "Subfebril harorat yoki holsizlikdan",
+    "Jigar kattalashishi yoki ishtahadan"
+   ],
+   "x": "«Bemor juda holsiz bo'ladi, o'lim ko'pincha ikkilamchi infeksiya yoki qon ketishdan bo'ladi»"
+  }
+ ],
+ "058": [
+  {
+   "q": "Teri leyshmaniozida kasallik chaqish joyida nimadan boshlanadi?",
+   "c": "Kichik qizil dog' yoki papuladan",
+   "w": [
+    "Valiksimon yara va chandiqdan",
+    "Limfa yo'li bo'ylab tugunlardan",
+    "Burun va og'iz shilliq pardalaridan",
+    "Diffuz teri leyshmaniozidan"
+   ],
+   "x": "«Kasallik chaqish joyida kichik qizil dog' yoki papula paydo bo'lishi bilan boshlanadi»"
+  },
+  {
+   "q": "Birlamchi elementlar ko'pincha qayerda joylashadi?",
+   "c": "Yuz, bo'yin, qo'l, oyoqlarda",
+   "w": [
+    "Burun, og'iz, tomoq shilliq pardalarida",
+    "Ko'z qovoqlari, burun va lablarda",
+    "Chandiq atrofida, limfa yo'li bo'ylab",
+    "Qo'l, oyoq va tomoq shilliq pardalarida"
+   ],
+   "x": "«Birlamchi element ko'pincha ochiq joylarda — yuz, bo'yin, qo'l, oyoqlarda joylashadi, chunki chivinchalar shu yerlarni chaqadi»"
+  },
+  {
+   "q": "Nima sababdan bemorlar kech murojaat qiladi?",
+   "c": "Dastlab ular og'riqsiz bo'ladi",
+   "w": [
+    "Dastlab ular og'riqli bo'ladi",
+    "Dastlab ular ko'p yaralarga aylanadi",
+    "Dastlab ular chivinchalarni chaqiradi",
+    "Dastlab ular umumiy holatni yomonlashtiradi"
+   ],
+   "x": "«Dastlab ular og'riqsiz, shu sababli bemorlar kech murojaat qiladi»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozida yara qanday bo'ladi?",
+   "c": "Katta, chetlari ko'tarilgan va valiksimon",
+   "w": [
+    "Kichik, chetlari tekis va rangi o'zgargan",
+    "Katta, chetlari tekis va tubi notekis",
+    "Kichik, chandiq atrofida yangi tugunli",
+    "Katta, yallig'lanishsiz va juda og'riqli"
+   ],
+   "x": "«Zoonoz teri leyshmaniozida yara odatda katta (bir necha santimetr), chetlari ko'tarilgan va valiksimon, tubi notekis, ajralma bilan; atrofida yallig'lanish bo'ladi»"
+  },
+  {
+   "q": "Yara bitgach nima qoladi?",
+   "c": "Atrofik, rangi o'zgargan chandiq",
+   "w": [
+    "Granulyatsiya to'qimasi va epitelizatsiya",
+    "Qo'pol deformatsiya va yiringli yara",
+    "Papula va kichik qizil dog'",
+    "Po'stloq va ajralma"
+   ],
+   "x": "«Yara asta-sekin qirg'oqdan bitadi: granulyatsiya to'qimasi hosil bo'ladi, epitelizatsiya boshlanadi va atrofik, rangi o'zgargan chandiq qoladi»"
+  },
+  {
+   "q": "Bitish muddati nimalarga bog'liq?",
+   "c": "Shakliga, yara kattaligiga va davolashga",
+   "w": [
+    "Yoshiga, yara joylashuviga va tashxisga",
+    "Shakliga, chandiq rangiga va chivinchalarga",
+    "Papula soniga, bemor yoshiga va davolashga",
+    "Yuzga, chandiq kattaligiga va ajralmaga"
+   ],
+   "x": "«Bitish muddati shakliga, yara kattaligiga va davolashga bog'liq»"
+  },
+  {
+   "q": "Yaralar limfa yo'li bo'ylab ketma-ket joylashishi qaysi shaklga xos?",
+   "c": "Sporotrixoidsimon shakl",
+   "w": [
+    "Verrukoz shakl",
+    "Diffuz shakl",
+    "Shilliq-teri shakl",
+    "Retsidiv shakl"
+   ],
+   "x": "«Yuqoridagilardan tashqari klinik variantlar bo'lishi mumkin: sporotrixoidsimon (yaralar limfa yo'li bo'ylab ketma-ket joylashadi), verrukoz (bo'rtiq), leyshmaniya retsidiv (chandiq atrofida yangi tugunlar), diffuz teri leyshmaniozi (immunitet yetishmovchiligida)»"
+  },
+  {
+   "q": "Shilliq-teri shakli asosan qayerda uchraydi?",
+   "c": "Janubiy Amerika va Efiopiyada",
+   "w": [
+    "Markaziy Osiyo va O'zbekistonda",
+    "O'rta yer dengizi va Yaqin Sharqda",
+    "Amerika va Markaziy Osiyoda",
+    "Janubiy Amerika va O'zbekistonda"
+   ],
+   "x": "«Janubiy Amerika va Efiopiyada uchraydi»"
+  },
+  {
+   "q": "Teri leyshmaniozini qaysi kasalliklardan ajratish kerak?",
+   "c": "Piodermiya, teri sili, lepra va sifilis",
+   "w": [
+    "Granulyatsiya, epitelizatsiya, papula va leyshmaniom",
+    "Zoonoz va antroponoz shakllar",
+    "Ko'z qovoqlari, burun va lablar shikastlanishi",
+    "Kaxeksiya, qo'pol chandiqlar va deformatsiyalar"
+   ],
+   "x": "«Teri leyshmaniozini quyidagilardan ajratish kerak: piodermiya (yiringli yaralar), teri sili, lepra, sifilis, chuqur mikozlar, teri o'smalari (bazalioma, yassi hujayrali saraton), sarkoidoz, travmatik yaralar, hasharot chaqishidan reaksiya»"
+  },
+  {
+   "q": "Teri leyshmaniozi bilan og'rigan bemorga qanday tavsiya beriladi?",
+   "c": "Yarani toza va bog'langan holda saqlash",
+   "w": [
+    "Yarani o'zi ochish va qo'l bilan qashish",
+    "Yarani toza va ochiq holda saqlash",
+    "Yarani o'zi bog'lash va qo'l bilan qashish",
+    "Chivinchalar chaqishidan himoyalanmaslik"
+   ],
+   "x": "«Teri leyshmaniozi bilan og'rigan bemorga yarani toza va bog'langan holda saqlash, o'zi ochmasligi va qo'l bilan qashimasligi, davolanish kursini to'liq o'tashi, yangi yaralar paydo bo'lsa darhol murojaat qilishi tavsiya etiladi»"
+  }
+ ],
+ "059": [
+  {
+   "q": "Anamnez visseral leyshmaniozga shubhaga qanday ta'sir qiladi?",
+   "c": "Shubhani kuchaytiradi, lekin isbotlamaydi",
+   "w": [
+    "Shubhani kuchaytiradi va tashxisni isbotlaydi",
+    "Shubhani istisno qiladi va kuchaytirmaydi",
+    "Shubhani kamaytiradi, lekin isbotlaydi",
+    "Shubhani kuchaytirmaydi va tekshirmaydi"
+   ],
+   "x": "«Anamnez tashxisga shubhani kuchaytiradi, lekin uni isbotlamaydi»"
+  },
+  {
+   "q": "Biokimyoda qon zardobidagi oqsil nisbati qanday buziladi?",
+   "c": "Albumin kamayadi, globulinlar ko'payadi",
+   "w": [
+    "Albumin ko'payadi, globulinlar kamayadi",
+    "Albumin va globulinlar ko'payadi",
+    "Albumin kamayadi, EChT pasayadi",
+    "Globulinlar kamayadi, leykopeniya ortadi"
+   ],
+   "x": "«Umumiy qon tahlilida pansitopeniya: kamqonlik, leykopeniya, trombotsitopeniya; EChT yuqori; biokimyoda qon zardobidagi oqsil nisbatining buzilishi (albumin kamayishi, globulinlar ko'payishi)»"
+  },
+  {
+   "q": "Tezkor testlar qanday afzallikka ega?",
+   "c": "Qon tomchisidan bir necha daqiqada natija beradi",
+   "w": [
+    "Suyak ko'migidan bir necha daqiqada natija beradi",
+    "Taloq aspiratidan bir necha daqiqada natija beradi",
+    "Limfa tugunidan bir necha daqiqada natija beradi",
+    "Jigardan bir necha daqiqada natija beradi"
+   ],
+   "x": "«Tezkor testlar (masalan, rK39 antigeniga asoslangan) qon tomchisidan bir necha daqiqada natija beradi va dala sharoitida qulay»"
+  },
+  {
+   "q": "OIV bilan yashovchilarda serologik natija qanday bo'lishi mumkin?",
+   "c": "Antitelolar past, natija noto'g'ri manfiy",
+   "w": [
+    "Antitelolar yuqori, natija noto'g'ri ijobiy",
+    "Antitelolar yuqori titrda, natija aniq",
+    "Antitelolar past, natija noto'g'ri ijobiy",
+    "Antitelolar pasaymaydi, natija ishonchli"
+   ],
+   "x": "«Biroq serologik testlar o'tgan infeksiyani ham ko'rsatishi mumkin, OIV bilan yashovchilarda esa antitelolar past bo'lib, natija noto'g'ri manfiy chiqishi mumkin»"
+  },
+  {
+   "q": "Qaysi aspiratsiya eng sezgir, lekin xavfli hisoblanadi?",
+   "c": "Taloq aspiratsiyasi",
+   "w": [
+    "Suyak ko'migi aspiratsiyasi",
+    "Limfa tuguni aspiratsiyasi",
+    "Jigar aspiratsiyasi",
+    "Ichki a'zolar aspiratsiyasi"
+   ],
+   "x": "«Material suyak ko'migi (eng xavfsiz va keng qo'llanadi), taloq (eng sezgir, lekin xavfli), limfa tuguni yoki jigardan olinadi»"
+  },
+  {
+   "q": "Taloq aspiratsiyasi qanday xavf tug'diradi?",
+   "c": "Qon ketish xavfini",
+   "w": [
+    "Zaharli ta'sir xavfini",
+    "Noto'g'ri manfiy natija xavfini",
+    "Tashxis kechikishi xavfini",
+    "Noto'g'ri ijobiy natija xavfini"
+   ],
+   "x": "«Aspiratsiyani faqat malakali shifokor bajaradi, chunki taloq aspiratsiyasi qon ketish xavfini tug'diradi»"
+  },
+  {
+   "q": "Amastigotlar mikroskopda qanday ko'rinadi?",
+   "c": "Dumaloq yoki oval, bitta yadro va kinetoplastga ega",
+   "w": [
+    "Dumaloq yoki oval, bitta yadro va xivchinga ega",
+    "Dumaloq yoki oval, ikkita yadro va xivchinga ega",
+    "Dumaloq yoki oval, yadrosiz va kinetoplastsiz",
+    "Dumaloq yoki oval, yadro va kinetoplastsiz"
+   ],
+   "x": "«Aspirat buyum oynasiga surtilib, Giemza bilan bo'yaladi va mikroskopda makrofaglar ichida yoki tashqarisida amastigotlar izlanadi; ular dumaloq/oval, bitta yadro va kinetoplastga ega»"
+  },
+  {
+   "q": "Qaysi usul bezgakni istisno qiladi?",
+   "c": "Qon surtmasini ko'rish",
+   "w": [
+    "Taloq kattalashishini aniqlash",
+    "Isitma va kamqonlikni tekshirish",
+    "Biokimyoviy tahlilni o'tkazish",
+    "Yashash joyi, sayohat, itlar bilan aloqa"
+   ],
+   "x": "«Bezgak endemik hududlarda ayniqsa muhim differensial tashxis: ikkalasida isitma, kamqonlik va taloq kattalashishi uchraydi; qon surtmasini ko'rish bezgakni istisno qiladi»"
+  },
+  {
+   "q": "Tashxis qo'yishdagi xatolarga qaysi biri kiradi?",
+   "c": "Serologik natijaga haddan tashqari tayanish",
+   "w": [
+    "Bemor anamnezini to'liq yig'ish",
+    "Manfiy testdan keyin tekshiruvni davom ettirish",
+    "OIV bilan yashovchilarda parazitologik tasdiq",
+    "Kasallikni endemik hududda o'ylash"
+   ],
+   "x": "«Eng ko'p uchraydigan xatolar: kasallikni o'ylamaslik, bemor endemik hudud bilan aloqasini aytmaganda anamnezni to'liq yig'maslik, serologik natijaga haddan tashqari tayanish, manfiy testdan keyin to'xtash, OIV bilan yashovchilarda serologiyaga ishonish»"
+  },
+  {
+   "q": "Davolashdan oldin nimalar tekshiriladi?",
+   "c": "Jigar va buyrak faoliyati, OIV holati",
+   "w": [
+    "Taloq va suyak ko'migi aspirati",
+    "Itlar bilan aloqa va sayohat",
+    "Albumin va globulinlar nisbati",
+    "Giemza bilan bo'yalgan surtma"
+   ],
+   "x": "«Davolashni boshlashdan oldin bemorning umumiy holati, qon tahlili, jigar va buyrak faoliyati, OIV holati va boshqa kasalliklari tekshiriladi»"
+  }
+ ]
+}

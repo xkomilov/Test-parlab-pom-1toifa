@@ -1,0 +1,338 @@
+{
+ "031": [
+  {
+   "q": "Yupqa surtmada qalin tomchidan farqli ravishda nima ko'rinadi?",
+   "c": "eritrotsit ichidagi parazit shakli",
+   "w": [
+    "leykotsitlar tekis taqsimlanishi",
+    "chiziqlar, teshiklar va changlar",
+    "bo'yoq yuzasidagi yashil parda",
+    "fiksatsiya qilinmagan eritrotsitlar"
+   ],
+   "x": "«Yupqa surtmada eritrotsitlar butun holda qoladi, shuning uchun parazitning eritrotsit ichidagi shakli, zararlangan eritrotsit o'lchami va unda hosil bo'ladigan nuqtalar ko'rinadi»"
+  },
+  {
+   "q": "Spreder oynasi tomchi oldiga qanday burchak ostida qo'yiladi?",
+   "c": "45 graduslik burchak ostida",
+   "w": [
+    "30 graduslik burchak ostida",
+    "90 graduslik burchak ostida",
+    "10 graduslik burchak ostida",
+    "15 graduslik burchak ostida"
+   ],
+   "x": "«Toza spreder oynasining cheti tomchi oldiga 45 graduslik burchak ostida qo'yiladi»"
+  },
+  {
+   "q": "Yupqa surtma uchun oynaning o'rta qismiga qancha qon olinadi?",
+   "c": "bitta kichik tomchi",
+   "w": [
+    "katta tomchi ortiqcha qon",
+    "qalin tomchi uchun tomchilar",
+    "oynaning butun yuzasi",
+    "barmoq uchidagi barcha qon"
+   ],
+   "x": "«So'ng oyna barmoqqa tegizilib, yupqa surtma uchun bitta kichik tomchi oynaning o'rta qismiga olinadi»"
+  },
+  {
+   "q": "Yupqa surtma qanday holatda quritiladi?",
+   "c": "gorizontal holatda havoda",
+   "w": [
+    "metanol ichida gorizontal holatda",
+    "javonda to'g'ri holatda",
+    "spirt bilan to'liq namlangan holda",
+    "bo'yoq ustida gorizontal holatda"
+   ],
+   "x": "«Tayyor surtma gorizontal holatda havoda quritiladi va chang hamda pashshalardan himoya qilinadi»"
+  },
+  {
+   "q": "Fen bilan quritishda qanday masofa va vaqt tavsiya etiladi?",
+   "c": "30 sm masofadan 5 soniya",
+   "w": [
+    "5 sm masofadan 30 soniya",
+    "10 sm masofadan 8 soniya",
+    "45 sm masofadan 15 soniya",
+    "70 sm masofadan 10 soniya"
+   ],
+   "x": "«Tezroq quritish uchun past issiqlikli fen ishlatilishi mumkin, uni 30 sm masofadan 5 soniya tutish tavsiya etiladi»"
+  },
+  {
+   "q": "Yupqa surtma fiksatsiyasida qaysi modda qo'llanadi?",
+   "c": "metanol bilan fiksatsiya qilinadi",
+   "w": [
+    "70 foizli spirt bilan fiksatsiya qilinadi",
+    "buferli suv bilan fiksatsiya qilinadi",
+    "Giemza eritmasi bilan fiksatsiya qilinadi",
+    "spreder oynasi bilan fiksatsiya qilinadi"
+   ],
+   "x": "«Bo'yash bo'yicha M-SOM-07 muolajasida esa yupqa surtma Paster pipetkasi yoki metanolga botirilgan paxta tampon yordamida metanol bilan fiksatsiya qilinadi, qalin tomchining metanolga tegishiga yo'l qo'yilmaydi»"
+  },
+  {
+   "q": "Tezkor usulda Giemza eritmasi qanday konsentratsiya va muddatda ishlatiladi?",
+   "c": "10 foizli eritma 8–10 daqiqa",
+   "w": [
+    "3 foizli eritma 45–60 daqiqa",
+    "10 foizli eritma 45–60 daqiqa",
+    "3 foizli eritma 8–10 daqiqa",
+    "70 foizli eritma 15 daqiqa"
+   ],
+   "x": "«Tezkor usulda 10 foizli eritma 8–10 daqiqa, sekin usulda 3 foizli eritma 45–60 daqiqa ishlatiladi»"
+  },
+  {
+   "q": "Bo'yoq to'kib tashlansa, preparatda nima sodir bo'ladi?",
+   "c": "yashil parda yopishib, preparat yaroqsiz bo'ladi",
+   "w": [
+    "eritrotsitlar yoyilib ketadi va ko'rinmaydi",
+    "bo'yoq rangi toza bo'lib, parazit yaqqol ko'rinadi",
+    "surtma chiziqlar va teshiklar bilan qoplanadi",
+    "leykotsitlar bir qatlamda tekis taqsimlanadi"
+   ],
+   "x": "«Bo'yash tugagach, bo'yoqni to'kib tashlamasdan, buferli suv tomchilari bilan sekin yuvib yuboriladi, chunki to'kib tashlansa bo'yoq yuzasidagi yashil parda preparatga yopishib, uni mikroskopiya uchun yaroqsiz qiladi»"
+  },
+  {
+   "q": "Parazitemiya darajasi yupqa surtmada qanday baholanadi?",
+   "c": "zararlangan eritrotsitlar ulushi hisoblanadi",
+   "w": [
+    "ko'rish maydonlari soni sanaladi",
+    "leykotsitlar tekis taqsimlanishi baholanadi",
+    "eritrotsitlar to'p-to'p to'planishi sanaladi",
+    "bo'yoq rangi toza bo'lishi baholanadi"
+   ],
+   "x": "«Parazitemiya darajasini baholash uchun yupqa surtmada zararlangan eritrotsitlar ulushi hisoblanadi: ko'rish maydonlarida zararlangan va jami eritrotsitlar sanalib, foiz topiladi»"
+  },
+  {
+   "q": "Yupqa surtma qaysi holatda juda qalin hisoblanadi?",
+   "c": "eritrotsitlar to'p-to'p bo'lib to'planib qolganda",
+   "w": [
+    "eritrotsitlar yoyilib ketgan va ko'rinmaganda",
+    "leykotsitlar tekis taqsimlanganda",
+    "bo'yoq rangi toza bo'lganda",
+    "surtmada chiziqlar bo'lmaganda"
+   ],
+   "x": "«Eritrotsitlar to'p-to'p bo'lib to'planib qolsa, surtma juda qalin; eritrotsitlar yoyilib ketgan va ko'rinmasa, juda yupqa»"
+  }
+ ],
+ "032": [
+  {
+   "q": "Yupqa surtmada qanday belgilar ko'rinadi?",
+   "c": "parazitning eritrotsit ichidagi morfologiyasi",
+   "w": [
+    "eritrotsitlar parchalangan toza fon",
+    "leykotsitlar va trombotsitlar bilan parazitlar",
+    "kam sonli parazitlarning bir joyga to'planishi",
+    "eritrotsitlarning erishi va gemoglobinsizlanishi"
+   ],
+   "x": "«Yupqa surtmada esa qon bir qatlamda yoyiladi, eritrotsitlar butun qoladi va parazitning eritrotsit ichidagi morfologiyasi, ya'ni turga xos belgilar, ko'rinadi»"
+  },
+  {
+   "q": "Qalin tomchi bo'yash vaqtida nima sababdan fiksatsiya qilinmaydi?",
+   "c": "eritrotsitlar bo'yash vaqtida yorilishi kerak",
+   "w": [
+    "parazit yadrosi qizil rangga bo'yalishi kerak",
+    "yupqa surtma bilan birga qurishi kerak",
+    "leykotsitlar bir qatlamda yoyilishi kerak",
+    "metanol bug'i bilan to'yinishi kerak"
+   ],
+   "x": "«Qalin tomchi fiksatsiya qilinmaydi, chunki u bo'yash vaqtida gemoglobinsizlanishi, ya'ni eritrotsitlar yorilishi kerak»"
+  },
+  {
+   "q": "Giemza eritmasi qanday tarkibiy qismlardan iborat?",
+   "c": "eozin va metilen ko'k",
+   "w": [
+    "eozin va glitserin",
+    "azur va metanol",
+    "kaliy digidrofosfat va glitserin",
+    "buferli suv va metanol"
+   ],
+   "x": "«Giemza eritmasi eozin va metilen ko'k (azur) dan iborat: eozin parazit yadrosini qizil, metilen ko'k sitoplazmani ko'k rangga bo'yaydi»"
+  },
+  {
+   "q": "Giemza bilan bo'yalganda parazit yadrosi qanday rangga kiradi?",
+   "c": "qizil rangga",
+   "w": [
+    "ko'k rangga",
+    "pushti rangga",
+    "binafsha rangga",
+    "yashil rangga"
+   ],
+   "x": "«Giemza eritmasi eozin va metilen ko'k (azur) dan iborat: eozin parazit yadrosini qizil, metilen ko'k sitoplazmani ko'k rangga bo'yaydi»"
+  },
+  {
+   "q": "Bo'yalgan preparatda leykotsit yadrolari qanday rangda ko'rinadi?",
+   "c": "binafsha rangda",
+   "w": [
+    "pushti rangda",
+    "qizil rangda",
+    "ko'k rangda",
+    "yashil rangda"
+   ],
+   "x": "«To'g'ri bo'yalgan preparatda parazit yadrosi qizil, sitoplazmasi ko'k, leykotsit yadrolari to'q binafsha, eritrotsitlar yupqa surtmada pushti rangda ko'rinadi»"
+  },
+  {
+   "q": "Tezkor usul necha foizli ishchi eritma bilan bajariladi?",
+   "c": "10 foizli ishchi eritma",
+   "w": [
+    "3 foizli ishchi eritma",
+    "20 foizli ishchi eritma",
+    "45 foizli ishchi eritma",
+    "60 foizli ishchi eritma"
+   ],
+   "x": "«Tezkor usul 10 foizli ishchi eritma bilan bajariladi va bir vaqtda 1–15 ta preparatni bo'yash uchun mos; u ambulator poliklinikalarda va band laboratoriyalarda tez tashxis kerak bo'lganda ishlatiladi»"
+  },
+  {
+   "q": "Sekin usulning kamchiligi nima?",
+   "c": "natija kechroq chiqadi",
+   "w": [
+    "bo'yoq cho'kmasi preparatga tushadi",
+    "preparatni qayta tayyorlash kerak bo'ladi",
+    "parazit rangi o'zgarib ketadi",
+    "bir vaqtda 1–15 ta preparat bo'yaladi"
+   ],
+   "x": "«Kamchiligi — natija kechroq chiqadi, shu sababli shoshilinch tashxis uchun yaramaydi»"
+  },
+  {
+   "q": "Parazit yo'q deyish uchun kamida nechta maydon ko'rib chiqiladi?",
+   "c": "100 ta maydon",
+   "w": [
+    "60 ta maydon",
+    "45 ta maydon",
+    "20 ta maydon",
+    "15 ta maydon"
+   ],
+   "x": "«Parazit yo'q deyish uchun kamida 100 ta maydon ko'rib chiqiladi»"
+  },
+  {
+   "q": "Qalinligi yaxshi qalin tomchida ko'rish maydonida nechta leykotsit bo'ladi?",
+   "c": "15–20 ta leykotsit",
+   "w": [
+    "1–15 ta leykotsit",
+    "3–5 ta leykotsit",
+    "45–60 ta leykotsit",
+    "8–10 ta leykotsit"
+   ],
+   "x": "«Mikroskop ostida preparat 100× immersion obyektiv bilan ko'riladi va qalin tomchida 15–20 ta leykotsit ko'rish maydonida bo'lsa, qalinlik yaxshi hisoblanadi»"
+  },
+  {
+   "q": "Tezkor usul qanday sharoitlarda ishlatiladi?",
+   "c": "ambulator poliklinikalarda va band laboratoriyalarda",
+   "w": [
+    "dala tadqiqotlarida va epidemiologik tekshiruvlarda",
+    "o'quv maqsadida preparat tayyorlashda",
+    "20 va undan ortiq preparat bo'yalganda",
+    "kam bo'yoq sarflash kerak bo'lganda"
+   ],
+   "x": "«Tezkor usul 10 foizli ishchi eritma bilan bajariladi va bir vaqtda 1–15 ta preparatni bo'yash uchun mos; u ambulator poliklinikalarda va band laboratoriyalarda tez tashxis kerak bo'lganda ishlatiladi»"
+  }
+ ],
+ "033": [
+  {
+   "q": "Sifat nazoratining uch bo'g'ini qaysi qatorda to'g'ri keltirilgan?",
+   "c": "tahlildan oldingi, tahlil, tahlildan keyingi",
+   "w": [
+    "namuna olish, bo'yash, ikkinchi ko'rib chiqish",
+    "preparat tayyorlash, sanash, hujjatlashtirish",
+    "belgilash, mikroskopiya, tashqi baholash",
+    "natijani yozish, bo'yash, xavfsizlik"
+   ],
+   "x": "«Sifat nazorati odatda uch bo'g'inni o'z ichiga oladi: tahlildan oldingi bosqich (namunani olish, preparat tayyorlash, belgilash), tahlil bosqichi (bo'yash, mikroskopiya, sanash) va tahlildan keyingi bosqich (natijani yozish va xabar qilish)»"
+  },
+  {
+   "q": "Qalin tomchi yetarlicha qalin bo'lishi uchun ko'rish maydonida nechta leykotsit ko'rinishi kerak?",
+   "c": "15–20 leykotsit",
+   "w": [
+    "200 leykotsit",
+    "500 leykotsit",
+    "100 leykotsit",
+    "8000 leykotsit"
+   ],
+   "x": "«Qalin tomchi yetarlicha qalin bo'lishi, ya'ni ko'rish maydonida taxminan 15–20 leykotsit ko'rinishi kerak; leykotsitlar kamroq bo'lsa, ko'proq maydon ko'rib chiqish talab etiladi»"
+  },
+  {
+   "q": "Parazit topilsa, aralash infeksiyani aniqlash uchun nima qilinadi?",
+   "c": "100 ta maydon yana ko'riladi",
+   "w": [
+    "200 ta maydon yana ko'riladi",
+    "500 ta maydon yana ko'riladi",
+    "15 ta maydon yana ko'riladi",
+    "20 ta maydon yana ko'riladi"
+   ],
+   "x": "«Preparat tizimli ravishda, chap yuqori burchakdan boshlab, maydon-maydon ko'riladi; parazit yo'q deyish uchun kamida 100 ta maydon ko'rib chiqiladi; parazit topilsa, aralash infeksiyani aniqlash uchun yana 100 ta maydon ko'riladi; yupqa surtma doimo qayta ko'rilib, bir xil parazit tasdiqlanadi»"
+  },
+  {
+   "q": "Parazitlarni sanashda qaysi koeffitsiyent qo'llanadi?",
+   "c": "8000 koeffitsiyenti",
+   "w": [
+    "200 koeffitsiyenti",
+    "500 koeffitsiyenti",
+    "100 koeffitsiyenti",
+    "15 koeffitsiyenti"
+   ],
+   "x": "«Parazitlarni sanash ham aniq qoidaga ega: 200 yoki 500 leykotsitgacha sanash va 8000 koeffitsiyenti bilan hisoblash»"
+  },
+  {
+   "q": "Ikkinchi ko'rib chiqishda odatda qaysi preparatlar qayta tekshiriladi?",
+   "c": "barcha ijobiy preparatlar va salbiy preparatlarning bir qismi",
+   "w": [
+    "barcha salbiy preparatlar va ijobiy preparatlarning bir qismi",
+    "yaroqsiz preparatlar va salbiy preparatlarning bir qismi",
+    "qalin tomchi preparatlari va yupqa surtmalarning bir qismi",
+    "bo'yalgan preparatlar va ijobiy preparatlarning bir qismi"
+   ],
+   "x": "«Odatda barcha ijobiy preparatlar va salbiy preparatlarning bir qismi mustaqil ikkinchi mikroskopist yoki ma'lumotnoma laboratoriyasi tomonidan qayta tekshiriladi, natijalar solishtirilib, kelishmovchiliklar tahlil qilinadi»"
+  },
+  {
+   "q": "Yaroqsiz preparat bilan nima qilinadi?",
+   "c": "qayta tayyorlanadi",
+   "w": [
+    "maxsus idishga tashlanadi",
+    "jurnalga kiritiladi",
+    "tashqi baholashga yuboriladi",
+    "yana 100 ta maydonda ko'riladi"
+   ],
+   "x": "«Yaroqsiz preparat ko'rilmaydi, balki qayta tayyorlanadi»"
+  },
+  {
+   "q": "Qon bilan ifloslangan materiallar qanday usulda zararsizlantiriladi?",
+   "c": "yoqish yoki avtoklavlash",
+   "w": [
+    "maxsus idishga tashlash",
+    "ishdan keyin qo'lini yuvish",
+    "yangi lanset ishlatish",
+    "metanol bilan fiksatsiya qilish"
+   ],
+   "x": "«Har bir bemor uchun yangi lanset ishlatiladi, o'tkir buyumlar maxsus idishga tashlanadi, qon bilan ifloslangan materiallar yoqish yoki avtoklavlash yo'li bilan zararsizlantiriladi»"
+  },
+  {
+   "q": "Mikroskopiyada preparat qaysi tartibda ko'riladi?",
+   "c": "chap yuqori burchakdan boshlab, maydon-maydon",
+   "w": [
+    "o'ng yuqori burchakdan boshlab, maydon-maydon",
+    "chap yuqori burchakdan boshlab, yupqa surtmada",
+    "yaroqsiz preparatdan boshlab, maydon-maydon",
+    "yupqa surtmaning patsimon uchidan boshlab"
+   ],
+   "x": "«Preparat tizimli ravishda, chap yuqori burchakdan boshlab, maydon-maydon ko'riladi; parazit yo'q deyish uchun kamida 100 ta maydon ko'rib chiqiladi; parazit topilsa, aralash infeksiyani aniqlash uchun yana 100 ta maydon ko'riladi; yupqa surtma doimo qayta ko'rilib, bir xil parazit tasdiqlanadi»"
+  },
+  {
+   "q": "Tahlildan oldingi bosqichga nimalar kiradi?",
+   "c": "namunani olish, preparat tayyorlash, belgilash",
+   "w": [
+    "bo'yash, mikroskopiya, sanash",
+    "natijani yozish va xabar qilish",
+    "ikkinchi ko'rib chiqish va tashqi baholash",
+    "hujjatlashtirish va xavfsizlik"
+   ],
+   "x": "«Sifat nazorati odatda uch bo'g'inni o'z ichiga oladi: tahlildan oldingi bosqich (namunani olish, preparat tayyorlash, belgilash), tahlil bosqichi (bo'yash, mikroskopiya, sanash) va tahlildan keyingi bosqich (natijani yozish va xabar qilish)»"
+  },
+  {
+   "q": "Bezgakdan holi hududlarda mikroskopist ko'nikmasi nima sababdan susayishi mumkin?",
+   "c": "kamdan-kam ijobiy preparat ko'rishi",
+   "w": [
+    "salbiy preparatlarni qayta tekshirishi",
+    "ikkinchi ko'rib chiqishda qatnashishi",
+    "ikkinchi mutaxassis tomonidan qayta ko'rib chiqilishi",
+    "bo'yoq partiyasini sinab ko'rishi"
+   ],
+   "x": "«Bezgakdan holi hududlarda mikroskopistlar kamdan-kam ijobiy preparat ko'radi, shuning uchun ularning ko'nikmasi susayishi mumkin»"
+  }
+ ]
+}

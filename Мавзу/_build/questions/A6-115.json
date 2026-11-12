@@ -1,0 +1,114 @@
+{
+ "115": [
+  {
+   "q": "Fassiolyoz odamga asosan nima orqali yuqadi?",
+   "c": "Ifloslangan suv o'simliklari va suv orqali",
+   "w": [
+    "Xom baliq va qisqichbaqasimonlar orqali",
+    "Qo'y va qoramol bilan aloqa orqali",
+    "Hayvon rezervuarlari orqali",
+    "Baliq yoki qisqichbaqasimonlar orqali"
+   ],
+   "x": "«Fassiolyoz odamga ifloslangan suv o'simliklari va suv orqali yuqadi»"
+  },
+  {
+   "q": "Fassiolyoz boshqa trematodozlardan nimasi bilan farq qiladi?",
+   "c": "Ikkinchi oraliq xo'jayin talab qilinmaydi",
+   "w": [
+    "Ikkinchi oraliq xo'jayin baliq hisoblanadi",
+    "Qisqichbaqasimonlar orqali yuqadi",
+    "Faqat odamdan odamga yuqadi",
+    "Oraliq xo'jayin kerak emas, baliq esa asosiy"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti fassiola ikkinchi oraliq xo'jayinni talab qilmasligini va odamlar parazit lichinkalari yopishgan suv o'simliklarini iste'mol qilish orqali zararlanishini ta'kidlaydi»"
+  },
+  {
+   "q": "Ifloslangan suv orqali yuqish yo'lini nima uzadi?",
+   "c": "Suvni qaynatish yoki filtrlash",
+   "w": [
+    "Ariq yoki kanal suvini ichish",
+    "Suvni qo'y va qoramol yaylovidan ichish",
+    "Suvni mollyuskalar bilan to'ldirish",
+    "Suvni hayvon najasi bilan sug'orish"
+   ],
+   "x": "«Suvni qaynatish yoki filtrlash bu yo'lni uzadi»"
+  },
+  {
+   "q": "Ko'katlarda metaserkariyalar qachon bo'lishi mumkin?",
+   "c": "Ariq suvi bilan sug'orilgan yoki najas bilan o'g'itlangan",
+   "w": [
+    "Toza suv bilan sug'orilgan va yaxshi yuvilgan",
+    "Issiqlik bilan ishlov berilgan va qaynatilgan",
+    "Yaxshi yuvilgan va issiqlik bilan ishlov berilgan",
+    "Filtrlangan suv bilan sug'orilgan va qaynatilgan"
+   ],
+   "x": "«Ko'katlar ariq suvi bilan sug'orilgan yoki hayvon najasi bilan o'g'itlangan bo'lsa, ularda metaserkariyalar bo'lishi mumkin»"
+  },
+  {
+   "q": "Hayvonlar fassiolyoz tarqalishida qanday rol o'ynaydi?",
+   "c": "Zararlangan hayvonlar tuxumni yaylov va suvlarga tashlaydi",
+   "w": [
+    "Odamlar metaserkariyani hayvonlardan yutadi",
+    "Tuxum qo'ymaydi va mollyuskani zararlamaydi",
+    "Faqat ikkinchi oraliq xo'jayin bo'lib xizmat qiladi",
+    "Davolash dasturlarini murakkablashtirmaydi"
+   ],
+   "x": "«Zararlangan hayvonlar tuxumlarni yaylov va suvlarga tashlaydi, mollyuskalarni zararlaydi, shu orqali o'simliklar ifloslanadi»"
+  },
+  {
+   "q": "Qaysi xatti-harakat xavf omili hisoblanadi?",
+   "c": "Ariq suvida ko'katlarni yuvish",
+   "w": [
+    "Qaynatilgan suv ichish",
+    "Ko'katlarni yaxshilab yuvish",
+    "Chorva yaylovlarini suv havzalaridan ajratish",
+    "Zararlangan hayvonlarni davolash"
+   ],
+   "x": "«Odamlarda xom ko'katlar bilan ovqatlanish, ariq suvida ko'katlarni yuvish, yovvoyi o'tlarni yig'ish va xom iste'mol qilish, qaynatilmagan suv ichish xavf omillari»"
+  },
+  {
+   "q": "Nima uchun bemor yana zararlanishi mumkin?",
+   "c": "Fassiolyozdan keyin immunitet mustahkam emas",
+   "w": [
+    "Fassiolyozdan keyin immunitet mustahkam bo'ladi",
+    "Davolashdan keyin tuxum chiqmaydi",
+    "Davolashdan keyin immunitet saqlanadi",
+    "Ko'katlar hayvon najasisiz o'sadi"
+   ],
+   "x": "«Fassiolyozdan keyin immunitet mustahkam emas, shuning uchun bemor yana xom ko'katlar yeb, qayta zararlanishi mumkin»"
+  },
+  {
+   "q": "Yo'llarni uzish usullari qaysilar?",
+   "c": "Ko'katlarni yaxshilab yuvish va issiqlik bilan ishlov berish",
+   "w": [
+    "Yovvoyi ko'katlarni va suv o'simliklarini xom yeyish",
+    "Ariq va ochiq suv havzalaridan suv ichish",
+    "Ko'katlarni hayvon najasi bilan ifloslangan suvda sug'orish",
+    "Chorva yaylovlarini suv havzalariga yaqinlashtirish"
+   ],
+   "x": "«Yo'llarni uzish: ko'katlarni yaxshilab yuvish va, imkon bo'lsa, issiqlik bilan ishlov berish; yovvoyi ko'katlarni va suv o'simliklarini xom yemaslik; ariq va ochiq suv havzalaridan suv ichmaslik, qaynatilgan yoki filtrlangan suv ichish; ko'katlarni hayvon najasi bilan ifloslangan suv bilan sug'ormaslik; chorva yaylovlarini suv havzalaridan ajratish; zararlangan hayvonlarni davolash; sog'liqni saqlash ta'limi»"
+  },
+  {
+   "q": "Qaysi hududlar fassiolyoz uchun xavfli hisoblanadi?",
+   "c": "Chorvachilik rivojlangan, sug'oriladigan, zax hududlar",
+   "w": [
+    "Ariq va zax yaylovlar yo'q hududlar",
+    "Sug'orilmaydigan va toza suvli hududlar",
+    "Chorvachilik rivojlangan, ariq yo'q hududlar",
+    "Sug'orilmaydigan, zax yaylovlar yo'q hududlar"
+   ],
+   "x": "«Chorvachilik rivojlangan, sug'oriladigan, ariq va zax yaylovlar ko'p hududlar xavfli»"
+  },
+  {
+   "q": "Ovqatlanish odatlari qanday natijaga olib kelishi mumkin?",
+   "c": "Oilaviy va jamoaviy klasterlarga",
+   "w": [
+    "Odamdan odamga yuqishga",
+    "Yaylovlar suv havzalaridan ajratilishiga",
+    "Immunitet mustahkamlanishiga",
+    "Ko'katlar yaxshi yuvilishiga"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti madaniy ovqatlanish afzalliklari, sanitariya va oziq-ovqat gigiyenasining yetishmasligi, toza ichimlik suviga kirish cheklanganligi zararlanish xavfini oshirishini; ovqatlanish odatlari oilaviy va jamoaviy klasterlarga olib kelishi mumkinligini ta'kidlaydi»"
+  }
+ ]
+}

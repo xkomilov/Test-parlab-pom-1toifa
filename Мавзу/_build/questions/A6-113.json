@@ -1,0 +1,114 @@
+{
+ "113": [
+  {
+   "q": "Nima uchun individual himoya difillobotriazda juda samarali?",
+   "c": "Kasallik odamdan odamga yuqmaydi",
+   "w": [
+    "Kasallik xom baliq orqali yuqmaydi",
+    "Najas suv havzalariga tushadi",
+    "Baliq xom holda tatib ko'riladi",
+    "Kasallik odamdan odamga bevosita yuqadi"
+   ],
+   "x": "«Odamdan odamga yuqmagani sababli baliqni to'g'ri ishlash eng samarali chora»"
+  },
+  {
+   "q": "Jamoaviy profilaktika chorasi qaysi?",
+   "c": "Oqova suvni tozalash",
+   "w": [
+    "Baliqni tutish joyida xom holda tatib ko'rish",
+    "Baliq chiqindilarini suv havzalariga tashlash",
+    "Najasni suv havzalariga yo'naltirish",
+    "Baliqni yengil tuzlash va dudlash"
+   ],
+   "x": "«Shu bilan birga jamoaviy chora — oqova suvni tozalash va najasni suv havzalariga tushirmaslik — kasallikni zanjirdan chiqaradi»"
+  },
+  {
+   "q": "Baliq chiqindilarini (ichak, ikra) it va mushuklarga qanday berish kerak?",
+   "c": "Xom bermaslik",
+   "w": [
+    "Xom berish",
+    "Tuzlab berish",
+    "Dudlab berish",
+    "Suv havzalarida berish"
+   ],
+   "x": "«Baliqchilar va baliq ishlovchilar uchun qoidalar: baliqni tutish joyida xom holda tatib ko'rmaslik; baliqni tozalash va kesishda qo'lqop kiyish va qo'llarni yuvish; baliq chiqindilarini (ichak, ikra) it va mushuklarga xom bermaslik, chunki ular ham keng tasmasimon chuvalchang xo'jayini bo'lishi mumkin; baliq chiqindilarini suv havzalariga tashlamaslik»"
+  },
+  {
+   "q": "Nima uchun baliq chiqindilarini it va mushuklarga xom bermaslik kerak?",
+   "c": "Ular ham tasmasimon chuvalchang xo'jayini",
+   "w": [
+    "Baliq chiqindilarini suv havzalariga tashlaydi",
+    "Odamdan odamga yuqmaydi",
+    "Pleroserkoid lichinkalarini hosil qiladi",
+    "Xom baliq chiqindilarini hazm qiladi"
+   ],
+   "x": "«Baliqchilar va baliq ishlovchilar uchun qoidalar: baliqni tutish joyida xom holda tatib ko'rmaslik; baliqni tozalash va kesishda qo'lqop kiyish va qo'llarni yuvish; baliq chiqindilarini (ichak, ikra) it va mushuklarga xom bermaslik, chunki ular ham keng tasmasimon chuvalchang xo'jayini bo'lishi mumkin; baliq chiqindilarini suv havzalariga tashlamaslik»"
+  },
+  {
+   "q": "Veterinariya-sanitariya ekspertizasida baliqda nima izlanadi?",
+   "c": "Mushak kesimlarida pleroserkoid lichinkalari",
+   "w": [
+    "Najasda tuxum va bo'laklar",
+    "B12 yetishmovchiligi belgilari",
+    "Suv havzasida korasidiy lichinkasi",
+    "Baliq mushak kesimlarida tuxumlar"
+   ],
+   "x": "«Baliq mahsulotlari sanitariya-veterinariya ekspertizasidan o'tishi kerak: baliq mushak kesimlarida pleroserkoid lichinkalari izlanadi; zararlangan baliq muzlatish yoki yaxshi pishirishdan so'ng yoki yo'q qilinishi lozim; xom baliq sotuvchilari nazoratga olinadi»"
+  },
+  {
+   "q": "Bemorlarni davolash nima uchun zanjirni uzadi?",
+   "c": "Kasal odam suvga tuxum tashlaydi",
+   "w": [
+    "Kasal odam baliqni xom yeydi",
+    "Kasal odam najasini ko'madi",
+    "Kasal odam hojatxonadan foydalanmaydi",
+    "Kasal odam ikrasini muzlatadi"
+   ],
+   "x": "«Odamlardagi difillobotriazni aniqlash va davolash zanjirni uzadi: kasal odam suvga tuxum tashlaydi»"
+  },
+  {
+   "q": "Ma'rifiy ishlar qaysi yo'llar orqali o'tkaziladi?",
+   "c": "Baliqchilar jamoalari, restoran xodimlari, maktablar",
+   "w": [
+    "Baliqchilar bozori, hojatxonalar, suv havzalari",
+    "Restoran egalari, veterinar xodimlari, sotuvchilar",
+    "Maktab o'quvchilari, ichak shikoyatlari, najas",
+    "Baliq ishlovchilar, ikra, qiyma baliq taomlari"
+   ],
+   "x": "«Ma'rifiy ishlar baliqchilar jamoalari, restoran xodimlari, maktablar va ommaviy axborot vositalari orqali o'tkaziladi»"
+  },
+  {
+   "q": "Oilada xom baliq bilan ishlagan taxta va pichoq bilan nima qilinadi?",
+   "c": "Taxta va pichoqni yuvish",
+   "w": [
+    "Taxta va pichoqni muzlatish",
+    "Taxta va pichoqni tuzlash",
+    "Taxta va pichoqni dudlash",
+    "Taxta va pichoqni itlarga berish"
+   ],
+   "x": "«Oila uchun amaliy qoidalar: baliqni xom yemaslik; pishirishda ichigacha pishganiga ishonch hosil qilish; xom baliq bilan ishlagan taxta va pichoqni yuvish; baliq ichaklarini va ikrasini itlarga xom bermaslik; hojatxonadan foydalanish; bolalarga xom baliq xavfini tushuntirish»"
+  },
+  {
+   "q": "Muzlatilganda plerotserkoidlar qancha vaqtda halok bo'ladi?",
+   "c": "12–24 soatda",
+   "w": [
+    "15 daqiqa davomida",
+    "1–2 hafta davomida",
+    "3–5 kun davomida",
+    "9–10 kun davomida"
+   ],
+   "x": "«Shu materialda plerotserkoidlarning turli ishlov turlarida halok bo'lish muddatlari keltirilgan: baliq bo'laklari qovurilganda 15 daqiqa davomida, qaynatilganda darhol, tuzlanganda 1–2 haftada, muzlatilganda 12–24 soatda halok bo'ladi; 15–27 °C da 3–5 kun, 6–10 °C da 9–10 kun davomida nobud bo'ladi»"
+  },
+  {
+   "q": "Nima uchun uy sharoitida yengil tuzlangan baliq xavfli bo'lishi mumkin?",
+   "c": "Qisqa muddatli tuzlash lichinkalarni o'ldirmasligi mumkin",
+   "w": [
+    "Qisqa muddatli pishirish lichinkalarni ko'paytiradi",
+    "Past haroratda muzlatish lichinkalarni tiriltiradi",
+    "Qaynatish lichinkalarni darhol saqlaydi",
+    "Yuvish lichinkalarni baliq ichagiga o'tkazadi"
+   ],
+   "x": "«Bu ma'lumotlar uy sharoitida tayyorlanadigan quritilgan, yengil tuzlangan yoki dudlangan baliq mahsulotlari xavfli bo'lishi mumkinligini ko'rsatadi, chunki qisqa muddatli tuzlash yoki past haroratda tayyorlash lichinkalarni o'ldirmasligi mumkin»"
+  }
+ ]
+}

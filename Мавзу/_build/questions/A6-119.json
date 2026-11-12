@@ -1,0 +1,114 @@
+{
+ "119": [
+  {
+   "q": "Opistorxoz qo'zg'atuvchisi qaysi turkumga kiradi?",
+   "c": "Opisthorchis turkumi trematodalari",
+   "w": [
+    "Bithynia turkumi mollyuskalari",
+    "Clonorchis turkumi baliqlari",
+    "Opisthorchis turkumi mollyuskalari",
+    "Bithynia turkumi trematodalari"
+   ],
+   "x": "«Opistorxoz — jigar, o't yo'llari va oshqozon osti bezining parazitar kasalligi bo'lib, uni Opisthorchis turkumi so'rg'ichli chuvalchanglari (trematodalar) keltirib chiqaradi»"
+  },
+  {
+   "q": "Voyaga yetgan O. felineus xo'jayinning qayerida yashaydi?",
+   "c": "O't yo'llari, o't pufagi, oshqozon osti bezi",
+   "w": [
+    "Mollyuskada sporosista va redi bosqichida",
+    "Suvga tushgan tuxum va mirasidiy ichida",
+    "Mirasidiy, redi va serkariyalar ichida",
+    "Baliq mushaklarida metaserkariya ichida"
+   ],
+   "x": "«felineus hayvonlarning o't pufagi yo'llari va jigarida, odamda oshqozon osti bezida ham parazitlik qiladi; yakuniy xo'jayinlar go'shtxo'r hayvonlar va kemiruvchilar — it, mushuk, cho'chqa, bo'ri, tulki, suvsar, ayiq va boshqalar»"
+  },
+  {
+   "q": "Opistorxozda birinchi oraliq xo'jayin kim?",
+   "c": "Chuchuk suv mollyuskasi (Bithynia)",
+   "w": [
+    "Chuchuk suv baliq (karp oilasi)",
+    "Mushuk va boshqa yirtqichlar",
+    "Odam yoki hayvon",
+    "Qisqichbaqasimonlar"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti ozuqa orqali yuqadigan trematodalar murakkab zoonoz hayot siklini bosib o'tgandan keyingina infeksion bo'lishini, barcha turlarda birinchi oraliq xo'jayin chuchuk suv mollyuskasi ekanini, Clonorchis va Opisthorchis uchun ikkinchi oraliq xo'jayin chuchuk suv baliq ekanini, oxirgi xo'jayin esa har doim sut emizuvchi ekanini ta'kidlaydi»"
+  },
+  {
+   "q": "Opistorxozda ikkinchi oraliq xo'jayin kim?",
+   "c": "Karp oilasi chuchuk suv baliqlari",
+   "w": [
+    "Odam va uy hayvonlari, mushuklar",
+    "Sut emizuvchi yirtqichlar va odam",
+    "Mirasidiy, redi va serkariyalar",
+    "Chuchuk suv mollyuskalari va Bithynia"
+   ],
+   "x": "«U ozuqa orqali yuqadigan trematodozlar guruhiga kiradi va chuchuk suv baliqlari bilan bog'liq»"
+  },
+  {
+   "q": "Metaserkariya (kista) qayerda hosil bo'ladi?",
+   "c": "Baliq mushaklarida",
+   "w": [
+    "Mollyuskada redi bosqichida",
+    "O't yo'llarida",
+    "Suvga tushgan tuxumda",
+    "Oshqozon osti bezida"
+   ],
+   "x": "«Rezervuar hayvonlar: mushak, it, tulki va boshqa baliq yeydigan yirtqichlar»"
+  },
+  {
+   "q": "Mollyuskada mirasidiy qanday bosqichlarga aylanadi?",
+   "c": "Sporosista, redi va serkariyalar",
+   "w": [
+    "Metaserkariya, kista va tuxum",
+    "Tuxum, sporosista va metaserkariya",
+    "Serkariya, kista va tuxum",
+    "Redi, metaserkariya va tuxum"
+   ],
+   "x": "«Bu siklda: tuxum suvga tushib, mollyuska (Bithynia turkumi) uni yutadi; mollyuskada mirasidiy sporosista, redi va serkariyalarga aylanadi; serkariyalar baliqqa (karp oilasi baliqlari: sazan, leshch, cho'rtan, plotva va boshqalar) kirib, mushaklarda metaserkariya (kista) hosil qiladi; odam yoki hayvon xom yoki yaxshi ishlov berilmagan baliqni yeganda, metaserkariya ichakda ochilib, o't yo'llariga ko'chadi va voyaga yetadi»"
+  },
+  {
+   "q": "Oxirgi xo'jayin qanday hayvon bo'ladi?",
+   "c": "Har doim sut emizuvchi",
+   "w": [
+    "Chuchuk suv baliq",
+    "Chuchuk suv mollyuskasi",
+    "Karp oilasi baliqlari",
+    "Har doim qisqichbaqasimon"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti ozuqa orqali yuqadigan trematodalar murakkab zoonoz hayot siklini bosib o'tgandan keyingina infeksion bo'lishini, barcha turlarda birinchi oraliq xo'jayin chuchuk suv mollyuskasi ekanini, Clonorchis va Opisthorchis uchun ikkinchi oraliq xo'jayin chuchuk suv baliq ekanini, oxirgi xo'jayin esa har doim sut emizuvchi ekanini ta'kidlaydi»"
+  },
+  {
+   "q": "Uy hayvonlari opistorxoz bilan qanday zararlanadi?",
+   "c": "Baliq chiqindilarini yeb",
+   "w": [
+    "Suv o'simliklarini yeb",
+    "Odam najasini yeb",
+    "Redi bosqichini yeb",
+    "Mushuk najasini yeb"
+   ],
+   "x": "«Opistorxoz zoonoz bo'lgani uchun uy hayvonlari — mushuk va it — baliq chiqindilarini yesa, zararlanadi va suv havzalarini tuxum bilan ifloslantiradi»"
+  },
+  {
+   "q": "O. viverrini va C. sinensis bilan takroriy zararlanish nimaga olib kelishi mumkin?",
+   "c": "O't yo'llari fibrozi va xolangiokarsinoma",
+   "w": [
+    "Fibroz yo'qolishi va jigar tiklanishi",
+    "Oshqozon osti bezi yo'llari kengayishi",
+    "Baliq mushaklari fibrozi va saraton",
+    "Mollyuska kistasi va yallig'lanish"
+   ],
+   "x": "«sinensis bilan surunkali infeksiya takroriy qayta zararlanish natijasida o't yo'llari fibrozi, jigar to'qimasining nobud bo'lishi va xolangiokarsinoma (o't yo'llari saratoni) rivojlanishiga olib kelishi mumkinligini, shu sababli ular kanserogen deb tasniflanishini ta'kidlaydi»"
+  },
+  {
+   "q": "Opistorxoz nima uchun zoonoz hisoblanadi?",
+   "c": "Mushuk va it ham zararlanadi va tuxum chiqaradi",
+   "w": [
+    "Faqat odam zararlanadi va tuxum chiqaradi",
+    "Mollyuskalar odamdan zararlanadi",
+    "Baliq tuxumni odamdan oladi",
+    "Mushuk va it zararlanmaydi"
+   ],
+   "x": "«Opistorxoz zoonoz bo'lgani uchun uy hayvonlari — mushuk va it — baliq chiqindilarini yesa, zararlanadi va suv havzalarini tuxum bilan ifloslantiradi»"
+  }
+ ]
+}

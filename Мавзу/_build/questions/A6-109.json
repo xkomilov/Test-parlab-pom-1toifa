@@ -1,0 +1,125 @@
+{
+ "109": [
+  {
+   "q": "Difillobotriazning klassik qo'zg'atuvchisi qaysi?",
+   "c": "Keng tasmasimon chuvalchang",
+   "w": [
+    "Taenia saginata chuvalchangi",
+    "Taenia solium chuvalchangi",
+    "Hymenolepis nana chuvalchangi",
+    "Mayda qisqichbaqasimon chuvalchang"
+   ],
+   "x": "«Difillobotriazning klassik qo'zg'atuvchisi — keng tasmasimon chuvalchang, Diphyllobothrium latum (yangi nomi Dibothriocephalus latus)»"
+  },
+  {
+   "q": "Voyaga yetgan keng tasmasimon chuvalchang odamning qayerida yashaydi?",
+   "c": "Ingichka ichakda yashaydi",
+   "w": [
+    "Ikrasi va jigarida yashaydi",
+    "Baliq mushaklarida yashaydi",
+    "Qisqichbaqasimon ichida yashaydi",
+    "Suv ombori tubida yashaydi"
+   ],
+   "x": "«Voyaga yetgan keng tasmasimon chuvalchang odam ingichka ichagida yashaydi va odamda uchraydigan eng uzun tasmasimon chuvalchanglardan biri: uzunligi 10 metrdan oshishi mumkin, minglab bo'g'imlardan iborat»"
+  },
+  {
+   "q": "Chuvalchang boshchasi (skoleks) qanday tuzilgan?",
+   "c": "Ikki uzunasiga yoriqli, kancha va so'rg'ichlari yo'q",
+   "w": [
+    "Kancha va so'rg'ichlari bor, yoriqsiz",
+    "Ikki so'rg'ichli, qopqoqchali va rozetkasimon",
+    "Yoriqlari va kanchalari bor, bo'g'imsiz",
+    "Bachadonli, qopqoqchali va kipriklari bor"
+   ],
+   "x": "«Boshchasi (skoleks) ikki uzunasiga yoriqli (botriya), kancha va so'rg'ichlari yo'q; bo'g'imlari kengroq, uzunligidan kengligi katta, markazida rozetkasimon bachadon bor»"
+  },
+  {
+   "q": "Difillobotriaz chuvalchangi tuxumi qanday xususiyatga ega?",
+   "c": "Oval, qopqoqchali, embrionlashmagan va infeksion emas",
+   "w": [
+    "Dumaloq, qopqoqsiz, ichida lichinkasi bor",
+    "Oval, silliq, infeksion va ichida korasidiy bor",
+    "Qopqoqchali, kipriklari bor, infeksion",
+    "Rozetkasimon, kanchali, embrionlashgan va infeksion"
+   ],
+   "x": "«Najas bilan chiqqan tuxum embrionlashmagan (ichida lichinka yo'q) va infeksion emas»"
+  },
+  {
+   "q": "Tuxumdan suvda chiqadigan kipriklari bor lichinka nima deyiladi?",
+   "c": "Korasidiy shaklidagi lichinka",
+   "w": [
+    "Protserkoid shaklidagi lichinka",
+    "Pleroserkoid shaklidagi lichinka",
+    "Skoleks shaklidagi lichinka",
+    "Botriya shaklidagi lichinka"
+   ],
+   "x": "«Suvda taxminan bir-ikki haftada tuxumdan kipriklari bor lichinka — korasidiy — chiqadi»"
+  },
+  {
+   "q": "Difillobotriazda birinchi oraliq xo'jayin kim?",
+   "c": "Mayda qisqichbaqasimon (siklop, kopepoda)",
+   "w": [
+    "Mayda yirtqich bo'lmagan baliq",
+    "Katta yirtqich baliq (cho'rtan, laqqa, forel)",
+    "It, mushuk, ayiq va tulki",
+    "Odam yoki boshqa yirtqich sut emizuvchi"
+   ],
+   "x": "«Uni birinchi oraliq xo'jayin — mayda qisqichbaqasimon (siklop, kopepoda) — yutadi, ichida protserkoid shakliga o'tadi»"
+  },
+  {
+   "q": "Pleroserkoid lichinka qaysi xo'jayinda rivojlanadi?",
+   "c": "Ikkinchi oraliq xo'jayin — mayda baliqda",
+   "w": [
+    "Birinchi oraliq xo'jayin — qisqichbaqasimonda",
+    "Definitiv xo'jayin — odam ichagida",
+    "Tashqi muhit — suvdagi tuxumda",
+    "Suvdagi lichinkada — korasidiyda"
+   ],
+   "x": "«Zararlangan qisqichbaqasimonni ikkinchi oraliq xo'jayin — mayda yirtqich bo'lmagan baliq — yeydi, uning mushaklarida va ichki a'zolarida pleroserkoid lichinka rivojlanadi»"
+  },
+  {
+   "q": "Odam difillobotriaz bilan qanday zararlanadi?",
+   "c": "Pleroserkoidli xom yoki yarim pishgan baliqni yeb",
+   "w": [
+    "Zararlangan qisqichbaqasimonni xom yeb",
+    "Najas bilan suvga tushgan tuxumni yeb",
+    "Kasallangan odam bilan bevosita aloqada",
+    "Katta yirtqich baliq najasini yeb"
+   ],
+   "x": "«Difillobotriaz qo'zg'atuvchisi — keng tasmasimon chuvalchang (Diphyllobothrium/Dibothriocephalus latum); uning sikli suv, qisqichbaqasimon va baliq orqali kechadi, odam xom yoki yarim pishgan chuchuk suv baliqni yeb zararlanadi»"
+  },
+  {
+   "q": "Chuvalchang odam ichagida qancha vaqtdan keyin tuxum qo'ya boshlaydi?",
+   "c": "Taxminan 3–6 haftada",
+   "w": [
+    "Taxminan 40–50 haftada",
+    "Taxminan 60–75 haftada",
+    "Taxminan 10 haftada",
+    "Taxminan 15 haftada"
+   ],
+   "x": "«Chuvalchang taxminan 3–6 haftada tuxum qo'ya boshlaydi»"
+  },
+  {
+   "q": "Difillobotriazda odam qanday xo'jayin hisoblanadi?",
+   "c": "Oxirgi xo'jayin va tuxum manbai",
+   "w": [
+    "Birinchi oraliq xo'jayin va tuxum manbai",
+    "Ikkinchi oraliq xo'jayin va lichinka manbai",
+    "Paratenik xo'jayin va pleroserkoid manbai",
+    "Tasodifiy xo'jayin va korasidiy manbai"
+   ],
+   "x": "«Odam bu infeksiyaning oxirgi xo'jayini va tuxumning manbai: kasallangan odam najasi bilan suvga tuxum tashlaydi, shu bilan sikl davom etadi»"
+  },
+  {
+   "q": "Difillobotriozda kamqonlikka nima sabab bo'ladi?",
+   "c": "B12 vitamini va folat kislota almashinuvining buzilishi",
+   "w": [
+    "Folat kislota va ikrasi almashinuvining buzilishi",
+    "B12 vitamini va tuxum miqdori oshishi",
+    "Qisqichbaqasimon va baliq ikrasi yetishmovchiligi",
+    "Pleroserkoid lichinkalarning jigarda joylashishi"
+   ],
+   "x": "«Baliqni qayta ishlash korxonalari xodimlari uchun sanitariya minimumi o'quv materialida difillobotrioz gijja bilan zararlanishning og'ir turi sifatida tavsiflanadi: u ko'pincha xavfli kamqonlikka olib keladi, bunga B12 vitamini va folat kislota almashinuvining buzilishi sabab bo'ladi; keng tasmasimon gijja odam organizmida parazitlik qiluvchi eng yirik gijja bo'lib, uzunligi 3–4 metr, ba'zan 10 metrgacha yetadi»"
+  }
+ ]
+}

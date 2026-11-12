@@ -1,0 +1,450 @@
+{
+ "038": [
+  {
+   "q": "Mahalliy bezgak holati nimani bildiradi?",
+   "c": "hududda yuqish zanjiri ishlayotganini",
+   "w": [
+    "bemor chet elda zararlanganini",
+    "qon quyish orqali zararlanishni",
+    "bezgak yo'q qilinganini",
+    "bemor yaqinda chet elga chiqqanini"
+   ],
+   "x": "«Chunki u shu hududda yuqish zanjiri ishlayotganini, ya'ni qo'zg'atuvchi manba, chivin va moyil aholi birga mavjudligini bildiradi»"
+  },
+  {
+   "q": "Mahalliy holatda bemor haqida qaysi shart bajariladi?",
+   "c": "yaqinda chet elga chiqmagan, qon quyilmagan",
+   "w": [
+    "yaqinda chet elga chiqqan va davolanmagan",
+    "qon quyilgan va inyeksiya olgan",
+    "boshqa hududdan kelib, ilgari og'rigan",
+    "import parazit bilan zararlangan"
+   ],
+   "x": "«Bu bemor yaqinda chet elga chiqmagan, qon quyilmagan va boshqa mumkin bo'lgan yo'llar istisno qilingan bo'ladi»"
+  },
+  {
+   "q": "Jahon sog'liqni saqlash tashkiloti bezgakni yo'q qilishni qanday ta'riflaydi?",
+   "c": "aniq hududda mahalliy yuqishning to'xtatilishi",
+   "w": [
+    "import holatlarning to'xtatilishi",
+    "chivinlar ko'payish joylarining quritilishi",
+    "bemorlarning to'liq davolanishi",
+    "aholining immunitetga ega bo'lishi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti bezgakni yo'q qilishni aniq hududda mahalliy yuqishning to'xtatilishi deb ta'riflaydi»"
+  },
+  {
+   "q": "Qaytalanish (relaps) holati nima?",
+   "c": "uxlab yotuvchi shakllar hisobiga bemor kasalligi qaytalanishi",
+   "w": [
+    "mahalliy manba orqali yuqish zanjiri bir necha avlodga ega",
+    "import bemordan chivin orqali yuqish",
+    "qon quyilishi orqali zararlanish",
+    "ovale-bezgak zanjirining uzilishi"
+   ],
+   "x": "«Uchinchisi — qaytalanish (relaps): avval mahalliy zararlangan bemorning uch kunlik yoki ovale-bezgagi jigardagi uxlab yotuvchi shakllar hisobiga qaytalanishi»"
+  },
+  {
+   "q": "Mahalliy holat paydo bo'lishi uchun qaysi shart kerak?",
+   "c": "mavsum iliq va chivinlar faol bo'lishi",
+   "w": [
+    "mavsum sovuq va chivinlar faol emas",
+    "manba chivinlar bilan aloqada bo'lmaydi",
+    "chivinlar parazitni rivojlantirmaydi",
+    "odam himoya qilingan bo'ladi"
+   ],
+   "x": "«Bezgakdan holi hududda mahalliy holat paydo bo'lishi uchun odatda quyidagi shartlar bajarilishi kerak: hududga manba (import bemor yoki parazit tashuvchi) keladi, shu hududda yuqtirishga qodir Anopheles chivinlari bor, mavsum iliq va chivinlar faol, manba chivinlar bilan aloqada bo'ladi (davolanmagan yoki kech davolangan), chivin parazitni rivojlantirib, boshqa odamni chaqadi»"
+  },
+  {
+   "q": "Molekulyar usul nima uchun qo'llanadi?",
+   "c": "parazitlarni genetik solishtirish",
+   "w": [
+    "qalin preparatlarni qayta ko'rib chiqish",
+    "chivin chaqishi sharoitlarini aniqlash",
+    "bemorning oxirgi oylardagi harakati",
+    "ma'lumotnoma laboratoriyasida tasdiqlash"
+   ],
+   "x": "«Zarur bo'lsa, molekulyar usul bilan parazit genetik jihatdan solishtiriladi: agar mahalliy bemor va import bemor parazitlari bir xil bo'lsa, yuqish zanjiri tasdiqlanadi»"
+  },
+  {
+   "q": "Mahalliy holat aniqlansa, isitmalovchilar qayerda faol qidiriladi?",
+   "c": "atrofidagi uylar va qo'shnilar orasida",
+   "w": [
+    "yuqori turuvchi xizmat xodimlari orasida",
+    "bezgakdan holi hududlar aholisi orasida",
+    "donorlar va qon quyilganlar orasida",
+    "mahalla faollari orasida"
+   ],
+   "x": "«Bemor to'liq davolanadi, uning atrofidagi uylar va qo'shnilar orasida isitmalovchilar faol qidiriladi, kerak bo'lsa ommaviy qon surtmasi olinadi»"
+  },
+  {
+   "q": "Mahalliy holat sertifikatga qanday ta'sir qiladi?",
+   "c": "sertifikatni darhol bekor qilmaydi",
+   "w": [
+    "sertifikatni darhol bekor qiladi",
+    "maqom xavf ostida qolmaydi",
+    "javob bermasa ham holat saqlanib qoladi",
+    "yuqishni to'xtatilgan deb hisoblaydi"
+   ],
+   "x": "«Mahalliy holat sertifikatni darhol bekor qilmaydi, ammo hududda yuqish davom etsa, maqom xavf ostida qoladi»"
+  },
+  {
+   "q": "Aholi bilan ishlashda ma'lumot qanday beriladi?",
+   "c": "aniq va xotirjam tarzda",
+   "w": [
+    "ommaviy vahima keltirib chiqarish tarzida",
+    "ochiq muloqot olib borilmasdan",
+    "oilaviy shifokorlar yordamisiz",
+    "faqat mahalla faollari orqali"
+   ],
+   "x": "«Ommaviy vahima keltirib chiqarmaslik uchun ma'lumot aniq va xotirjam tarzda beriladi»"
+  },
+  {
+   "q": "Xulosada kelgusida takrorlanmasligi uchun nima beriladi?",
+   "c": "tavsiyalar beriladi",
+   "w": [
+    "ommaviy qon surtmasi olinadi",
+    "to'rlar tarqatiladi",
+    "isitmalovchilar qidiriladi",
+    "xonalarga ichki purkash qilinadi"
+   ],
+   "x": "«Xulosada zanjirdagi zaif bo'g'inlar aniqlanadi va kelgusida takrorlanmasligi uchun tavsiyalar beriladi»"
+  }
+ ],
+ "039": [
+  {
+   "q": "Bezgakni qaysi chivinlar tarqatadi?",
+   "c": "Anopheles turkumi urg'ochi chivinlari",
+   "w": [
+    "Anopheles turkumi erkak chivinlari",
+    "Culex turkumi urg'ochi chivinlari",
+    "Culex turkumi erkak chivinlari",
+    "barcha turkum chivinlari"
+   ],
+   "x": "«Bezgakni faqat Anopheles turkumi urg'ochi chivinlari tarqatadi»"
+  },
+  {
+   "q": "Chivin hayot siklining bosqichlari qaysilar?",
+   "c": "tuxum, lichinka, g'umbak va imago",
+   "w": [
+    "kemacha, lichinka, g'umbak va imago",
+    "lichinka, suzgich, g'umbak va imago",
+    "tuxum, lichinka, po'st va imago",
+    "g'umbak, tuxum, lichinka va havo"
+   ],
+   "x": "«Chivinlar to'liq o'zgarish bilan rivojlanadigan hasharotlar: ularning hayot siklida to'rt bosqich bor — tuxum, lichinka, g'umbak va imago (voyaga yetgan chivin)»"
+  },
+  {
+   "q": "Anopheles tuxumlarining o'ziga xos belgisi nima?",
+   "c": "havo to'ldirilgan suzgichlari bor",
+   "w": [
+    "to'p shaklida birgalikda qo'yiladi",
+    "kemacha shaklida qo'yiladi",
+    "havo to'ldirilgan suzgichlari yo'q",
+    "suv yuzasiga qo'yilmaydi"
+   ],
+   "x": "«Anopheles tuxumlari alohida-alohida qo'yiladi, yon tomonlarida havo to'ldirilgan suzgichlari bo'ladi va suv yuzasida suzib yuradi»"
+  },
+  {
+   "q": "Lichinkalar nima sababdan suv yuzasiga parallel joylashadi?",
+   "c": "ularda nafas olish nayi yo'q",
+   "w": [
+    "suv ostidan nafas oladi",
+    "faqat shira bilan oziqlanadi",
+    "qanotlari qurigach uchib ketadi",
+    "to'rt marta po'st tashlaydi"
+   ],
+   "x": "«Anopheles lichinkalari suv yuzasiga parallel joylashadi, chunki ularda boshqa chivinlardagi kabi nafas olish nayi yo'q; ular nafas teshiklari orqali to'g'ridan-to'g'ri suv yuzasidan havo oladi»"
+  },
+  {
+   "q": "G'umbak bosqichining xususiyati nima?",
+   "c": "oziqlanmaydi, lekin harakatchan",
+   "w": [
+    "oziqlanadi, lekin harakatsiz",
+    "mikroorganizmlar bilan oziqlanadi",
+    "to'rt marta po'st tashlaydi",
+    "alohida-alohida qo'yiladi"
+   ],
+   "x": "«G'umbak vergulsimon shaklda, suv yuzasida harakatchan, ammo oziqlanmaydi»"
+  },
+  {
+   "q": "Nima uchun faqat urg'ochi chivin qon so'radi?",
+   "c": "tuxum rivojlanishi uchun oqsil kerak",
+   "w": [
+    "urg'ochi chivin shira bilan oziqlanmaydi",
+    "parazitni qabul qilish uchun gametotsit kerak",
+    "uchib ketish uchun suv kerak",
+    "po'st tashlash uchun qon kerak"
+   ],
+   "x": "«Voyaga yetgan chivinning ikkala jinsi ham o'simlik shirasi bilan oziqlanadi, lekin faqat urg'ochi chivin qon so'radi, chunki tuxum rivojlanishi uchun oqsil kerak»"
+  },
+  {
+   "q": "Urg'ochi chivin tunda faol bo'lgani uchun nima tavsiya etiladi?",
+   "c": "to'r ostida uxlash va qaytaruvchi vositalar",
+   "w": [
+    "suv havzalarini tozalash va quritish",
+    "voyaga yetgan chivinlarni tutqichlarda tutish",
+    "tur aniqlash uchun mikroskopda o'rganish",
+    "lichinkalarni suvdan to'r bilan olish"
+   ],
+   "x": "«Urg'ochi chivin odatda tunda, kechqurundan tong otguncha faol bo'ladi; shu bois Jahon sog'liqni saqlash tashkiloti to'r ostida uxlash va kechqurun qaytaruvchi vositalardan foydalanishni tavsiya etadi»"
+  },
+  {
+   "q": "Gonotrofik sikl nima?",
+   "c": "qon so'rib, tuxum rivojlantirib, suvga qo'yish",
+   "w": [
+    "tuxumdan lichinka chiqib, g'umbakka aylanish",
+    "parazitning chivin ichida rivojlanishi",
+    "chivinning po'st tashlab, qanot chiqarishi",
+    "lichinkaning suv yuzasidan havo olishi"
+   ],
+   "x": "«Urg'ochi chivin qon so'rib, tuxumlarini rivojlantiradi va yana suvga qo'yadi»"
+  },
+  {
+   "q": "Chivin ichida parazit rivojlanishi nima deb ataladi?",
+   "c": "sporogoniya jarayoni",
+   "w": [
+    "gonotrofik sikl",
+    "diapauza davri",
+    "endofagiya jarayoni",
+    "ekzofagiya davri"
+   ],
+   "x": "«Chivin ichida parazit rivojlanishi uchun ma'lum vaqt kerak (sporogoniya), shundan keyingina chivin chaqishi bilan boshqa odamni zararlay oladi»"
+  },
+  {
+   "q": "Uy ichida chaqadigan chivinlarga qarshi qaysi chora samarali?",
+   "c": "ichki purkash va to'rlar",
+   "w": [
+    "qaytaruvchi vositalar va ko'payish joylariga ishlov",
+    "tutqichlarda tutish va lupa ostida o'rganish",
+    "namunalarni belgilash va saqlash",
+    "lichinkalarni to'r bilan olish"
+   ],
+   "x": "«Bu xususiyatlar nazorat usulini belgilaydi: uy ichida chaqadigan chivinlarga ichki purkash va to'rlar samarali, tashqarida chaqadiganlarga esa qaytaruvchi vositalar va ko'payish joylariga ishlov kerak»"
+  }
+ ],
+ "040": [
+  {
+   "q": "Chivin bezgakda parazitning qanday xo'jayini hisoblanadi?",
+   "c": "definitiv, ya'ni oxirgi xo'jayin",
+   "w": [
+    "mexanik tashuvchi, ya'ni vosita",
+    "oraliq, ya'ni birinchi xo'jayin",
+    "oraliq, ya'ni jinssiz ko'payish xo'jayini",
+    "tasodifiy, ya'ni vaqtinchalik xo'jayin"
+   ],
+   "x": "«Shuning uchun chivin bezgakda shunchaki mexanik tashuvchi emas, balki parazitning definitiv, ya'ni oxirgi xo'jayini hisoblanadi»"
+  },
+  {
+   "q": "Parazit chivinda qanday ko'payadi?",
+   "c": "jinsiy ko'payadi",
+   "w": [
+    "jinssiz ko'payadi",
+    "bo'linish orqali ko'payadi",
+    "faqat odamda ko'payadi",
+    "chivinda ko'paymaydi"
+   ],
+   "x": "«Bu bosqichda parazit hayot siklida birinchi marta jinsiy ko'payadi»"
+  },
+  {
+   "q": "Gametotsitlar chivinning qayerida gametalarga aylanadi?",
+   "c": "chivin oshqozonida",
+   "w": [
+    "chivin so'lak bezlarida",
+    "chivin tana bo'shlig'ida",
+    "odam jigarida",
+    "chivin tashqi qatlamida"
+   ],
+   "x": "«Chivinning oshqozonida, harorat pasayishi va boshqa omillar ta'sirida, gametotsitlar gametalarga aylanadi»"
+  },
+  {
+   "q": "Urg'ochi gametotsitdan nechta gameta hosil bo'ladi?",
+   "c": "bitta urg'ochi gameta",
+   "w": [
+    "bir necha harakatchan gameta",
+    "minglab sporozoitlar",
+    "bitta erkak gameta",
+    "ko'p yadroli gameta"
+   ],
+   "x": "«Erkak gameta urg'ochi gametaga yetib, uni urug'lantiradi»"
+  },
+  {
+   "q": "Zigota nimaga aylanadi?",
+   "c": "harakatchan ookinetaga",
+   "w": [
+    "yumaloq oosistaga",
+    "uzun sporozoitga",
+    "erkak gametaga",
+    "jigar shizontiga"
+   ],
+   "x": "«Zigota tez orada harakatchan shaklga — ookineteg'a aylanadi»"
+  },
+  {
+   "q": "Oosista ichida nima sodir bo'ladi?",
+   "c": "yadro bo'linib, sporozoitlar hosil bo'ladi",
+   "w": [
+    "gametotsitlar gametalarga aylanadi",
+    "zigota urug'lanadi",
+    "ookinete oshqozon devoridan o'tadi",
+    "sporozoitlar so'lak bezlariga o'tadi"
+   ],
+   "x": "«Oosista chivin oshqozon devorida o'sadi va uning ichida sporogoniya jarayoni boradi: yadro ko'p marta bo'linadi, natijada minglab sporozoitlar hosil bo'ladi»"
+  },
+  {
+   "q": "Chivin qachon yuqtirishga qodir deb hisoblanadi?",
+   "c": "so'lak bezlari sporozoitlarga to'lganda",
+   "w": [
+    "oshqozonida gametotsitlar topilganda",
+    "ookinete hosil bo'lganda",
+    "oosista yorilishidan oldin",
+    "zigota hosil bo'lganda"
+   ],
+   "x": "«Sporozoitlar bilan to'lgan so'lak bezli chivin yuqtirishga qodir»"
+  },
+  {
+   "q": "Nima uchun P. vivax mo''tadil iqlimli hududlarda ko'proq uchraydi?",
+   "c": "sovuqroq haroratda ham rivojlana oladi",
+   "w": [
+    "issiqroq harorat talab qiladi",
+    "tropik hududlarda ustun bo'ladi",
+    "chivin umri uzoq bo'lmaydi",
+    "sporogoniya haroratga bog'liq emas"
+   ],
+   "x": "«vivax sovuqroq haroratda ham rivojlana oladi, P»"
+  },
+  {
+   "q": "Sporogoniya ma'lum pastki chegaradan past haroratda nima bo'ladi?",
+   "c": "umuman to'xtaydi",
+   "w": [
+    "tezlashib, qisqa muddatda tugaydi",
+    "sekin kechadi, lekin to'xtamaydi",
+    "o'zgarishsiz davom etadi",
+    "oosista bosqichida davom etadi"
+   ],
+   "x": "«Bu bosqich eng uzoq davom etadi va tashqi haroratga kuchli bog'liq: iliq haroratda tez, sovuq haroratda sekin kechadi, ma'lum pastki chegaradan pastda esa umuman to'xtaydi»"
+  },
+  {
+   "q": "Chivin ichida parazit rivojlanishiga nima to'sqinlik qilishi mumkin?",
+   "c": "past harorat va chivinning qisqa umri",
+   "w": [
+    "iliq harorat va chivinning uzoq umri",
+    "gametotsitlar sonining ko'pligi",
+    "zararlangan odamning erta davolanmasligi",
+    "parazitning jinsiy ko'payishi"
+   ],
+   "x": "«Past harorat, chivinning qisqa umri, uning o'z immun javobi va ichak bakteriyalari parazitni nobud qilishi mumkin»"
+  }
+ ],
+ "041": [
+  {
+   "q": "Parazit odam organizmida qaysi a'zolarda jinssiz ko'payadi?",
+   "c": "jigar va qon eritrotsitlari",
+   "w": [
+    "teri va qon aylanish tizimi",
+    "jigar va bosh miya",
+    "jigar va qon aylanish tizimi",
+    "bosh miya va qon aylanish tizimi"
+   ],
+   "x": "«Plazmodiy odam organizmida avval jigarda (sporozoitlar, jigar shizogoniyasi, ba'zi turlarda gipnozoitlar), keyin qon eritrotsitlarida (halqalar, trofozoitlar, shizontlar, merozoitlar) jinssiz ko'payadi va ayrim parazitlar gametotsitlarga aylanadi»"
+  },
+  {
+   "q": "Sporozoitlar jigarga qancha vaqtda yetib boradi?",
+   "c": "yarim soat ichida",
+   "w": [
+    "48 soat ichida",
+    "72 soat ichida",
+    "bir necha kun ichida",
+    "bir necha soat ichida"
+   ],
+   "x": "«Sporozoitlar teridan qon aylanish tizimiga o'tadi va tez orada, odatda yarim soat ichida, jigarga yetib boradi»"
+  },
+  {
+   "q": "Jigar shizonti nechta merozoit hosil qiladi?",
+   "c": "minglab merozoitlar",
+   "w": [
+    "bir necha merozoit",
+    "48 ta merozoit",
+    "ikki merozoit",
+    "72 ta merozoit"
+   ],
+   "x": "«Bunday shizont minglab merozoitlarni hosil qiladi»"
+  },
+  {
+   "q": "Gipnozoitlar nima?",
+   "c": "jigarda uzoq muddat uyquda qoluvchi sporozoitlar",
+   "w": [
+    "qon eritrotsitlarida bo'linuvchi merozoitlar",
+    "chivinda hosil bo'ladigan oosistalar",
+    "qondagi erkak va urg'ochi gametotsitlar",
+    "eritrotsitdagi halqa shaklidagi trofozoitlar"
+   ],
+   "x": "«ovale da sporozoitlarning bir qismi jigar hujayralarida darhol bo'linmaydi, balki uzoq muddat uyquda qoladi; ular gipnozoitlar deb ataladi»"
+  },
+  {
+   "q": "Gipnozoitlar nima sababdan faqat to'g'ri davolash orqali yo'q qilinadi?",
+   "c": "laboratoriyada ko'rinmaydi",
+   "w": [
+    "qon preparatida ko'rinadi",
+    "eritrotsit ichida ko'payadi",
+    "eritrotsitda halqa hosil qiladi",
+    "jigar hujayralarida bo'linadi"
+   ],
+   "x": "«Gipnozoitlar laboratoriyada ko'rinmaydi, shu sababli ularni faqat to'g'ri davolash orqali yo'q qilish mumkin»"
+  },
+  {
+   "q": "Eritrotsit ichida parazit avval qanday shaklda ko'rinadi?",
+   "c": "halqa shaklida",
+   "w": [
+    "amebasimon shaklda",
+    "shizont shaklida",
+    "yarim oysimon shaklda",
+    "ko'p yadroli shaklda"
+   ],
+   "x": "«Eritrotsit ichida parazit avval halqa shaklida ko'rinadi (yosh trofozoit), keyin o'sib, amebasimon trofozoitga aylanadi, so'ng yadro bo'linib shizont hosil bo'ladi»"
+  },
+  {
+   "q": "Uch kunlik bezgakda siklning davomiyligi qancha?",
+   "c": "48 soat",
+   "w": [
+    "72 soat",
+    "30 soat",
+    "15 soat",
+    "10 soat"
+   ],
+   "x": "«ovale da taxminan 48 soat (uch kunlik bezgak), P»"
+  },
+  {
+   "q": "Parazitemiya tropik bezgakda nima sababdan juda yuqori bo'lishi mumkin?",
+   "c": "har yoshdagi eritrotsitlarni zararlay oladi",
+   "w": [
+    "faqat keksa eritrotsitlarni tanlaydi",
+    "yosh eritrotsitlarni tanlab zararlaydi",
+    "jigarda gipnozoitlar hosil qiladi",
+    "isitma tartibsiz bo'ladi"
+   ],
+   "x": "«falciparum har yoshdagi eritrotsitlarni zararlay oladi, shuning uchun parazitemiya juda yuqori bo'lishi va kasallik og'ir kechishi mumkin; boshqa turlar ko'pincha yosh yoki keksa eritrotsitlarni tanlaydi, shu sababli parazitemiya nisbatan past bo'ladi»"
+  },
+  {
+   "q": "Gametotsitlar qaysi jihatdan epidemiologik xavf tug'diradi?",
+   "c": "chivin uchun zararlanish manbai bo'ladi",
+   "w": [
+    "odamda kasallik belgilarini keltirib chiqaradi",
+    "jigar hujayralarida ko'payishni boshlaydi",
+    "eritrotsitlarni yorib isitma chaqiradi",
+    "qaytalanishning asosiy sababi bo'ladi"
+   ],
+   "x": "«Gametotsitlar odam qonida aylanib yuradi va kasallikka olib kelmaydi, lekin ular chivin uchun zararlanish manbai»"
+  },
+  {
+   "q": "Qon surtmasi siklning qaysi bosqichini ko'rsatadi?",
+   "c": "eritrositar bosqichni",
+   "w": [
+    "jigar bosqichini",
+    "gipnozoit shakllarini",
+    "sporozoit bosqichini",
+    "jigar shizogoniyasini"
+   ],
+   "x": "«Qon surtmasi faqat eritrositar bosqichni ko'rsatadi, jigar bosqichi va gipnozoitlar ko'rinmaydi»"
+  }
+ ]
+}

@@ -1,0 +1,450 @@
+{
+ "042": [
+  {
+   "q": "Qon tekshiruvi indeksi nimani o'lchaydi?",
+   "c": "laboratoriya tekshiruvining qamrovini",
+   "w": [
+    "kasallik tarqalganligini ko'rsatadi",
+    "ijobiy natijalar ulushini",
+    "isitmalagan bemorlar sonini",
+    "parazitemiya darajasini"
+   ],
+   "x": "«Boshqacha aytganda, u laboratoriya tekshiruvining qamrovini o'lchaydi»"
+  },
+  {
+   "q": "Qon tekshiruvi indeksi formulasida sanoq qismida nima turadi?",
+   "c": "tekshirilgan qon namunalari soni",
+   "w": [
+    "bezgak topilgan namunalar soni",
+    "tekshirilgan odamlar ulushi",
+    "isitmalagan bemorlar soni",
+    "hududdagi aholi soni"
+   ],
+   "x": "«Odatiy formula: qon tekshiruvi indeksi = (bir yil davomida tekshirilgan qon namunalari soni ÷ shu hududdagi aholi soni) × 100»"
+  },
+  {
+   "q": "Qon tekshiruvi indeksi natijasi odatda qancha aholiga hisoblanadi?",
+   "c": "100 aholiga",
+   "w": [
+    "2 aholiga",
+    "6 aholiga",
+    "10 aholiga",
+    "24 aholiga"
+   ],
+   "x": "«Natija har 100 aholiga to'g'ri keladigan tekshiruvlar soni sifatida beriladi»"
+  },
+  {
+   "q": "Ijobiy natijalar ulushi qanday hisoblanadi?",
+   "c": "bezgak topilgan namunalarning tekshirilganlarga nisbati",
+   "w": [
+    "tekshirilgan namunalarning aholi soniga nisbati",
+    "bezgak topilgan odamlarning aholi soniga nisbati",
+    "tekshirilgan odamlarning isitmalaganlarga nisbati",
+    "laboratoriya namunalarining sifatsizlarga nisbati"
+   ],
+   "x": "«Qon tekshiruvi indeksiga yaqin ko'rsatkich — ijobiy natijalar ulushi: bezgak topilgan namunalar soni ÷ tekshirilgan namunalar soni × 100»"
+  },
+  {
+   "q": "2 400 namunadan 6 tasida parazit topilsa, ijobiy natijalar ulushi qancha bo'ladi?",
+   "c": "0,25 foiz",
+   "w": [
+    "2,5 foiz",
+    "0,6 foiz",
+    "6 foiz",
+    "24 foiz"
+   ],
+   "x": "«Misol: 2 400 namunadan 6 tasida parazit topilsa, ulush 0,25 foiz»"
+  },
+  {
+   "q": "Faol qidiruv va ommaviy surtma olish indeksga qanday ta'sir qiladi?",
+   "c": "tekshiruvlarni keskin oshiradi",
+   "w": [
+    "indeksni pasaytiradi",
+    "sifatni oshiradi",
+    "aholi sonini aniqlaydi",
+    "aholi ma'lumotini noaniq qiladi"
+   ],
+   "x": "«Faol qidiruv ham indeksni oshiradi: epidemiologik o'choqlarda ommaviy surtma olish tekshiruvlar sonini keskin ko'taradi»"
+  },
+  {
+   "q": "Bir bemorning takroriy tahlillari indeksga qanday ta'sir qiladi?",
+   "c": "indeksni sun'iy oshiradi",
+   "w": [
+    "sifatni yaxshilaydi",
+    "tekshiruvlar sifatini oshiradi",
+    "ijobiy ulushni oshiradi",
+    "aholi ma'lumotini aniqlashtiradi"
+   ],
+   "x": "«Birinchidan, u tekshirilgan odamlar sonini emas, tekshiruvlar sonini hisoblaydi, shuning uchun bir bemorning takroriy tahlillari uni sun'iy oshiradi»"
+  },
+  {
+   "q": "Indeks nima sababdan yagona mezon sifatida ishlatilmaydi?",
+   "c": "tekshiruvlar sonini ko'rsatadi, sifatini emas",
+   "w": [
+    "kasallik tarqalganligini aniq ko'rsatadi",
+    "laboratoriya sifatini to'liq baholaydi",
+    "tekshirilgan odamlar sonini hisoblaydi",
+    "aholi soni har doim aniq bo'ladi"
+   ],
+   "x": "«Indeks tekshiruvlar sonini ko'rsatadi, ularning sifatini emas»"
+  },
+  {
+   "q": "Indeks yuqori bo'lsa ham isitmalovchilar qachon e'tibordan chetda qolishi mumkin?",
+   "c": "tekshiruvlar asosan sog'lom odamlarda o'tkazilsa",
+   "w": [
+    "tekshiruvlar asosan isitmalagan bemorlarda o'tkazilsa",
+    "bir bemor faqat bir marta tekshirilsa",
+    "aholi soni aniq bo'lsa",
+    "faol qidiruv o'tkazilsa"
+   ],
+   "x": "«Ikkinchidan, u tekshirilganlarning kimligini aytmaydi: tekshiruvlar asosan sog'lom odamlarda o'tkazilsa, indeks yuqori bo'lsa ham, isitmalovchilar e'tibordan chetda qolgan bo'lishi mumkin»"
+  },
+  {
+   "q": "Har bir surtmada kamida nechta maydon ko'rilishi kerak?",
+   "c": "100 maydon",
+   "w": [
+    "10 maydon",
+    "6 maydon",
+    "50 maydon",
+    "24 maydon"
+   ],
+   "x": "«Har bir surtma standart bo'yicha tayyorlanishi, kamida 100 maydon ko'rilishi va natija aniq yozilishi kerak»"
+  }
+ ],
+ "043": [
+  {
+   "q": "Epidemiologik tekshiruv qachon boshlanadi?",
+   "c": "bezgak holati laboratoriyada tasdiqlanganda",
+   "w": [
+    "bir hududda isitmalovchi bemor topilmaganda",
+    "chet elga chiqqan odamda bezgak aniqlanganda",
+    "qon quyilgandan keyin isitma paydo bo'lmaganda",
+    "qaytalanish gumon qilinmaganda"
+   ],
+   "x": "«Tekshiruv quyidagi hollarda boshlanadi: bezgak holati laboratoriyada tasdiqlanganda; chet elga chiqmagan odamda bezgak aniqlanganda; qon quyilgandan keyin bezgak paydo bo'lganda; bir hududda bir necha isitmalovchi bemor topilganda; qaytalanish gumon qilinganda»"
+  },
+  {
+   "q": "Tekshiruv nima sababdan tasdiqlangan zahoti boshlanadi?",
+   "c": "yangi zararlanishga yo'l qo'ymaslik kerak",
+   "w": [
+    "bemor chet elga chiqmasligi kerak",
+    "aholi soni aniqlanishi kerak",
+    "laboratoriya natijalari kechikmasligi kerak",
+    "qaytalanish gumon qilinmasligi kerak"
+   ],
+   "x": "«Tekshiruv imkon qadar tez, tasdiqlangan zahoti boshlanadi, chunki chivinlarning yangi zararlanishiga yo'l qo'ymaslik uchun vaqt muhim»"
+  },
+  {
+   "q": "Jahon sog'liqni saqlash tashkiloti ma'lumotiga ko'ra, belgilar odatda necha kun ichida boshlanadi?",
+   "c": "10–15 kun",
+   "w": [
+    "1–3 kun",
+    "20–30 kun",
+    "2–5 kun",
+    "5 kun"
+   ],
+   "x": "«O'choqda tadbirlar mikroo'choq hududidan 3 km atrofida o'tkaziladi, kontaktlar 21 kun kuzatiladi»"
+  },
+  {
+   "q": "O'choq chegarasi nimalarni hisobga olib chiziladi?",
+   "c": "chivinlar uchib boradigan masofani va aholi harakatini",
+   "w": [
+    "tekshiruv sifatini va hujjatlar to'liqligini",
+    "to'rlar va qaytaruvchi vositalar sonini",
+    "aholi soni va bolalar sonini aniqlashni",
+    "bemorning yoshi va kasbi"
+   ],
+   "x": "«U bemorning yashash joyi, ishlagan va dam olgan joylarini, chivinlar uchib boradigan masofani va aholi harakatini hisobga olib chiziladi»"
+  },
+  {
+   "q": "Faol qidiruv qayerdan boshlanadi?",
+   "c": "bemorning oila a'zolari va qo'shnilaridan",
+   "w": [
+    "chegara bo'yidagi sholipoyalardan",
+    "yuqori turuvchi xizmat xodimlaridan",
+    "tutqichlarda tutilgan chivinlardan",
+    "zax joylar va hovuzlardan"
+   ],
+   "x": "«Qidiruv bemorning oila a'zolari va qo'shnilaridan boshlanib, chegara bo'yicha kengayadi»"
+  },
+  {
+   "q": "Gumon qilingan holatlar qaysi usul orqali tasdiqlanadi?",
+   "c": "parazitologik usul orqali",
+   "w": [
+    "inyeksiya qilinishi orqali",
+    "epidemiologik anamnez orqali",
+    "chivin zichligi orqali",
+    "sayohat tarixi orqali"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkilotining tavsiyasiga ko'ra, barcha gumon qilingan holatlar parazitologik usul bilan tasdiqlanadi»"
+  },
+  {
+   "q": "Entomolog o'choqda nimani tekshiradi?",
+   "c": "chivinlarning turi va zichligini",
+   "w": [
+    "bemorlarning kasbi va yoshini",
+    "aholi uylarining ro'yxatini",
+    "qon surtmalari sifatini",
+    "isitmalovchilarning qon tahlilini"
+   ],
+   "x": "«Entomolog o'choqda Anopheles chivinlarining mavjudligini, turini, zichligini, uy ichida va tashqarida chaqishini, dam olish joylarini tekshiradi»"
+  },
+  {
+   "q": "Entomologik tekshiruvda chivinlarning qaysi xususiyati baholanishi mumkin?",
+   "c": "insektitsidlarga chidamlilik",
+   "w": [
+    "bemorning sayohat tarixi",
+    "qon surtmasi sifati",
+    "aholi soni",
+    "davolash samarasi"
+   ],
+   "x": "«Shuning uchun entomologik tekshiruvda chidamlilik ham baholanishi mumkin»"
+  },
+  {
+   "q": "Tekshiruv sifati nimalarga bog'liq?",
+   "c": "tezlik, to'liqlik va aniqlik",
+   "w": [
+    "to'rlar, hujjatlar va chivinlar soni",
+    "aholi soni, mavsum va ishlov",
+    "bemor, chivin va hujjatlar soni",
+    "sayohat, ishlov va hujjatlar soni"
+   ],
+   "x": "«Tekshiruv sifati tezlik, to'liqlik va aniqlikka bog'liq»"
+  },
+  {
+   "q": "Davolangandan keyin kuzatuvda qolishdan maqsad nima?",
+   "c": "qaytalanishni nazorat qilish",
+   "w": [
+    "chegara ro'yxatini yangilash",
+    "lichinkalarni quritish",
+    "to'rlarni tarqatish",
+    "chivinlarga ishlov berish"
+   ],
+   "x": "«Bemor davolangandan keyin ham qaytalanishni nazorat qilish uchun kuzatuvda qoladi»"
+  }
+ ],
+ "044": [
+  {
+   "q": "Monitoring qaysi ikki obyektni qamrab oladi?",
+   "c": "o'choqdagi odamlar va tashqi muhit",
+   "w": [
+    "bemorlar va oilaviy poliklinikalar",
+    "chivinlar va hujjatlar ro'yxati",
+    "oilaviy shifokorlar va hamshiralar",
+    "aholi soni va mavsumiylik"
+   ],
+   "x": "«Monitoring ikki obyektni qamrab oladi: o'choqdagi odamlar (bemorlar va xavf ostidagi aholi) va tashqi muhit (chivinlar, ularning ko'payish joylari)»"
+  },
+  {
+   "q": "Uch kunlik va ovale-bezgakda kuzatuv nima sababdan uzoqroq davom etadi?",
+   "c": "jigardagi uxlab yotuvchi shakllar tufayli",
+   "w": [
+    "monitoring jadvali siyrak bo'lgani tufayli",
+    "aholi himoya vositalaridan foydalanmagani tufayli",
+    "laboratoriya natijalari kech yetkazilgani tufayli",
+    "chivinlar zichligi mavsumga bog'liq bo'lgani tufayli"
+   ],
+   "x": "«Bemorlar davolangandan keyin belgilangan muddatlarda ko'rikdan o'tadi va qon surtmasi olinadi; uch kunlik va ovale-bezgakda jigardagi uxlab yotuvchi shakllar tufayli qaytalanishlar bo'lishi mumkin, shuning uchun kuzatuv uzoqroq davom etadi»"
+  },
+  {
+   "q": "Monitoring jadvali o'choq toifasiga qanday mos tuziladi?",
+   "c": "faol o'choqda zichroq, tugatilgan o'choqda siyrakroq",
+   "w": [
+    "faol o'choqda siyrakroq, tugatilgan o'choqda zichroq",
+    "o'choqlarda bir xil zichlikda",
+    "tugatilgan o'choqda tuzilmaydi",
+    "faqat faol o'choqda yiliga bir marta tuziladi"
+   ],
+   "x": "«Jadval o'choq toifasiga mos tuziladi: faol o'choqda kuzatuv zichroq, tugatilgan o'choqda siyrakroq»"
+  },
+  {
+   "q": "Chivin kuzatuvi davriyligi nimaga bog'liq?",
+   "c": "mavsumga qarab, iliq mavsumda zichroq",
+   "w": [
+    "o'choq toifasiga qarab, faol o'choqda siyrakroq",
+    "jadvalga qarab, hisobot sanalarida zichroq",
+    "punktlarga qarab, tutqichda siyrakroq",
+    "ko'rikka qarab, mavsumda siyrakroq"
+   ],
+   "x": "«Chivin kuzatuvi davriyligi mavsumga bog'liq: iliq mavsumda zichroq»"
+  },
+  {
+   "q": "Monitoring qachon yakunlanadi?",
+   "c": "belgilangan muddat davomida yangi holat bo'lmasa",
+   "w": [
+    "belgilangan muddat davomida chivinlar soni oshsa",
+    "yangi holat va qaytalanish aniqlansa",
+    "chivin zichligi nazoratdan chiqqan bo'lsa",
+    "bemorlar ro'yxatdan tushib qolgan bo'lsa"
+   ],
+   "x": "«O'choq monitoringi belgilangan muddat davomida yangi holat va qaytalanish bo'lmasa, chivin zichligi nazorat ostida bo'lsa va barcha kerakli tekshiruvlar o'tkazilgan bo'lsa tugatiladi»"
+  },
+  {
+   "q": "Tugatilgan o'choq nima sababdan ro'yxatdan chiqarilmaydi?",
+   "c": "holi mamlakatlarda ham qayta kiritilishining oldini olish",
+   "w": [
+    "monitoring jadvali siyrak va hujjatlashtirilgan bo'lishi kerak",
+    "yangi bemorlar davolanib, ro'yxatdan tushib qolishi kerak",
+    "chivinlar zichligi nazorat ostida bo'lmasligi kerak",
+    "hujjatlar to'liq to'ldirilmasdan qoldirilishi kerak"
+   ],
+   "x": "«lekin ro'yxatdan chiqarilmaydi, chunki bezgakdan holi mamlakatlarda ham qayta kiritilishining oldini olish kerak»"
+  },
+  {
+   "q": "Monitoringda aholi nimalar qilishi kerak?",
+   "c": "isitma paydo bo'lganda darhol murojaat qilishi",
+   "w": [
+    "isitma paydo bo'lganda murojaat qilmasligi",
+    "to'rlardan foydalanmasligi",
+    "chivin ko'payadigan joylarni saqlashi",
+    "qaytaruvchi vositalardan foydalanmasligi"
+   ],
+   "x": "«Aholi isitma paydo bo'lganda darhol murojaat qilishi, ko'rik va tekshiruvlarga kelishi, to'rlar va qaytaruvchi vositalardan foydalanishi, chivin ko'payadigan joylarni tozalashi kerak»"
+  },
+  {
+   "q": "Yagona axborot tizimi nimalarni kamaytiradi?",
+   "c": "kechikishlar va yo'qolgan ma'lumotlarni",
+   "w": [
+    "bemorlar ro'yxatini va ko'rik sanalarini",
+    "laboratoriya natijalari va chivin kuzatuvini",
+    "ishlov berish ma'lumotlari va jadvallarni",
+    "raqamli va qog'oz jurnallarni"
+   ],
+   "x": "«Yagona tizim kechikishlarni, takrorlarni va yo'qolgan ma'lumotlarni kamaytiradi»"
+  },
+  {
+   "q": "Monitoringdagi xatolardan qaysi biri uchraydi?",
+   "c": "bemorlarning ro'yxatdan tushib qolishi",
+   "w": [
+    "ko'rik muddatlariga rioya qilinishi",
+    "hujjatlarning to'liq to'ldirilishi",
+    "laboratoriya natijalarining o'z vaqtida yetkazilishi",
+    "chivin kuzatuvining mavsum bo'yicha o'tkazilishi"
+   ],
+   "x": "«Eng ko'p uchraydigan xatolar: bemorlarning ro'yxatdan tushib qolishi, ko'rik muddatlarining buzilishi, laboratoriya natijalarining kech yetkazilishi, chivin kuzatuvining mavsum bo'yicha o'tkazilmasligi, hujjatlarning to'liq to'ldirilmasligi»"
+  },
+  {
+   "q": "Mas'uliyat taqsimoti aniq bo'lmasa, monitoring nima bo'ladi?",
+   "c": "uzilib qoladi",
+   "w": [
+    "qayta hisoblanadi",
+    "muhokama qilinadi",
+    "hujjatlashtiriladi",
+    "tugatiladi"
+   ],
+   "x": "«Mas'uliyat taqsimoti aniq bo'lmasa, monitoring uzilib qoladi»"
+  }
+ ],
+ "045": [
+  {
+   "q": "Leyshmanioz qaysi hasharotlar orqali yuqadi?",
+   "c": "chivinchalar (Phlebotomus) orqali",
+   "w": [
+    "Leishmania turkumi jonivorlari orqali",
+    "qum kemiruvchilari orqali",
+    "tabiiy rezervuar kemiruvchilar orqali",
+    "sug'orish tizimlari orqali"
+   ],
+   "x": "«Leyshmanioz — Leishmania turkumi sodda jonivorlari qo'zg'atadigan va chivinchalar (Phlebotomus) orqali yuqadigan kasallik»"
+  },
+  {
+   "q": "Visseral leyshmaniozning o'ziga xos xususiyati nima?",
+   "c": "davolanmasa deyarli har doim o'limga olib keladi",
+   "w": [
+    "ochiq tana qismlarida yaralar hosil qiladi",
+    "eng ko'p tarqalgan shakl hisoblanadi",
+    "vazn yo'qotish bilan kechmaydi",
+    "umrbod chandiq qoldirishi mumkin"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti uning uch asosiy shaklini ajratadi: visseral (eng og'ir, davolanmasa deyarli har doim o'limga olib keladi), teri (eng ko'p tarqalgan, teri yaralari bilan kechadi) va shilliq-teri shakli»"
+  },
+  {
+   "q": "Eng ko'p tarqalgan leyshmanioz shakli qaysi?",
+   "c": "teri leyshmaniozi",
+   "w": [
+    "visseral leyshmanioz",
+    "shilliq-teri leyshmaniozi",
+    "qora azar",
+    "kala-azar"
+   ],
+   "x": "«O'zbekistonda teri leyshmaniozi ikki epidemiologik shaklda uchraydi deb ko'p manbalarda aytiladi: zoonoz va antroponoz»"
+  },
+  {
+   "q": "Visseral leyshmaniozning belgilari qaysilar?",
+   "c": "tartibsiz isitma, taloq va jigar kattalashishi",
+   "w": [
+    "ochiq tana yaralari va umrbod chandiq",
+    "yaradan olingan qirindi va to'qima aspirati",
+    "oqsil, temir va rux yetishmovchiligi",
+    "uy atrofida axlat to'planishi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkilotining ma'lumotiga ko'ra, visseral leyshmanioz (qora azar, kala-azar) davolanmasa 95 foizdan ortiq holatda o'limga olib keladi va tartibsiz isitma, vazn yo'qotish, taloq va jigar kattalashishi, kamqonlik bilan kechadi; teri leyshmaniozi esa ochiq tana qismlarida yaralar hosil qiladi va umrbod chandiq qoldirishi mumkin»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozining rezervuari kim?",
+   "c": "qum kemiruvchilari",
+   "w": [
+    "immuniteti pasaygan odamlar",
+    "P. sergenti chivinchasi",
+    "L. tropica parazitlari",
+    "sug'orish tizimlari"
+   ],
+   "x": "«Zoonoz shaklda tabiiy rezervuar — qum kemiruvchilari, ularning inlarida chivinchalar lichinkalari rivojlanadi»"
+  },
+  {
+   "q": "Antroponoz teri leyshmaniozida infeksiya manbai kim?",
+   "c": "odamning o'zi",
+   "w": [
+    "kemiruvchilar inlari",
+    "chivinchalar lichinkalari",
+    "paxta maydonlari",
+    "cho'l va vohalar"
+   ],
+   "x": "«sergenti, manbai odamning o'zi»"
+  },
+  {
+   "q": "Teri leyshmaniozi o'choqlari asosan qaysi hududlarda shakllanadi?",
+   "c": "cho'l va yarim cho'l hududlarida",
+   "w": [
+    "sug'oriladigan paxta maydonlarida",
+    "qum kemiruvchilari bo'lmagan joylarda",
+    "immuniteti kuchli aholi hududlarida",
+    "uy-joy sharoiti yaxshi hududlarda"
+   ],
+   "x": "«Teri leyshmaniozi o'choqlari asosan cho'l va yarim cho'l hududlarida, kemiruvchilar uyalari va chivinchalar ko'payishi uchun qulay joylarda shakllanadi»"
+  },
+  {
+   "q": "Qaysi omil leyshmanioz xavfini oshiradi?",
+   "c": "yomon uy-joy sharoitlari va uy atrofida axlat to'planishi",
+   "w": [
+    "yaxshi uy-joy sharoitlari va uy atrofini tozalash",
+    "mayda ko'zli to'rlardan foydalanish va yopiq kiyim",
+    "oqsil, temir va rux yetarliligi",
+    "kemiruvchilar inlarini uzoqlashtirish"
+   ],
+   "x": "«Leyshmanioz xavfini oshiradigan omillar: yomon uy-joy sharoitlari va uy atrofida axlat to'planishi (chivinchalar ko'payishi va dam olishiga yordam beradi), tashqarida yoki yerda uxlash odati, oqsil, temir, A vitamini va rux yetishmovchiligi, immun yetishmovchiligi, kasallik yuqish yuqori bo'lgan joyga immunitetsiz odamlarning ko'chib o'tishi»"
+  },
+  {
+   "q": "Teri leyshmaniozi laboratoriyada qanday aniqlanadi?",
+   "c": "yara materialida amastigotlar izlanadi",
+   "w": [
+    "serologik testlar asosida tasdiqlanadi",
+    "klinik ko'rinishning o'zi yetarli bo'ladi",
+    "taloq to'qimasida amastigotlar izlanadi",
+    "taloq aspirati asosida tasdiqlanadi"
+   ],
+   "x": "«Teri leyshmaniozida yaradan olingan material (qirindi yoki to'qima aspirati) bo'yalib, mikroskopda amastigotlar izlanadi»"
+  },
+  {
+   "q": "Teri yarasi qancha vaqtdan ortiq bitmasa, shifokorga murojaat qilish kerak?",
+   "c": "2–3 haftadan ortiq",
+   "w": [
+    "5–6 haftadan ortiq",
+    "8–9 haftadan ortiq",
+    "1–2 haftadan ortiq",
+    "50 yildan ortiq"
+   ],
+   "x": "«Teri yarasi 2–3 haftadan ortiq bitmasa, shifokorga murojaat qilish kerak»"
+  }
+ ]
+}

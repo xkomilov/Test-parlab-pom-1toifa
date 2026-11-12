@@ -1,0 +1,450 @@
+{
+ "125": [
+  {
+   "q": "Toksokaroz tashxisi nimalarga asoslanadi?",
+   "c": "istisno qilish, epidemiologik anamnez va serologiya",
+   "w": [
+    "najas mikroskopiyasi, tuxum topish va biopsiya",
+    "ultratovush, KT va Western blot",
+    "eozinofiliya, leykotsitoz va giperglobulinemiya",
+    "oftalmoskopiya, MRT va serebrospinal suyuqlik"
+   ],
+   "x": "«Toksokaroz tashxisi epidemiologik anamnez, klinik shubha, eozinofiliya, serologiya (EIA, Western blot), ko'rinish va oftalmologik usullarga asoslanadi; najas tahlili foydasiz»"
+  },
+  {
+   "q": "Toksokarozda eng ko'p qo'llanadigan tasdiqlash usuli qaysi?",
+   "c": "IgG antitelolarni aniqlovchi EIA (ELISA)",
+   "w": [
+    "Western blot yordamida biopsiya",
+    "ko'z suyuqligida eozinofillarni topish",
+    "o'pka rentgenida infiltratlarni topish",
+    "jigar biopsiyasida granulemani topish"
+   ],
+   "x": "«Eng ko'p qo'llanadigan tasdiqlash usuli — serologik test: Toxocara lichinkalarining ekskretor–sekretor antigenlariga qarshi antitelolarni (IgG) aniqlovchi fermentga bog'langan immunosorbent tahlil (EIA/ELISA)»"
+  },
+  {
+   "q": "Serologiyaning asosiy cheklovi nima?",
+   "c": "joriy faol infeksiyani ajratmaydi",
+   "w": [
+    "najas bilan tuxum chiqarmaydi",
+    "ko'z shaklida titr yuqori bo'ladi",
+    "askaridoz bilan o'zaro reaksiya bermaydi",
+    "eozinofiliyani aniqlamaydi"
+   ],
+   "x": "«Serologiyaning cheklovlari: antitelolar o'tgan yoki yashirin infeksiyani ham ko'rsatadi, joriy faol infeksiyani ajratmaydi; boshqa gelmintozlar (askaridoz) bilan o'zaro reaksiya mumkin; ko'z shaklida titr past bo'lishi mumkin»"
+  },
+  {
+   "q": "Ko'z toksokarozi tashxisi qanday qo'yiladi?",
+   "c": "oftalmologik ko'rik (oftalmoskopiya, ultratovush)",
+   "w": [
+    "najas tekshiruvi va qon zardobi titri",
+    "o'pka rentgeni va jigar biopsiyasi",
+    "faqat serologik test natijasi bo'yicha",
+    "MRT va serebrospinal suyuqlik tekshiruvi"
+   ],
+   "x": "«Ko'z shaklida tashxis oftalmologik ko'rik (ko'z tubini tekshirish, oftalmoskopiya, ultratovush, optik kogerent tomografiya) asosida qo'yiladi: to'r pardada granulema, vitreoretinal tortishuv, endoftalmit»"
+  },
+  {
+   "q": "Nevrologik shaklda MRT va serebrospinal suyuqlik nimani ko'rsatadi?",
+   "c": "miyada o'choqlar va eozinofiliya",
+   "w": [
+    "jigarda gipoexogen o'choqlar",
+    "o'pkada infiltratlar",
+    "to'r pardada granulema",
+    "ko'z suyuqligida antitelolar"
+   ],
+   "x": "«Nevrologik shaklda MRT miyada o'choqlarni, serebrospinal suyuqlik tekshiruvi eozinofiliyani ko'rsatishi mumkin»"
+  },
+  {
+   "q": "Qaysi tekshiruv aniq tasdiq beradi?",
+   "c": "biopsiyada lichinka yoki granulema topish",
+   "w": [
+    "najasda tuxum yoki lichinka topish",
+    "ko'z suyuqligida eozinofillar topish",
+    "qon zardobida antitelolar topish",
+    "jigarda gipodens o'choqlar topish"
+   ],
+   "x": "«Gistologik tekshiruv to'qima biopsiyasida lichinkalarni yoki granulemalarni topish aniq tasdiq beradi, lekin juda kamdan-kam amalga oshiriladi, chunki invaziv»"
+  },
+  {
+   "q": "Visseral toksokarozda ultratovush yoki KT nimani ko'rsatishi mumkin?",
+   "c": "jigarda gipoexogen (gipodens) o'choqlarni",
+   "w": [
+    "o'pka rentgenida infiltratlar topiladi",
+    "ko'z suyuqligida antitelolar va eozinofillar",
+    "to'r pardada granulema, endoftalmit",
+    "vitreoretinal tortishuv va endoftalmit"
+   ],
+   "x": "«Visseral toksokarozda ultratovush yoki KT jigarda gipoexogen (gipodens) o'choqlarni ko'rsatishi mumkin; o'pka rentgenida infiltratlar topiladi»"
+  },
+  {
+   "q": "Quyidagilardan qaysi biri tashxis xatosi emas?",
+   "c": "anamnezni sinchiklab yig'ish tashxisning birinchi bosqichi",
+   "w": [
+    "seropozitivlikni avtomatik kasallik deb talqin qilish",
+    "serologiya manfiy bo'lganda ko'z shaklini istisno qilish",
+    "najas tahlilini toksokarozda foydali deb hisoblash",
+    "eozinofiliyada boshqa gelmintozlarni tekshirmaslik"
+   ],
+   "x": "«Anamnezni sinchiklab yig'ish tashxisning birinchi bosqichi»"
+  },
+  {
+   "q": "Amaliy mezonlarning to'rtinchisi qaysi?",
+   "c": "ijobiy serologiya",
+   "w": [
+    "mos epidemiologik anamnez",
+    "mos klinik belgilar",
+    "eozinofiliya (ko'z shaklidan tashqari)",
+    "boshqa sabablarning istisno qilinishi"
+   ],
+   "x": "«(4) ijobiy serologiya»"
+  },
+  {
+   "q": "Laborantning toksokarozdagi vazifasi nima?",
+   "c": "eozinofiliyani qayd etish va serologik namunani to'g'ri olish",
+   "w": [
+    "serologik natijani talqin qilish va davo belgilash",
+    "najas tuxumlarini aniqlash va biopsiya olish",
+    "oftalmoskopiya o'tkazish va ko'z tubini tekshirish",
+    "ultratovush o'tkazish va KT natijasini baholash"
+   ],
+   "x": "«Toksokaroz tashhisida laborantning vazifasi ikki yo'nalishda bo'ladi: umumiy qon tahlilida eozinofiliyani aniq qayd etish va serologik namunani to'g'ri olish, saqlash va yuborish»"
+  }
+ ],
+ "126": [
+  {
+   "q": "Toksokaroz bilan zararlanishning eng ko'p uchraydigan yo'li qaysi?",
+   "c": "ifloslangan tuproq",
+   "w": [
+    "ifloslangan suv",
+    "xom sabzavot",
+    "xom jigar",
+    "hayvon juni"
+   ],
+   "x": "«Eng ko'p uchraydigan yo'l — ifloslangan tuproq»"
+  },
+  {
+   "q": "Bolalar nega ko'proq zararlanadi?",
+   "c": "tuproqda o'ynab, qo'lini yuvmasdan og'ziga tekkizadi",
+   "w": [
+    "xom jigar va ichki a'zolarni ko'p iste'mol qiladi",
+    "hovli va bog'larda sabzavot yetishtiradi",
+    "gijjaga qarshi davolanmagan hayvon bilan o'ynaydi",
+    "go'shtni yaxshi pishirmasdan iste'mol qiladi"
+   ],
+   "x": "«Bolalar tuproqda o'ynaydi, qum qutilari, hovli va parklarda bo'ladi, qo'lini yuvmasdan og'ziga tekkizadi — shu sababli ular ko'proq zararlanadi»"
+  },
+  {
+   "q": "Geofagiya nima?",
+   "c": "tuproq yeyish",
+   "w": [
+    "xom jigar yeyish",
+    "ifloslangan sabzavot yeyish",
+    "hayvon juni yeyish",
+    "go'sht yeyish"
+   ],
+   "x": "«Geofagiya (tuproq yeyish) bolalarda ayniqsa katta xavf omili»"
+  },
+  {
+   "q": "Toksokaroz odamdan odamga yuqadimi?",
+   "c": "yuqmaydi: lichinkalar odamda voyaga yetmaydi",
+   "w": [
+    "tuxum chiqaradi va bemorni ajratish shart",
+    "yuqadi: lichinkalar odamda voyaga yetadi",
+    "bolalar xavf ostida va yuqadi",
+    "najas bilan tashqi muhitga yuqadi"
+   ],
+   "x": "«Toksokaroz odamdan odamga yuqmaydi: lichinkalar odamda voyaga yetmaydi va tuxum chiqarmaydi»"
+  },
+  {
+   "q": "Xom jigar iste'moli nega xavfli?",
+   "c": "paratenik issiqqonli xo'jayinlar lichinkalari bor",
+   "w": [
+    "tuxumlar tuproqda infeksion bo'ladi",
+    "hayvon najasi bilan ifloslangan bo'ladi",
+    "hayvon juni bilan ifloslangan bo'ladi",
+    "lichinkalar odamda voyaga yetadi"
+   ],
+   "x": "«Magnaval sharhida odamlarda xom yoki yaxshi pishmagan go'sht, ichki a'zolar yoki jigar iste'moli bilan bog'liq zararlanish holatlari keltirilgan, potensial paratenik issiqqonli xo'jayinlar sifatida tovuq, qoramol, o'rdak, qo'zi, cho'chqa va boshqa hayvonlar tilga olingan»"
+  },
+  {
+   "q": "Suv orqali yuqish yo'lining ahamiyati qanday?",
+   "c": "ahamiyati kamroq",
+   "w": [
+    "asosiy yo'l hisoblanadi",
+    "asosiy xavf omili hisoblanadi",
+    "geogelmintoz yo'li hisoblanadi",
+    "xavf guruhi hisoblanadi"
+   ],
+   "x": "«Suv manbalari it va mushuk najasi bilan ifloslanishi mumkin, ammo bu yo'lning ahamiyati kamroq»"
+  },
+  {
+   "q": "Qaysi hayvonlarda zararlanish ayniqsa muhim?",
+   "c": "kuchuk va mushukchalar",
+   "w": [
+    "tovuq va o'rdaklar",
+    "qoramol va cho'chqalar",
+    "qo'zi va tovuqlar",
+    "itlar va qoramollar"
+   ],
+   "x": "«Yo'llarni uzish: itlar va mushuklarni muntazam gijjaga qarshi davolash (ayniqsa kuchuk va mushukchalarni); hayvon najasini darhol yig'ib olish; o'yin maydonchalari va qum qutilarini hayvonlardan himoya qilish; bolalarni qo'lini yuvishga o'rgatish; geofagiyaning oldini olish; sabzavotlar va ko'katlarni yaxshilab yuvish; xom jigar va ichki a'zolarni iste'mol qilmaslik; go'shtni to'liq pishirish»"
+  },
+  {
+   "q": "Xavf omillaridan qaysi biri ijtimoiy-iqtisodiy?",
+   "c": "kambag'allik va yomon sanitariya",
+   "w": [
+    "itlarni davolash va nazorat qilish xizmatlari",
+    "qo'l yuvish va gigiyena odatlari",
+    "hovli va bog'larda sabzavot yetishtirish",
+    "qum qutilari va o'yin maydonchalari"
+   ],
+   "x": "«kambag'allik va yomon sanitariya»"
+  },
+  {
+   "q": "Odamlar ko'pincha qanday tuxumlarni yutib zararlanadi?",
+   "c": "tuproqda yoki xom sabzavotda embrionlangan tuxum",
+   "w": [
+    "tuproqda yoki ko'katlarda embrionlashmagan tuxum",
+    "hayvon junida lichinkalar va chuvalchanglar",
+    "go'sht va ichki a'zolarda lichinkalar",
+    "suv va oziq-ovqatda chuvalchang lichinkalari"
+   ],
+   "x": "«Magnaval va hamkasblari ta'kidlaganidek, ko'pincha odamlar yaqin atrofdagi tuproqda yoki xom sabzavotlarda bo'lgan embrionlangan tuxumlarni yutib zararlanadi; shuningdek, xom yoki yaxshi pishmagan go'sht va ichki a'zolarni iste'mol qilish orqali lichinkalar bilan to'g'ridan-to'g'ri zararlanish ham ehtimoli katta»"
+  },
+  {
+   "q": "Nega hayvonni silagandan keyin qo'l yuvish tavsiya etiladi?",
+   "c": "junida tuxumlar bo'lishi mumkin",
+   "w": [
+    "najasida lichinkalar bo'lishi mumkin",
+    "tuproqda lichinkalar bo'lishi mumkin",
+    "suvda tuxumlar bo'lishi mumkin",
+    "ichki a'zolarda tuxumlar bo'lishi mumkin"
+   ],
+   "x": "«It yoki mushuk junida ifloslangan tuproq yoki najas orqali tuxumlar bo'lishi mumkin; hayvonni silagandan so'ng qo'lni yuvmasdan ovqatlanish zararlanishga olib kelishi mumkin»"
+  }
+ ],
+ "127": [
+  {
+   "q": "Toksokarozni oldini olishda eng muhim chora qaysi?",
+   "c": "itlar va mushuklarni muntazam gijjaga qarshi davolash",
+   "w": [
+    "qum qutilarini qoplama bilan yopish",
+    "sabzavot va ko'katlarni yaxshilab yuvish",
+    "aholini toksokaroz haqida xabardor qilish",
+    "xom jigar va ichki a'zolarni iste'mol qilmaslik"
+   ],
+   "x": "«Eng muhim chora — itlar va mushuklarni gijjaga qarshi muntazam davolash»"
+  },
+  {
+   "q": "Najasni darhol yig'ib olish nimaning oldini oladi?",
+   "c": "tuxumlarning tuproqda infeksion bo'lishini",
+   "w": [
+    "kuchuklarning homila davrida zararlanishini",
+    "bolalarning tuproq bilan o'ynashini",
+    "paratenik xo'jayinlarning zararlanishini",
+    "go'shtning yaxshi pishmasligini"
+   ],
+   "x": "«It va mushuk najasini darhol yig'ib olish va xavfsiz yo'qotish tuxumlarning tuproqda infeksion bo'lishiga yo'l qo'ymaydi, chunki tuxumlar infeksion bo'lishi uchun 2–4 hafta kerak»"
+  },
+  {
+   "q": "Bolalar maydonchalarini himoya qilishda qaysi chora qo'llanadi?",
+   "c": "qum qutilarini qoplama bilan yopish",
+   "w": [
+    "itlar va mushuklarni gijjaga qarshi davolash",
+    "sabzavotlarni toza suvda yaxshilab yuvish",
+    "qo'lni sovun bilan yuvishga o'rgatish",
+    "xom jigarni iste'mol qilmaslik"
+   ],
+   "x": "«Bolalar o'yin maydonchalari va qum qutilarini it va mushuklardan himoya qilish: qum qutilarini qoplama bilan yopish, to'siq qurish, qumni muntazam almashtirish yoki tozalash, hayvonlarni maydonchaga kiritmaslik»"
+  },
+  {
+   "q": "Geofagiya bo'lsa nima aniqlanadi?",
+   "c": "sababi (temir tanqisligi, ruhiy omillar)",
+   "w": [
+    "zararlanish manbai (it va mushuk)",
+    "tuproq sanitariyasi (maydonchalar)",
+    "hayvonlarni davolash (veterinar)",
+    "bemorlarni davolash (oftalmolog)"
+   ],
+   "x": "«Bolalarda tirnoq tishlash, barmoq so'rish va geofagiyaning oldini olish, geofagiya bo'lsa, sababini (temir tanqisligi, ruhiy omillar) aniqlash»"
+  },
+  {
+   "q": "Albendazol haqida nima aytilgan?",
+   "c": "qisqa kurslari tufayli tanlov preparati",
+   "w": [
+    "samaradorligi to'liq baholangan preparat",
+    "nevrologik shaklda o'rni aniqlangan preparat",
+    "ko'z shaklida yagona tanlov preparati",
+    "yon ta'sirlari jiddiy preparat"
+   ],
+   "x": "«Magnaval sharhida albendazol keng qo'llanilishi va jiddiy yon ta'sirlarsiz qisqa kurslari tufayli tanlov preparati bo'lib qolgani, ammo uning samaradorligi aniqroq baholanishi kerakligi, anthelmintiklarning nevrologik va ko'z toksokarozidagi o'rni hali aniqlanmagani yozilgan»"
+  },
+  {
+   "q": "Bemorlarni davolash profilaktikada nega kamroq ahamiyatli?",
+   "c": "kasallik odamdan odamga yuqmaydi",
+   "w": [
+    "kasallik bolalarda ko'proq uchraydi",
+    "kasallik asoratlari oldini oladi",
+    "kasallik albendazol bilan davolanadi",
+    "kasallik ko'z shaklida og'ir kechadi"
+   ],
+   "x": "«Toksokaroz odamdan odamga yuqmagani uchun bemorlarni davolash profilaktikada kamroq ahamiyatli, ammo kasallik asoratlarining oldini oladi»"
+  },
+  {
+   "q": "Yagona salomatlik yondashuvi nimalarni qamrab oladi?",
+   "c": "veterinariya, tibbiyot va atrof-muhit",
+   "w": [
+    "veterinariya, laboratoriya va davolash",
+    "tibbiyot, tuproq va veterinariya",
+    "atrof-muhit, oziq-ovqat va gigiyena",
+    "tibbiyot, albendazol va tuproq"
+   ],
+   "x": "«Tibbiyot va veterinariya hamkorligi»"
+  },
+  {
+   "q": "Laborantning sog'lomlashtirish ishlaridagi o'rni qanday?",
+   "c": "qo'l yuvish va sabzavot gigiyenasini tushuntirish",
+   "w": [
+    "itlar va mushuklarni gijjaga qarshi davolash",
+    "bemorlarni oftalmolog bilan davolash",
+    "najasni darhol yig'ib yo'q qilish",
+    "to'siq qurish va qumni almashtirish"
+   ],
+   "x": "«Aholini, ayniqsa it va mushuk egalarini, ota-onalarni, bolalar bog'chalari va maktab xodimlarini toksokaroz haqida xabardor qilish zarur: kasallik qanday yuqishi, hayvonlarni davolash ahamiyati, qo'l yuvish va sabzavot gigiyenasi»"
+  },
+  {
+   "q": "Laboratoriyada xavfsizlik uchun nima zarur?",
+   "c": "qo'lqop kiyish va ish joyini dezinfeksiya qilish",
+   "w": [
+    "bemor yoki ota-onasi bilan suhbat",
+    "veterinar bilan maslahatlashish",
+    "uy hayvonini muntazam gijjadan tozalash",
+    "bolalarni qum qutilarida ehtiyot bo'lishga o'rgatish"
+   ],
+   "x": "«Laboratoriyaning o'zida ham umumiy xavfsizlik qoidalariga rioya qilish, ya'ni qo'lqop kiyish, ish joyini dezinfeksiya qilish va namunalarni ehtiyotkorlik bilan tashish zarur»"
+  },
+  {
+   "q": "Magnaval sharhi profilaktik choralar qayerda qo'llanishi kerakligini ko'rsatadi?",
+   "c": "odamlarda va uy hayvonlarida",
+   "w": [
+    "bemorlarda va oftalmologlarda",
+    "bolalar maydonchalarida va qum qutilarida",
+    "veterinariya va tibbiyot xo'jaliklarida",
+    "uy hayvonlarida va tuproqda"
+   ],
+   "x": "«Magnaval sharhi profilaktik choralar odamlarda ham, uy hayvonlarida ham qo'llanishi kerakligini ko'rsatadi»"
+  }
+ ],
+ "128": [
+  {
+   "q": "E. histolytica bilan morfologik farq qilmaydigan uchta tur qaysilar?",
+   "c": "E. moshkovskii, E. dispar va E. bangladeshi",
+   "w": [
+    "histolytica, dispar va bangladeshi",
+    "moshkovskii, histolytica va dispar",
+    "dizenteriya amyobasi, dispar va bangladeshi",
+    "kriptosporidiy, xilomastiks va blastotsistis"
+   ],
+   "x": "«E. histolytica bilan morfologik jihatdan farq qilmaydigan uchta tur mavjud: E. moshkovskii, E. dispar va E. bangladeshi»"
+  },
+  {
+   "q": "Ichak protozoylarining ikki asosiy patogeni qaysilar?",
+   "c": "lyamblya va dizenteriya amyobasi",
+   "w": [
+    "kriptosporidiy va xilomastiks",
+    "blastotsistis va E. moshkovskii",
+    "E. dispar va lyamblya",
+    "xilomastiks va dizenteriya amyobasi"
+   ],
+   "x": "«Manbalarda tasdiqlangan ikki asosiy patogen — lyamblya va dizenteriya amyobasi»"
+  },
+  {
+   "q": "Lyamblioz yiliga qancha holat bilan aniqlanadi?",
+   "c": "200 milliondan ortiq holat",
+   "w": [
+    "8 milliondan ortiq holat",
+    "30 milliondan ortiq holat",
+    "17,7 milliondan ortiq holat",
+    "1,5 milliondan ortiq holat"
+   ],
+   "x": "«Hooshyar va hamkasblarining sharhida lyamblioz butun dunyoda uchrashi, bolalarda ham, kattalarda ham diareyaning keng tarqalgan sababi ekani, yiliga 200 milliondan ortiq holat aniqlanishi, rivojlanayotgan mamlakatlarda tarqalish yuqoriroq ekani yozilgan»"
+  },
+  {
+   "q": "Belgisiz bolalarda lyambliya infeksiyasi rivojlanayotgan mamlakatlarda necha foiz?",
+   "c": "8 dan 30 foizgacha",
+   "w": [
+    "1 dan 8 foizgacha",
+    "5 dan 30 foizgacha",
+    "8 dan 17 foizgacha",
+    "1 dan 30 foizgacha"
+   ],
+   "x": "«Belgisiz bolalarda infeksiya ulushi rivojlanayotgan mamlakatlarda 8 dan 30 foizgacha, sanoati rivojlangan hududlarda 1 dan 8 foizgacha xabar qilingan»"
+  },
+  {
+   "q": "Qaysi amyobalar patogen emas deb hisoblanadi?",
+   "c": "E. dispar va E. bangladeshi",
+   "w": [
+    "E. histolytica va E. moshkovskii",
+    "E. histolytica va E. dispar",
+    "E. moshkovskii va E. histolytica",
+    "E. bangladeshi va E. histolytica"
+   ],
+   "x": "«bangladeshi patogen emas deb hisoblanadi»"
+  },
+  {
+   "q": "Nega faqat amyoba kistalari deb xulosa qilish xato bo'lishi mumkin?",
+   "c": "morfologik jihatdan farq qilmaydigan uchta tur bor",
+   "w": [
+    "kistalar mikroskop ostida ko'rinmaydi",
+    "kistalar faqat trofozoit shaklida bo'ladi",
+    "amyobalar faqat gelmintlarda uchraydi",
+    "amyoba kistalari patogen emas"
+   ],
+   "x": "«histolytica bilan morfologik jihatdan farq qilmaydigan uchta tur mavjud: E»"
+  },
+  {
+   "q": "Mamlakatlar o'rtasida tarqalish raqamlari nega mos kelmasligi mumkin?",
+   "c": "usul farqi tufayli",
+   "w": [
+    "aholi sonining farqi tufayli",
+    "hudud kattaligi tufayli",
+    "shaxsiy gigiyena tufayli",
+    "kasallik turi tufayli"
+   ],
+   "x": "«Demak, turli hududlarda olingan raqamlar usul farqi tufayli bir-biriga mos kelmasligi mumkin»"
+  },
+  {
+   "q": "Ichak protozoylarining tarqalishi nimalarga bog'liq?",
+   "c": "sanitariya, ichimlik suvi va gigiyenaga",
+   "w": [
+    "namunalar soni va mutaxassis malakasiga",
+    "tekshirilgan guruh, usul va tadqiqot yiliga",
+    "morfologik o'xshashlik va kista shakliga",
+    "fiksatsiya va bo'yash usullariga"
+   ],
+   "x": "«Ichak protozoylari tarqalishi sanitariya holati, ichimlik suvi sifati, aholi zichligi va shaxsiy gigiyena darajasiga bog'liq»"
+  },
+  {
+   "q": "Protozoylar gelmintlardan nimasi bilan farq qiladi?",
+   "c": "bir hujayrali, mikroskopik va odam tanasida ko'payadi",
+   "w": [
+    "ko'p hujayrali va odam tanasida ko'paymaydi",
+    "tuxum chiqaradi va ko'p hujayrali bo'ladi",
+    "bir hujayrali va odam tanasida ko'paymaydi",
+    "ko'p hujayrali, mikroskopik va odam tanasida ko'payadi"
+   ],
+   "x": "«Ichak protozoylari gelmintlardan tuzilishi bilan keskin farq qiladi: ular bir hujayrali, mikroskopik va odam tanasida ko'payadi, shuning uchun bir nechta kista kuchli infeksiyaga olib kelishi mumkin»"
+  },
+  {
+   "q": "Protozoylar uchun qaysi laboratoriya usullari ko'proq ahamiyatli?",
+   "c": "fiksatsiya va bo'yash",
+   "w": [
+    "tuxum konsentratsiyasi usullari",
+    "immunologik va molekulyar usullar",
+    "konsentratsiya usulidagi mikroskopiya",
+    "sanitariya va toza suv"
+   ],
+   "x": "«Bu farq laborant tekshiruv usulini tanlashiga ta'sir qiladi: protozoylar uchun fiksatsiya va bo'yash, gelmintlar uchun tuxum konsentratsiyasi usullari ko'proq ahamiyatli»"
+  }
+ ]
+}

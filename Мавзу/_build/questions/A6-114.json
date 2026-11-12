@@ -1,0 +1,114 @@
+{
+ "114": [
+  {
+   "q": "Fassiolyoz qo'zg'atuvchilari qaysi turkumga kiradi?",
+   "c": "Fasciola turkumi trematodalari",
+   "w": [
+    "Opistorx turkumi trematodalari",
+    "Lymnaea turkumi mollyuskalari",
+    "Fasciola turkumi o'txo'r hayvonlari",
+    "Lymnaea turkumi suv o'simliklari"
+   ],
+   "x": "«Fassiolyoz — jigar va o't yo'llarining parazitar kasalligi bo'lib, uni Fasciola turkumi so'rg'ichli chuvalchanglari, ya'ni trematodalar, qo'zg'atadi»"
+  },
+  {
+   "q": "Fassiolyozda odam qanday xo'jayin hisoblanadi?",
+   "c": "Tasodifiy xo'jayin",
+   "w": [
+    "Asosiy xo'jayin",
+    "Oraliq xo'jayin",
+    "Ikkita oraliq xo'jayin",
+    "Ikkinchi oraliq xo'jayin"
+   ],
+   "x": "«Asosiy xo'jayinlar — o'txo'rlar, odam tasodifiy xo'jayin»"
+  },
+  {
+   "q": "Voyaga yetgan F. hepatica qanday tuzilgan?",
+   "c": "Yassi, barg shaklidagi, kulrang-jigarrang chuvalchang",
+   "w": [
+    "Yassi, oval, qopqoqli, sarg'ish-jigarrang chuvalchang",
+    "Yirik, barg shaklidagi, konussimon so'rg'ichli kista",
+    "Kichik, oval, qopqoqli, kulrang-jigarrang tuxum",
+    "Yirikroq, yassi, barg shaklidagi mollyuska"
+   ],
+   "x": "«hepatica yassi, barg shaklidagi, kulrang-jigarrang chuvalchang, uzunligi taxminan 2–3 sm, kengligi 1 sm atrofida; old qismida konussimon bo'rtiq va ikkita so'rg'ich (og'iz va qorin) bor»"
+  },
+  {
+   "q": "Fassiola tuxumining o'lchami taxminan qancha?",
+   "c": "Taxminan 130–150 × 60–90 mkm",
+   "w": [
+    "Taxminan 30 mkm atrofida",
+    "Taxminan 2–3 sm atrofida",
+    "Taxminan 7 sm gacha",
+    "Taxminan 1 sm atrofida"
+   ],
+   "x": "«Fassiola tuxumi katta, oval, qopqoqli (operkulum), sarg'ish-jigarrang, o'lchami taxminan 130–150 × 60–90 mkm (trematoda tuxumlari ichida eng yirigi)»"
+  },
+  {
+   "q": "Trematoda tuxumlari ichida eng yirigi qaysi?",
+   "c": "Fassiola tuxumi",
+   "w": [
+    "Opistorx tuxumi",
+    "Mirasidiy tuxumi",
+    "Serkariya tuxumi",
+    "Metaserkariya tuxumi"
+   ],
+   "x": "«Fassiola tuxumi katta, oval, qopqoqli (operkulum), sarg'ish-jigarrang, o'lchami taxminan 130–150 × 60–90 mkm (trematoda tuxumlari ichida eng yirigi)»"
+  },
+  {
+   "q": "Fassiolaning oraliq xo'jayini kim?",
+   "c": "Chuchuk suv mollyuskasi (Lymnaea)",
+   "w": [
+    "Qisqichbaqasimon va xom baliq",
+    "Qo'y, qoramol va echki",
+    "Suv qalampiri va sabzavot",
+    "Sabzavotlar va yuvilmagan o'tlar"
+   ],
+   "x": "«Hayot sikli bir oraliq xo'jayinli: tuxum najas bilan suvga tushadi, ikki-uch haftada tuxumdan lichinka (mirasidiy) chiqadi va chuchuk suv mollyuskasiga (ko'pincha Lymnaea turkumi) kiradi»"
+  },
+  {
+   "q": "Mollyuskada qaysi bosqichlar rivojlanadi?",
+   "c": "Sporosista, redi va serkariyalar",
+   "w": [
+    "Mirasidiy, metaserkariya va tuxum",
+    "Tuxum, kista va sporosista",
+    "Metaserkariya, redi va tuxum",
+    "Serkariya, kista va mirasidiy"
+   ],
+   "x": "«Mollyuskada sporosista, redi va serkariyalar rivojlanadi»"
+  },
+  {
+   "q": "Fassiolaning infeksion bosqichi qaysi?",
+   "c": "Suv o'simliklariga yopishgan metaserkariya",
+   "w": [
+    "Mollyuskadan chiqqan mirasidiy lichinka",
+    "Najas bilan chiqqan oval tuxum",
+    "Jigar parenximasidagi yetilmagan chuvalchang",
+    "Mollyuskadagi sporosista va redi"
+   ],
+   "x": "«Infeksion bosqich — suv o'simliklariga yopishgan metaserkariya (kista)»"
+  },
+  {
+   "q": "Fassiolyozni opistorxozdan nima farqlaydi?",
+   "c": "Baliq emas, suv o'simliklari orqali yuqadi",
+   "w": [
+    "Ikkinchi oraliq xo'jayin baliq bo'ladi",
+    "Chuvalchang ichakda yashaydi",
+    "Tuxum najas bilan chiqmaydi",
+    "Odam asosiy xo'jayin bo'ladi"
+   ],
+   "x": "«Bu mexanizm fassiolyozni boshqa trematodozlardan (baliq orqali yuqadigan opistorxoz) farqlaydi»"
+  },
+  {
+   "q": "O'tkir bosqichda jigarda nima sodir bo'ladi?",
+   "c": "Yetilmagan chuvalchanglar jigar yuzasini teshib o'tadi",
+   "w": [
+    "Voyaga yetgan chuvalchanglar o't yo'llarida tuxum qo'yadi",
+    "Uzoq yallig'lanish jigar sirroziga olib keladi",
+    "Mirasidiy lichinka mollyuskaga kiradi",
+    "Serkariyalar suv o'simliklariga yopishadi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti o'tkir bosqichda yetilmagan chuvalchanglar ichak devori va qorin pardadan o'tib, jigar yuzasini teshib o't yo'llariga yetishi jigar hujayralarini yo'q qilishi va ichki qon ketishga olib kelishini; surunkali bosqichda esa uzoq yallig'lanish jigar sirroziga olib kelishini ta'kidlaydi»"
+  }
+ ]
+}

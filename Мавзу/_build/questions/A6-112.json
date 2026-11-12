@@ -1,0 +1,114 @@
+{
+ "112": [
+  {
+   "q": "Difillobotriaz holati qanday tasdiq bilan qayd etiladi?",
+   "c": "Najasda tuxum yoki chuvalchang bo'laklari topilishi",
+   "w": [
+    "Qonda B12 yetishmovchiligi aniqlanishi",
+    "Baliq tutilgan joy va sana",
+    "Baliq iste'moli haqidagi so'rov natijasi",
+    "Eozinofiliya yoki kamqonlik aniqlanishi"
+   ],
+   "x": "«Holat laboratoriya tasdig'i bilan (najasda tuxum yoki chuvalchang bo'laklari) qayd etiladi, sanitariya-epidemiologiya xizmatiga xabar beriladi»"
+  },
+  {
+   "q": "Epidemiolog bemor yegan baliq haqida nimalarni aniqlaydi?",
+   "c": "Qaysi baliqni, qachon va qayerdan yegani",
+   "w": [
+    "Bemor kimligi va yoshi, tashxis qo'yilgan sana",
+    "Birga yegan odamlar soni va ularning tekshiruv natijalari",
+    "Baliq sotilgan joy va suv havzasining sanitariya holati",
+    "Hojatxona mavjudligi va o'tkazilgan tadbirlar"
+   ],
+   "x": "«Epidemiolog quyidagilarni aniqlaydi: bemor qaysi baliqni, qachon, qayerdan, qanday ishlov bilan yegan; baliq tutilgan joy (ko'l, suv ombori, daryo); boshqalar ham shu baliqdan yeganmi; baliq qaerda sotilgan»"
+  },
+  {
+   "q": "Najas mikroskopiyasi kimlarga o'tkaziladi?",
+   "c": "Bemor bilan birga baliq yegan shaxslarga",
+   "w": [
+    "Baliqchilar va oshpazlarga",
+    "Baliqni xom yemagan oila a'zolariga",
+    "Baliq tutilgan ko'l aholisiga",
+    "Baliq sotilgan joydagi shaxslarga"
+   ],
+   "x": "«Bemor bilan birga baliq yegan oila a'zolari va boshqa shaxslar najas mikroskopiyasidan o'tkaziladi; kerak bo'lsa B12 yetishmovchiligi va kamqonlik tekshiriladi»"
+  },
+  {
+   "q": "Nima uchun difillobotriaz bemoriga izolyatsiya va karantin kerak emas?",
+   "c": "Odamdan odamga yuqmaydi",
+   "w": [
+    "Kasallik ko'pincha belgisiz",
+    "Bemor najasi suvga tushmaydi",
+    "Tadbirlar yuqori idoraga yuboriladi",
+    "Baliq manbai aniqlangan"
+   ],
+   "x": "«Difillobotriaz odamdan odamga yuqmagani uchun izolyatsiya va karantin kerak emas; asosiy e'tibor manba va muhitga qaratiladi»"
+  },
+  {
+   "q": "Baliq manbasi aniqlansa, sotuvchilarga nima eslatiladi?",
+   "c": "Baliqni to'liq ishlov berish yoki muzlatish talablari",
+   "w": [
+    "Baliqni yengil tuzlash va dudlash talablari",
+    "Xom baliq taomlarini tayyorlash talablari",
+    "Baliqni tatib ko'rish talablari",
+    "Baliq ikrasini xom sotish talablari"
+   ],
+   "x": "«Zararlangan baliq manbai aniqlansa, veterinariya-sanitariya xizmati bilan hamkorlikda baliq sotuvi nazorat qilinadi: sotuvchilarga baliqni to'liq ishlov berish yoki muzlatish talablari eslatiladi; shubhali partiyalar tekshiriladi; xom baliq taomlari tayyorlanadigan joylar (restoranlar, bozorlar) tekshiriladi»"
+  },
+  {
+   "q": "Baliq ekspertizasida nima izlanadi?",
+   "c": "Mushak kesimlarida pleroserkoidlar",
+   "w": [
+    "Najasda tuxum va bo'laklar",
+    "B12 yetishmovchiligi va kamqonlik",
+    "Suv havzasida korasidiy lichinkasi",
+    "Xom baliq sotilgan joyi"
+   ],
+   "x": "«Baliq ekspertizasi (pleroserkoidlarni mushak kesimlarida izlash) o'tkaziladi»"
+  },
+  {
+   "q": "Bemor najasi suv havzalariga tushmasligi uchun nima qilinadi?",
+   "c": "Hojatxonadan foydalaniladi, najas xavfsiz yo'qotiladi",
+   "w": [
+    "Najas ochiq suv havzalariga yuboriladi",
+    "Najas baliq ikrasi bilan aralashtiriladi",
+    "Bemor xom baliq taomlarini iste'mol qiladi",
+    "Bemor najasi baliqchilarga topshiriladi"
+   ],
+   "x": "«Bemor najasi suv havzalariga tushmasligi uchun hojatxonadan foydalanishi va najas xavfsiz yo'qotilishi kerak»"
+  },
+  {
+   "q": "Aholiga qaysi mavzularda tushuntirish olib boriladi?",
+   "c": "Xom baliq xavfi va to'liq pishirish yoki muzlatish",
+   "w": [
+    "Baliq tutganda tatib ko'rish zarurligi",
+    "Najas suv havzalariga tushishi zarurligi",
+    "Baliqni yengil tuzlash va dudlash zarurligi",
+    "Xom baliq taomlarini sevuvchilar tekshiruvi"
+   ],
+   "x": "«Aholiga xom va yaxshi pishmagan chuchuk suv baliq xavfi, baliqni to'liq pishirish yoki muzlatish zarurligi, najas suv havzalariga tushmasligi, baliq tutganda tatib ko'rmaslik haqida tushuntiriladi»"
+  },
+  {
+   "q": "Epidemiolog hisobotida nimalar yoziladi?",
+   "c": "Nechta bemor topilgani va qanday choralar ko'rilgani",
+   "w": [
+    "Nechta baliq sotilgani va qanday narxda",
+    "Nechta suv havzasi bor va qaerda joylashgan",
+    "Nechta oila a'zosi bor va qanday ishlaydi",
+    "Nechta restoran bor va qaysi baliq yeydi"
+   ],
+   "x": "«Tadbirlar tugagach epidemiolog xulosa yozadi: nechta bemor topildi, manba aniqlandimi, qanday choralar ko'rildi, qanday tavsiyalar berildi»"
+  },
+  {
+   "q": "Tekshiruv ro'yxatining vazifasi nima?",
+   "c": "Tekshiruvni bir xil va to'liq o'tkazishga yordam beradi",
+   "w": [
+    "Faqat bemor yoshini va kimligini aniqlaydi",
+    "Baliq sotilgan joyni belgilaydi",
+    "Davolash dozalarini shifokorsiz belgilaydi",
+    "Izolyatsiya va karantin muddatini belgilaydi"
+   ],
+   "x": "«Ro'yxat tekshiruvni bir xil va to'liq o'tkazishga yordam beradi va hech bir muhim savol e'tibordan chetda qolmasligini ta'minlaydi»"
+  }
+ ]
+}

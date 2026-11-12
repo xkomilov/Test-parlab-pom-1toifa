@@ -1,0 +1,114 @@
+{
+ "106": [
+  {
+   "q": "Kistoz exinokokkozga qarshi kurash nima uchun kompleks chora-tadbirlarni talab qiladi?",
+   "c": "Kasallik odam, it va chorva o'rtasida aylanadi",
+   "w": [
+    "Bemorlarni davolash yuqishni to'liq to'xtatadi",
+    "Faqat tibbiyot sohasi chora-tadbirlari talab qilinadi",
+    "Atrof-muhit sohasi chora-tadbirlari talab qilinmaydi",
+    "Chorva mollari kasallikni belgisiz o'tkazmaydi"
+   ],
+   "x": "«Kistoz exinokokkozga qarshi kurash faqat bemorlarni davolash bilan cheklanmaydi: kasallik odam, it va chorva mollari o'rtasida aylangani uchun nazorat tibbiyot, veterinariya va atrof-muhit sohalarining birgalikdagi, ya'ni kompleks chora-tadbirlarini talab qiladi»"
+  },
+  {
+   "q": "Dasturda itlarni davolashda qanday ishlar bajariladi?",
+   "c": "Itlar ro'yxatga olinadi, davolangan itlar belgilanadi",
+   "w": [
+    "Itlar so'yish joylarida xom ichki a'zolar bilan boqiladi",
+    "Davolangan itlar belgilanadi, ro'yxatga olinmaydi",
+    "Itlarni davolash natijasi tuxum chiqarilishini oshiradi",
+    "Egasiz itlar va ko'chada yuruvchi itlar nazoratga olinmaydi"
+   ],
+   "x": "«Dasturda itlar ro'yxatga olinadi, har bir davolash qayd etiladi, davolangan itlar belgilanadi»"
+  },
+  {
+   "q": "So'yish gigiyenasida zararlangan ichki a'zolar bilan nima qilinadi?",
+   "c": "Yoqiladi yoki chuqur ko'miladi",
+   "w": [
+    "Itlarga xom ichki a'zolar bermaslik",
+    "Uy so'yimida chorvadorlar uchun qoldiriladi",
+    "So'yish joylarida nazoratga olinmaydi",
+    "Itlar uchun xom holda saqlanadi"
+   ],
+   "x": "«So'yish joylarini nazorat qilish, uy so'yimini cheklash yoki nazoratga olish, zararlangan ichki a'zolarni yoqish yoki chuqur ko'mish, itlarga xom ichki a'zolar bermaslik»"
+  },
+  {
+   "q": "Qaysi choralar birgalikda odamlardagi kasallikni 10 yildan kamroq vaqtda yo'q qilishi mumkin?",
+   "c": "Qo'zilarni emlash, itlarni davolash, keksa qo'ylarni brak qilish",
+   "w": [
+    "Itlarni davolash, ultratovush skrining va qo'l yuvish",
+    "Qo'zilarni emlash, itlarni yo'q qilish va skrining",
+    "Keksa qo'ylarni so'yish, itlarni yo'q qilish va emlash",
+    "So'yish ekspertizasi, ultratovush va PAIR usuli"
+   ],
+   "x": "«granulosus EG95 rekombinant antigeni bilan emlash istiqbolli ekanini, vaksina tijorat asosida ishlab chiqarilayotganini va Xitoy hamda Argentinada ro'yxatdan o'tganini, qo'zilarni emlash, itlarni degelmintizatsiya qilish va keksa qo'ylarni brak qilish birgalikda odamlardagi kistoz exinokokkozni 10 yildan kamroq vaqtda yo'q qilishga olib kelishi mumkinligini ta'kidlaydi»"
+  },
+  {
+   "q": "Jahon sog'liqni saqlash tashkilotiga ko'ra, nazoratning asosiy elementlari qaysilar?",
+   "c": "Itlarni degelmintizatsiya, so'yish gigiyenasi, xabardor qilish",
+   "w": [
+    "Itlarni yo'q qilish, brak qilish va xaritalash kampaniyasi",
+    "Qo'ylarni emlash, jarrohlik va kutib turish usullari",
+    "Uy so'yimi, ultratovush skrining va xaritalash usullari",
+    "Qo'ylarni brak qilish, skrining va xaritalash usullari"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkilotiga ko'ra, kistoz exinokokkozni nazorat qilishning asosiy elementlari: itlarni davriy degelmintizatsiya qilish (praziquantel bilan yiliga kamida 4 marta), chorva mollarini so'yish gigiyenasini yaxshilash (zararlangan ichki a'zolarni to'g'ri yo'q qilishni o'z ichiga oladi) va aholini xabardor qilish kampaniyalari»"
+  },
+  {
+   "q": "Davolash usulini tanlash nimalarga bog'liq?",
+   "c": "Ultratovush ko'rinishi, infratuzilma va inson resurslariga",
+   "w": [
+    "Itlar soni, chorva zararlanishi va hudud xaritasiga",
+    "Aholi xabardorligi, so'yish gigiyenasi va emlashga",
+    "Praziquantel miqdori, itlar soni va muddatiga",
+    "Itlar degelmintizatsiyasi, so'yish gigiyenasi va monitoringga"
+   ],
+   "x": "«tanlov ultratovush ko'rinishi, mavjud tibbiy infratuzilma va inson resurslariga bog'liqligini ta'kidlaydi»"
+  },
+  {
+   "q": "Vaziyatni baholashda itlardagi zararlanish qanday aniqlanadi?",
+   "c": "Najas va koproantigen tekshiruvi orqali",
+   "w": [
+    "So'yish ekspertizasi ma'lumotlari orqali",
+    "Ultratovush skrining natijalari orqali",
+    "Kasalxona ma'lumotlari va serologiya orqali",
+    "Epidemiologik karta ma'lumotlari orqali"
+   ],
+   "x": "«Dastur boshida vaziyat baholanadi: odamlarda holatlar soni (kasalxona ma'lumotlari, ultratovush skrining), itlarda zararlanganlik (najas, koproantigen), chorva mollarida zararlanganlik (so'yish ekspertizasi ma'lumotlari), hududlar va xavf guruhlari»"
+  },
+  {
+   "q": "Hayvonlar orasida kuzatuv nima uchun qiyin?",
+   "c": "Itlar va chorva mollarida infeksiya belgisiz kechadi",
+   "w": [
+    "Itlar va chorva mollarida infeksiya ravshan belgilar beradi",
+    "Chorvadorlar so'yish gigiyenasiga rioya qilmaydi",
+    "Kasalxona ma'lumotlari kasallik yukini ko'rsatmaydi",
+    "Itlarda tuxum najasda topilmaydi"
+   ],
+   "x": "«Dastur samarasi ko'rsatkichlar bilan baholanadi: itlarning degelmintizatsiya qamrovi, itlar va chorva mollari zararlanganligi, so'yish ekspertizasida kista topilish ulushi, odamlar orasida yangi holatlar»"
+  },
+  {
+   "q": "Monitoring va baholashda qaysi ko'rsatkich qo'llaniladi?",
+   "c": "Itlarning degelmintizatsiya qamrovi",
+   "w": [
+    "Egasiz itlarni yo'q qilish soni",
+    "Aholini xabardor qilish kampaniyalari soni",
+    "Chorva mollarini so'yish ekspertizasi qamrovi",
+    "Odamlar orasida eski holatlar soni"
+   ],
+   "x": "«Dastur samarasi ko'rsatkichlar bilan baholanadi: itlarning degelmintizatsiya qamrovi, itlar va chorva mollari zararlanganligi, so'yish ekspertizasida kista topilish ulushi, odamlar orasida yangi holatlar»"
+  },
+  {
+   "q": "Aholini o'qitish qaysi yo'llar orqali tashkil etiladi?",
+   "c": "Chorvadorlar, maktablar va mahalla orqali",
+   "w": [
+    "Veterinar xodimlari va qushxonalar orqali",
+    "Egasiz itlar va tulkilar orqali",
+    "Kasalxona ma'lumotlari va xaritalar orqali",
+    "Aholi punktlari va yaylovlar orqali"
+   ],
+   "x": "«Ta'lim chorvadorlar, maktablar va mahalla orqali tashkil etiladi»"
+  }
+ ]
+}

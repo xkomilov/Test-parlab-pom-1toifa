@@ -1,0 +1,114 @@
+{
+ "116": [
+  {
+   "q": "Fassiolyoz klinikasi qanday bosqichlardan iborat?",
+   "c": "Belgisiz inkubatsion davr, o'tkir va surunkali bosqichlar",
+   "w": [
+    "O'tkir, surunkali va asoratli kista bosqichlari",
+    "Belgisiz davr, o'tkir bosqich va jigar sirrozi",
+    "Inkubatsion davr, surunkali va tuxum qo'yish bosqichlari",
+    "O'tkir bosqich, xolangit va pankreatit bosqichlari"
+   ],
+   "x": "«Fassiolyoz klinikasi belgisiz inkubatsion davr, o'tkir (jigar to'qimasi shikastlanishi, isitma, og'riq, eozinofiliya) va surunkali (o't yo'llari belgilari, sariqlik, kamqonlik, toshlar, sirroz) bosqichlardan iborat»"
+  },
+  {
+   "q": "O'tkir bosqichda qaysi belgilar kuzatiladi?",
+   "c": "Isitma, ko'ngil aynishi, jigar kattalashishi, kuchli og'riq",
+   "w": [
+    "Sariqlik, kamqonlik, pankreatit va o't toshlari",
+    "Xurujsimon og'riq va yog'li ovqatga chidamsizlik",
+    "Jigar sirrozi, xolesistit va o't yo'llari to'silishi",
+    "Temir tanqisligi kamqonligi va intermittent og'riq"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti bu jarayon jigar hujayralari yo'q qilinishi va ichki qon ketishga olib kelishini; belgilar isitma, ko'ngil aynishi, jigar kattalashishi, teri toshmalari va kuchli qorin og'rig'ini o'z ichiga olishi mumkinligini ta'kidlaydi»"
+  },
+  {
+   "q": "Eozinofiliya qaysi bosqichda ayniqsa yuqori bo'ladi?",
+   "c": "O'tkir bosqichda",
+   "w": [
+    "Surunkali bosqichda",
+    "Inkubatsion davrda",
+    "Belgisiz davrda",
+    "Klinik fazalarda"
+   ],
+   "x": "«Umumiy qon tahlilida eozinofiliya (ayniqsa o'tkir bosqichda), kamqonlik, leykotsitoz; biokimyoda jigar fermentlari (ALT, AST), gamma-glutamiltransferaza va ishqoriy fosfataza oshishi, sariqlikda bilirubin oshishi mumkin»"
+  },
+  {
+   "q": "Surunkali bosqichda qaysi belgilar paydo bo'ladi?",
+   "c": "Xurujsimon og'riq, sariqlik, yog'li ovqatga chidamsizlik",
+   "w": [
+    "Isitma, teri toshmalari va eozinofiliya",
+    "Jigar yuzasining teshilishi va ichki qon ketish",
+    "Ichak devoridan o'tish va belgisizlik",
+    "Qorin pardadan o'tish va jigar xo'ppozi"
+   ],
+   "x": "«Bemorda o'ng qovurg'a ostida xurujsimon og'riq (o't koliki), sariqlik, ishtaha pasayishi, ko'ngil aynishi, yog'li ovqatga chidamsizlik kuzatiladi»"
+  },
+  {
+   "q": "Surunkali fassiolyozning asoratlari qaysilar?",
+   "c": "Xolangit, o't toshlari, pankreatit, jigar sirrozi",
+   "w": [
+    "Virusli gepatit, toksokaroz va exinokokkoz",
+    "Jigar xo'ppozi, opistorxoz va jigar o'smalari",
+    "Isitma, teri toshmalari va nafas qisilishi",
+    "Isitma va teri toshmalari bilan eozinofiliya"
+   ],
+   "x": "«Surunkali fassiolyozning asoratlari: o't yo'llarining torayishi va yallig'lanishi (xolangit), o't toshlari, o't yo'llarining to'silishi, xolesistit, pankreatit, jigar sirrozi, temir tanqisligi kamqonligi (chuvalchanglar qon bilan oziqlanishi tufayli)»"
+  },
+  {
+   "q": "Nima uchun fassiolyozda temir tanqisligi kamqonligi rivojlanadi?",
+   "c": "Chuvalchanglar qon bilan oziqlanadi",
+   "w": [
+    "Chuvalchanglar o't bilan oziqlanadi",
+    "Lichinkalar jigar hujayralarini yo'q qiladi",
+    "Eozinofiliya qon ketishga olib keladi",
+    "Tuxumlar ichak devorini teshadi"
+   ],
+   "x": "«Surunkali fassiolyozning asoratlari: o't yo'llarining torayishi va yallig'lanishi (xolangit), o't toshlari, o't yo'llarining to'silishi, xolesistit, pankreatit, jigar sirrozi, temir tanqisligi kamqonligi (chuvalchanglar qon bilan oziqlanishi tufayli)»"
+  },
+  {
+   "q": "O'tkir bosqichda ultratovush, KT va MRTda nima ko'rinadi?",
+   "c": "Jigar parenximasida o'choqli o'zgarishlar",
+   "w": [
+    "O't yo'llarining kengayishi",
+    "Jigar sirrozi va xolesistit",
+    "O't toshlari va pankreatit",
+    "Pankreatit va o't yo'llari to'silishi"
+   ],
+   "x": "«Ultratovush, KT va MRTda jigar parenximasida o'choqli o'zgarishlar (o'tkir bosqichda), o't yo'llarining kengayishi (surunkalida) ko'rinadi»"
+  },
+  {
+   "q": "JSST fassiolyozni triklabendazolning qaysi dozasi bilan davolashni tavsiya etadi?",
+   "c": "10 mg/kg yagona dozada",
+   "w": [
+    "20 mg/kg yagona dozada",
+    "10 mg/kg ikki bo'lib",
+    "20 mg/kg ikki bo'lib",
+    "12 mg/kg yagona dozada"
+   ],
+   "x": "«Fassiolyoz davolanadigan kasallik: Jahon sog'liqni saqlash tashkiloti fassiolyozni triklabendazol bilan 10 mg/kg yagona dozada davolashni tavsiya etadi, davolash muvaffaqiyatsiz bo'lsa, doza 20 mg/kg ga ikki bo'lib 12–24 soat oralig'ida berilishi mumkin»"
+  },
+  {
+   "q": "Surunkali bosqichdagi o't yo'llari belgilari qaysi kasallikka o'xshaydi?",
+   "c": "O't tosh kasalligiga",
+   "w": [
+    "Virusli gepatitga",
+    "Exinokokkozga",
+    "Opistorxozga",
+    "Toksokarozga"
+   ],
+   "x": "«O'tkir bosqichda eozinofiliya va isitma boshqa gelmintozlarga ham xos; surunkali bosqichda o't yo'llari belgilari o't tosh kasalligiga o'xshaydi»"
+  },
+  {
+   "q": "Fassiolyozda belgisiz inkubatsion davrda lichinkalar nima qiladi?",
+   "c": "Ichak devoridan o'tib jigarga yetadi",
+   "w": [
+    "O't yo'llarida voyaga yetadi",
+    "Tuxum qo'ya boshlaydi",
+    "Jigar sirroziga olib keladi",
+    "Jigar hujayralarini yo'q qiladi"
+   ],
+   "x": "«Bu paytda lichinkalar ichak devoridan o'tib, jigarga yetib boradi»"
+  }
+ ]
+}

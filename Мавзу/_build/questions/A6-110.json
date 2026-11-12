@@ -1,0 +1,114 @@
+{
+ "110": [
+  {
+   "q": "Difillobotriazning asosiy laboratoriya tashxis usuli qaysi?",
+   "c": "Najasda tuxum topish",
+   "w": [
+    "Qonda B12 vitamini darajasini aniqlash",
+    "Ichak ultratovushi yoki rentgen o'tkazish",
+    "Mitoxondrial DNK ketma-ketligini aniqlash",
+    "Umumiy qon tahlilida eozinofiliya topish"
+   ],
+   "x": "«Asosiy laboratoriya usuli — najasda tuxum topish»"
+  },
+  {
+   "q": "Difillobotriaz tuxumi qanday tuzilgan?",
+   "c": "Oval, qopqoqchali, silliq qobiqli, sarg'ish-jigarrang",
+   "w": [
+    "Oval, qopqoqchali, bo'g'imli, sarg'ish-jigarrang",
+    "Rozetkasimon, qopqoqchali, silliq qobiqli, uzun",
+    "Bo'g'imli, skoleksli, silliq qobiqli, jigarrang",
+    "Uzun, qopqoqchali, yoriqli, sarg'ish-jigarrang"
+   ],
+   "x": "«Tuxumlar oval, qopqoqchali (operkulum), silliq qobiqli, sarg'ish-jigarrang, taxminan 60–75 × 40–50 mkm; qopqoqqa qarama-qarshi uchida kichik do'mboqcha bor»"
+  },
+  {
+   "q": "Tuxumlarni opistorx va fassiola tuxumlaridan ajratish uchun nimalar e'tiborga olinadi?",
+   "c": "Qopqoq, o'lchami va shakli",
+   "w": [
+    "Bo'g'imlar shakli va rozetkasi",
+    "Najas bilan chiqqan uzun tasma",
+    "Kamqonlik va B12 yetishmovchiligi",
+    "Mitoxondrial DNK ketma-ketligi"
+   ],
+   "x": "«Tuxumlarni boshqa trematoda tuxumlaridan (masalan, opistorx, fassiola) ajratish uchun qopqoq, o'lchami va shakli e'tiborga olinadi»"
+  },
+  {
+   "q": "Chiqqan chuvalchang bo'laklari laboratoriyada qanday saqlanadi?",
+   "c": "Fiziologik eritmada yoki spirtda",
+   "w": [
+    "Cho'ktirish va formalin–efir usulida",
+    "Ikra va jigar eritmasi",
+    "Najas va ikra aralashmasi",
+    "Najas va spirt eritmasi"
+   ],
+   "x": "«Laboratoriyada ular fiziologik eritmada yoki spirtda saqlanib, bo'g'imlarning shakli va bachadonining markaziy rozetkasimon tuzilishi bo'yicha tekshiriladi»"
+  },
+  {
+   "q": "Davolashdan keyin chiqqan chuvalchangda nima topilishi davolash samarasini ko'rsatadi?",
+   "c": "Ikki uzunasiga yoriqli skoleks",
+   "w": [
+    "Rozetkasimon bachadonli bo'g'im",
+    "Qopqoqchali tuxum va do'mboqcha",
+    "Mitoxondrial DNK ketma-ketligi",
+    "Bo'g'imlar zanjiri va ikra"
+   ],
+   "x": "«Davolashdan keyin chiqqan chuvalchangda skoleksni (ikki uzunasiga yoriqli) topish davolash samarasini ko'rsatadi»"
+  },
+  {
+   "q": "Difillobotriid turlarini ajratishda nima uchun molekulyar usullar qo'llanadi?",
+   "c": "Morfologik jihatdan ajratish qiyin",
+   "w": [
+    "Najas mikroskopiyasi sezgir emas",
+    "Tuxum shakli opistorx tuxumiga o'xshaydi",
+    "Bo'laklar saqlanmasdan tashlab yuboriladi",
+    "Davolash turlarga qarab farqlanadi"
+   ],
+   "x": "«dendriticum va boshqalar) morfologik jihatdan ajratish qiyin, shuning uchun mitoxondrial DNK ketma-ketligini aniqlash kabi molekulyar usullar qo'llanadi»"
+  },
+  {
+   "q": "Umumiy qon tahlilida difillobotriazda qanday o'zgarish bo'lishi mumkin?",
+   "c": "Megaloblast kamqonlik va B12 vitamini pasayishi",
+   "w": [
+    "MCV pasaygan kamqonlik va B12 oshishi",
+    "Jigar yetishmovchiligi va eozinofiliya",
+    "Zararli kamqonlik va ichak tutilishi",
+    "Opistorxoz va fassiola belgilari"
+   ],
+   "x": "«Umumiy qon tahlilida megaloblast kamqonlik (MCV oshgan) va B12 vitamini darajasi pasayishi mumkin; eozinofiliya yengil bo'ladi»"
+  },
+  {
+   "q": "Manfiy bir martalik natija nima uchun tashxisni istisno qilmaydi?",
+   "c": "Tuxum chiqishi turlicha bo'lishi mumkin",
+   "w": [
+    "Tuxum chiqishi bir martalik bo'ladi",
+    "Mikroskopiya bitta preparatda sezgir emas",
+    "Chuvalchang bo'laklari tashlab yuboriladi",
+    "Skoleks najas bilan chiqadi"
+   ],
+   "x": "«Manfiy natija, ayniqsa bir martalik, tashxisni to'liq istisno qilmaydi, chunki tuxum chiqishi turlicha bo'lishi mumkin; shubha kuchli bo'lsa, najas bir necha kun ketma-ket tekshiriladi»"
+  },
+  {
+   "q": "B12 yetishmovchiligi bo'lsa, bemorga nima beriladi?",
+   "c": "Vitamin qo'shimcha beriladi",
+   "w": [
+    "Najas qayta tekshiriladi",
+    "Ichak ultratovushi o'tkaziladi",
+    "Baliq iste'moli so'raladi",
+    "Oila a'zolari tekshiriladi"
+   ],
+   "x": "«B12 yetishmovchiligi bo'lsa, vitamin qo'shimcha beriladi»"
+  },
+  {
+   "q": "Davolashdan keyin tuxum yo'qolgani qachon tasdiqlanadi?",
+   "c": "Bir necha haftadan keyin najas tekshirilganda",
+   "w": [
+    "Davolashdan keyin chuvalchang yig'ilganda",
+    "Skoleksning chiqqani tekshirilganda",
+    "Najas bir necha kun ketma-ket tekshirilganda",
+    "Baliq iste'moli haqida so'ralganda"
+   ],
+   "x": "«Bir necha haftadan keyin najas qayta tekshirilib, tuxum yo'qolgani tasdiqlanadi»"
+  }
+ ]
+}

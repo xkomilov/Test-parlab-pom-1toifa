@@ -1,0 +1,338 @@
+{
+ "049": [
+  {
+   "q": "Leyshmanioz qo'zg'atuvchisi odamga qanday yo'l bilan o'tadi?",
+   "c": "Zararlangan urg'ochi chivinchalar chaqishi orqali",
+   "w": [
+    "Zararlangan bezgak chivinlari chaqishi orqali",
+    "Kemiruvchilar inlaridagi suv havzalari orqali",
+    "Tuxum rivojlanishi uchun qon so'rish orqali",
+    "Yarali bemor bilan o'choq hududida bo'lish orqali"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti leyshmaniya parazitlari zararlangan urg'ochi chivinchalar chaqishi orqali yuqishini va 90 dan ortiq chivincha turi parazitlarni tashishini ta'kidlaydi»"
+  },
+  {
+   "q": "Chivinchalar oddiy chivinlardan nimasi bilan farq qiladi?",
+   "c": "Kichik, tukli, tunda faol hasharotlar",
+   "w": [
+    "Kichik, tukli, kunduzi faol hasharotlar",
+    "Suvda rivojlanuvchi, tuksiz hasharotlar",
+    "Kichik, tukli, tunda faol bezgak chivinlari",
+    "Suvda rivojlanuvchi, tunda faol hasharotlar"
+   ],
+   "x": "«Bu tashuvchilar chivinchalar (Phlebotominae kenja oilasi) bo'lib, oddiy chivinlardan farq qiladi: ular kichik, tukli, tunda faol, ko'pincha ovozsiz uchadigan hasharotlar»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozining ayblangan tashuvchisi bo'lgan eudominant tur qaysi?",
+   "c": "Phlebotomus papatasi",
+   "w": [
+    "Phlebotomus sergenti",
+    "Phlebotomus major turi",
+    "Phlebotominae kenja oilasi",
+    "Phlebotomus eudominant oilasi"
+   ],
+   "x": "«Tadqiqotda zoonoz leyshmaniozning ayblangan tashuvchisi Phlebotomus papatasi eudominant, ya'ni juda ustun tur bo'lib qolgani aniqlangan»"
+  },
+  {
+   "q": "Chivincha lichinkalari qayerda rivojlanadi?",
+   "c": "Nam, organik moddaga boy quruq muhitda",
+   "w": [
+    "Suv ostida, organik moddaga boy muhitda",
+    "Suv havzalarida va bezgak chivinlari orasida",
+    "Quruq, organik moddasiz tosh yoriqlarida",
+    "Hayvon g'orlarida, suv havzalarida"
+   ],
+   "x": "«Chivincha lichinkalari suvda emas, nam, organik moddaga boy quruq muhitda — kemiruvchilar inlari, hayvon g'orlari, tosh yoriqlari, chiqindi to'plangan joylarda rivojlanadi»"
+  },
+  {
+   "q": "Nima uchun faqat urg'ochi chivincha qon so'radi?",
+   "c": "Tuxum rivojlanishi uchun qon kerak",
+   "w": [
+    "Lichinkalar qon bilan oziqlanishi kerak",
+    "Qon tanani tuk bilan qoplaydi",
+    "Qon qanotlarni ko'tarilgan holatda ushlaydi",
+    "Erkak chivinchalarda og'iz apparati bo'lmaydi"
+   ],
+   "x": "«Faqat urg'ochi chivincha qon so'radi, chunki tuxum rivojlanishi uchun qon kerak»"
+  },
+  {
+   "q": "Suv havzalarini quritish chivinchalarga qanday ta'sir qiladi?",
+   "c": "Chivinchalarga ta'sir qilmaydi",
+   "w": [
+    "Chivinchalar sonini keskin kamaytiradi",
+    "Lichinkalar rivojlanishini to'xtatadi",
+    "Urg'ochi chivinchalar qon so'ramaydi",
+    "Chivinchalarni bezgak chivinlariga aylantiradi"
+   ],
+   "x": "«Bu xususiyat ularni bezgak chivinlaridan keskin farqlaydi: suv havzalarini quritish chivinchalarga ta'sir qilmaydi»"
+  },
+  {
+   "q": "Surxondaryo tadqiqotida P. sergenti ulushi o'rtacha 5,4 foizdan qanchagacha oshgan?",
+   "c": "41,4 foizgacha",
+   "w": [
+    "90 foizgacha",
+    "50 foizgacha",
+    "14,4 foizgacha",
+    "2–3 foizgacha"
+   ],
+   "x": "«sergenti ulushi o'rtacha 5,4 foizdan 41,4 foizgacha sezilarli oshgan»"
+  },
+  {
+   "q": "Chivinchalarni yig'ish uchun qaysi usullardan foydalaniladi?",
+   "c": "Yopishqoq qog'oz va yorug'lik tuzoqlari",
+   "w": [
+    "Insektitsid purkash va ishlov berilgan to'rlar",
+    "Spirtda saqlash va mikroskop ostida aniqlash",
+    "Atrof-muhitni boshqarish va shaxsiy himoya",
+    "Spermatekalar va farinks tuzilishini o'lchash"
+   ],
+   "x": "«Entomologlar chivinchalarni yig'ish uchun yopishqoq qog'oz tuzoqlar, yorug'lik tuzoqlari va qo'lda tutish usullaridan foydalanadilar»"
+  },
+  {
+   "q": "Chivincha turi qaysi belgilar bo'yicha aniqlanadi?",
+   "c": "Boshning tuzilishi, farinks va spermatekalar",
+   "w": [
+    "Qanotlar holati va tuk qoplami tuzilishi",
+    "Tuxum soni va lichinka rivojlanish muddati",
+    "Kemiruvchi inlari soni va yoriqlar tuzilishi",
+    "Tanasi uzunligi va yorug'lik tuzoqlari soni"
+   ],
+   "x": "«Tutilgan chivinchalar spirtda saqlanib, mikroskop ostida tur aniqlanadi: tur belgilari boshning tuzilishi, ayniqsa tomoq (farinks) va og'iz apparati, urg'ochilarda spermatekalar tuzilishi bo'yicha belgilanadi»"
+  },
+  {
+   "q": "Tashuvchilar tarkibi, masalan P. sergenti ulushi oshsa, nima o'zgarishi mumkin?",
+   "c": "Kasallik shakllari nisbati o'zgaradi",
+   "w": [
+    "Chivincha lichinkalari suvda rivojlanadi",
+    "Kemiruvchilar inlari butunlay yo'qoladi",
+    "Urg'ochi chivinchalar tuxum qo'ymaydi",
+    "Bemorlar soni doimo o'zgarmaydi"
+   ],
+   "x": "«sergenti ulushining oshishi, kasallik shakllari nisbatini o'zgartirishi mumkin»"
+  }
+ ],
+ "050": [
+  {
+   "q": "Zoonoz teri leyshmaniozining infeksiya manbalari qayerda joylashadi?",
+   "c": "Tabiatda, yovvoyi va sinantrop hayvonlar orasida",
+   "w": [
+    "Odamlar orasida, aholi punktlaridagi bemorlarda",
+    "Chivinchalar lichinkalari orasida, nam inlarida",
+    "Immunitetsiz odamlar orasida, tasodifan zanjirga qo'shilganlarda",
+    "Yarali bemorlar terisida, ishlov berilgan to'rlarda"
+   ],
+   "x": "«Zoonoz teri leyshmaniozi hayvonlardan odamga o'tadigan kasallik, shuning uchun uning infeksiya manbalari tabiatda, ya'ni yovvoyi va sinantrop hayvonlar orasida joylashadi»"
+  },
+  {
+   "q": "Tabiiy o'choq qaysi uch qismdan iborat?",
+   "c": "Parazit, rezervuar hayvonlar va tashuvchi",
+   "w": [
+    "Parazit, bemor odam va chivinchalar",
+    "Rezervuar hayvonlar, odam va insektitsid",
+    "Tashuvchi, immunitetsiz odam va kemiruvchi",
+    "Kemiruvchilar, bezgak chivinlari va odam"
+   ],
+   "x": "«major), rezervuar hayvonlar (kemiruvchilar) va tashuvchi (P»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozining asosiy manbai kimlar?",
+   "c": "Cho'l kemiruvchilari",
+   "w": [
+    "Sinantrop uy hayvonlari",
+    "Chivinchalar lichinkalari",
+    "Immunitetsiz odamlar",
+    "Yarali bemorlar"
+   ],
+   "x": "«Zoonoz teri leyshmaniozining asosiy manbai — cho'l kemiruvchilari»"
+  },
+  {
+   "q": "Nima uchun kemiruvchilar qulay rezervuar hisoblanadi?",
+   "c": "Yirik koloniyalarda yashaydi, yil davomida ko'payadi",
+   "w": [
+    "Yirik koloniyalarda yashaydi, parazitga qarshi chidamsiz",
+    "Odam bilan birga koloniyalarda yashaydi",
+    "Parazitga butunlay chidamsiz bo'ladi",
+    "Parazitni tashimaydi va infeksiyani saqlamaydi"
+   ],
+   "x": "«Kemiruvchilar bir necha sababga ko'ra qulay rezervuar: ular yirik koloniyalarda yashaydi, inlarida chivinchalar lichinkalari rivojlanishi uchun qulay muhit (nam, organik moddaga boy, doimiy harorat) yaratadi; ularning yil davomida ko'payishi parazitni saqlab turadi; ular parazitga qarshi qisman chidamli bo'lishi va uzoq muddat infeksiyani tashishi mumkin»"
+  },
+  {
+   "q": "Zoonoz shaklda odam parazit aylanishida qanday o'rin tutadi?",
+   "c": "Tasodifiy xo'jayin",
+   "w": [
+    "Asosiy rezervuar xo'jayin",
+    "Doimiy tashuvchi chivinchalar",
+    "Asosiy infeksiya manbai",
+    "Kemiruvchilar o'rnini bosuvchi tashuvchi"
+   ],
+   "x": "«Zoonoz shaklda odam odatda tasodifiy xo'jayin: yarali bemor chivinchalarni zararlashi mumkin, ammo bu parazit aylanishida asosiy rol o'ynamaydi»"
+  },
+  {
+   "q": "Kemiruvchi in nima uchun muhim joy hisoblanadi?",
+   "c": "Chivinchalar ko'payadi va parazit saqlanadi",
+   "w": [
+    "Chivinchalar ko'payadi va parazit yo'qoladi",
+    "Odamlar yashaydi va parazit ko'payadi",
+    "Lichinkalar suvda rivojlanadi va ko'payadi",
+    "Kemiruvchilar yo'qoladi va o'choq susayadi"
+   ],
+   "x": "«Kemiruvchilar populyatsiyasi yil davomida o'zgaradi: yaxshi ozuqa va iqlim sharoitida ularning soni ortadi, parazit aylanishi kuchayadi va keyingi mavsumda odamlar orasida kasallik ko'payadi»"
+  },
+  {
+   "q": "Yaxshi ozuqa va iqlim sharoitida kemiruvchilar soni ortsa, nima bo'ladi?",
+   "c": "Parazit aylanishi kuchayadi",
+   "w": [
+    "Parazit aylanishi susayadi",
+    "Kasallik odamlar orasida kamayadi",
+    "Parazit aylanishi kuchayadi, o'choq susayishi",
+    "Kemiruvchilar qirilish davri boshlanadi"
+   ],
+   "x": "«Kemiruvchilar populyatsiyasi yil davomida o'zgaradi: yaxshi ozuqa va iqlim sharoitida ularning soni ortadi, parazit aylanishi kuchayadi va keyingi mavsumda odamlar orasida kasallik ko'payadi»"
+  },
+  {
+   "q": "Manba hayvonlardan parazitni izlash uchun qaysi a'zolardan material olinadi?",
+   "c": "Teri, quloq va ichki a'zolardan",
+   "w": [
+    "Quloq, teri va ichki a'zolar faolligi",
+    "Quloq, oyoq va tashuvchi chivinchalardan",
+    "Teri, quloq va chivincha ichagidan",
+    "Yara, quloq va in organik moddasidan"
+   ],
+   "x": "«Manba hayvonlarni aniqlash uchun zoolog va parazitologlar kemiruvchilarni tutadi, ularning teri, quloq va ichki a'zolaridan material oladi, bo'yalgan preparatlarda yoki kulturada, molekulyar usulda parazitni izlaydi»"
+  },
+  {
+   "q": "Manba hayvonlarda parazit qanday usullar bilan izlanadi?",
+   "c": "Bo'yalgan preparat, kultura va molekulyar usul",
+   "w": [
+    "Insektitsid purkash va atrof-muhitni boshqarish",
+    "Shaxsiy himoya va ishlov berilgan to'rlar",
+    "Odamlarni ko'chirish va yarali bemorlarni davolash",
+    "Epidemiologik xarita va hisobot tuzish"
+   ],
+   "x": "«Manba hayvonlarni aniqlash uchun zoolog va parazitologlar kemiruvchilarni tutadi, ularning teri, quloq va ichki a'zolaridan material oladi, bo'yalgan preparatlarda yoki kulturada, molekulyar usulda parazitni izlaydi»"
+  },
+  {
+   "q": "Manbani aniq bilish nimani belgilaydi?",
+   "c": "Kurash strategiyasi va choralari",
+   "w": [
+    "Parazit rivojlanish bosqichlari va davomiyligi",
+    "Odamlar immuniteti va bemorlar soni",
+    "Qurg'oqchilik davri va qirilish muddati",
+    "Kemiruvchilar koloniyasi hajmi va rangi"
+   ],
+   "x": "«Manbani aniq bilish kurash strategiyasini belgilaydi: agar manba kemiruvchilar bo'lsa, ularni nazorat qilish bilan o'choqni susaytirish mumkin»"
+  }
+ ],
+ "051": [
+  {
+   "q": "Teri leyshmaniozi tashxisi nega bir necha ma'lumotni birlashtirishni talab qiladi?",
+   "c": "Boshqa teri kasalliklariga o'xshab ketishi mumkin",
+   "w": [
+    "Yaralar faqat ochiq tana qismlarida bo'ladi",
+    "Parazit soni yarada doimo ko'p bo'ladi",
+    "Leyshmanin sinamasi hozirgi kasallikni ko'rsatadi",
+    "Chivinchalar faqat iliq oylarda faol bo'ladi"
+   ],
+   "x": "«Teri leyshmaniozi boshqa teri kasalliklariga — yiringli yaralar, sil, zamburug' infeksiyalari, teri o'smalariga o'xshab ketishi mumkin, shuning uchun diagnostika klinik, epidemiologik va laboratoriya ma'lumotlarini birlashtirishni talab qiladi»"
+  },
+  {
+   "q": "Epidemiologik anamnezda bemordan nima aniqlanadi?",
+   "c": "Bemor o'choq hududida bo'lgan yoki bo'lmaganini",
+   "w": [
+    "Yara chetidan namuna olingan yoki olinmaganini",
+    "Mikroskopda amastigotlar topilgan yoki topilmaganini",
+    "Serologik testlar ijobiy bo'lgan yoki bo'lmaganini",
+    "Davolash usuli parazit turiga mos kelgan yoki kelmaganini"
+   ],
+   "x": "«Tashxisning birinchi bosqichi — bemordan o'choq hududida bo'lgan-bo'lmagani so'rab olinadi»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozi odatda nimadan boshlanadi?",
+   "c": "Chaqish joyidagi kichik qizil tugundan",
+   "w": [
+    "Chaqish joyidagi chuqur nekroz yarasidan",
+    "Chetlari ko'tarilgan valiksimon yaradan",
+    "Qo'ldagi botiq po'stloqli yaradan",
+    "Ochiq tana qismidagi teri o'smasidan"
+   ],
+   "x": "«Zoonoz teri leyshmaniozi odatda chaqish joyida kichik qizil tugun (papula) sifatida boshlanadi, u kattalashib, ustida po'stloq bilan qoplangan yaraga aylanadi»"
+  },
+  {
+   "q": "Teri leyshmaniozi yarasi qanday ko'rinishga ega?",
+   "c": "O'rtasi chuqurroq, chetlari ko'tarilgan valiksimon",
+   "w": [
+    "O'rtasi ko'tarilgan, chetlari chuqurroq botiq",
+    "O'rtasi quruq, chetlari tekis chandiqli",
+    "O'rtasi po'stloqsiz, chetlari yallig'lanmagan",
+    "O'rtasi tugunli, chetlari nekrozli"
+   ],
+   "x": "«Yara o'rtasi chuqurroq, chetlari ko'tarilgan va valiksimon bo'ladi, ko'pincha ochiq tana qismlarida — yuz, qo'l, oyoqlarda joylashadi»"
+  },
+  {
+   "q": "Parazitologik tekshiruv uchun material yaraning qaysi qismidan olinadi?",
+   "c": "Yaraning chetidan, faol yallig'lanish zonasidan",
+   "w": [
+    "Yaraning o'rtasidan, nekroz zonasidan",
+    "Yaraning o'rtasidan, po'stloq ostidan",
+    "Yaraning atrofidagi sog' teri qismidan",
+    "Yaraning chetidan, tozalanmagan po'stloq ustidan"
+   ],
+   "x": "«Material yaraning chetidan, ya'ni faol yallig'lanish zonasidan, yara tozalangandan keyin olinadi: qirindi, aspirat yoki biopsiya»"
+  },
+  {
+   "q": "Yaradan olingan surtma qanday ishlanadi?",
+   "c": "Metanol bilan fiksatsiya qilinib, Giemza bilan bo'yaladi",
+   "w": [
+    "Metanol bilan bo'yalib, Giemza bilan fiksatsiya qilinadi",
+    "Quritilmay fiksatsiya qilinib, Giemza bilan bo'yaladi",
+    "Metanol bilan fiksatsiya qilinib, ozuqa muhitida ekiladi",
+    "Giemza bilan bo'yalib, metanol bilan yuviladi"
+   ],
+   "x": "«Buyum oynasiga surtma qilinadi, quritiladi, metanol bilan fiksatsiya qilinadi va Giemza bilan bo'yaladi»"
+  },
+  {
+   "q": "Mikroskopda yara materialida nimalar ko'rinadi?",
+   "c": "Makrofaglar ichida va tashqarisida amastigotlar",
+   "w": [
+    "Makrofaglar ichida va tashqarisida promastigotlar",
+    "Faqat makrofaglar tashqarisida promastigotlar",
+    "Makrofaglar yadrosida va kinetoplastida antitelolar",
+    "Chivinchalar tanasida va yaralarda amastigotlar"
+   ],
+   "x": "«Mikroskopda makrofaglar ichida va ular tashqarisida kichik dumaloq yoki oval amastigotlar, ularning yadro va kinetoplastlari ko'rinadi»"
+  },
+  {
+   "q": "Mikroskopiya manfiy, klinik shubha yuqori bo'lsa nima qilinadi?",
+   "c": "Material maxsus ozuqa muhitida ekiladi",
+   "w": [
+    "Serologik testlar asosiy deb hisoblanadi",
+    "Montenegro sinamasi bilan tasdiqlanadi",
+    "Leyshmanioz istisno qilinib, tekshiruv to'xtatiladi",
+    "Yara chetidan namuna olish to'xtatiladi"
+   ],
+   "x": "«Mikroskopiya manfiy bo'lsa va klinik shubha yuqori bo'lsa, material maxsus ozuqa muhitida ekilishi mumkin: promastigotlar o'sadi»"
+  },
+  {
+   "q": "PZR ning kultura va mikroskopiyadan afzalligi nimada?",
+   "c": "Turni aniqlash imkonini beradi",
+   "w": [
+    "Antitelolar past titrini aniqlaydi",
+    "O'tgan infeksiyani ko'rsatadi",
+    "Yara chetini fiksatsiya qiladi",
+    "Amastigotlarni bo'yash imkonini beradi"
+   ],
+   "x": "«Polimeraza zanjir reaksiyasi (PZR) yanada sezgir va turni aniqlash imkonini beradi: L»"
+  },
+  {
+   "q": "Leyshmanin teri sinamasi (Montenegro) nimani ko'rsatadi?",
+   "c": "O'tgan infeksiyani, hozirgi kasallikni emas",
+   "w": [
+    "Hozirgi kasallikni, o'tgan infeksiyani emas",
+    "Parazit turini va yaralar xususiyatini",
+    "Antitelolar past miqdori va turi",
+    "Yara chetidagi amastigotlar miqdorini"
+   ],
+   "x": "«Leyshmanin teri sinamasi (Montenegro sinamasi) ilgari qo'llangan, u o'tgan infeksiyani ko'rsatadi, hozirgi kasallikni emas»"
+  }
+ ]
+}

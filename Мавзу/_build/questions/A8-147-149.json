@@ -1,0 +1,338 @@
+{
+ "147": [
+  {
+   "q": "Parazitizm nima?",
+   "c": "Parazit xo'jayin hisobiga yashab, unga zarar yetkazadi",
+   "w": [
+    "Xo'jayin foyda oladi, parazit zarar ko'radi",
+    "Parazit ham, xo'jayin ham foyda ko'radi",
+    "Xo'jayin parazitning hisobiga yashaydi",
+    "Parazit xo'jayin ichida yashab o'ladi"
+   ],
+   "x": "«Parazitizm — parazit xo'jayin hisobiga yashab, unga zarar yetkazadigan yaqin munosabat; parazitlar ektoparazit va endoparazit, xo'jayinlar oxirgi, oraliq, tasodifiy bo'lishi mumkin»"
+  },
+  {
+   "q": "Oxirgi (definitiv) xo'jayinda parazit nima qiladi?",
+   "c": "Jinsiy yetilgan shaklga yetadi va ko'payadi",
+   "w": [
+    "Lichinka bosqichlari rivojlanadi",
+    "Parazitning manbai bo'lib xizmat qiladi",
+    "Odamda voyaga yetmaydi, lichinkalar ko'chib yuradi",
+    "Infeksiyani oxirgi xo'jayinga uzatmaydi"
+   ],
+   "x": "«Oxirgi (definitiv) xo'jayinda parazit jinsiy yetilgan shaklga yetadi va jinsiy ko'payadi»"
+  },
+  {
+   "q": "Exinokokk uchun oxirgi xo'jayinlar kimlar?",
+   "c": "Go'shtxo'r hayvonlar (itlar)",
+   "w": [
+    "O'txo'r hayvonlar",
+    "Hamma narsa yeydigan hayvonlar",
+    "Issiqqonli hayvonlar va qushlar",
+    "Tasodifiy oraliq xo'jayin — odam"
+   ],
+   "x": "«Exinokokk uchun oxirgi xo'jayinlar — go'shtxo'r hayvonlar (itlar), oraliq xo'jayinlar — o'txo'r va hamma narsa yeydigan hayvonlar; odam esa tasodifiy oraliq xo'jayin»"
+  },
+  {
+   "q": "Exinokokkda odam qaysi xo'jayin hisoblanadi?",
+   "c": "Tasodifiy oraliq xo'jayin",
+   "w": [
+    "Oxirgi (definitiv) xo'jayin",
+    "Rezervuar xo'jayin",
+    "Go'shtxo'r oxirgi xo'jayin",
+    "Hamma narsa yeydigan xo'jayin"
+   ],
+   "x": "«Exinokokkda odam tasodifiy oraliq xo'jayin bo'lib, infeksiyani oxirgi xo'jayinga uzatmaydi»"
+  },
+  {
+   "q": "Ankilostomalar xo'jayinda nimaga sabab bo'ladi?",
+   "c": "Surunkali ichak qon yo'qotilishiga",
+   "w": [
+    "Jinsiy yetilgan shaklga yetishiga",
+    "Immun javobdan qochishga",
+    "Ko'p tuxum qo'yishga",
+    "Fiksatsiya organlarining yo'qolishiga"
+   ],
+   "x": "«JSST ma'lumotiga ko'ra, tuproq gelmintlari xo'jayin to'qimalari, shu jumladan qon bilan oziqlanadi, bu temir va oqsil yo'qotilishiga olib keladi; ankilostomalar surunkali ichak qon yo'qotilishiga sabab bo'ladi»"
+  },
+  {
+   "q": "Qaysi parazitlar obligat parazitlarga misol bo'ladi?",
+   "c": "Askarida va qilbosh chuvalang",
+   "w": [
+    "Toksoplazma va bezgak plazmodiylari",
+    "Jigar so'rg'ichi va tsistitserklar",
+    "Uy pashshasi lichinkalari",
+    "Bit, burga va kana"
+   ],
+   "x": "«Haqiqiy parazitlar uchun parazitlik hayot tarzi majburiy bo'lib, ular obligat (askarida, qilbosh chuvalang, filyariyalar, trixinellalar) va fakultativ bo'ladi; fakultativ parazitlar erkin hayot kechiradi va faqat tashqi muhit sharoiti o'zgarganda parazitlikka o'tadi; soxta parazitlar (psevdoparazitlar) tasodifan boshqa tur organizmiga tushib, bir muncha vaqt yashashi va zarar yetkazishi mumkin (masalan, uy pashshasi lichinkalari odam ichagida); giperparazitlar esa parazitlarda yashaydi»"
+  },
+  {
+   "q": "Fakultativ parazitlar qanday yashaydi?",
+   "c": "Erkin hayot kechiradi",
+   "w": [
+    "Boshqa parazitlarda yashaydi",
+    "Tasodifan boshqa organizmga tushadi",
+    "Xo'jayin bilan doimiy aloqada bo'ladi",
+    "Xo'jayin ustida yashaydi"
+   ],
+   "x": "«Haqiqiy parazitlar uchun parazitlik hayot tarzi majburiy bo'lib, ular obligat (askarida, qilbosh chuvalang, filyariyalar, trixinellalar) va fakultativ bo'ladi; fakultativ parazitlar erkin hayot kechiradi va faqat tashqi muhit sharoiti o'zgarganda parazitlikka o'tadi; soxta parazitlar (psevdoparazitlar) tasodifan boshqa tur organizmiga tushib, bir muncha vaqt yashashi va zarar yetkazishi mumkin (masalan, uy pashshasi lichinkalari odam ichagida); giperparazitlar esa parazitlarda yashaydi»"
+  },
+  {
+   "q": "Toksoplazma va bezgak plazmodiylari endoparazitlarning qaysi guruhiga kiradi?",
+   "c": "Hujayra ichidagi parazitlar",
+   "w": [
+    "Bo'shliq ichidagi parazitlar",
+    "To'qimadagi parazitlar",
+    "Vaqtinchalik parazitlar",
+    "Doimiy parazitlar"
+   ],
+   "x": "«Xo'jayin bilan aloqa davomiyligiga ko'ra doimiy (askarida, tasmasimon chuvalanglar, bitlar) va vaqtinchalik parazitlar, joylashuviga ko'ra ektoparazitlar (bit, burga, kana) va endoparazitlar ajratiladi; endoparazitlar o'z navbatida bo'shliq ichidagi (askarida, qilbosh chuvalang), to'qimadagi (jigar so'rg'ichi, tsistitserklar) va hujayra ichidagi (toksoplazma, bezgak plazmodiylari) parazitlarga bo'linadi»"
+  },
+  {
+   "q": "Toksokaroz lichinkalari odamda qanday bo'ladi?",
+   "c": "Voyaga yetmaydi, ko'chib yuradi",
+   "w": [
+    "Jinsiy yetiladi va ko'payadi",
+    "Parazit populyatsiyasini qo'llab-quvvatlaydi",
+    "Infeksiyani oxirgi xo'jayinga uzatadi",
+    "Oxirgi xo'jayinda jinsiy ko'payadi"
+   ],
+   "x": "«Toksokaroz qo'zg'atuvchilari odamda voyaga yetmaydi, lichinkalar ko'chib yuradi»"
+  },
+  {
+   "q": "1862-yilda Davaine nimani ko'rsatgan?",
+   "c": "Askarida tuxumlarini yutish orqali yuqishni",
+   "w": [
+    "Parazitlar hayot sikli aniqlanishini",
+    "Qadimiy zararlanishlar tavsifini",
+    "Insoniyat parazitologiyasi tarixini",
+    "Ankilostomalar teri orqali yuqishini"
+   ],
+   "x": "«Parazitizm hodisasi uzoq vaqtdan beri o'rganiladi: Cox sharhida insoniyat parazitologiyasi tarixi, jumladan qadimiy zararlanishlar va parazitlar hayot sikli aniqlanishi tavsiflangan; masalan, 1862-yilda Davaine askarida tuxumlarini yutish orqali yuqishni ko'rsatgan»"
+  }
+ ],
+ "148": [
+  {
+   "q": "Taenia solium bilan ichak taeniozi qanday yuqadi?",
+   "c": "Zararlangan cho'chqa go'shtini yeyish",
+   "w": [
+    "Taenia solium tuxumlarini yutish",
+    "Ifloslangan suv va tuproq orqali",
+    "Qisqichbaqasimonlarni yeyish",
+    "Ichki a'zolarni itlarga berish"
+   ],
+   "x": "«solium bilan ichak taeniozi odam xom yoki yaxshi pishirilmagan zararlangan cho'chqa go'shtini yeganida yuz beradi, bu infeksiya kam klinik belgilar beradi»"
+  },
+  {
+   "q": "Sistitserkoz qanday yuz beradi?",
+   "c": "Tuxumlar yutilib, to'qimalarda lichinkalar rivojlanadi",
+   "w": [
+    "Lichinkalar oshqozonda ajraladi va po'st tashlaydi",
+    "Xom go'sht yeyilib, ichakda chuvalang rivojlanadi",
+    "Kistali ichki a'zolar itlarga beriladi",
+    "Qisqichbaqasimonlar yeyilib, lichinkalar rivojlanadi"
+   ],
+   "x": "«solium tuxumlari yutilsa (najas-og'iz yo'li, ifloslangan oziq-ovqat yoki suv orqali), odam to'qimalarida lichinkalar rivojlanadi — sistitserkoz»"
+  },
+  {
+   "q": "Trixinella lichinkalari o'n ikki barmoqli ichakda necha kunda voyaga yetadi?",
+   "c": "2 kunda",
+   "w": [
+    "5–7 kunda",
+    "5–6 kunda",
+    "44 kunda",
+    "61 kunda"
+   ],
+   "x": "«Lichinkalar oshqozonda ajraladi, o'n ikki barmoqli ichak shilliq qavatida to'rt marta po'st tashlab, 2 kunda voyaga yetadi, 5–7 kundan keyin urg'ochilar yangi lichinkalarni tug'a boshlaydi»"
+  },
+  {
+   "q": "Toxoplasma gondii bo'yicha mol go'shti kamida qaysi haroratgacha pishiriladi?",
+   "c": "63 °C gacha",
+   "w": [
+    "71 °C gacha",
+    "82 °C gacha",
+    "55 °C gacha",
+    "49 °C gacha"
+   ],
+   "x": "«Parazit go'shtda 49 °C da 5–6 daqiqada, 55 °C da 44 soniyada, 61 °C da 6 soniyada yo'qolishi mumkin; mol go'shti kamida 63 °C, cho'chqa, qiyma va yovvoyi hayvon go'shti 71 °C, parranda 82 °C gacha pishirilishi tavsiya etiladi»"
+  },
+  {
+   "q": "Muzlatishda to'qima kistalarini faolsizlantirish uchun qanday sharoit kerak?",
+   "c": "Kamida uch kun −20 °C",
+   "w": [
+    "Kamida 6 soniya 61 °C",
+    "Kamida 5–6 daqiqa 49 °C",
+    "Kamida 44 soniya −20 °C",
+    "Kamida uch kun 63 °C"
+   ],
+   "x": "«Muzlatishda to'qima kistalarini faolsizlantirish uchun kamida uch kun −20 °C kerak»"
+  },
+  {
+   "q": "Exinokokk bilan zararlanish asosan qanday yuz beradi?",
+   "c": "Parazit tuxumlarini yutish orqali",
+   "w": [
+    "Xom go'sht yeyish orqali",
+    "Kistali ichki a'zolarni yeyish orqali",
+    "Cho'chqa go'shtidagi sistitserklar orqali",
+    "Qisqichbaqasimonlarni yeyish orqali"
+   ],
+   "x": "«Exinokokk (Echinococcus) bilan zararlanish asosan go'shtni emas, balki parazit tuxumlarini yutishdan kelib chiqadi: odam ifloslangan oziq-ovqat, suv, tuproq yoki hayvon bilan bevosita aloqa orqali tuxumlarni yutadi»"
+  },
+  {
+   "q": "JSST kistik exinokokkoz uchun nimani tavsiya etadi?",
+   "c": "Itlarni gijjasizlantirish va so'yish joylari gigiyenasi",
+   "w": [
+    "Cho'chqalar erkin yurmasligi va go'sht nazorati",
+    "Kistali ichki a'zolarni itlarga berish",
+    "Xom jigar iste'moli va qisqichbaqasimonlar",
+    "Yaxshi pishirish va muzlatish choralari"
+   ],
+   "x": "«Shuning uchun kistali ichki a'zolar itlarga berilmasligi, so'yish joyida gigiyena saqlanishi muhim; JSST kistik exinokokkoz uchun itlarni gijjasizlantirish, so'yish joylari gigiyenasi va aholini o'qitishni tavsiya etadi»"
+  },
+  {
+   "q": "Trixinellyozga qaysi hayvonlar go'shti majburiy tekshiriladi?",
+   "c": "Cho'chqa, qobon, bo'rsiq, ayiq",
+   "w": [
+    "Qoramol, qo'y, tovuq, o'rdak",
+    "Qo'zi, mol, tovuq va o'rdak",
+    "O'rdak, qo'zi, tovuq va qoramol",
+    "Tovuq, qo'y, qoramol va ot"
+   ],
+   "x": "«Cho'chqa, qobon, bo'rsiq, ayiq va boshqa hammaxo'r va yirtqich hayvonlar go'shti trixinellyozga majburiy tekshiriladi: har bir hayvondan diafragma oyoqchalaridan 60 g dan ikkita namuna olinadi, kompressoriumdagi 24 kesimda bitta trixinella topilsa ham go'sht va mushakli submahsulotlar utilizatsiya qilinadi»"
+  },
+  {
+   "q": "Taeniozda najas skrining testlari (Kato–Katz) nimani qiladi?",
+   "c": "Tuxumni topadi, lekin tur aniqlamaydi",
+   "w": [
+    "Tur aniqlaydi va lichinkani topadi",
+    "Mushak biopsiyasida lichinkani topadi",
+    "Antitelolarni aniqlaydi",
+    "Eozinofiliyani aniqlaydi"
+   ],
+   "x": "«Taeniozda najas skrining testlari (Kato–Katz) tuxumni topadi, lekin tur aniqlamaydi»"
+  },
+  {
+   "q": "Xom jigar iste'moli qaysi kasallik xavfini tug'diradi?",
+   "c": "Toksokaroz bilan zararlanish",
+   "w": [
+    "Taeniozning cho'chqa go'shti shakli",
+    "Trixinelloz bilan zararlanish",
+    "Kistik exinokokkoz",
+    "Paragonimus bilan zararlanish"
+   ],
+   "x": "«JSST Paragonimus turlari bilan zararlanish qisqichbaqasimonlarni yeyish yoki ularni yeydigan hayvon, masalan, yovvoyi cho'chqa xom go'shtini iste'mol qilish natijasida ham bo'lishi mumkinligini yozgan»"
+  }
+ ],
+ "149": [
+  {
+   "q": "Baliq orqali yuqadigan trematodlarga qaysilar kiradi?",
+   "c": "Metagonimus, Opisthorchis, Clonorchis",
+   "w": [
+    "Anisakis, Dibothriocephalus, Diphyllobothrium",
+    "Anisakis va Dibothriocephalus",
+    "Diphyllobothrium va Dibothriocephalus",
+    "Anisakis va Diphyllobothrium"
+   ],
+   "x": "«Baliq orqali yuqadigan parazitlarga yumaloq chuvalanglar (Anisakis), tasmasimon chuvalanglar (Dibothriocephalus, ya'ni Diphyllobothrium) va trematodlar (Metagonimus, Opisthorchis, Clonorchis) kiradi»"
+  },
+  {
+   "q": "Difillobotrioz qaysi qo'zg'atuvchi bilan kelib chiqadi?",
+   "c": "Baliq tasmasimon chuvalangi",
+   "w": [
+    "Yumaloq chuvalang (Anisakis)",
+    "Mayda ichak trematodi (Metagonimus)",
+    "Opisthorchis trematodi",
+    "Clonorchis trematodi"
+   ],
+   "x": "«Difillobotrioz — baliq tasmasimon chuvalangi (Diphyllobothrium, hozirgi nomenklaturada Dibothriocephalus) keltirib chiqaradigan kasallik»"
+  },
+  {
+   "q": "Anizakiozda qanday belgilar namoyon bo'ladi?",
+   "c": "Ovqat hazm qilish yo'li va allergik belgilar",
+   "w": [
+    "Ovqat hazm qilish yo'li va kamqonlik belgilari",
+    "O'tkir belgilar va sayohat tarixi",
+    "Allergik belgilar va yumaloq chuvalanglar",
+    "Kam klinik belgilar va oqsil"
+   ],
+   "x": "«Anisakis lichinkalari bilan zararlanish xom yoki yaxshi pishmagan dengiz baligi orqali yuqadi va ham ovqat hazm qilish yo'li, ham allergik belgilar bilan namoyon bo'ladi»"
+  },
+  {
+   "q": "Metagonimus yokogawai tarqalishi qayerda ko'proq?",
+   "c": "Sharqiy Osiyoda ko'proq",
+   "w": [
+    "G'arbda ko'proq",
+    "Respublikada ko'proq",
+    "Mintaqalarda ko'proq",
+    "Osiyo mamlakatlarida kam"
+   ],
+   "x": "«Metagonimoz kasalliklar qatorida tilga olinadi, uning tarqalishi Sharqiy Osiyoda ko'proq»"
+  },
+  {
+   "q": "Trematodlar uchun JSST nechta Kato–Katz surtmasi tayyorlashni tavsiya etadi?",
+   "c": "2 ta Kato–Katz surtmasi",
+   "w": [
+    "20 ta Kato–Katz surtmasi",
+    "22 ta Kato–Katz surtmasi",
+    "3 ta Kato–Katz surtmasi",
+    "5 ta Kato–Katz surtmasi"
+   ],
+   "x": "«JSST trematodlar uchun najasda tuxum topish eng ko'p ishlatiladigan usul, ammo yengil zararlanishda sezgirligi past ekanini va 2 ta Kato–Katz surtmasi tayyorlash tavsiya etilishini yozgan»"
+  },
+  {
+   "q": "Osiyo mamlakatlarida baliq orqali yuqadigan parazitlar nega ko'proq uchraydi?",
+   "c": "Baliq asosiy oqsil manbai",
+   "w": [
+    "Sushi va sashimi mashhurligi oshgan",
+    "Muzlatilgan baliq savdosi qiyinlashgan",
+    "Baliq ichak-chavoqsiz saqlanadi",
+    "Xalqaro turizm va baliq savdosi"
+   ],
+   "x": "«Baliq orqali yuqadigan parazitlar Osiyo mamlakatlarida ko'proq uchraydi, chunki u yerda baliq asosiy oqsil manbai va xom baliq iste'moli keng tarqalgan»"
+  },
+  {
+   "q": "Baliq orqali yuqadigan har bir kasallik bo'yicha qaysi xabarnoma yuboriladi?",
+   "c": "058/u shoshilinch xabarnomasi",
+   "w": [
+    "121-son shoshilinch xabarnomasi",
+    "4-ilova shoshilinch xabarnomasi",
+    "6-ilova shoshilinch xabarnomasi",
+    "SanPiN shoshilinch xabarnomasi"
+   ],
+   "x": "«Epidemiologik jihatdan muhim kontingentlar — suv transporti ishchilari, o'rmon xo'jaligi xodimlari, havaskor va professional baliqchilar, baliqni qayta ishlovchi korxona ishchilari; har bir kasallik bo'yicha 058/u shoshilinch xabarnomasi yuboriladi va DSENM veterinariya xizmatini xabardor qiladi»"
+  },
+  {
+   "q": "Import qilinayotgan baliq mahsulotlari nimaga asoslanib baholanadi?",
+   "c": "Ishlab chiqaruvchi va eksport qiluvchi davlat sertifikatlari",
+   "w": [
+    "Xalqaro turizm va muzlatilgan baliq savdosi",
+    "Sushi, sashimi, seviche va karpachcho mashhurligi",
+    "Baliqni ichak-chavoqsiz saqlash natijalari",
+    "Havaskor va professional baliqchilar xulosasi"
+   ],
+   "x": "«Import qilinayotgan baliq mahsulotlari ishlab chiqaruvchi va eksport qiluvchi davlat sertifikatlari asosida baholanadi, laboratoriya tekshiruvlari esa akkreditatsiyadan o'tgan DSENM, Davlat veterinariya xizmati va boshqa tashkilot laboratoriyalarida o'tkaziladi»"
+  },
+  {
+   "q": "Baliq orqali yuqadigan gelmintozlar tashxisi nimaga asoslanadi?",
+   "c": "Najasda tuxum yoki bo'laklarni topish",
+   "w": [
+    "Mushak biopsiyasida lichinkani topish",
+    "Boshqa sabablarni istisno qilish",
+    "Tasvirlash orqali jarrohlikni istisno qilish",
+    "Najasda lichinkalarni topish yoki jarrohlik"
+   ],
+   "x": "«Baliq orqali yuqadigan gelmintozlar tashxisi ko'pincha bemor najasida parazit bosqichlarini (tuxum yoki tasmasimon chuvalang bo'laklarini) topishga asoslanadi; ba'zan boshqa sabablarni va keraksiz jarrohlikni istisno qilish uchun tasvirlash kerak bo'ladi»"
+  },
+  {
+   "q": "Baliq mahsulotlarida kurash choralari qanday yondashuvga asoslanadi?",
+   "c": "Kompleks-differensial yondashuvga asoslanadi",
+   "w": [
+    "Individual-differensial yondashuvga asoslanadi",
+    "Sertifikatlash va import yondashuviga asoslanadi",
+    "Ichak-chavoq yondashuviga asoslanadi",
+    "Baliqchilar yondashuviga asoslanadi"
+   ],
+   "x": "«Kurash choralari kompleks-differensial yondashuvga asoslanadi: baliqqa ishlov berishda belgilangan tartib bo'yicha gelmint qo'zg'atuvchilarini zararsizlantirish, sanitariya-gigiyenik va veterinariya-sanitariya ekspertizasi, parazitlardan tozalanganlik ko'rsatkichlari bo'yicha tibbiy-biologik va veterinariya tekshiruvlari hamda mahsulotni sertifikatlash»"
+  }
+ ]
+}

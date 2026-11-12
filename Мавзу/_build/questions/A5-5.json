@@ -1,0 +1,338 @@
+{
+ "100": [
+  {
+   "q": "Passiv aniqlashda zararlangan odam qanday topiladi?",
+   "c": "Bemor bo'g'imni topib murojaat qiladi",
+   "w": [
+    "Xavf guruhlari tekshiriladi",
+    "Go'sht manbasidan kelib chiqib izlanadi",
+    "So'rovnoma orqali tanlanadi",
+    "Najas tekshiruvidan o'tkaziladi"
+   ],
+   "x": "«Eng ko'p uchraydigan yo'l — bemor najasida yoki ichki kiyimida tasmasimon bo'g'imlarni topib, shifokorga murojaat qilishi»"
+  },
+  {
+   "q": "Passiv aniqlashning kamchiligi nima?",
+   "c": "Belgisizlar aniqlanmay qoladi",
+   "w": [
+    "Belgilari borlar aniqlanmay qoladi",
+    "Bo'g'im chiqarayotganlar qamrab olinmaydi",
+    "Xavf guruhlari qamrab olinadi",
+    "Oila a'zolari tekshirilmaydi"
+   ],
+   "x": "«Passiv aniqlash faqat belgilari bor (bo'g'im chiqarayotgan) odamlarni qamrab oladi, belgisizlari aniqlanmay qoladi»"
+  },
+  {
+   "q": "Faol aniqlashda qaysi guruh tekshiriladi?",
+   "c": "Xom go'sht iste'mol qiluvchilar",
+   "w": [
+    "Shifokorga murojaat qilganlar",
+    "Bo'g'im chiqarayotgan odamlar",
+    "Davolangan bemorlar",
+    "Ommaviy axborot vositalari"
+   ],
+   "x": "«Faol aniqlash uchun xavf ostidagi guruhlar tanlanadi: xom yoki yarim xom mol go'shti iste'mol qiluvchilar; teniarinxozli bemorning oila a'zolari va birga ovqatlanganlar; qassoblar, oshpazlar, go'sht bilan ishlovchilar; chorvadorlar; zararlangan go'sht manbasi aniqlangan joydagi aholi»"
+  },
+  {
+   "q": "Bu teskari yo'nalishdagi izlash nimani topishga imkon beradi?",
+   "c": "Taeniaz tashuvchilarni",
+   "w": [
+    "Zararlangan qoramollarni",
+    "Sistitserkli go'shtni",
+    "Xavf guruhlarini",
+    "Aholi punktlarini"
+   ],
+   "x": "«Bu teskari yo'nalishdagi izlash taeniaz tashuvchilarni topishga imkon beradi»"
+  },
+  {
+   "q": "Tuxum topilganda tur nimadan aniqlanadi?",
+   "c": "Bo'g'imdan",
+   "w": [
+    "Tuxumdan",
+    "Najasdan",
+    "Perianal qirindidan",
+    "So'rovnomadan"
+   ],
+   "x": "«deb yoziladi va tur bo'g'imdan aniqlanadi»"
+  },
+  {
+   "q": "So'rovnomaga ijobiy javob bergan shaxslar qayerga yuboriladi?",
+   "c": "Laboratoriya tekshiruviga",
+   "w": [
+    "Dispanser kuzatuviga",
+    "Veterinariya xizmatiga",
+    "Hisobdan chiqarishga",
+    "Ommaviy davolashga"
+   ],
+   "x": "«Savollarga ijobiy javob bergan shaxslar laboratoriya tekshiruviga yuboriladi»"
+  },
+  {
+   "q": "Zararlangan go'sht aniqlansa, nima qilinadi?",
+   "c": "Go'shtni kim iste'mol qilgani aniqlanadi",
+   "w": [
+    "Iste'molchilar xabardor qilinmaydi",
+    "Veterinar bilan hamkorlik to'xtatiladi",
+    "Ommaviy davolash o'tkaziladi",
+    "Najas tekshiruvi o'tkazilmaydi"
+   ],
+   "x": "«Zararlangan qoramol go'shti aniqlansa (go'sht ekspertizasida sistitserk topilsa), shu go'shtni kim iste'mol qilgani aniqlanadi: xo'jalik, bozor, do'kon, restoran»"
+  },
+  {
+   "q": "Davolashdan keyin yig'ilgan najasda nima izlanadi?",
+   "c": "Skoleks",
+   "w": [
+    "Tuxum",
+    "Perianal qirindi",
+    "Koproantigen",
+    "Bo'g'imlar soni"
+   ],
+   "x": "«Davolashdan keyin najas yig'ilib, skoleks izlanadi va xavfsiz yo'qotiladi»"
+  },
+  {
+   "q": "Aholini xabardor qilish nima uchun muhim?",
+   "c": "Odamlar uyalmasdan murojaat qiladi",
+   "w": [
+    "Odamlar bo'g'imni tashlab yuboradi",
+    "Davolash maxfiy bo'lmaydi",
+    "Davolash xavfli bo'ladi",
+    "Bemorlar hisobdan chiqariladi"
+   ],
+   "x": "«Aholini xabardor qilish orqali odamlar bo'g'imlar chiqsa, uyalmasdan murojaat qiladi»"
+  },
+  {
+   "q": "Nazorat tekshiruviga bemorlar qachon chaqiriladi?",
+   "c": "2, 4 va 6 oyda",
+   "w": [
+    "Uch martalik manfiy natijadan keyin",
+    "2 oyda bir marta",
+    "4 oyda bir marta",
+    "6 oyda bir marta"
+   ],
+   "x": "«Davolangandan keyin bemorlar poliklinikaning yuqumli kasalliklar xonasida yoki hudud shifokori dispanser kuzatuvida bo'lib, 2, 4 va 6 oyda nazorat tekshiruviga chaqiriladi va uch martalik manfiy natijadan keyin hisobdan chiqariladi»"
+  }
+ ],
+ "101": [
+  {
+   "q": "Qaysi chora qo'llab-quvvatlovchi chora hisoblanadi?",
+   "c": "Sanitariyani yaxshilash",
+   "w": [
+    "Taeniazni davolash",
+    "Cho'chqalarni emlash",
+    "Go'sht ekspertizasi",
+    "Cho'chqachilikni takomillashtirish"
+   ],
+   "x": "«sanitariyani yaxshilash va ochiq defekatsiyani to'xtatish»"
+  },
+  {
+   "q": "Teniozda cho'chqalar bo'yicha qaysi chora zarur?",
+   "c": "Ularni yopiq joyda saqlash",
+   "w": [
+    "Ularni erkin boqib saqlash",
+    "Ularni nazoratsiz so'yish",
+    "Ularni ochiq yaylovda saqlash",
+    "Ularni odam najasiga qo'yish"
+   ],
+   "x": "«Teniozda cho'chqalarni erkin boqmaslik, ularni yopiq joyda saqlash, odam najasidan himoya qilish zarur»"
+  },
+  {
+   "q": "Eng oddiy va samarali shaxsiy profilaktika qaysi?",
+   "c": "Go'shtni yaxshilab pishirish",
+   "w": [
+    "Xom qiymani tatib ko'rish",
+    "Kabobni ichi xom qoldirish",
+    "Go'shtni nazoratsiz sotib olish",
+    "Xom go'sht bilan ishlagan qo'lni yuvmaslik"
+   ],
+   "x": "«Eng oddiy va samarali shaxsiy profilaktika — go'shtni yaxshilab pishirish»"
+  },
+  {
+   "q": "Go'sht qachon iste'molga chiqarilishi kerak?",
+   "c": "Veterinar nazoratdan o'tgan holda",
+   "w": [
+    "Ekspertizasiz so'yilgan holda",
+    "Uy so'yimida nazoratsiz holda",
+    "Nazoratdan chetda qolgan holda",
+    "Zararlangan holda"
+   ],
+   "x": "«Go'sht faqat veterinar nazoratdan o'tgan holda iste'molga chiqarilishi kerak»"
+  },
+  {
+   "q": "Yaylovlarda va fermalarda ishlovchilar uchun nima bo'lishi shart?",
+   "c": "Hojatxonalar",
+   "w": [
+    "Oqova suvni tozalash",
+    "Kanalizatsiya",
+    "Yaylov, o'tloq va sug'orish",
+    "Yaylov va o'tloq"
+   ],
+   "x": "«Yaylovlarda va fermalarda ishlovchilar uchun hojatxonalar bo'lishi, najas va oqova suvni yaylov, o'tloq va sug'orishda ishlatmaslik talab etiladi»"
+  },
+  {
+   "q": "Cho'chqalar zararlanishini nima oldini oladi?",
+   "c": "TSOL18 vaksinasi",
+   "w": [
+    "Oksfendazol bilan davolash",
+    "Praziquantel dozasi",
+    "Niclosamid dozasi",
+    "Albendazol dozasi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti cho'chqalar orasida yaxshi chorvachilik amaliyoti, TSOL18 vaksinasi bilan emlash va oksfendazol bilan davolashni qayd etadi: vaksina cho'chqalar zararlanishini oldini oladi, oksfendazol esa zararlanganlarni davolaydi»"
+  },
+  {
+   "q": "Oksfendazol cho'chqalarga nima qiladi?",
+   "c": "Zararlanganlarni davolaydi",
+   "w": [
+    "Zararlanishni oldini oladi",
+    "Go'sht ekspertizasini o'tkazadi",
+    "Ochiq defekatsiyani to'xtatadi",
+    "Sanitariyani yaxshilaydi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti cho'chqalar orasida yaxshi chorvachilik amaliyoti, TSOL18 vaksinasi bilan emlash va oksfendazol bilan davolashni qayd etadi: vaksina cho'chqalar zararlanishini oldini oladi, oksfendazol esa zararlanganlarni davolaydi»"
+  },
+  {
+   "q": "Taeniaz tashuvchi bemor nimadan saqlanishi kerak?",
+   "c": "Oziq-ovqat bilan ishlashdan",
+   "w": [
+    "Qo'l gigiyenasidan",
+    "Davolashdan",
+    "Kuzatuvdan",
+    "Hojatxonadan foydalanishdan"
+   ],
+   "x": "«Teniozda sistitserkoz xavfi bo'lgani uchun qo'shimcha choralar: taeniaz tashuvchi bemor oziq-ovqat bilan ishlamasligi; qo'l gigiyenasiga qat'iy rioya qilish; bemorning oila a'zolarini sistitserkozga tekshirish; shubhali neyrologik belgilar (tutqanoq) bo'lsa, neyrosistitserkozni istisno qilish»"
+  },
+  {
+   "q": "Neyrosistitserkozni qachon istisno qilish kerak?",
+   "c": "Neyrologik belgilar bo'lsa",
+   "w": [
+    "Go'sht yaxshi pishirilsa",
+    "Najasda bo'g'im ko'rilsa",
+    "Hojatxonadan foydalanilsa",
+    "Qo'l gigiyenasiga rioya qilinsa"
+   ],
+   "x": "«Teniozda sistitserkoz xavfi bo'lgani uchun qo'shimcha choralar: taeniaz tashuvchi bemor oziq-ovqat bilan ishlamasligi; qo'l gigiyenasiga qat'iy rioya qilish; bemorning oila a'zolarini sistitserkozga tekshirish; shubhali neyrologik belgilar (tutqanoq) bo'lsa, neyrosistitserkozni istisno qilish»"
+  },
+  {
+   "q": "Profilaktikaning eng samarali tomoni nima?",
+   "c": "Uning odatga aylanishi",
+   "w": [
+    "Uning vaksina bilan o'tkazilishi",
+    "Uning shifokorga murojaat qilishi",
+    "Uning nazoratdan chetda qolishi",
+    "Uning go'sht ekspertizasiga tayanishi"
+   ],
+   "x": "«Profilaktikaning eng samarali tomoni — uning odatga aylanishi: go'shtni to'liq pishirish, nazoratdan o'tgan go'sht sotib olish, qo'l yuvish va hojatxonadan foydalanish kundalik odat bo'lsa, taeniazlar tarqalishi keskin kamayadi»"
+  }
+ ],
+ "102": [
+  {
+   "q": "Odam uchun eng muhim ikki shakl qaysi?",
+   "c": "Kistoz va alveolyar",
+   "w": [
+    "Poliskistoz va unistitoz",
+    "Kistoz va poliskistoz",
+    "Alveolyar va unistitoz",
+    "Gidatid va neotropik"
+   ],
+   "x": "«Odam uchun eng muhim ikki shakl — kistoz va alveolyar»"
+  },
+  {
+   "q": "Alveolyar exinokokkozni qaysi tur qo'zg'atadi?",
+   "c": "E. multilocularis",
+   "w": [
+    "E. granulosus",
+    "E. vogeli",
+    "E. oligarthrus",
+    "Echinococcus turkumi"
+   ],
+   "x": "«multilocularis (alveolyar)»"
+  },
+  {
+   "q": "Voyaga yetgan E. granulosus qayerda yashaydi?",
+   "c": "Itning ingichka ichagida",
+   "w": [
+    "Odamning ingichka ichagida",
+    "Itning jigarida",
+    "Tulkining o'pkasida",
+    "Itning o'pkasida"
+   ],
+   "x": "«granulosus juda kichik (taxminan 3–7 mm), itning (va boshqa it oilasi vakillarining) ingichka ichagida yashaydi»"
+  },
+  {
+   "q": "Voyaga yetgan E. granulosus uzunligi qancha?",
+   "c": "Taxminan 3–7 mm",
+   "w": [
+    "Itning ichagi 3–7 mm",
+    "Bo'g'imi 3–4 mm",
+    "Skoleksi 5–10 mm",
+    "Tuxumi 5–15 mm"
+   ],
+   "x": "«granulosus juda kichik (taxminan 3–7 mm), itning (va boshqa it oilasi vakillarining) ingichka ichagida yashaydi»"
+  },
+  {
+   "q": "E. granulosus nechta bo'g'imdan iborat?",
+   "c": "3–4 bo'g'imdan",
+   "w": [
+    "3–7 bo'g'imdan",
+    "5–10 bo'g'imdan",
+    "5–15 bo'g'imdan",
+    "3–4 so'rg'ichdan"
+   ],
+   "x": "«U skoleks (kanchalar va to'rt so'rg'ichli) va 3–4 bo'g'imdan iborat»"
+  },
+  {
+   "q": "Exinokokk tuxumi ichida nima bor?",
+   "c": "Oltita kanchali onkosfera",
+   "w": [
+    "Qiz va nabira kistalari",
+    "Germinativ qatlam va suyuqlik",
+    "To'rt so'rg'ichli skoleks",
+    "Protoskolekslar va suyuqlik"
+   ],
+   "x": "«Tuxumlar kichik, dumaloq, qalin radial chiziqli qobiqli, ichida oltita kanchali lichinka (onkosfera) bor; ularni mikroskopda Taenia tuxumlaridan ajratib bo'lmaydi»"
+  },
+  {
+   "q": "It qanday zararlanadi?",
+   "c": "Kistali jigar va o'pkani yeganda",
+   "w": [
+    "Ifloslangan o'tlarni yeganda",
+    "Chuvalchang tuxumini yeganda",
+    "Kemiruvchilarni yeganda",
+    "Tulki najasini yeganda"
+   ],
+   "x": "«It oraliq xo'jayinning ichki a'zolarini (kistali jigar, o'pka) yeganda protoskolekslarni yutadi va ichakda voyaga yetgan chuvalchangga aylantiradi»"
+  },
+  {
+   "q": "Gidatid kista nimadan iborat?",
+   "c": "Qobiq, germinativ qatlam, suyuqlik",
+   "w": [
+    "Skoleks, so'rg'ichlar va kanchalar",
+    "Oltita kanchali lichinka va qobiq",
+    "Bo'g'imlar, skoleks va tuxumlar",
+    "Onkosfera, qiz kista va jigar"
+   ],
+   "x": "«Gidatid kista tashqi qalin (kutikulyar) qobiq, ichki germinativ qatlam va suyuqlikdan iborat; ichida skolekslar (protoskolekslar), qiz va nabira kistalari bo'ladi»"
+  },
+  {
+   "q": "Odam exinokokkozda qanday xo'jayin hisoblanadi?",
+   "c": "Tasodifiy oraliq xo'jayin hisoblanadi",
+   "w": [
+    "Definitiv xo'jayin hisoblanadi",
+    "It oilasi vakili hisoblanadi",
+    "Yirtqich hayvon hisoblanadi",
+    "Mayda kemiruvchi hisoblanadi"
+   ],
+   "x": "«Odam tuxum yutib zararlanadi va tasodifiy oraliq xo'jayin hisoblanadi»"
+  },
+  {
+   "q": "Alveolyar exinokokkoz qanday inkubatsion davrga ega?",
+   "c": "5–15 yillik belgisiz davrga",
+   "w": [
+    "3–7 yillik belgisiz davrga",
+    "3–4 yillik belgisiz davrga",
+    "5–10 yillik belgisiz davrga",
+    "50 yillik belgisiz davrga"
+   ],
+   "x": "«Bu shakl jigarda o'sma kabi infiltrativ o'sadi, 5–15 yillik belgisiz inkubatsion davrga ega va davolanmasa o'limga olib keladi»"
+  }
+ ]
+}

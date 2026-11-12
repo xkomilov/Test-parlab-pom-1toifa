@@ -1,0 +1,450 @@
+{
+ "060": [
+  {
+   "q": "Visseral leyshmanioz holati aniqlanganda epidemiologik tadbirlar maqsadi nima?",
+   "c": "Bemorni davolash, yuqish manbasi va yo'lini aniqlash",
+   "w": [
+    "Bemorni so'rash, hayvonlar nazorati va hujjatlashtirish",
+    "Faol qidiruv, aholini o'qitish va javobgarlarni belgilash",
+    "Bildirishnoma yuborish, bayonnoma yozish va muddatlarni belgilash",
+    "Chivinchalar zichligini baholash va ishlov o'tkazish"
+   ],
+   "x": "«Maqsad: bemorni davolash, yuqish manbasi va yo'lini aniqlash, o'choqni cheklash va yangi holatlarning oldini olish»"
+  },
+  {
+   "q": "Gumon qilingan yoki tasdiqlangan holat haqida kimga xabar beriladi?",
+   "c": "Sanitariya-epidemiologiya xizmatiga",
+   "w": [
+    "Yuqori idoraga va aholiga",
+    "Laboratoriya xodimiga va aholiga",
+    "Ma'lumotnoma markazi va yuqori idoraga",
+    "Aholi va shubhali odamlarga"
+   ],
+   "x": "«Tashxis qo'ygan shifokor yoki laboratoriya xodimi gumon qilingan yoki tasdiqlangan holat haqida belgilangan tartibda sanitariya-epidemiologiya xizmatiga xabar beradi»"
+  },
+  {
+   "q": "Bildirishnomada qaysi ma'lumotlar ko'rsatiladi?",
+   "c": "Bemor ma'lumotlari, tashxis va tasdiqlash usuli",
+   "w": [
+    "Hayvonlar nazorati, aholini o'qitish va muddatlar",
+    "Chivinchalar zichligi, ishlov va hisobot",
+    "Faol qidiruv, shubhali odamlar va tezkor testlar",
+    "Stasionar, davolash dori va yuqori idora"
+   ],
+   "x": "«Bildirishnomada bemor ma'lumotlari, tashxis, tasdiqlash usuli, kasallik boshlangan sana va yashash joyi ko'rsatiladi»"
+  },
+  {
+   "q": "Epidemiologik tadbirlarning birinchi vazifasi nima?",
+   "c": "Bemorning tezkor va to'liq davolanishini ta'minlash",
+   "w": [
+    "Bemorning yashash joyini hujjatlashtirishni ta'minlash",
+    "Aholining chivinchalardan himoyasini ta'minlash",
+    "Hayvonlar nazoratining samarasini ta'minlash",
+    "Laboratoriya natijalarining yuborilishini ta'minlash"
+   ],
+   "x": "«Epidemiologik tadbirlarning birinchi vazifasi bemorning tezkor va to'liq davolanishini ta'minlash»"
+  },
+  {
+   "q": "Epidemiolog nima sababdan bemorni chivinchalardan himoya qiladi?",
+   "c": "Bemor manba bo'lishi mumkin",
+   "w": [
+    "Bemor stasionarda davolanadi",
+    "Bemor tezkor testlar bilan tekshiriladi",
+    "Bemor faol qidiruvga qaratiladi",
+    "Bemor bayonnomada qayd etiladi"
+   ],
+   "x": "«Epidemiolog davolash o'tkazilayotganini nazorat qiladi va bemorni chivinchalardan himoya qilish choralarini ko'radi, chunki bemor manba bo'lishi mumkin»"
+  },
+  {
+   "q": "Nima sababdan faol qidiruv kasal bo'lganlarni topishga qaratiladi?",
+   "c": "Zararlanganlarning faqat kichik qismi kasal bo'ladi",
+   "w": [
+    "Barcha zararlanganlar kasallikni rivojlantiradi",
+    "Kasal bo'lganlarning faqat kichik qismi zararlanadi",
+    "Itlarning katta qismi belgisiz kasallanadi",
+    "Kasal bo'lganlar bayonnomada qayd etiladi"
+   ],
+   "x": "«parazit bilan zararlanganlarning faqat kichik qismi kasallikni rivojlantirishini ta'kidlaydi»"
+  },
+  {
+   "q": "Barcha tadbirlar bayonnomada qaysi ma'lumotlar bilan qayd etiladi?",
+   "c": "O'choq chegarasi, entomologik natijalar, o'tkazilgan ishlov",
+   "w": [
+    "Bemor ma'lumotlari, tashxis va tasdiqlash usuli",
+    "Faol qidiruv, aholi so'rovi va shubhali odamlar",
+    "Namunalar yetkazilishi, laboratoriya tahlili va xabar berish",
+    "Aholi so'rovi, tezkor testlar va entomologik natijalar"
+   ],
+   "x": "«Barcha tadbirlar bayonnomada qayd etiladi: o'choq chegarasi, topilgan boshqa holatlar, entomologik natijalar, o'tkazilgan ishlov, aholini o'qitish, javobgarlar va muddatlar»"
+  },
+  {
+   "q": "Laboratoriya va epidemiolog hamkorligida laborant nima qiladi?",
+   "c": "Ijobiy natijalarni darhol xabar qiladi",
+   "w": [
+    "Namunalarni to'g'ri yig'adi va yetkazadi",
+    "O'choqqa boradi va ishlov o'tkazadi",
+    "Hisobot topshiradi va muddatlarni belgilaydi",
+    "Bemorni stasionarda davolaydi"
+   ],
+   "x": "«Laborant tezkor testlar va serologik tahlillarni tez bajarishi, ijobiy natijalarni darhol xabar qilishi, epidemiolog esa namunalarni to'g'ri yig'ish va yetkazishni ta'minlashi kerak»"
+  },
+  {
+   "q": "Tadbirlarni o'z vaqtida o'tkazish uchun nima aniq belgilanadi?",
+   "c": "Mas'ul shaxslar va muddatlar",
+   "w": [
+    "Chivinchalar zichligi va muddatlar",
+    "Bemor ma'lumotlari va tasdiqlash usuli",
+    "Hayvonlar va mas'ul laboratoriya",
+    "Aholi so'rovi va ma'lumotnoma markazi"
+   ],
+   "x": "«Tadbirlarni o'z vaqtida o'tkazish uchun mas'ul shaxslar va muddatlar aniq belgilanadi: kim xabar beradi, kim o'choqqa boradi, kim namunalarni yetkazadi, kim ishlov o'tkazadi, kim hisobot topshiradi»"
+  },
+  {
+   "q": "Murakkab holatda xodimlar nima sababdan ma'lumotnoma markazi bilan maslahatlashadi?",
+   "c": "Kasallik kamdan-kam uchraydi",
+   "w": [
+    "Kasallik yuqori idoraga yuboriladi",
+    "Bemor stasionarda davolanmaydi",
+    "Laborant tezkor testni bajarmaydi",
+    "Epidemiolog namunalarni yetkazmaydi"
+   ],
+   "x": "«Kasallik kamdan-kam uchraydigani uchun xodimlar murakkab holatda ma'lumotnoma markazi bilan maslahatlashadi»"
+  }
+ ],
+ "061": [
+  {
+   "q": "Namangan viloyati Pop tumanidagi o'choqda tadqiqot kasallik haqida nimani ko'rsatdi?",
+   "c": "Zoonoz xarakterda ekanini",
+   "w": [
+    "Antroponoz xarakterda ekanini",
+    "Antroponoz o'choq ekanini",
+    "Epidemiologik belgilar yo'qligini",
+    "Phlebotomus alexandri tashuvchi ekanini"
+   ],
+   "x": "«Farg'ona vodiysidagi Namangan viloyati Pop tumanida visseral leyshmaniozning o'chog'ida o'tkazilgan epidemiologik va entomologik tadqiqot kasallikning klinik va epidemiologik belgilari uning zoonoz xarakterda ekanini va, ehtimol, Leishmania infantum bilan bog'liqligini ko'rsatganini, ammo parazit ajratib olinmagani sababli aniq tur xarakteristikasi o'tkazilmaganini bayon qilgan»"
+  },
+  {
+   "q": "Surxondaryo tadqiqotida Phlebotomus alexandri qanday tur sifatida topilgan?",
+   "c": "Ikkita punktda eudominant tur",
+   "w": [
+    "Ikkita punktda kamdan-kam uchraydigan tur",
+    "Barcha punktlarda eudominant tur",
+    "Ikkita punktda parazit ajratilgan tur",
+    "Ikkita punktda zoonoz tur"
+   ],
+   "x": "«Surxondaryo viloyatida chivinchalar tarkibini o'rgangan ish Phlebotomus alexandri visseral leyshmaniozning ehtimoliy tashuvchisi sifatida ikkita punktda eudominant bo'lganini qayd etgan»"
+  },
+  {
+   "q": "Visseral leyshmanioz O'zbekistonda qanday kasallik hisoblanadi?",
+   "c": "Kamdan-kam uchraydigan zoonoz kasallik",
+   "w": [
+    "Kamdan-kam uchraydigan antroponoz kasallik",
+    "Ko'p uchraydigan zoonoz kasallik",
+    "Ko'p uchraydigan antroponoz kasallik",
+    "Uchramaydigan zoonoz kasallik"
+   ],
+   "x": "«Bu ma'lumotlar visseral leyshmanioz O'zbekistonda mavjud, ammo kamdan-kam uchraydigan zoonoz kasallik ekaniga ishora qiladi»"
+  },
+  {
+   "q": "Odam manba bo'lgan hollarda manbani nima yo'qotadi?",
+   "c": "Erta aniqlash va to'liq davolash",
+   "w": [
+    "Mayda ko'zli to'rlardan foydalanish",
+    "Axlat va organik qoldiqlarni olib tashlash",
+    "Entomologik kuzatuv va xaritalash",
+    "Xodimlarni tayyorlash va yo'naltirish"
+   ],
+   "x": "«Odam manba bo'lgan hollarda (antroponoz o'choqlarda yoki PKDL da) bemorlarni erta aniqlash va to'liq davolash manbani yo'qotadi»"
+  },
+  {
+   "q": "Visseral leyshmaniozli bemorlarni davolash qayerda o'tkaziladi?",
+   "c": "Stasionarda o'tkaziladi",
+   "w": [
+    "Pop tumanida o'tkaziladi",
+    "Endemik hududda o'tkaziladi",
+    "Laboratoriyada o'tkaziladi",
+    "Chorva binolarida o'tkaziladi"
+   ],
+   "x": "«Davolash stasionarda o'tkaziladi»"
+  },
+  {
+   "q": "Chivinchalarga qarshi kurashga qaysi choralar kiradi?",
+   "c": "Insektitsid bilan ishlov berish, mayda ko'zli to'rlar",
+   "w": [
+    "Bemorlarni erta aniqlash, to'liq davolash",
+    "Rezervuar hayvonlarni nazorat qilish, kuzatuv",
+    "Xodimlarni tayyorlash, murakkab holatlarni yo'naltirish",
+    "Aholini o'qitish, ilmiy tadqiqotlar"
+   ],
+   "x": "«Chivinchalarga qarshi kurash o'choqlarda uy-joy va chorva binolari, kemiruvchi inlari va yoriqlarni insektitsid bilan ishlov berish, mayda ko'zli to'rlardan foydalanish, axlat va organik qoldiqlarni olib tashlash, shaxsiy himoya choralarini o'z ichiga oladi»"
+  },
+  {
+   "q": "Entomologik kuzatuv nima uchun muntazam bo'lishi kerak?",
+   "c": "Tashuvchilar tarkibi 50 yil ichida o'zgargan",
+   "w": [
+    "Tashuvchilar tarkibi 50 yil ichida o'zgarmagan",
+    "Rezervuar hayvonlar nazorati tugagan",
+    "Bemorlar stasionarda davolanmagan",
+    "Tezkor testlar endemik hududlarda yetarli"
+   ],
+   "x": "«Surxondaryo tadqiqoti tashuvchilar tarkibi 50 yil ichida o'zgarganini ko'rsatgan»"
+  },
+  {
+   "q": "Kasallik kam uchraganda tashxis nima sababdan kechikadi?",
+   "c": "Shifokorlar va laborantlar uni o'ylamasligi mumkin",
+   "w": [
+    "Tezkor testlar endemik hududlarda ko'p bo'ladi",
+    "Bemorlar uni o'ylamasligi mumkin",
+    "Chivinchalar tarkibi muntazam o'zgarib turadi",
+    "Rezervuar hayvonlar nazorat qilinmaydi"
+   ],
+   "x": "«Kasallik kamdan-kam uchragani uchun shifokorlar va laborantlar uni o'ylamasligi mumkin, bu esa tashxisni kechiktiradi»"
+  },
+  {
+   "q": "Tibbiyot xodimlarini tayyorlash qaysi ishni o'z ichiga oladi?",
+   "c": "Tezkor testlar va laboratoriya imkoniyatini ta'minlash",
+   "w": [
+    "Axlat va organik qoldiqlarni olib tashlash",
+    "Rezervuar hayvonlarni nazorat qilish",
+    "Mayda ko'zli to'rlardan foydalanish",
+    "Aholini o'qitish va ishlov berish"
+   ],
+   "x": "«Shu sababli xodimlarni tayyorlash, endemik hududlarda tezkor testlar va laboratoriya imkoniyatini ta'minlash, murakkab holatlarni yo'naltirish tartibini belgilash profilaktika choralarining tarkibiy qismi»"
+  },
+  {
+   "q": "Qaysi yangi tadqiqotlar tavsiya etiladi?",
+   "c": "Tur aniqlash va rezervuar hayvonlarni o'rganish",
+   "w": [
+    "Davolash stasionarda va hayvonlarni o'rganish",
+    "Tur aniqlash va tezkor testlarni almashtirish",
+    "Bemorlarni aniqlash va chivinchalarni o'rganish",
+    "Xodimlarni tayyorlash va aholini o'qitish"
+   ],
+   "x": "«Yangi tadqiqotlar, jumladan tur aniqlash va rezervuar hayvonlarni o'rganish, tavsiya etiladi»"
+  }
+ ],
+ "062": [
+  {
+   "q": "Noto'g'ri manfiy natija nimaga sabab bo'ladi?",
+   "c": "O'limga olib keladigan kechikishga",
+   "w": [
+    "Keraksiz va zaharli davolashga",
+    "Namunani qayta yetkazishga",
+    "Preparatni qayta tayyorlashga",
+    "Yaroqsiz namunani qayta yetkazishga"
+   ],
+   "x": "«Leyshmanioz tashxisi laboratoriya natijasiga tayanadi: noto'g'ri musbat natija keraksiz va og'ir (ko'pincha zaharli) davolashga, noto'g'ri manfiy natija esa bemor uchun o'limga olib keladigan kechikishga sabab bo'ladi, ayniqsa visseral shaklda»"
+  },
+  {
+   "q": "Tahlildan oldingi bosqichda nima bajariladi?",
+   "c": "Namunani to'g'ri olish, belgilash va yetkazish",
+   "w": [
+    "Preparatni tayyorlash, fiksatsiya va bo'yash",
+    "Natijani yozish, talqin qilish va xabar berish",
+    "Mikroskopiya, kultura va molekulyar usullar",
+    "Hujjatlashtirish, jurnalga yozish va baholash"
+   ],
+   "x": "«Tahlildan oldingi bosqich: bemorni to'g'ri tanlash, namunani to'g'ri joydan va to'g'ri usulda olish (teri yarasining faol chetidan qirindi yoki aspirat, ichki a'zolar aspirati), namunani belgilash va yetkazish»"
+  },
+  {
+   "q": "Tahlil bosqichiga nimalar kiradi?",
+   "c": "Fiksatsiya, bo'yash va mikroskopiya",
+   "w": [
+    "Bemorni tanlash va namunani belgilash",
+    "Natijani yozish va talqin qilish",
+    "Namunani yetkazish va jurnalga yozish",
+    "Xabar berish va hujjatlashtirish"
+   ],
+   "x": "«Tahlil bosqichi: preparatni tayyorlash, fiksatsiya, bo'yash, mikroskopiya, serologik testlarni bajarish, kultura va molekulyar usullar»"
+  },
+  {
+   "q": "Yozma standart protseduralar nimani belgilaydi?",
+   "c": "Namunani olishdan natijani yozishgacha barcha amallarni",
+   "w": [
+    "Reaktivlar yaroqlilik muddatini va partiya raqamini",
+    "Mikroskop obyektivlari va yorug'lik manbaini",
+    "Tashqi baholash dasturlarini va sinov namunalarini",
+    "Xodimlar himoya vositalarini va chiqindilarni"
+   ],
+   "x": "«Har bir tahlil uchun SOP namunani olishdan natijani yozishgacha barcha amallarni belgilaydi»"
+  },
+  {
+   "q": "Reaktivlar nazoratida nimalar tekshiriladi?",
+   "c": "Yaroqlilik muddati, saqlash harorati, partiya raqami",
+   "w": [
+    "Surtma qalinligi, hujayralar qatlami, fon tozaligi",
+    "Kontrol chiziqlari, musbat va manfiy kontrollar",
+    "Mikroskop obyektivi, yorug'lik manbai, mexanik stol",
+    "Jurnal, bemor kartasi, tuzatish choralari"
+   ],
+   "x": "«Bo'yoq, metanol, buferli suv, immersion moy, tezkor test to'plamlari sifatini nazorat qilish kerak: yaroqlilik muddati, saqlash harorati, partiya raqami, yangi partiyani eskisi bilan solishtirish»"
+  },
+  {
+   "q": "Tayyor preparat sifat mezonlariga qanday javob berishi kerak?",
+   "c": "Surtma yupqa va tekis, fon toza",
+   "w": [
+    "Surtma yupqa va tekis, bo'yoq cho'kmasi bor",
+    "Hujayra yadrolari noaniq bo'yalgan, fon toza",
+    "Faqat qon yoki detrit bo'lgan surtma",
+    "Hujayralar bir necha qatlamda, changli fon"
+   ],
+   "x": "«Tayyor preparat sifat mezonlariga javob berishi kerak: surtma yupqa va tekis, hujayralar bir qatlamda, bo'yoq cho'kmasi va changsiz, hujayra yadrolari aniq bo'yalgan, fon toza»"
+  },
+  {
+   "q": "Amastigotni boshqa tuzilmalardan ajratish uchun nima ko'rinishi kerak?",
+   "c": "Yadro va kinetoplast ikkalasi",
+   "w": [
+    "Faqat yadro, kinetoplastsiz",
+    "Kinetoplast va trombotsit ikkalasi",
+    "Trombotsit va bakteriyalar",
+    "Bo'yoq cho'kmasi va changsiz fon"
+   ],
+   "x": "«Amastigotlarni boshqa tuzilmalardan (trombotsitlar, bo'yoq cho'kmasi, bakteriyalar, hujayra bo'laklari) ajratish uchun yadro va kinetoplast ikkalasi ham ko'rinishi talab etiladi»"
+  },
+  {
+   "q": "Mikroskopik natijalar uchun eng samarali sifat vositasi nima?",
+   "c": "Mustaqil ikkinchi mutaxassis qayta ko'rib chiqishi",
+   "w": [
+    "Reaktiv partiyasini eskisi bilan solishtirish",
+    "Tashqi baholash dasturiga sinov namunalari yuborish",
+    "Preparatni ma'lumotnoma laboratoriyasiga yuborish",
+    "Jurnalni yuqori idoraga yuborish"
+   ],
+   "x": "«Mikroskopik natijalarni mustaqil ikkinchi mutaxassis tomonidan qayta ko'rib chiqish eng samarali sifat vositasi: barcha ijobiy preparatlar va salbiylarning bir qismi qayta ko'riladi, kelishmovchiliklar tahlil qilinadi»"
+  },
+  {
+   "q": "Molekulyar usulda (PZR) nima majburiy hisoblanadi?",
+   "c": "Kontaminatsiyadan himoya, musbat va manfiy kontrollar",
+   "w": [
+    "Kontrol chiziqlari, yaroqlilik muddati, saqlash sharoiti",
+    "Buferli suv pH 7,2 va toza metanol",
+    "Immersion moy va obyektiv tozaligi",
+    "Qo'lqop, o'tkir buyumlar uchun maxsus idish"
+   ],
+   "x": "«Molekulyar usullarda (PZR) kontaminatsiyadan himoya, musbat va manfiy kontrollar, reaktiv sifati majburiy»"
+  },
+  {
+   "q": "Tezkor serologik testlar uchun nimalar nazorat qilinadi?",
+   "c": "Kontrol, yaroqlilik muddati va saqlash sharoitlari",
+   "w": [
+    "Surtma yupqaligi, fon tozaligi va yadro aniqligi",
+    "Mexanik stol, yorug'lik manbai va obyektiv",
+    "Musbat kontrol, manfiy kontrol va reaktiv",
+    "Jurnal yozuvi, bemor kartasi va xavfsizlik"
+   ],
+   "x": "«Tezkor serologik testlar uchun kontrol, yaroqlilik muddati va saqlash sharoitlari nazorat qilinadi, natijalar boshqa usul bilan solishtiriladi»"
+  }
+ ],
+ "063": [
+  {
+   "q": "Davolangandan keyin kasallik qaytalanishi nima uchun mumkin?",
+   "c": "Dorilar parazitni to'liq chiqarmaydi",
+   "w": [
+    "Dorilar immun tizimni to'liq tiklaydi",
+    "Dorilar parazitni to'liq chiqaradi",
+    "Immun tizim sog'lom bo'ladi",
+    "Bemor ko'rikka kelmaydi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti dorilar parazitni tanadan to'liq chiqarmasligini va immun tizim sog'lom bo'lishini talab qilishini, shu sababli immunosupressiya yuz berganda kasallik qaytalanishi mumkinligini ta'kidlaydi»"
+  },
+  {
+   "q": "Dispanser kuzatuvining uchta asosiy maqsadi qaysi?",
+   "c": "Davolash samarasini tasdiqlash, qaytalanishni va PKDL ni aniqlash",
+   "w": [
+    "Ko'riklar chastotasi, bemor yoshi va OIV holatini aniqlash",
+    "Chivinchalarga ishlov, itlarni tekshirish va ro'yxatni qayta ko'rish",
+    "Bemor manzili, tashxis sanasi va davolash kursini yozish",
+    "Epidemiolog xabardor qilinishi, to'rlar va qaytaruvchi vositalar"
+   ],
+   "x": "«Birinchisi — davolash samarasini tasdiqlash: isitma yo'qolganini, taloq va jigar kichrayganini, qon ko'rsatkichlari tiklanganini aniqlash»"
+  },
+  {
+   "q": "Davolash samarasi tasdiqlanganda nimalar aniqlanadi?",
+   "c": "Isitma yo'qolgani, taloq va jigar kichrayganini",
+   "w": [
+    "Taloq kattalashgani, isitma qaytganini",
+    "Qon ko'rsatkichlari pasayganini, ozishni",
+    "Toshmalar paydo bo'lganini, kamqonlikni",
+    "Vazn yo'qolganini, qaytalanishni"
+   ],
+   "x": "«Birinchisi — davolash samarasini tasdiqlash: isitma yo'qolganini, taloq va jigar kichrayganini, qon ko'rsatkichlari tiklanganini aniqlash»"
+  },
+  {
+   "q": "OIV bilan yashovchilar uchun kuzatuv nima sababdan ayniqsa muhim?",
+   "c": "Ularda qaytalanish va o'lim xavfi yuqori",
+   "w": [
+    "Ularda qaytalanish va o'lim xavfi past",
+    "Ularda PKDL faqat kasalxonada uchraydi",
+    "Ularda kasallik qaytalanmaydi",
+    "Ularda dorilar parazitni chiqaradi"
+   ],
+   "x": "«OIV bilan yashovchilar uchun kuzatuv ayniqsa muhim, chunki ularda qaytalanish va o'lim xavfi yuqori»"
+  },
+  {
+   "q": "Bemor kasalxonadan chiqarilganda ma'lumotlari qayerga uzatiladi?",
+   "c": "Oilaviy poliklinika va sanitariya-epidemiologiya xizmatiga",
+   "w": [
+    "Infeksionist va pediatr hamda terapevt xizmatiga",
+    "Oilaviy shifokor va mahalla faollari xizmatiga",
+    "Epidemiolog va laborant hamda mahalla faollariga",
+    "Bemor oilasi va oilaviy shifokor ro'yxatiga"
+   ],
+   "x": "«Bemor kasalxonadan chiqarilganda uning ma'lumotlari yashash joyidagi oilaviy poliklinikaga va sanitariya-epidemiologiya xizmatiga uzatiladi»"
+  },
+  {
+   "q": "Kuzatuv davomida shifokor qaysi ko'rsatkichlarni tekshiradi?",
+   "c": "Tana harorati, vazn, taloq va jigar o'lchamlari",
+   "w": [
+    "Yashash joyi, manzil va tashxis sanasi",
+    "Davolash dori va chiqarilgan sana",
+    "Ko'rik sanalari va dori tanlovi",
+    "Chivinchalar mavsumi va itlar soni"
+   ],
+   "x": "«Kuzatuv davomida shifokor bemorni muntazam ko'radi: umumiy holat, tana harorati, vazn dinamikasi, taloq va jigar o'lchamlari, teri (PKDL toshmalari), kamqonlik belgilari»"
+  },
+  {
+   "q": "Qaytalanish gumon qilinganda tashxis qanday tasdiqlanadi?",
+   "c": "Aspirat mikroskopiyasi, kultura, PZR",
+   "w": [
+    "Tezkor test, vazn va harorat",
+    "Umumiy qon tahlili va biokimyo",
+    "Serologik tahlil va teri holati",
+    "Ko'rik sanasi va dori kursi"
+   ],
+   "x": "«Qaytalanish gumon qilinganda tashxis qayta tasdiqlanadi (aspirat mikroskopiyasi, kultura, PZR), sababi tahlil qilinadi: davolash to'liq o'tganmi, dori tanlovi to'g'rimi, immuniteti pasaymaganmi»"
+  },
+  {
+   "q": "Qaytalanish sababini tahlil qilganda nima aniqlanadi?",
+   "c": "Davolash to'liq o'tganmi, immuniteti pasaymaganmi",
+   "w": [
+    "Chivinchalar mavsumi o'tganmi, itlar tekshirilganmi",
+    "Bemor ro'yxatga olinganmi, manzili to'g'rimi",
+    "Itlar ham tekshirilganmi, ro'yxat to'g'rimi",
+    "Ko'rik sanasi belgilanganmi, telefon qilinganmi"
+   ],
+   "x": "«Qaytalanish gumon qilinganda tashxis qayta tasdiqlanadi (aspirat mikroskopiyasi, kultura, PZR), sababi tahlil qilinadi: davolash to'liq o'tganmi, dori tanlovi to'g'rimi, immuniteti pasaymaganmi»"
+  },
+  {
+   "q": "Kala-azardan keyingi teri leyshmaniozi toshmasi qayerda paydo bo'ladi?",
+   "c": "Yuz, qo'llarning yuqori qismi va tanada",
+   "w": [
+    "Taloq va jigar o'lchamlarida",
+    "Yuz, qo'llarning pastki qismi va tanada",
+    "Yuz, qo'llarning yuqori qismi va jigarda",
+    "Taloq, jigar va qo'llarning yuqori qismida"
+   ],
+   "x": "«PKDL toshmasi yuz, qo'llarning yuqori qismi va tanada dog'li, papulyoz yoki tugunli ko'rinishda paydo bo'ladi»"
+  },
+  {
+   "q": "Zoonoz o'choqlarda bemor atrofida kimlar tekshiriladi?",
+   "c": "Bemor atrofidagi itlar",
+   "w": [
+    "Bemor atrofidagi chivinchalar",
+    "Bemor atrofidagi bolalar",
+    "Bemor atrofidagi shifokorlar",
+    "Bemor atrofidagi laborantlar"
+   ],
+   "x": "«Zoonoz o'choqlarda bemor atrofidagi itlar ham tekshiriladi»"
+  }
+ ]
+}

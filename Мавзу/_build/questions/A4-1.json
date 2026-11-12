@@ -1,0 +1,114 @@
+{
+ "067": [
+  {
+   "q": "Anopheles chivinlari qayerda ko'payadi?",
+   "c": "Sekin oqadigan yoki turg'un toza suvda",
+   "w": [
+    "Kemiruvchilar inlari va chiqindilarda",
+    "Chorva binolaridagi go'ng va pichanda",
+    "Eski devorlar va tosh yoriqlarida",
+    "Nam soyali organik moddaga boy tuproqda"
+   ],
+   "x": "«Ularning ko'payish joylari odatda sekin oqadigan yoki turg'un, nisbatan toza, quyosh tushadigan suv havzalaridir»"
+  },
+  {
+   "q": "Phlebotomus lichinkalari qayerda rivojlanadi?",
+   "c": "Nam, soyali, organik moddaga boy tuproqda",
+   "w": [
+    "Sekin oqadigan nisbatan toza suvda",
+    "Ifloslangan organik moddaga boy suvda",
+    "Idishlardagi kichik suvda",
+    "Sholipoyalar va sug'oriladigan maydonlarda"
+   ],
+   "x": "«Phlebotomus chivinchalarining lichinkalari suvda emas, nam, soyali, organik moddaga boy tuproqda rivojlanadi»"
+  },
+  {
+   "q": "Culex chivinlari qanday suvda ko'payadi?",
+   "c": "Ifloslangan, organik moddaga boy suvda",
+   "w": [
+    "Sekin oqadigan nisbatan toza suvda",
+    "Idishlardagi kichik suvda",
+    "Daryo bo'ylaridagi zax o'tloqlarda",
+    "Botqoqliklar va tuproq chuqurliklaridagi suvda"
+   ],
+   "x": "«Kasalliklar bilan bog'liq bo'lmagan yoki boshqa kasalliklarni (masalan, filyariozni) tashiydigan Culex chivinlari ifloslangan, organik moddaga boy suvda ko'payadi: oqova suv, kanalizatsiya, ochiq ariqlar, chiqindi suv to'planadigan chuqurliklar»"
+  },
+  {
+   "q": "Aedes turkumi chivinlari qayerda ko'payadi?",
+   "c": "Gul kosasi, shinalar, bo'sh idishlarda",
+   "w": [
+    "Kemiruvchilar inlari va atrofidagi chiqindilarda",
+    "Oqova suv, kanalizatsiya, ochiq ariqlarda",
+    "Sekin oqadigan ariq va kanallarda",
+    "Chorva binolari go'ngida"
+   ],
+   "x": "«Aedes turkumi chivinlari esa idishlardagi kichik suvda (gul kosasi, shinalar, bo'sh idishlar) ko'payadi»"
+  },
+  {
+   "q": "Anopheles lichinkalarini boshqalardan ajratadigan belgi nima?",
+   "c": "Suv yuzasiga parallel joylashishi",
+   "w": [
+    "Lichinkalar soni va bosqichi",
+    "Yopishqoq tuzoqlarga tushishi",
+    "Maxsus cho'mich yoki to'r",
+    "Xavf darajasiga ko'ra tasniflanishi"
+   ],
+   "x": "«Anopheles lichinkalarini boshqalardan suv yuzasiga parallel joylashishi bilan ajratish mumkin»"
+  },
+  {
+   "q": "Chivinchalarga qarshi kurashda qaysi chora qo'llaniladi?",
+   "c": "Kemiruvchilar inlarini yo'qotish",
+   "w": [
+    "Ortiqcha suvlarni quritish yoki oqizish",
+    "Lichinkaxo'r baliqlardan foydalanish",
+    "Sug'orish tarmog'ini to'g'ri boshqarish",
+    "Ariq va kanallarni o'tlardan tozalash"
+   ],
+   "x": "«Chivinchalar uchun: kemiruvchilar inlarini yo'qotish; yoriqlarni mahkamlash; chorva binolarini tozalash va go'ngni olib tashlash; axlat va organik chiqindilarni tashish; xaroba binolarni ta'mirlash yoki buzish»"
+  },
+  {
+   "q": "Bezgak chivinlari lichinkalariga qarshi qaysi biologik vosita ishlatiladi?",
+   "c": "Lichinkaxo'r baliqlar",
+   "w": [
+    "Kemiruvchilar inlari",
+    "Yopishqoq tuzoqlar",
+    "Ishlov berilgan to'rlar",
+    "Tubsiz to'r qafaslar"
+   ],
+   "x": "«Bezgak chivinlari uchun: ortiqcha suvlarni quritish yoki oqizish; sug'orish tarmog'ini to'g'ri boshqarish (suv turg'unligi bo'lmasligi); ariq va kanallarni tozalash, o'tlardan ozod qilish; lichinkalarni yo'qotuvchi vositalar yoki lichinkaxo'r baliqlardan foydalanish; idishlarni yopish»"
+  },
+  {
+   "q": "Mavsum boshida ko'payish joylariga ishlov berish nima uchun samarali?",
+   "c": "Chivinlar sonining o'sishidan oldin bajariladi",
+   "w": [
+    "Sug'orish ishlari tugagandan keyin bajariladi",
+    "Yomg'irdan keyin suv quriganda bajariladi",
+    "Lichinkalar voyaga yetgandan keyin bajariladi",
+    "Kemiruvchilar faolligi pasayganda bajariladi"
+   ],
+   "x": "«Shuning uchun mavsum boshida (chivinlar sonining o'sishidan oldin) ko'payish joylariga ishlov berish eng samarali»"
+  },
+  {
+   "q": "Ishlov samarasi past bo'lsa nima qilinadi?",
+   "c": "Usul yoki vositalar o'zgartiriladi",
+   "w": [
+    "Ko'payish joylari xaritaga tushiriladi",
+    "Lichinkalar cho'mich bilan olinadi",
+    "Yopishqoq varaqlar almashtiriladi",
+    "Tozalash kunlari o'tkaziladi"
+   ],
+   "x": "«Samara past bo'lsa, usul yoki vositalar o'zgartiriladi»"
+  },
+  {
+   "q": "Ko'payish joylari aniqlangach ular bilan nima qilinadi?",
+   "c": "Ro'yxatga olinib, xaritaga tushiriladi",
+   "w": [
+    "Lichinkalar suv yuzasiga joylashtiriladi",
+    "Qafas-tuzoqlar pol ustiga o'rnatiladi",
+    "Sug'orish tarmog'i to'xtatiladi",
+    "Xaroba binolar ta'mirlanadi"
+   ],
+   "x": "«Topilgan joylar ro'yxatga olinib, xaritaga tushiriladi va xavf darajasiga ko'ra tasniflanadi»"
+  }
+ ]
+}

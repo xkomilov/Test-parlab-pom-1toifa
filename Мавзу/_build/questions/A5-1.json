@@ -1,0 +1,338 @@
+{
+ "085": [
+  {
+   "q": "Askaridozning erta davrida qaysi jarayon kuzatiladi?",
+   "c": "Lichinkalar jigar va o'pkaga ko'chadi",
+   "w": [
+    "Voyaga yetgan askaridalar ingichka ichakda joylashadi",
+    "Tuxumlar najas bilan ko'p miqdorda chiqadi",
+    "Askaridalar to'p bo'lib ichak yo'lini to'sadi",
+    "Chuvalchanglar o't yo'llariga kirib oladi"
+   ],
+   "x": "«Erta davr yutilgan tuxumdan chiqqan lichinkalar ichak devoridan o'tib, jigar va o'pkaga ko'chgan paytda boshlanadi va taxminan 1–2 hafta davom etadi»"
+  },
+  {
+   "q": "Erta davrda najasda tuxum topilmasligining sababi nimada?",
+   "c": "Chuvalchanglar hali voyaga yetmagan",
+   "w": [
+    "Lichinkalar jigar va o'pkaga ko'chmagan",
+    "Chuvalchanglar ichakdan tashqariga chiqqan",
+    "Allergik reaksiya kuchli rivojlangan",
+    "Najas mikroskopiyasi o'tkazilmagan"
+   ],
+   "x": "«Erta davrda najasda tuxum topilmaydi, chunki chuvalchanglar hali voyaga yetmagan»"
+  },
+  {
+   "q": "Erta davrning asosiy belgisi qaysi?",
+   "c": "Quruq yo'tal va nafas qisilishi",
+   "w": [
+    "Kindik atrofida xurujsimon qorin og'rig'i",
+    "Ishtaha buzilishi va qusish",
+    "Qorinning shishishi va so'lak oqishi",
+    "Bosh og'rig'i va uyqu buzilishi"
+   ],
+   "x": "«Asosiy belgilar: quruq yo'tal, ba'zan qon aralash balg'am, hushtaksimon nafas, nafas qisilishi, ko'krak qafasida noqulaylik, past darajali isitma, teri toshmasi, qichishish»"
+  },
+  {
+   "q": "Lyoffler sindromi nimani bildiradi?",
+   "c": "O'pkada rentgenda o'tkinchi infiltratlar",
+   "w": [
+    "Ichak tutilishining jarrohlik davosi",
+    "O't yo'llarida chuvalchang bo'lishi",
+    "Qorinda xurujsimon og'riq paydo bo'lishi",
+    "Teri toshmasi va qichishish"
+   ],
+   "x": "«O'pkada rentgenda o'tkinchi infiltratlar (Lyoffler sindromi) va qonda eozinofiliya bo'lishi mumkin»"
+  },
+  {
+   "q": "Kech davrda qorin og'rig'i qanday xarakterda bo'ladi?",
+   "c": "Kindik atrofida, xurujsimon",
+   "w": [
+    "Ko'krak qafasida, xurujsimon",
+    "O'pkada, xurujsimon",
+    "Ingichka ichakda, xurujsimon",
+    "Jigarda, xurujsimon"
+   ],
+   "x": "«Voyaga yetgan askaridalar ingichka ichakda joylashgach, belgilar ichak buzilishlari bilan namoyon bo'ladi: qorin og'rig'i (ko'pincha kindik atrofida, xurujsimon), ko'ngil aynishi, ishtaha buzilishi yoki oshishi, qusish, ich ketishi yoki ich qotishi, qorinning shishishi, so'lak oqishi»"
+  },
+  {
+   "q": "Eng og'ir asorat qaysi?",
+   "c": "Ichak tutilishi",
+   "w": [
+    "O'tkir appenditsit belgilari",
+    "Jigar xo'ppozi",
+    "O't pufagi koliksi",
+    "Bronxial astma"
+   ],
+   "x": "«Eng og'ir asorat — ichak tutilishi»"
+  },
+  {
+   "q": "Ichak tutilishida qanday belgi uchraydi?",
+   "c": "Gaz va najas chiqmasligi",
+   "w": [
+    "Past darajali isitma",
+    "Teri toshmasi va qichishish",
+    "Ishtahaning oshishi",
+    "Quruq yo'tal"
+   ],
+   "x": "«Belgilari: o'tkir qorin og'rig'i, qusish (ba'zan chuvalchang bilan), qorin shishishi, gaz va najas chiqmasligi»"
+  },
+  {
+   "q": "Qaysi yoshdagi bolalar askaridozdan eng ko'p zarar ko'radi?",
+   "c": "3–10 yosh",
+   "w": [
+    "1–2 yosh",
+    "5–7 yosh",
+    "11–15 yosh",
+    "20 yosh"
+   ],
+   "x": "«Bolalar (3–10 yosh) eng ko'p zarar ko'radi, chunki ular tuproq bilan ko'p aloqada bo'ladi va tanalari kichik, shuning uchun chuvalchanglar ichakni to'sib qo'yishi osonroq»"
+  },
+  {
+   "q": "Askaridoz bolalarda o'sishning buzilishiga nega olib keladi?",
+   "c": "Oziq moddalar so'rilishi yomonlashadi",
+   "w": [
+    "Erta davrda lichinkalar jigarga ko'chadi",
+    "Najasda tuxum soni kamayadi",
+    "Ichak yo'li chuvalchang bilan to'silmaydi",
+    "Allergik reaksiya kuchsiz bo'ladi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkilotiga ko'ra, tuproq gelmintlari xo'jayin oziq moddalarining so'rilishini yomonlashtiradi, ishtahani pasaytiradi, askarida esa ichakda A vitamini uchun raqobat qilishi mumkin; natijada bolalarda o'sish va jismoniy rivojlanish buziladi»"
+  },
+  {
+   "q": "Askaridozni davolash uchun qaysi dorilar qo'llanadi?",
+   "c": "Albendazol yoki mebendazol",
+   "w": [
+    "Albendazol yoki toksokaroz",
+    "Mebendazol yoki gastroduodenit",
+    "Strongiloidoz yoki ankilostomidoz",
+    "Lyambliyoz yoki appenditsit"
+   ],
+   "x": "«Askaridozni davolash uchun albendazol yoki mebendazol qo'llanadi»"
+  }
+ ],
+ "086": [
+  {
+   "q": "Askaridoz tashxisi nimaga asoslanadi?",
+   "c": "Najasda tuxumlarni aniqlashga",
+   "w": [
+    "Faqat klinik belgilarga",
+    "Klinik va qon o'zgarishlariga",
+    "Ultratovush va rentgen natijalariga",
+    "Epidemiologik anamnez ma'lumotlariga"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti tuproq gelmintlari bir xil tashxis usullarini talab qilishini va ularning tashxisi najasda tuxumlarni aniqlashga asoslanishini ko'rsatadi»"
+  },
+  {
+   "q": "Erta davrda najas tahlili nima uchun tashxis bermaydi?",
+   "c": "Najasda tuxum yo'q",
+   "w": [
+    "Najasda lichinkalar ko'p",
+    "Tuxumlar urug'lanmagan",
+    "Chuvalchang ichakda yo'q",
+    "Intensivlik past"
+   ],
+   "x": "«Askaridoz tashxisida davrni ham hisobga olish kerak: erta (ko'chish) davrda najasda tuxum yo'q, shuning uchun bu davrda tashxis boshqa belgilarga asoslanadi»"
+  },
+  {
+   "q": "Najas mikroskopiyasining asosiy usuli qaysi?",
+   "c": "To'g'ridan-to'g'ri surtma",
+   "w": [
+    "Kato–Katz usuli",
+    "Fyulleborn usuli",
+    "Formalin–efir usuli",
+    "Ultratovush tekshiruvi"
+   ],
+   "x": "«Yangi najasdan olingan material buyum oynasiga tomiziladi, fiziologik eritma yoki yod eritmasi bilan aralashtiriladi va mikroskopda ko'riladi (to'g'ridan-to'g'ri surtma)»"
+  },
+  {
+   "q": "Urug'langan askarida tuxumining qobig'i qanday?",
+   "c": "Qalin, bo'rtmali qobiqli",
+   "w": [
+    "Cho'ziqroq, yupqaroq, ichi donador",
+    "Yupqa, ichi donador, sarg'ish",
+    "Uzun, pushti-oq, silindrsimon",
+    "Sarg'ish-jigarrang, ichi donador"
+   ],
+   "x": "«Askarida tuxumi o'ziga xos: oval yoki yumaloq, qalin, bo'rtmali qobiqli, sarg'ish-jigarrang, ichida bitta hujayra»"
+  },
+  {
+   "q": "Tuxum kam bo'lsa qaysi usullar qo'llanadi?",
+   "c": "Boyitish usullari",
+   "w": [
+    "To'g'ridan-to'g'ri surtma",
+    "Qon tahlili usullari",
+    "Rentgen usullari",
+    "Biokimyoviy usullar"
+   ],
+   "x": "«Tuxumlar kam bo'lsa, boyitish usullari qo'llanadi: flotatsiya (yuqori zichlikdagi eritmada tuxumlar yuzaga chiqadi, masalan, Fyulleborn usuli), cho'ktirish (formalin–efir usuli)»"
+  },
+  {
+   "q": "Kato–Katz usuli nimani aniqlaydi?",
+   "c": "Najasning bir grammidagi tuxumlar sonini",
+   "w": [
+    "Najas bilan chiqqan chuvalchangni",
+    "Yuqori zichlikdagi eritmada tuxumlarni",
+    "Najasdagi lichinkalar sonini",
+    "Urug'langan tuxumlar sonini"
+   ],
+   "x": "«Zararlanish intensivligini aniqlash uchun Kato–Katz kabi miqdoriy usullar ishlatiladi, ular najasning bir grammidagi tuxumlar sonini (epg) beradi»"
+  },
+  {
+   "q": "Askaridozda og'ir zararlanish qaysi ko'rsatkichga mos?",
+   "c": "50 000 epg dan yuqori",
+   "w": [
+    "1–4999 epg",
+    "5000–49 999 epg",
+    "Najasda tuxum yo'q",
+    "50 000 epg dan past"
+   ],
+   "x": "«Askaridoz tashxisi najas mikroskopiyasida xarakterli tuxumlarni topishga asoslanadi; intensivlik Kato–Katz usuli bilan epg sifatida baholanadi (50 000 epg dan yuqori — og'ir)»"
+  },
+  {
+   "q": "Tarqalganlik 20 foizdan past hududlarda nima deyarli uchramaydi?",
+   "c": "Og'ir intensivlikdagi zararlanish",
+   "w": [
+    "Yengil intensivlikdagi zararlanish",
+    "O'rta intensivlikdagi zararlanish",
+    "Erta davrdagi zararlanish",
+    "Aralash infeksiya bo'lgan zararlanish"
+   ],
+   "x": "«Tadqiqotlar tarqalganlik 20 foizdan past bo'lgan hududlarda og'ir intensivlikdagi zararlanish deyarli uchramasligini ko'rsatgan»"
+  },
+  {
+   "q": "Eozinofiliya haqida qaysi fikr to'g'ri?",
+   "c": "Barcha gelmintozlarga xos va spesifik emas",
+   "w": [
+    "Faqat kech davrda uchraydi",
+    "Askaridozga xos va spesifik",
+    "Ichak tutilishining asosiy belgisi",
+    "Najas tuxum soniga bog'liq"
+   ],
+   "x": "«Umumiy qon tahlilida eozinofiliya va kamqonlik bo'lishi mumkin; biroq eozinofiliya barcha gelmintozlarga xos va spesifik emas»"
+  },
+  {
+   "q": "Ko'chish davrida bemorda najas tekshiruvi qachon takrorlanadi?",
+   "c": "Ikki-uch oy o'tgach",
+   "w": [
+    "Ikki-uch hafta o'tgach",
+    "Ikki-uch kun o'tgach",
+    "Davolashdan oldin",
+    "Davolashdan keyin"
+   ],
+   "x": "«Bunday bemorda ikki-uch oy o'tgach najas tekshiruvi takrorlanadi»"
+  }
+ ],
+ "087": [
+  {
+   "q": "Trixosefalyozning qo'zg'atuvchisi qaysi parazit?",
+   "c": "Trichuris trichiura",
+   "w": [
+    "Askarida",
+    "G'ajakboshlar",
+    "Trichuridae oilasi",
+    "Hookworm"
+   ],
+   "x": "«Trichuris trichiura — nematodalar sinfining Trichuridae oilasiga mansub parazit»"
+  },
+  {
+   "q": "Qilbosh chuvalchang qaysi hududlarda ko'proq uchraydi?",
+   "c": "Iliq va nam iqlimli hududlarda",
+   "w": [
+    "Iliq va quruq iqlimli hududlarda",
+    "Sanitariya yaxshi bo'lgan joylarda",
+    "Soyali va quruq hududlarda",
+    "Quruqlikka chidamli hududlarda"
+   ],
+   "x": "«Kasallik asosan iliq va nam iqlimli hududlarda, sanitariya yaxshi bo'lmagan joylarda uchraydi va bolalarda ko'proq kuzatiladi»"
+  },
+  {
+   "q": "Qilbosh chuvalchang nega qamchiga o'xshaydi?",
+   "c": "Old qismi ingichka, orqa qismi qalin",
+   "w": [
+    "Old qismi qalin, orqa qismi ingichka",
+    "Tanasi to'liq ipsimon cho'zilgan",
+    "Old qismi tuk singari, orqa qismi ingichka",
+    "Orqa uchi spiral shaklida buralgan"
+   ],
+   "x": "«Voyaga yetgan qilbosh chuvalchang uzunligi taxminan 3–5 sm; tanasining old (uzun, ingichka) qismi yo'g'on ichak shilliq qavatiga kirib turadi, orqa (qalin) qismi ichak bo'shlig'ida bo'ladi»"
+  },
+  {
+   "q": "Qilbosh chuvalchangning old qismi qayerga kirib turadi?",
+   "c": "Yo'g'on ichak shilliq qavatiga",
+   "w": [
+    "Ingichka ichak bo'shlig'iga",
+    "To'g'ri ichak bo'shlig'iga",
+    "O'pka to'qimasiga",
+    "Jigar to'qimasiga"
+   ],
+   "x": "«Voyaga yetgan qilbosh chuvalchang uzunligi taxminan 3–5 sm; tanasining old (uzun, ingichka) qismi yo'g'on ichak shilliq qavatiga kirib turadi, orqa (qalin) qismi ichak bo'shlig'ida bo'ladi»"
+  },
+  {
+   "q": "Qilbosh chuvalchang tuxumi qaysi shaklga ega?",
+   "c": "Bochkasimon (limonsimon)",
+   "w": [
+    "Qamchi singari ingichka",
+    "Soch singari ipsimon",
+    "Tuk singari cho'ziqroq",
+    "Spiral shaklida buralgan"
+   ],
+   "x": "«Trixosefalyoz qo'zg'atuvchisi — Trichuris trichiura; bochkasimon tuxumlari najas bilan chiqib, tuproqda taxminan 3 hafta yetiladi, odam yutgach ko'r va yo'g'on ichakda shilliq qavatga kirib voyaga yetadi»"
+  },
+  {
+   "q": "Najas bilan chiqqan tuxum infeksion bo'lishi uchun nima kerak?",
+   "c": "Tuproqda taxminan 3 hafta yetilishi",
+   "w": [
+    "Ko'r ichakda shilliq qavatga kirishi",
+    "Ichakda bir necha marta po'st tashlashi",
+    "Qon aylanish tizimiga o'tishi",
+    "Ingichka ichakda tuxumdan chiqishi"
+   ],
+   "x": "«Najas bilan chiqqan tuxum tuproqda yetilishi kerak»"
+  },
+  {
+   "q": "Tuxumlar uchun qaysi muhit eng qulay?",
+   "c": "Iliq, nam, soyali tuproq",
+   "w": [
+    "Quruq, quyoshli tuproq",
+    "Quruq, soyali tuproq",
+    "Iliq, quruq, quyoshli tuproq",
+    "Past haroratli suv"
+   ],
+   "x": "«Qilbosh chuvalchang tuxumlari uchun eng qulay muhit — iliq, nam, soyali tuproq; ular ayniqsa quruqlikka va past haroratga askarida tuxumlariga qaraganda kamroq chidamli»"
+  },
+  {
+   "q": "Askaridadan farqli ravishda lichinkalar nima qilmaydi?",
+   "c": "O'pka orqali ko'chmaydi",
+   "w": [
+    "Ichak shilliq qavatiga kirmaydi",
+    "Po'st tashlamaydi",
+    "Ingichka ichakda tuxumdan chiqmaydi",
+    "Tuproqda yetilmaydi"
+   ],
+   "x": "«Askaridadan farqli o'laroq, lichinkalar qon aylanish tizimi va o'pka orqali ko'chmaydi, ya'ni o'pka bosqichi yo'q»"
+  },
+  {
+   "q": "Tuxum qo'yishning boshlanishi uchun qancha vaqt kerak?",
+   "c": "Taxminan 2–3 oy",
+   "w": [
+    "Taxminan 1–2 hafta",
+    "Taxminan 3 hafta",
+    "Taxminan 5–7 yil",
+    "Taxminan 20–24 sutka"
+   ],
+   "x": "«Tuxum qo'yishning boshlanishi uchun taxminan 2–3 oy kerak, chuvalchang odamda bir necha yil yashashi mumkin»"
+  },
+  {
+   "q": "Surunkali qon yo'qotish nimaga olib keladi?",
+   "c": "Kamqonlikka",
+   "w": [
+    "Ichak shilliq qavati qizarishiga",
+    "Ikkilamchi bakterial infeksiyaga",
+    "Mayda qon ketishlarga",
+    "Temir va oqsil yo'qotilishiga"
+   ],
+   "x": "«Surunkali qon yo'qotish kamqonlikka olib keladi»"
+  }
+ ]
+}
