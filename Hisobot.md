@@ -13,7 +13,7 @@ To'g'ri javob eng uzun noto'g'ri javobdan 10% dan uzun: 260 ta savol (17,4%). He
 
 ## 4. Mavzu matnlari o'rtasidagi farqlar
 1. 009: «O'zbekistonda parazitologiya maktabi» bo'limida avvalgi qoralamadan qolgan buzilgan jumla bor ("Avvalgi qoralamada tilga olingan boshqa mahalliy olimlarning nomlari (masalan, N.M. Matchanov va Sh.M." jumlasi uzilgan). Savollar bu jumlaga tayanmagan; matnni tuzatish kerak.
-2. 002 va 003/004: gelmint turlari soni mavzular bo'yicha turlicha berilgan (250 dan ortiq tur va 287 tur). Savollarda har bir mavzu o'z matniga tayangan.
+2. 004: odamda parazitlik qiluvchi gelmint turlari soni bir mavzuning ichida turli manbalarga ko'ra 250 dan ortiq va 287 deb berilgan. Savolda faqat "250 dan ortiq" varianti ishlatilgan. Mavzular o'rtasidagi boshqa ziddiyatlar to'liq qo'lda solishtirilmagan.
 
 ## 5. Matndagi [tasdiqlanmagan] belgili faktlar
 `[tasdiqlanmagan ...]` shaklidagi belgi hech bir mavzuda topilmadi (079-mavzuda "tasdiqlanmagan" so'zi oddiy gap ichida uchraydi: homiladorlikda tasdiqlanmagan dori vositalari).
