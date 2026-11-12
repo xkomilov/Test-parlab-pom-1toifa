@@ -1,0 +1,226 @@
+{
+ "137": [
+  {
+   "q": "Ichak protozoylari tashxisi qaysi uch bosqichdan iborat?",
+   "c": "to'g'ri namuna olish, usulni qo'llash, talqin qilish",
+   "w": [
+    "namuna olish, fiksatsiya va sifat nazorati",
+    "usul tanlash, mikroskopiya va PCR",
+    "namuna saqlash, hisobot va o'qitish",
+    "mikroskopiya, konsentratsiya va immunologiya"
+   ],
+   "x": "«Tashxis uch bosqichdan iborat: to'g'ri namuna olish, tegishli usulni qo'llash va natijani talqin qilish»"
+  },
+  {
+   "q": "Ichakdan tashqari holatlarda najasdan tashqari qaysi namunalar kerak bo'lishi mumkin?",
+   "c": "qon zardobi yoki boshqa namunalar",
+   "w": [
+    "fiksatsiya qilingan nam surtma",
+    "formalin–efir cho'kmasi",
+    "sink sulfatli flotatsiya namunasi",
+    "ichak suyuqligi yoki ip"
+   ],
+   "x": "«Najas eng ko'p ishlatiladigan namuna, jigar xo'ppozi kabi ichakdan tashqari holatlarda esa qon zardobi yoki boshqa namunalar kerak bo'lishi mumkin»"
+  },
+  {
+   "q": "To'g'ridan-to'g'ri nam surtma nimaga imkon beradi?",
+   "c": "trofozoitlarning harakatini ko'rishga",
+   "w": [
+    "kistalar sonini oshirib, topish ehtimolini yaxshilashga",
+    "parazit DNKsini topib, turlarni farqlashga",
+    "yog' va ifloslikni ajratib, kistalarni saqlashga",
+    "antigenni aniqlab, turlarni farqlashga"
+   ],
+   "x": "«U fiziologik eritmada tayyorlanadi va trofozoitlarning harakatini ko'rishga imkon beradi»"
+  },
+  {
+   "q": "Faqat nam surtma bilan cheklanish nimaga olib keladi?",
+   "c": "ko'plab zararlangan odamlarni o'tkazib yuborishga",
+   "w": [
+    "kistalar sonini oshirib, topishni yaxshilashga",
+    "kistalar deformatsiyasini kamaytirishga",
+    "tur darajasida tasdiqlashga",
+    "ortiqcha davolashning oldini olishga"
+   ],
+   "x": "«faqat nam surtma bilan cheklanish ko'plab zararlangan odamlarni o'tkazib yuborishga olib keladi»"
+  },
+  {
+   "q": "Formalin–efir cho'ktirish usuli nimani ajratadi?",
+   "c": "yog' va boshqa ifloslikni",
+   "w": [
+    "trofozoitlarning harakatini",
+    "parazit DNKsini",
+    "kistalar deformatsiyasini",
+    "ichak suyuqligini"
+   ],
+   "x": "«Formalin–efir cho'ktirish usuli yog' va boshqa ifloslikni ajratadi»"
+  },
+  {
+   "q": "Bitta manfiy namuna nimani anglatadi?",
+   "c": "kasallikni istisno qilmaydi",
+   "w": [
+    "kasallikni tasdiqlaydi",
+    "tashxisni yakunlaydi",
+    "tur aniqligini beradi",
+    "namunalar soni kam bo'ladi"
+   ],
+   "x": "«Kistalar najas bilan notekis chiqadi, shuning uchun bitta manfiy namuna kasallikni istisno qilmaydi»"
+  },
+  {
+   "q": "Entero-Test qanday usul?",
+   "c": "ingichka ichakka yuboriladigan ip bilan namuna olish",
+   "w": [
+    "fiziologik eritmada nam surtma tayyorlash",
+    "formalin–efir cho'ktirish usuli",
+    "parazit DNKsini PCR bilan topish",
+    "antigenni immunologik aniqlash"
+   ],
+   "x": "«Oddiy usullar tashxisni tasdiqlay olmasa, ichak suyuqligi yoki Entero-Test (ingichka ichakka yuboriladigan ip bilan namuna olish) qo'llanishi mumkin»"
+  },
+  {
+   "q": "E. histolytica ni zararsiz turlardan ajratish uchun nima zarur?",
+   "c": "aniq tur uchun antigen yoki PCR zarur",
+   "w": [
+    "nam surtma yetarli, tur aniqlanmaydi",
+    "mikroskopiyada kista topilishi yetarli",
+    "formalin–efir cho'ktirish usuli yetarli",
+    "sink sulfatli flotatsiya usuli yetarli"
+   ],
+   "x": "«aniq tur uchun antigen yoki PCR zarur»"
+  },
+  {
+   "q": "Hisobotda nimalar ko'rsatiladi?",
+   "c": "namuna turi, usul, shakl, tur nomi va miqdori",
+   "w": [
+    "reaktivlar muddati va surtma tayyorlash tartibi",
+    "ikkinchi mutaxassis tekshiruvi va o'qitish",
+    "musbat preparatlarni saqlab qo'yish",
+    "sifat nazorati va takroriy o'qish"
+   ],
+   "x": "«Hisobotda namuna turi, tekshiruv usuli, topilgan shakl (kista yoki trofozoit), tur nomi va miqdori (masalan, ko'rish maydonida ko'p, kam) ko'rsatiladi»"
+  },
+  {
+   "q": "Tashxis sifati nimaga bog'liq?",
+   "c": "reaktivlar muddati va mikroskop holatiga",
+   "w": [
+    "bitta namuna va kechikkan tekshiruvga",
+    "antigen va PCR qimmatligiga",
+    "ko'rish maydonidagi miqdorga va tur nomiga",
+    "fiziologik eritma va formalin–efirga"
+   ],
+   "x": "«Tashxis sifati laboratoriyaning ichki nazoratiga bog'liq: reaktivlar muddati, mikroskop holati, surtmalarni tayyorlash tartibi va natijani ikkinchi mutaxassis tekshiruvi»"
+  }
+ ],
+ "138": [
+  {
+   "q": "T. gondii ning oxirgi xo'jayini kim?",
+   "c": "yagona oxirgi xo'jayin — mushuksimonlar",
+   "w": [
+    "oraliq xo'jayin — qushlar va sutemizuvchilar",
+    "yagona xo'jayin — odam va issiqqonli hayvonlar",
+    "oxirgi xo'jayin — barcha sutemizuvchilar",
+    "oxirgi xo'jayin — qushlar va odam"
+   ],
+   "x": "«gondii ning yagona oxirgi xo'jayini — mushuksimonlar, ular ichagida parazit hayot siklini yakunlaydi; barcha issiqqonli hayvonlar, shu jumladan sutemizuvchilar va qushlar, oraliq xo'jayin bo'lishi mumkin»"
+  },
+  {
+   "q": "Yuqish yo'llarini bilish nimani belgilaydi?",
+   "c": "profilaktika choralarini",
+   "w": [
+    "oxirgi xo'jayinni",
+    "muzlatish haroratini",
+    "laboratoriya xavfsizligini",
+    "ijtimoiy-iqtisodiy darajani"
+   ],
+   "x": "«Yuqish yo'llarini bilish profilaktika choralarini belgilaydi.»"
+  },
+  {
+   "q": "Muzlatish orqali kistalarni faolsizlantirish uchun nima kerak?",
+   "c": "kamida uch kun −20 °C",
+   "w": [
+    "kamida uch kun +20 °C",
+    "kamida uch kun −2 °C",
+    "kamida 20 kun −3 °C",
+    "kamida uch kun +2 °C"
+   ],
+   "x": "«Sharhda tuxum bo'lmagan to'qima kistalarini yo'qotish uchun muzlatish ishlatilishi mumkin: kistalarni faolsizlantirish uchun kamida uch kun −20 °C kerak»"
+  },
+  {
+   "q": "Muzlatishdan tashqari kistalarni faolsizlantiruvchi qaysi usullar bor?",
+   "c": "tuzlash va quritish",
+   "w": [
+    "pichoq va taxtani sovun bilan yuvish",
+    "sabzavotni sovun bilan yuvish",
+    "ko'zga tegmasdan oldin qo'l yuvish",
+    "mushuk najasidan saqlanish"
+   ],
+   "x": "«Tuzlash va quritish ham faolsizlantiruvchi usullar»"
+  },
+  {
+   "q": "Pichoq va taxtani sovun bilan yuvish nimani oldini oladi?",
+   "c": "o'zaro ifloslanishni",
+   "w": [
+    "latent kistalarning hosil bo'lishini",
+    "onadan bolaga o'tishni",
+    "oositalarning sporulyatsiyasini",
+    "kistalarni muzlatishni"
+   ],
+   "x": "«Xom go'sht bilan ishlashda pichoq, taxta va qo'llarni sovun bilan yuvish o'zaro ifloslanishning oldini oladi»"
+  },
+  {
+   "q": "Ko'zga tegmasdan oldin nima qilish foydali?",
+   "c": "qo'lni yuvish",
+   "w": [
+    "go'shtni muzlatish",
+    "pichoq va taxtani yuvish",
+    "sabzavotni yuvish",
+    "idish va taxtani yuvish"
+   ],
+   "x": "«Ko'zga tegmasdan oldin qo'lni yuvish ham foydali»"
+  },
+  {
+   "q": "Immuniteti zaif odamlarda toksoplazmoz qanday kechishi mumkin?",
+   "c": "og'ir kechishi mumkin",
+   "w": [
+    "onadan bolaga o'tishi mumkin",
+    "belgisiz kechishi mumkin",
+    "kamdan-kam uchrashi mumkin",
+    "past daromadli mamlakatlarda kechishi mumkin"
+   ],
+   "x": "«Immuniteti zaif odamlarda (masalan, OIV, transplantatsiya) toksoplazmoz og'ir kechishi mumkin»"
+  },
+  {
+   "q": "Toksoplazmoz qaysi mamlakatlarda ko'p uchraydi?",
+   "c": "past daromadli mamlakatlarda",
+   "w": [
+    "rivojlangan Yevropa mamlakatlarida",
+    "sanitariya yaxshi mamlakatlarda",
+    "oziq-ovqat nazorati yaxshi mamlakatlarda",
+    "ijtimoiy-iqtisodiy darajasi yuqori mamlakatlarda"
+   ],
+   "x": "«Al-Malki sharhida toksoplazmoz past daromadli mamlakatlarda ko'p, rivojlangan Yevropa mamlakatlarida kam uchrashi, shuning uchun uni yo'qotish aholining ijtimoiy-iqtisodiy darajasi oshmaguncha qiyin bo'lishi yozilgan»"
+  },
+  {
+   "q": "Laborant toksoplazmoz bilan ishlaganda nimaga amal qiladi?",
+   "c": "qo'lqop, himoya ko'zoynagi, xavfsiz yo'q qilish",
+   "w": [
+    "pichoq, taxta va idishni sovun bilan yuvish",
+    "sabzavot yuvish, go'sht pishirish va muzlatish",
+    "mushuk najasidan saqlanish va toza suv ichish",
+    "muzlatish, tuzlash va quritish qoidalari"
+   ],
+   "x": "«Shunga qaramay, qo'lqop, himoya ko'zoynagi va iflos materialni xavfsiz yo'q qilish qoidalariga amal qilish zarur»"
+  },
+  {
+   "q": "Profilaktika choralari nima uchun birgalikda qo'llanadi?",
+   "c": "har biri turli yuqish yo'lini to'xtatadi",
+   "w": [
+    "har biri bir xil yo'lni to'xtatadi",
+    "faqat qo'lni yuvish yetarli",
+    "ular laboratoriyada qo'llanadi",
+    "ular immuniteti zaif odamlarga kerak"
+   ],
+   "x": "«Ularning har biri turli yuqish yo'lini to'xtatadi, shuning uchun birgalikda qo'llanilganda samarali»"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "104": [
+  {
+   "q": "Exinokokkozni tashxislashda tanlov usuli qaysi?",
+   "c": "Ultratovush tekshiruvi (sonografiya)",
+   "w": [
+    "Ko'krak qafasi rentgenografiyasi tekshiruvi",
+    "Fermentga bog'langan immunosorbent tahlil",
+    "Diagnostik punksiya (pichoq bilan teshish)",
+    "Magnit-rezonans tomografiya tekshiruvi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti ultratovush tekshiruvi (sonografiya) ham kistoz, ham alveolyar exinokokkozni tashxislash uchun tanlov usuli ekanini, u odatda kompyuter tomografiya (KT) va/yoki magnit-rezonans tomografiya (MRT) bilan to'ldirilishi yoki tasdiqlanishini, kistalar tasodifan rentgenografiyada ham topilishi mumkinligini, spetsifik antitelolarni aniqlovchi serologik testlar tashxisga yordam berishini ta'kidlaydi»"
+  },
+  {
+   "q": "Exinokokkoz tashxisi shubhasi qaysi ma'lumotdan boshlanadi?",
+   "c": "Epidemiologik anamnezdan boshlanadi",
+   "w": [
+    "Kompyuter tomografiya natijasidan boshlanadi",
+    "Serologik testlar natijasidan boshlanadi",
+    "Parazitologik tasdiq natijasidan boshlanadi",
+    "Gistologik tekshiruv natijasidan boshlanadi"
+   ],
+   "x": "«Tashxis shubhasi epidemiologik anamnezdan boshlanadi: bemor chorvachilik hududida yashaganmi, qo'ylar yoki itlar bilan aloqa qilganmi, uy so'yimi bilan shug'ullanganmi, itlarga xom ichki a'zolar bergan-bermaganmi»"
+  },
+  {
+   "q": "Ultratovushda faol gidatid kista qanday ko'rinadi?",
+   "c": "Aniq chegaralangan, suyuqlik bilan to'lgan shakllanma",
+   "w": [
+    "Quyuqlashgan va kalsifikatsiyalangan shakllanma",
+    "Chegarasi aniq bo'lmagan, o'smasimon o'choq",
+    "Devori bo'lmagan, chegarasi aniq bo'lmagan o'choq",
+    "Ko'p kamerali, kalsifikatlari bor o'choq"
+   ],
+   "x": "«Faol kistalar suyuqlik bilan to'la, aniq devorli; noaktiv kistalar quyuqlashgan va kalsifikatsiyalangan»"
+  },
+  {
+   "q": "WHO-IWGE ultratovush tasnifi kistalarni qanday bosqichlarga ajratadi?",
+   "c": "Faol, o'tish va noaktiv bosqichlarga",
+   "w": [
+    "Kistoz, alveolyar va tarqoq bosqichlarga",
+    "Birlamchi, ikkilamchi va noaktiv bosqichlarga",
+    "Jigar, o'pka va boshqa a'zo bosqichlariga",
+    "Epidemiologik, serologik va parazitologik bosqichlarga"
+   ],
+   "x": "«WHO-IWGE ultratovush tasnifi kistalarni faol, o'tish va noaktiv bosqichlarga ajratadi va davolash usulini tanlashda foydalaniladi»"
+  },
+  {
+   "q": "MRT qaysi holatda ayniqsa foydali?",
+   "c": "O't yo'llari bilan aloqani baholashda",
+   "w": [
+    "Kista soni va o'lchami haqida ma'lumot berishda",
+    "O'pka kistalarida birinchi usul sifatida",
+    "Qo'shni a'zolarga ta'sirini aniqlashda",
+    "Exinokokk turi va genotipini aniqlashda"
+   ],
+   "x": "«KT kista soni, o'lchami, qo'shni a'zolarga ta'siri va kalsifikatsiyani aniq ko'rsatadi; MRT o't yo'llari bilan aloqani baholashda foydali»"
+  },
+  {
+   "q": "Nima uchun manfiy serologiya exinokokkozni istisno qilmaydi?",
+   "c": "Noaktiv kistada antitelolar bo'lmasligi mumkin",
+   "w": [
+    "Protoskolekslar mikroskopda topilgani sababli",
+    "Antitelolar jigar kistasida hosil bo'lmaydi",
+    "Testlar faqat alveolyar shaklni aniqlaydi",
+    "Kalsifikatsiyalangan kistani faol deb ko'rsatadi"
+   ],
+   "x": "«Serologiyaning cheklovlari: kista noaktiv yoki kalsifikatsiyalangan bo'lsa, antitelolar bo'lmasligi mumkin; o'pka va boshqa a'zo kistalarida sezgirlik jigarnikidan pastroq; boshqa gelmintozlar bilan o'zaro reaksiya mumkin»"
+  },
+  {
+   "q": "Diagnostik punksiya nima uchun ehtiyotkorlik bilan o'tkaziladi?",
+   "c": "Anafilaksiya va ikkilamchi tarqalish xavfi tufayli",
+   "w": [
+    "Eozinofiliya va jigar fermentlari o'zgarishi tufayli",
+    "Serologiya manfiy bo'lib qolishi tufayli",
+    "Kistaning kalsifikatsiyalanishi va quyuqlashishi tufayli",
+    "Ultratovush tasnifi standartlashtirilgani tufayli"
+   ],
+   "x": "«Biroq diagnostik punksiya (pichoq bilan teshish) kista suyuqligi to'kilishi, anafilaksiya va ikkilamchi tarqalish xavfi tufayli ehtiyotkorlik bilan, albendazol himoyasida va mutaxassis tomonidan o'tkaziladi (masalan, PAIR usuli doirasida)»"
+  },
+  {
+   "q": "PZR va genotiplash nimani aniqlashga imkon beradi?",
+   "c": "Exinokokk turi va genotipini",
+   "w": [
+    "Kista soni, o'lchami va joylashuvini",
+    "Jigar fermentlarining o'zgarishi",
+    "Sariqlikda bilirubin oshishi",
+    "Kista bosqichi va kalsifikatsiyasini"
+   ],
+   "x": "«PZR va genotiplash exinokokk turi va genotipini aniqlashga imkon beradi (E. granulosus genotiplari, E. multilocularis)»"
+  },
+  {
+   "q": "Kista suyuqligi sizganda umumiy qon tahlilida qanday o'zgarish kuzatiladi?",
+   "c": "Eozinofiliya kuzatilishi mumkin",
+   "w": [
+    "Bilirubin ko'rsatkichi oshishi mumkin",
+    "Jigar fermentlari pasayishi mumkin",
+    "Antitelolar ko'rsatkichi pasayishi mumkin",
+    "Protoskolekslar soni kamayishi mumkin"
+   ],
+   "x": "«Umumiy qon tahlilida eozinofiliya (kista suyuqligi sizganda), biokimyoda jigar fermentlarining o'zgarishi, sariqlikda bilirubin oshishi mumkin»"
+  },
+  {
+   "q": "Alveolyar exinokokkozda asosiy davolash elementlari qaysilar?",
+   "c": "Erta tashxis va radikal jarrohlik, so'ngra albendazol",
+   "w": [
+    "Erta tashxis, punksiya va qayta aspiratsiya",
+    "Serologiya, ultratovush va qayta aspiratsiya",
+    "Genotiplash, punksiya va kista aspiratsiyasi",
+    "Ultratovush, biopsiya va albendazol himoyasi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti alveolyar exinokokkozda erta tashxis va radikal (o'smaga o'xshash) jarrohlik so'ngra albendazol bilan davolash asosiy elementlar ekanini, afsuski ko'p bemorlarda kasallik kech bosqichda tashxislanishini ta'kidlaydi»"
+  },
+  {
+   "q": "Qaysi holat tashxis xatolariga kiradi?",
+   "c": "Bitta usulga tayanish",
+   "w": [
+    "Epidemiologik anamnezni baholash",
+    "Ko'rinish va serologiyani baholash",
+    "Mutaxassis tomonidan baholash",
+    "Kistani ultratovush bilan tekshirish"
+   ],
+   "x": "«Odatiy xatolar: jigar kistasini oddiy kista deb hisoblash va punksiya qilish (xavfli); serologiya manfiy bo'lganda exinokokkozni istisno qilish; o'pka kistasini sil yoki o'sma bilan adashtirish; faqat bitta usulga tayanish; epidemiologik anamnezni so'ramaslik»"
+  }
+ ]
+}

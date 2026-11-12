@@ -1,0 +1,450 @@
+{
+ "143": [
+  {
+   "q": "Sanitariya-gelmintologik nazoratning maqsadi nima?",
+   "c": "Atrof-muhit zararlanish manbai bo'lib qolayotganini aniqlash",
+   "w": [
+    "Odamlar orasidagi kasallarni topish va davolash",
+    "Namunalarni dalolatnoma va bayonnomada hujjatlashtirish",
+    "Aholini qo'l yuvishga ma'rifatlash va o'rgatish",
+    "Laborantni qo'lqop va xalat bilan ta'minlash"
+   ],
+   "x": "«Nazoratning maqsadi — atrof-muhit zararlanish manbai bo'lib qolayotganini aniqlash, ifloslanish darajasini baholash»"
+  },
+  {
+   "q": "Sanitariya-gelmintologik nazorat ob'ektlari qaysilar?",
+   "c": "Tuproq, suv, sabzavot, qo'l va chiqindi suvlar",
+   "w": [
+    "Qo'lqop, xalat, niqob va ish joyi",
+    "Dalolatnoma, jurnal, bayonnoma va natija",
+    "Konsentratsiya, flotatsiya, cho'ktirish va mikroskop",
+    "Bolalar, kasallar, aholi va mutaxassislar"
+   ],
+   "x": "«Demak, nazorat ob'ektlari tuproq, suv, sabzavot va ko'katlar, qo'l hamda chiqindi suvlar»"
+  },
+  {
+   "q": "Tuproq namunasi qanday olinadi?",
+   "c": "Bir necha nuqtadan, ma'lum chuqurlikdan",
+   "w": [
+    "Belgilangan hajmda toza idishga",
+    "Yuvish suvi yoki sirt yuvindisi",
+    "Suv yoki eritma bilan aralashtirib",
+    "Bitta nuqtadan, ma'lum hajmda"
+   ],
+   "x": "«Namuna vakillik qiluvchi bo'lishi kerak: tuproq uchun bir necha nuqtadan, ma'lum chuqurlikdan; suv uchun belgilangan hajmda; sabzavot uchun yuvish suvi yoki sirt yuvindisi»"
+  },
+  {
+   "q": "Tuproqning sanitariya-gelmintologik ko'rsatkichi nima bilan ifodalanadi?",
+   "c": "Gelmint tuxumlari va lichinkalarining 1 kg tuproqdagi soni",
+   "w": [
+    "Namunalar topilganligi, turi va miqdori bo'yicha baho",
+    "Surtma, tuproq yoki qum namunalari musbat soni",
+    "Toxocara tuxumlari 0,3 dan 39 foizgacha uchrashi",
+    "Tuxumlarning tuproqda 3 hafta pishishi muddati"
+   ],
+   "x": "«SanQvaM 0112-26 ga ko'ra tuproqning sanitariya-gelmintologik ko'rsatkichi hayotiy qobiliyatli gelmint tuxumlari va lichinkalarining 1 kg tuproqdagi soni bilan ifodalanadi»"
+  },
+  {
+   "q": "Tuxumlar yuqumli bo'lishi uchun tuproqda qancha vaqt pishishi kerak?",
+   "c": "Taxminan 3 hafta",
+   "w": [
+    "Taxminan 24 soat",
+    "Taxminan 3 kun",
+    "Taxminan 7 sutka",
+    "Taxminan 1,5 oy"
+   ],
+   "x": "«JSST tuxumlar yuqumli bo'lishi uchun tuproqda taxminan 3 hafta pishishi kerakligini yozgan»"
+  },
+  {
+   "q": "Sog'lomlashtirish o'tkazilgan o'choqlarda tashqi muhitdan namunalar yiliga necha marta olinadi?",
+   "c": "Yiliga 2–3 marta",
+   "w": [
+    "Yiliga 10–15 marta",
+    "Yiliga 5–6 marta",
+    "Yiliga 25 marta",
+    "Yiliga 4 marta"
+   ],
+   "x": "«Tashqi muhitdan namunalar yiliga kamida bir marta, o'choqlarda kompleks sog'lomlashtirish o'tkazilganda yiliga 2–3 marta olinadi; invaziya aniqlanmagan muassasalarda kamida 10–15 ta surtma, 10–15 ta chang (gilam va yumshoq o'yinchoqlardan) va 5–6 ta tuproq yoki qum namunasi olinadi, kasallik topilgan muassasalarda namunalar soni 2 marta ko'paytiriladi»"
+  },
+  {
+   "q": "Tuproq va chiqindi namunalari qanday usul bilan tekshiriladi?",
+   "c": "Konsentratsiya usullari: cho'ktirish yoki flotatsiya",
+   "w": [
+    "Gilam va yumshoq o'yinchoqlardan chang olish",
+    "Qum va tuproqdan surtma tayyorlash",
+    "Bayonnoma va dalolatnoma asosida baholash",
+    "Aholini ma'rifatlash va gigiyena ta'limi"
+   ],
+   "x": "«Tuproq va chiqindi namunalari konsentratsiya usullari bilan tekshiriladi: namuna suv yoki eritma bilan aralashtiriladi, cho'ktiriladi yoki flotatsiya qilinadi»"
+  },
+  {
+   "q": "Muassasadan olingan namunalarning birortasida musbat natija nimani bildiradi?",
+   "c": "Sanitariya-gigiyena tartibining qo'pol buzilishini",
+   "w": [
+    "Tuproq yiliga ikki marta tekshirilishini",
+    "Bayonnoma buyurtmachiga yuborilishini",
+    "Aholini ma'rifatlash kerakligini",
+    "Namunalar soni 2 marta ko'payishini"
+   ],
+   "x": "«4-ilovaga ko'ra muassasada olingan surtma, tuproq yoki qum namunalarining birortasida musbat natija aniqlansa, bu sanitariya-gigiyena tartibining qo'pol buzilishi hisoblanadi va DSENM mutaxassisi kompleks sog'lomlashtirish chora-tadbirlarini tayinlaydi»"
+  },
+  {
+   "q": "Jonli tuxumlar bo'lishi mumkin bo'lgan namunalar bilan ishlaganda laborant qanday himoya vositalaridan foydalanadi?",
+   "c": "Qo'lqop, xalat va niqob",
+   "w": [
+    "Dalolatnoma, jurnal va bayonnoma",
+    "Konsentratsiya, flotatsiya va mikroskop",
+    "Sana, joy va namuna turi",
+    "Ish joyi, jurnal va dezinfeksiya"
+   ],
+   "x": "«Tuproq va oqova suv namunalarida jonli tuxumlar bo'lishi mumkin, shuning uchun laborant qo'lqop, xalat va niqob ishlatadi, ishdan keyin qo'lini yuvadi va ish joyini dezinfeksiya qiladi»"
+  },
+  {
+   "q": "Sanitariya-gelmintologik nazorat qanday rejalashtiriladi?",
+   "c": "Mavsum, xavf darajasi va oldingi natijalarga qarab",
+   "w": [
+    "Faqat bir marta, kasallar topilganda",
+    "Aholi soni, laboratoriya jurnali va bayonnomaga qarab",
+    "Sabzavot, suv va tuproq namunalari soniga qarab",
+    "Bolalar soni va muassasa turiga qarab"
+   ],
+   "x": "«mavsumga, hududning xavf darajasiga va oldingi natijalarga qarab rejalashtiriladi»"
+  }
+ ],
+ "144": [
+  {
+   "q": "Parazitologik nazoratda eng muhim ob'ektlar qaysilar?",
+   "c": "Tuproq, suv, sabzavot, chiqindi va oqova suvlar",
+   "w": [
+    "Havo, oziq-ovqat, go'sht va baliq",
+    "Exinokokk, toksoplazma, lyamblya va amyoba",
+    "Amyoba kistalari, xlor va ichimlik suvi",
+    "Sirtlar, havo, mushuk va itlar"
+   ],
+   "x": "«Parazitologik nazoratda eng muhimlari tuproq, suv, sabzavot, chiqindi va oqova suvlar, shuningdek sirt yuvindilari»"
+  },
+  {
+   "q": "Tuproq nima sababdan eng muhim ob'ekt hisoblanadi?",
+   "c": "Geogelmintlar tuxumi unda pishadi",
+   "w": [
+    "Amyoba kistalari xlorga chidamli bo'lishi",
+    "Baliq orqali yuqadigan gelmintozlar o'choqlari",
+    "Bolalar muassasalarida enterobioz nazorati",
+    "Laboratoriya akkreditatsiya qilinishi kerakligi"
+   ],
+   "x": "«Geogelmintlar tuxumi tuproqda pishadi va shu sababli tuproq asosiy ob'ekt»"
+  },
+  {
+   "q": "Sabzavot va ko'katlar nima sababdan tekshiriladi?",
+   "c": "Tuxumlar ularga yopishib qolishi mumkin",
+   "w": [
+    "Amyoba kistalari ularda tarqalishi mumkin",
+    "Hayvon askaridalari ularni zararlashi mumkin",
+    "Ular xom iste'mol qilinmasligi mumkin",
+    "Toxocara tuxumlari ularda pishishi mumkin"
+   ],
+   "x": "«Xom iste'mol qilinadigan sabzavot va ko'katlar tekshiriladi, chunki tuxumlar ularga yopishib qolishi mumkin»"
+  },
+  {
+   "q": "Ichimlik suvini nima uchun faqat xlorlash yetarli hisoblanmaydi?",
+   "c": "Amyoba kistalari xlorga chidamli bo'ladi",
+   "w": [
+    "Ichimlik suvi 25 dm³ hajmda tekshiriladi",
+    "Tuxumlar ifloslangan suv manbalaridan yutiladi",
+    "Sug'orish suvlari chiqindi suvlar bilan aralashadi",
+    "Standartga ko'ra suvda protozoy bo'lmasligi kerak"
+   ],
+   "x": "«Amyoba kistalari xlorga chidamli bo'lgani uchun suvni faqat xlorlash yetarli emas deb hisoblanadi»"
+  },
+  {
+   "q": "Ichakning patogen protozoylari va gelmint tuxumlari ichimlik suvining qaysi hajmida bo'lmasligi kerak?",
+   "c": "25 dm³ hajmida",
+   "w": [
+    "1,5 dm³ hajmida",
+    "40 dm³ hajmida",
+    "60 dm³ hajmida",
+    "15 dm³ hajmida"
+   ],
+   "x": "«O'zMSt 133:2024 milliy standartiga ko'ra ichimlik suvining 25 dm³ hajmida ichakning patogen protozoylari (lyamblya, dizenteriya amyobasi, balantidiya sistalari) hamda gelmint tuxumlari va lichinkalari bo'lmasligi kerak»"
+  },
+  {
+   "q": "Bolalar muassasalarida enterobioz va gimenolepidozni nazorat qilishning asosiy obyekti nima?",
+   "c": "O'yinchoqlar, eshik tutqichlari va stollar",
+   "w": [
+    "Ichimlik suvi, kanallar va sug'orish suvlari",
+    "Sabzavot, ko'kat va tomorqa ekinlari",
+    "Kanalizatsiya oqova suvlari va cho'kindisi",
+    "It va mushuk najasi va yurish joylari"
+   ],
+   "x": "«4-ilovaga ko'ra bolalar muassasalarida o'yinchoqlar, eshik tutqichlari, stollar va xodimlarning qo'llaridan olingan surtmalar enterobioz va gimenolepidozni nazorat qilishning asosiy obyekti hisoblanadi»"
+  },
+  {
+   "q": "Toxocara kabi hayvon askaridalari sababli qaysi ob'ekt nazoratga kiradi?",
+   "c": "It va mushuk najasi",
+   "w": [
+    "Kanalizatsiya oqova suvlari",
+    "Sabzavot va ko'katlar",
+    "Stol va eshik tutqichi",
+    "Ichimlik suvi"
+   ],
+   "x": "«It va mushuk najasi, ularning uy-joylari va yurish joylari ham nazoratga kiradi, chunki Toxocara kabi hayvon askaridalari odamni zararlashi mumkin»"
+  },
+  {
+   "q": "Namunada tuxum topilganda xavf darajasi nimaga bog'liq?",
+   "c": "Tuxumning jonli yoki jonsizligiga va miqdoriga",
+   "w": [
+    "Tuxumning turi va suv hajmiga",
+    "Laborant uskunalari va akkreditatsiyasiga",
+    "Sirt yuvindilari va o'yinchoq turiga",
+    "Standart hajmi va xlorlash darajasiga"
+   ],
+   "x": "«Namunada tuxum topilishi har doim xavf mavjudligini bildiradi, lekin xavf darajasi tuxumning jonli yoki jonsizligiga, miqdoriga va aholining unga duch kelishiga bog'liq»"
+  },
+  {
+   "q": "Laboratoriya barcha ob'ektlarni tekshira olmasa, laborant nima qiladi?",
+   "c": "Vakolatli laboratoriyaga yo'naltiradi",
+   "w": [
+    "Xulosa va tavsiyalarni o'zi beradi",
+    "Namunani o'z laboratoriyasida tekshiradi",
+    "Tahlilni boshqa ob'ektlar uchun bajaradi",
+    "Natijani sanitariya xizmatiga yuboradi"
+   ],
+   "x": "«Shu sababli laborant o'z laboratoriyasi qaysi ob'ektlarga akkreditatsiya qilinganini bilishi, boshqa ob'ektlarni vakolatli laboratoriyaga yo'naltirishi lozim»"
+  },
+  {
+   "q": "Baliq orqali yuqadigan gelmintozlar o'choqlarida qo'shimcha qaysi ob'ekt nazorat qilinadi?",
+   "c": "Baliq va baliq mahsulotlari",
+   "w": [
+    "Sabzavot va tomorqa ekinlari",
+    "Mushuk va it uy-joylari",
+    "Qum qutilari va o'yin maydonchalari",
+    "Ichimlik suvi va kanallar"
+   ],
+   "x": "«Baliq orqali yuqadigan gelmintozlar o'choqlarida esa baliq va baliq mahsulotlari ham nazorat obyekti bo'ladi»"
+  }
+ ],
+ "145": [
+  {
+   "q": "Geogelmintoz o'chog'ida zararlanish manbai nima?",
+   "c": "Zararlangan odam",
+   "w": [
+    "Najas bilan ifloslangan tuproq",
+    "Ifloslangan suv va sabzavot",
+    "Moyil aholi, ayniqsa bolalar",
+    "Najas bilan chiqqan tuxumlar"
+   ],
+   "x": "«Geogelmintozlarda manba — zararlangan odam, yuqish omili — najas bilan ifloslangan tuproq, suv va sabzavot, moyil aholi esa ayniqsa bolalar»"
+  },
+  {
+   "q": "Nima uchun yangi najas orqali yuqish bo'lmaydi?",
+   "c": "Tuxumlar tuproqda pishishi kerak",
+   "w": [
+    "Tuxumlar odam tanasida ko'payishi kerak",
+    "Gelmintlar teri orqali yuqishi kerak",
+    "Moyil aholi ayniqsa bolalar bo'lishi kerak",
+    "Sanitariya holati yaxshi bo'lishi kerak"
+   ],
+   "x": "«O'choqning mavjudligi uchun tuxumlar tuproqda pishishi kerak: JSST ma'lumotiga ko'ra, najas bilan chiqqan tuxumlar yuqumli bo'lishi uchun tuproqda taxminan 3 hafta pishadi, shuning uchun yangi najas orqali yoki odamdan odamga bevosita yuqish bo'lmaydi»"
+  },
+  {
+   "q": "Tarqalish ko'rsatkichi nimani to'liq aks ettirmaydi?",
+   "c": "Kasallik og'irligini",
+   "w": [
+    "Zararlanganlar ulushini",
+    "Hududdagi tarqalish chegarasini",
+    "Tuproqdagi tuxumlar pishishini",
+    "Najas tekshiruvi natijasini"
+   ],
+   "x": "«Tarqalish eng oddiy ko'rsatkich bo'lsa-da, kasallik og'irligini to'liq aks ettirmaydi»"
+  },
+  {
+   "q": "JSST tarqalish chegarasi hududlarni qanday guruhlarga ajratadi?",
+   "c": "20 foizdan past va 20 foiz va undan yuqori",
+   "w": [
+    "15 foizdan past va 15 foiz va undan yuqori",
+    "10 foizdan past va 10 foiz va undan yuqori",
+    "30 foizdan past va 30 foiz va undan yuqori",
+    "50 foizdan past va 50 foiz va undan yuqori"
+   ],
+   "x": "«Shu chegara hududlarni ikki guruhga ajratadi: 20 foizdan past va 20 foiz va undan yuqori»"
+  },
+  {
+   "q": "Askaridada o'rta intensivlik qaysi tuxum soniga mos keladi?",
+   "c": "5000–49 999 epg",
+   "w": [
+    "1–4999 epg",
+    "50 000 epg va undan yuqori",
+    "1–999 epg",
+    "10 000 epg va undan yuqori"
+   ],
+   "x": "«Askaridada 1–4999 epg yengil, 5000–49 999 o'rta, 50 000 va undan yuqori og'ir; qilbosh chuvalangda 1–999 yengil, 1000–9999 o'rta, 10 000 va undan yuqori og'ir»"
+  },
+  {
+   "q": "Ankilostomalar qaysi yo'l bilan yuqadi?",
+   "c": "Teri orqali",
+   "w": [
+    "Yangi najas orqali",
+    "Odamdan odamga bevosita",
+    "Sabzavot orqali",
+    "Suv orqali"
+   ],
+   "x": "«Hududda qaysi tur ustun ekani muhim: ankilostomalar teri orqali yuqadi va yalang oyoq yurish xavfini oshiradi»"
+  },
+  {
+   "q": "Askarida, qilbosh chuvalang va ankilostomalar nima sababdan guruh sifatida ko'riladi?",
+   "c": "O'xshash diagnostik protseduralar va bir xil dorilar",
+   "w": [
+    "Teri orqali yuqish va yalang oyoq yurish",
+    "Alohida tur sifatida boshqa usullar talab qilish",
+    "Odam tanasida ko'payish va qayta zararlanish",
+    "Hududda yil bo'yi yoki mavsumiy yuqish"
+   ],
+   "x": "«JSST bu turlar o'xshash diagnostik protseduralarni talab qilishi va bir xil dorilarga javob berishi sababli odatda guruh sifatida ko'rib chiqilishini yozgan»"
+  },
+  {
+   "q": "Davolashdan keyin qayta zararlanish qachon yuz beradi?",
+   "c": "Atrof-muhitdagi yuqumli bosqichlar bilan aloqadan keyin",
+   "w": [
+    "Odam tanasida gelmintlar ko'payganda va tarqalganda",
+    "Yangi najas bilan bevosita aloqadan keyin",
+    "Davolashdan keyin sanitariya ko'rsatkichlari yaxshilanganda",
+    "Davolashdan keyin najas tekshirilmaganda"
+   ],
+   "x": "«JSST qayta zararlanish faqat atrof-muhitdagi yuqumli bosqichlar bilan aloqadan keyin yuz berishini aytgan, chunki gelmintlar odam tanasida ko'paymaydi»"
+  },
+  {
+   "q": "JSST nazoratning qaysi uch bo'g'inini ko'rsatadi?",
+   "c": "Davriy davolash, gigiyena ta'limi, sanitariyani yaxshilash",
+   "w": [
+    "Davriy davolash, ekstensiv tasnif, tur tarkibi",
+    "Gigiyena ta'limi, tur tarkibi, tuproq tahlili",
+    "Tuproq tahlili, sanitariya holati, yuqish mavsumi",
+    "Intensivlik, tarqalish, tur tarkibi"
+   ],
+   "x": "«JSST nazoratning uch bo'g'ini — davriy davolash, gigiyena ta'limi va sanitariyani yaxshilashni ko'rsatadi»"
+  },
+  {
+   "q": "Dastur muvaffaqiyatli bo'lsa, o'choq tasnifi qanday o'zgaradi?",
+   "c": "Hudud yuqori toifadan past toifaga o'tadi",
+   "w": [
+    "Hudud past toifadan yuqori toifaga o'tadi",
+    "Hudud tuproq sharoitiga qarab ikki guruhga bo'linadi",
+    "Hudud davolashdan keyin o'choq bo'lib qoladi",
+    "Hudud tur tarkibiga qarab yangi toifaga kiradi"
+   ],
+   "x": "«dastur muvaffaqiyatli bo'lsa, hudud yuqori toifadan past toifaga o'tadi»"
+  }
+ ],
+ "146": [
+  {
+   "q": "Tarqalish (ekstensivlik) qanday formula bilan hisoblanadi?",
+   "c": "Zararlanganlar soni ÷ tekshirilganlar soni × 100",
+   "w": [
+    "Tekshirilganlar soni ÷ zararlanganlar soni × 100",
+    "Zararlanganlar soni × tekshirilganlar soni ÷ 100",
+    "Zararlanganlar soni ÷ tekshirilganlar soni × 1000",
+    "Zararlanganlar soni + tekshirilganlar soni × 100"
+   ],
+   "x": "«Formulasi: tarqalish (foiz) = zararlanganlar soni ÷ tekshirilganlar soni × 100»"
+  },
+  {
+   "q": "200 bola tekshirilib, 50 tasida askarida tuxumi topilsa, tarqalish qancha?",
+   "c": "25 foiz",
+   "w": [
+    "50 foiz",
+    "20 foiz",
+    "15 foiz",
+    "10 foiz"
+   ],
+   "x": "«Misol uchun, 200 bola tekshirilib 50 tasida askarida tuxumi topilsa, tarqalish 25 foiz»"
+  },
+  {
+   "q": "Zararlanish intensivligi nima?",
+   "c": "Har bir zararlangan odamdagi parazitlar soni",
+   "w": [
+    "Tekshirilganlar ichida zararlanganlar ulushi",
+    "Yangi holatlar soni",
+    "Mavjud holatlar ulushi",
+    "Tuproq namunalari soni"
+   ],
+   "x": "«Intensivlik — zararlangan odamdagi parazitlar soni»"
+  },
+  {
+   "q": "Zararlanganlar orasidagi o'rtacha epg qanday hisoblanadi?",
+   "c": "Zararlanganlar epg yig'indisi ÷ zararlanganlar soni",
+   "w": [
+    "Tekshirilganlar epg yig'indisi ÷ tekshirilganlar soni",
+    "Zararlanganlar soni ÷ tekshirilganlar epg yig'indisi",
+    "Zararlanganlar epg yig'indisi × zararlanganlar soni",
+    "Zararlanganlar epg yig'indisi ÷ tarqalish"
+   ],
+   "x": "«Zararlanganlar orasidagi o'rtacha epg — zararlanganlar epg yig'indisi ÷ zararlanganlar soni»"
+  },
+  {
+   "q": "Parazit sonlari odatda qanday taqsimlanadi?",
+   "c": "Ko'pchilikda kam, ozchilikda juda ko'p",
+   "w": [
+    "Ko'pchilikda juda ko'p, ozchilikda kam",
+    "Barcha odamlarda teng miqdorda",
+    "Zararlanganlarda o'rtacha qiymat atrofida",
+    "Epg yig'indisiga teng ulushda"
+   ],
+   "x": "«Parazit sonlari odatda notekis taqsimlanadi: ko'pchilikda kam, ozchilikda juda ko'p parazit bo'ladi; shuning uchun o'rtacha qiymat bilan ehtiyot bo'lib ishlash kerak»"
+  },
+  {
+   "q": "Kuzatilgan tarqalish haqiqiy tarqalishdan past bo'lishining sababi nima?",
+   "c": "Usul sezgirligi 100 foiz bo'lmaganligi",
+   "w": [
+    "Bir necha namuna tekshirilishi",
+    "Ikkinchi mutaxassis tekshirishi",
+    "Maktab o'quvchilarining tasodifiy tanlanmasi",
+    "Koeffitsientning to'g'ri qo'llanishi"
+   ],
+   "x": "«Usul sezgirligi 100 foiz bo'lmaganligi uchun kuzatilgan tarqalish haqiqiy tarqalishdan past bo'lishi mumkin»"
+  },
+  {
+   "q": "Kasallanish (insidens) nimani bildiradi?",
+   "c": "Yangi holatlar soni",
+   "w": [
+    "Mavjud holatlar ulushi",
+    "Zararlanganlar ulushi",
+    "Parazitlar soni",
+    "Tekshirilganlar soni"
+   ],
+   "x": "«Epidemiologiyada kasallanish (insidens) — yangi holatlar soni, tarqalish (prevalentlik) — mavjud holatlar ulushi; ular farq qiladi»"
+  },
+  {
+   "q": "Hisobotdagi qaysi xato ko'rsatkichlarni buzadi?",
+   "c": "Takroriy namunani yangi bemor sifatida sanash",
+   "w": [
+    "Har bir bemorga bitta identifikatsiya raqami berish",
+    "Jadvalni bir xil shaklda yuritish",
+    "Ikkinchi mutaxassis tomonidan tekshirish",
+    "Tekshirilganlar sonini to'g'ri yozish"
+   ],
+   "x": "«Hisobotda ko'p uchraydigan xatolar: tekshirilganlar sonini noto'g'ri yozish, takroriy namunani yangi bemor sifatida sanash, tuxumni noto'g'ri tur deb yozish va koeffitsientni qo'llamaslik»"
+  },
+  {
+   "q": "Faqat shikoyati bor odamlarni tekshirish tarqalishga qanday ta'sir qiladi?",
+   "c": "Tarqalishni oshirib ko'rsatadi",
+   "w": [
+    "Tarqalishni kamaytirib ko'rsatadi",
+    "Sezgirlikni 100 foizga yetkazadi",
+    "Faqat intensivlikni aniqlaydi",
+    "Tarqalishni aniqroq baholaydi"
+   ],
+   "x": "«Faqat shikoyati bor odamlarni tekshirish tarqalishni oshirib ko'rsatadi»"
+  },
+  {
+   "q": "Davolashdan keyin dasturning samarasini nima ko'rsatadi?",
+   "c": "Tarqalish pasayishi va intensivlik ulushining kamayishi",
+   "w": [
+    "Tekshirilganlar soni va kasallar ulushining ortishi",
+    "Takroriy namunalar va identifikatsiya raqamlari soni",
+    "Usul sezgirligi va namunalar sonining kamayishi",
+    "Tarqalish va intensivlik ko'rsatkichlarining oshishi"
+   ],
+   "x": "«tarqalishning pasayishi va o'rta hamda og'ir intensivlik ulushining kamayishi dasturning samarasini ko'rsatadi»"
+  }
+ ]
+}

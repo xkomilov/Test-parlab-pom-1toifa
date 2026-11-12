@@ -1,0 +1,226 @@
+{
+ "068": [
+  {
+   "q": "Kanali qaytalama terlama qo'zg'atuvchilari qaysi turkumga mansub?",
+   "c": "Borrelia turkumi spirohetalariga",
+   "w": [
+    "Ornithodoros turkumi yumshoq kanalariga",
+    "Pediculus humanus turkumi kiyim bitlariga",
+    "Gram-manfiy hujayra ichidagi bakteriyalarga",
+    "Qattiq iksodid kanalar turkumiga"
+   ],
+   "x": "«Kanali qaytalama terlama (KQT) — Borrelia turkumi spirohetalari qo'zg'atadigan, yumshoq kanalar orqali odamga o'tadigan yuqumli kasallik»"
+  },
+  {
+   "q": "Kasallikning qaytalanish xususiyatini qaysi mexanizm beradi?",
+   "c": "Spirohetalarning antigen o'zgaruvchanligi",
+   "w": [
+    "Spirohetalarning hujayra ichida yashashi",
+    "Kanalarning tunda faol bo'lishi",
+    "Kemiruvchilar inlarida ko'payishi",
+    "Bit gemolimfasining teriga tushishi"
+   ],
+   "x": "«Antigen o'zgaruvchanligi qaytalanishlarni tushuntiradi»"
+  },
+  {
+   "q": "Borrelia spirohetalari organizmda qayerda yashaydi?",
+   "c": "Hujayradan tashqarida, qon plazmasida",
+   "w": [
+    "Hujayra ichida, eritrotsitlar orasida",
+    "Kana so'lagi va koksal suyuqligida",
+    "Kemiruvchilar inlari va g'orlarda",
+    "Bit gemolimfasi va kiyimlarda"
+   ],
+   "x": "«Borrelia spirohetalari gram-manfiy tuzilishga ega, hujayra ichida emas, balki hujayradan tashqarida, qon plazmasida yashaydi»"
+  },
+  {
+   "q": "Qaytalama terlama tashxisi uchun tekshiruv qachon o'tkazilishi kerak?",
+   "c": "Isitma davrida, spirohetalar qonda ko'p bo'lganda",
+   "w": [
+    "Isitmasiz davrda, immun javob to'xtatganda",
+    "Inkubatsiya davrida, kana chaqqandan keyin",
+    "Antigen o'zgargan, yangi xurujgacha bo'lganda",
+    "Kemiruvchilar yashaydigan uyda tunaganda"
+   ],
+   "x": "«Kasallikning isitma davrida qonda spirohetalar juda ko'p bo'ladi»"
+  },
+  {
+   "q": "Kanali qaytalama terlama inkubatsiya davri o'rtacha necha kun?",
+   "c": "7 kun",
+   "w": [
+    "4 kun",
+    "18 kun",
+    "10 kun",
+    "30 kun"
+   ],
+   "x": "«Kasallik inkubatsiya davri o'rtacha 7 kun, ya'ni 4 kundan 18 kundan ortiqqacha bo'lishi mumkin»"
+  },
+  {
+   "q": "Epidemik qaytalama terlamaning tashuvchisi qaysi?",
+   "c": "Kiyim biti (Pediculus humanus)",
+   "w": [
+    "Ornithodoros turkumi yumshoq kanasi",
+    "Kemiruvchilar inlaridagi qattiq kana",
+    "Uy-joylar yoriqlaridagi yumshoq kana",
+    "Chorva qo'ralaridagi iksodid kana"
+   ],
+   "x": "«recurrentis, tashuvchisi kiyim biti (Pediculus humanus), rezervuari faqat odam; spirohetalar bit ezilganda uning gemolimfasi orqali teriga tushadi»"
+  },
+  {
+   "q": "Kana orqali yuqadigan endemik shaklning rezervuari kim?",
+   "c": "Kemiruvchilar",
+   "w": [
+    "Faqat odam",
+    "Kiyim biti",
+    "Qattiq iksodid kanalar",
+    "Borrelia miyamotoi turi"
+   ],
+   "x": "«Kana orqali yuqadigan endemik shaklda esa qo'zg'atuvchi turlar ko'p, rezervuar kemiruvchilar, yuqish kana chaqishi bilan»"
+  },
+  {
+   "q": "Isitmasiz davrlarda spirohetalar qanday holatda bo'ladi?",
+   "c": "Mikroskopik jihatdan aniqlanmaydi",
+   "w": [
+    "Immersion maydonida beshta ko'rinadi",
+    "Qonda bir millilitrda 10 minggacha bo'ladi",
+    "Eritrotsitlar orasida juda ko'p topiladi",
+    "Qon plazmasida yangi antigen bilan ko'payadi"
+   ],
+   "x": "«Adabiyotda ta'kidlanishicha, o'tkir isitma bosqichida odatda immersion ko'rish maydonida o'rtacha beshta mikroorganizm ko'rinadi; bemorlar va tajriba hayvonlarida qondagi bakteriyalar konsentratsiyasi bir millilitrda 10 minggacha yuz mingdan bir milliongacha va undan ham yuqori bo'lishi mumkin; isitmasiz davrlarda esa spirohetalar mikroskopik jihatdan aniqlanmaydi»"
+  },
+  {
+   "q": "Markaziy Osiyoda kanali qaytalama terlamani qaysi Borrelia turlari qo'zg'atadi?",
+   "c": "B. persica va B. latyschewii",
+   "w": [
+    "B. recurrentis va B. miyamotoi",
+    "B. persica va B. recurrentis",
+    "B. latyschewii va B. miyamotoi",
+    "B. miyamotoi va B. persica"
+   ],
+   "x": "«KQT etiologiyasi: Borrelia turkumi spirohetalari, Markaziy Osiyoda B. persica va B. latyschewii, yumshoq Ornithodoros kanalari tashuvchisi, kemiruvchilar rezervuari»"
+  },
+  {
+   "q": "Epidemik va endemik shaklni farqlash nimaga ta'sir qiladi?",
+   "c": "Kurash choralariga ta'sir qiladi",
+   "w": [
+    "Inkubatsiya davri davomiyligiga ta'sir qiladi",
+    "Antigen o'zgaruvchanligiga ta'sir qiladi",
+    "Qon surtmasini bo'yash usuliga ta'sir qiladi",
+    "Spirohetemiya darajasiga ta'sir qiladi"
+   ],
+   "x": "«Ikki shaklni farqlash kurash choralariga ta'sir qiladi: bit orqali yuqadigan shaklda pedikulyozga qarshi kurash, kana orqali yuqadigan shaklda kana va kemiruvchilarga qarshi kurash»"
+  }
+ ],
+ "069": [
+  {
+   "q": "KQT o'chog'i qaysi uchta komponentdan iborat?",
+   "c": "Spirohetalar, rezervuar hayvonlar va Ornithodoros kanalari",
+   "w": [
+    "Spirohetalar, kemiruvchilar va serologik so'rovlar",
+    "Rezervuar hayvonlar, klinik holatlar va hududlar",
+    "Ornithodoros kanalari, itlar va epidemiologik tekshiruv",
+    "Kemiruvchilar, mushuklar va tog' hududlari"
+   ],
+   "x": "«KQT tabiiy o'choqli kasallik, o'choq esa uchta komponentdan iborat: Borrelia spirohetalari, rezervuar hayvonlar (kemiruvchilar, itlar, mushuklar) va Ornithodoros kanalari»"
+  },
+  {
+   "q": "KQT o'choqlari nima uchun quruq, issiq cho'l hududlarida shakllanadi?",
+   "c": "Yumshoq kanalar aynan shunday joylarda yashaydi",
+   "w": [
+    "Kemiruvchilar faqat cho'lda ko'payadi",
+    "Spirohetalar issiq hududlarda ko'payadi",
+    "Eski uy-joylar faqat cho'lda qurilgan",
+    "Serologik so'rovlar cho'lda ko'proq o'tkaziladi"
+   ],
+   "x": "«Bunday o'choqlar odatda quruq, issiq, cho'l va yarim cho'l, tog' oldi hududlarida, kemiruvchilar inlari, g'orlar, qadimiy inshootlar, eski uy-joylar va chorva qo'ralari mavjud joylarda shakllanadi, chunki yumshoq kanalar aynan shunday yashash joylarida yashaydi»"
+  },
+  {
+   "q": "Rasmiy hududlar ro'yxati nimalar asosida tuziladi?",
+   "c": "Holatlar hisobi, kana tekshiruvlari, serologik so'rovlar",
+   "w": [
+    "Landshaftlar va kemiruvchilar ko'pligi asosida",
+    "Cho'l va yarim cho'l zonasi hajmi asosida",
+    "Tashxis usullari yetarli hududlar asosida",
+    "Eski ro'yxatlar va nazariy xavf asosida"
+   ],
+   "x": "«Haqiqiy ro'yxat holatlar hisobi, kana va kemiruvchilar tekshiruvlari, serologik so'rovlar natijalari asosida tuziladi»"
+  },
+  {
+   "q": "KQT nima uchun hisobda kam ko'rsatilishi mumkin?",
+   "c": "Belgilari bezgak va grippga o'xshashligi sababli",
+   "w": [
+    "Isitma xurujlari davriy bo'lmaganligi sababli",
+    "Spirohetalar isitmasiz davrda qonda ko'rinib turgani sababli",
+    "Kemiruvchilar orasida zararlanish yo'qligi sababli",
+    "Rasmiy ro'yxat haqiqiy tarqalishga to'liq mos bo'lgani sababli"
+   ],
+   "x": "«Tashxis tez-tez bezgak yoki grippga o'xshaganligi sababli kasallik hisobda kam ko'rsatilishi mumkin»"
+  },
+  {
+   "q": "Ro'yxatda yo'q hududda KQT uchramaydi, deb xulosa qilish nega xato?",
+   "c": "Ro'yxat haqiqiy tarqalishni to'liq aks ettirmasligi mumkin",
+   "w": [
+    "Spirohetalar isitmasiz davrda qonda ko'p bo'ladi",
+    "Tashxis usullari barcha hududlarda yetarli bo'ladi",
+    "Kemiruvchilar bunday hududlarda umuman uchramaydi",
+    "Ro'yxat vaqt o'tishi bilan o'zgarmasdan qoladi"
+   ],
+   "x": "«Natijada rasmiy ro'yxat haqiqiy tarqalishni to'liq aks ettirmasligi mumkin»"
+  },
+  {
+   "q": "Ro'yxatga olingan hududga yangi hudud qachon qo'shiladi?",
+   "c": "Yangi holatlar yoki o'choqlar aniqlansa",
+   "w": [
+    "Kemiruvchilar orasida zararlanish aniqlanmasa",
+    "Cho'l zonasi nazariy jihatdan kengaysa",
+    "Serologik so'rov o'tkazilmagan bo'lsa",
+    "Uzun muddat holat bo'lmasa"
+   ],
+   "x": "«Ro'yxatga olingan hududlar ro'yxati vaqt o'tishi bilan o'zgaradi: yangi holatlar yoki o'choqlar aniqlansa, qo'shiladi; uzoq muddat holat bo'lmasa va kuzatuv ishlasa, qayta ko'rib chiqiladi»"
+  },
+  {
+   "q": "Mutaxassis ro'yxat bilan ishlashda nima qilib turishi kerak?",
+   "c": "O'z hududining joriy ro'yxatini tekshirib turishi",
+   "w": [
+    "Eskirgan ro'yxat bilan ishlashni davom ettirishi",
+    "Faqat klinik holatlar hisobini yuritishi",
+    "Kana va kemiruvchilarni yig'ib turishi",
+    "Hududlarni nazariy xavf asosida belgilashi"
+   ],
+   "x": "«Shuning uchun mutaxassis o'z hududining joriy ro'yxatini tekshirib turishi kerak»"
+  },
+  {
+   "q": "Bemor qayerda tunagani va qanday joyda kana chaqqani qaysi usulda aniqlanadi?",
+   "c": "Epidemiologik tekshiruv",
+   "w": [
+    "Serologik so'rovlar",
+    "Klinik tasdiqlangan holatlar",
+    "Kanalarni yig'ish va tekshirish",
+    "Kemiruvchilarni tekshirish"
+   ],
+   "x": "«KQT o'choqlari quyidagi ma'lumotlar bilan aniqlanadi: klinik tasdiqlangan holatlar (qon surtmasida spirohetalar); epidemiologik tekshiruv (bemor qayerda tunagan, qanday joyda kana chaqqan); kanalarni yig'ish va ularda spirohetalarni aniqlash; kemiruvchilar va itlar orasida zararlanishni tekshirish; serologik so'rovlar»"
+  },
+  {
+   "q": "Klinik tasdiqlangan holat qaysi topilma bilan belgilanadi?",
+   "c": "Qon surtmasida spirohetalar topilishi",
+   "w": [
+    "Kanalarda spirohetalar aniqlanishi",
+    "Itlar orasida zararlanish aniqlanishi",
+    "Serologik so'rov natijalari tekshirilishi",
+    "Kemiruvchilar orasida zararlanish aniqlanishi"
+   ],
+   "x": "«KQT o'choqlari quyidagi ma'lumotlar bilan aniqlanadi: klinik tasdiqlangan holatlar (qon surtmasida spirohetalar); epidemiologik tekshiruv (bemor qayerda tunagan, qanday joyda kana chaqqan); kanalarni yig'ish va ularda spirohetalarni aniqlash; kemiruvchilar va itlar orasida zararlanishni tekshirish; serologik so'rovlar»"
+  },
+  {
+   "q": "Jahon miqyosida KQT qaysi kasalliklar qatorida ko'rsatiladi?",
+   "c": "E'tibordan chetda qolgan kasalliklar qatorida",
+   "w": [
+    "Hisobda ko'p ko'rsatiladigan kasalliklar qatorida",
+    "Tashxisi oson kasalliklar qatorida",
+    "Nazariy xavf bo'lgan kasalliklar qatorida",
+    "Rasmiy ro'yxatdagi kasalliklar qatorida"
+   ],
+   "x": "«Jahon miqyosida KQT e'tibordan chetda qolgan kana orqali yuqadigan kasalliklar qatorida ko'rsatilishi ham shu bilan bog'liq»"
+  }
+ ]
+}

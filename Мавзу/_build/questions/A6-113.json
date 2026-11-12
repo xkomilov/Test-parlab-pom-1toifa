@@ -1,0 +1,114 @@
+{
+ "113": [
+  {
+   "q": "Nima uchun individual himoya difillobotriazda juda samarali?",
+   "c": "Kasallik odamdan odamga yuqmaydi",
+   "w": [
+    "Kasallik xom baliq orqali yuqmaydi",
+    "Najas suv havzalariga tushmaydi",
+    "Kasallik hojatxonadan yuqadi",
+    "Kasallik odamdan odamga bevosita yuqadi"
+   ],
+   "x": "«Odamdan odamga yuqmagani sababli baliqni to'g'ri ishlash eng samarali chora»"
+  },
+  {
+   "q": "Jamoaviy profilaktika chorasi qaysi?",
+   "c": "Oqova suvni tozalash",
+   "w": [
+    "Ichigacha yaxshi pishirilgan baliq",
+    "Baliqni ishonchli muzlatish",
+    "Xom baliq taomlaridan saqlanish",
+    "Tozalashda qo'lqop kiyish"
+   ],
+   "x": "«Shu bilan birga jamoaviy chora — oqova suvni tozalash va najasni suv havzalariga tushirmaslik — kasallikni zanjirdan chiqaradi»"
+  },
+  {
+   "q": "Baliqchilar baliqni tozalash va kesishda nimalarga rioya qiladi?",
+   "c": "Qo'lqop kiyish va qo'llarni yuvish",
+   "w": [
+    "Xom baliqni tatib ko'rish",
+    "Chiqindilarni suv havzalariga tashlash",
+    "Chiqindilarni itlarga xom berish",
+    "Qo'lqopsiz ishlash va qo'llarni yuvmaslik"
+   ],
+   "x": "«baliqni tozalash va kesishda qo'lqop kiyish va qo'llarni yuvish»"
+  },
+  {
+   "q": "Nima uchun baliq chiqindilarini it va mushuklarga xom bermaslik kerak?",
+   "c": "Ular ham tasmasimon chuvalchang xo'jayini bo'lishi mumkin",
+   "w": [
+    "Pleroserkoid lichinkalarni o'zida hosil qiladi",
+    "Chiqindilar suv havzalariga tushishi mumkin",
+    "Odamdan odamga yuqishi mumkin",
+    "Suv havzalaridagi mollyuskalarni zararlaydi"
+   ],
+   "x": "«baliq chiqindilarini (ichak, ikra) it va mushuklarga xom bermaslik, chunki ular ham keng tasmasimon chuvalchang xo'jayini bo'lishi mumkin»"
+  },
+  {
+   "q": "Veterinariya-sanitariya ekspertizasida baliqda nima izlanadi?",
+   "c": "Mushak kesimlarida pleroserkoid lichinkalari",
+   "w": [
+    "Najasda tuxum va bo'laklar",
+    "B12 yetishmovchiligi belgilari",
+    "Suv havzasida korasidiy lichinkasi",
+    "Baliq mushak kesimlarida tuxumlar"
+   ],
+   "x": "«Baliq mahsulotlari sanitariya-veterinariya ekspertizasidan o'tishi kerak: baliq mushak kesimlarida pleroserkoid lichinkalari izlanadi; zararlangan baliq muzlatish yoki yaxshi pishirishdan so'ng yoki yo'q qilinishi lozim; xom baliq sotuvchilari nazoratga olinadi»"
+  },
+  {
+   "q": "Bemorlarni davolash nima uchun zanjirni uzadi?",
+   "c": "Kasal odam suvga tuxum tashlaydi",
+   "w": [
+    "Baliq ikrasi suvga tashlanadi",
+    "Suvga pleroserkoid lichinkalar tushadi",
+    "Lichinkalar odam najasi bilan chiqadi",
+    "Tuxum baliq ikrasiga tushadi"
+   ],
+   "x": "«Odamlardagi difillobotriazni aniqlash va davolash zanjirni uzadi: kasal odam suvga tuxum tashlaydi»"
+  },
+  {
+   "q": "Ma'rifiy ishlar qaysi yo'llar orqali o'tkaziladi?",
+   "c": "Baliqchilar jamoalari, restoran xodimlari, maktablar",
+   "w": [
+    "Veterinar xizmati, korxonalar, sanitariya xodimlari",
+    "Restoran egalari, veterinar xodimlari, sotuvchilar",
+    "Savdo markazlari, baliq sotuvchilari, maorif xodimlari",
+    "Baliq sotuvchilari, savdo punktlari, korxonalar"
+   ],
+   "x": "«Ma'rifiy ishlar baliqchilar jamoalari, restoran xodimlari, maktablar va ommaviy axborot vositalari orqali o'tkaziladi»"
+  },
+  {
+   "q": "Xom baliq bilan ishlagan taxta va pichoq bilan nima qilish kerak?",
+   "c": "Ishlatishdan oldin yuvish kerak",
+   "w": [
+    "Pishgan baliq tayyorlashda yuvmasdan ishlatish",
+    "Tatib ko'rish uchun ishlatish kerak",
+    "Baliq chiqindilari bilan saqlash kerak",
+    "Itlarga berish kerak"
+   ],
+   "x": "«xom baliq bilan ishlagan taxta va pichoqni yuvish»"
+  },
+  {
+   "q": "Muzlatilganda plerotserkoidlar qancha vaqtda halok bo'ladi?",
+   "c": "12–24 soatda",
+   "w": [
+    "15 daqiqa davomida",
+    "1–2 hafta davomida",
+    "3–5 kun davomida",
+    "9–10 kun davomida"
+   ],
+   "x": "«Shu materialda plerotserkoidlarning turli ishlov turlarida halok bo'lish muddatlari keltirilgan: baliq bo'laklari qovurilganda 15 daqiqa davomida, qaynatilganda darhol, tuzlanganda 1–2 haftada, muzlatilganda 12–24 soatda halok bo'ladi; 15–27 °C da 3–5 kun, 6–10 °C da 9–10 kun davomida nobud bo'ladi»"
+  },
+  {
+   "q": "Nima uchun uy sharoitida yengil tuzlangan baliq xavfli bo'lishi mumkin?",
+   "c": "Qisqa muddatli tuzlash lichinkalarni o'ldirmasligi mumkin",
+   "w": [
+    "Tuzlash pleroserkoidlarni baliq mushaklarida ko'paytiradi",
+    "Yengil tuz lichinkalarni baliq ikrasiga o'tkazadi",
+    "Tuzlangan baliq odamdan odamga yuqadi",
+    "Tuz bilan ishlangan baliqda tuxumlar saqlanadi"
+   ],
+   "x": "«Bu ma'lumotlar uy sharoitida tayyorlanadigan quritilgan, yengil tuzlangan yoki dudlangan baliq mahsulotlari xavfli bo'lishi mumkinligini ko'rsatadi, chunki qisqa muddatli tuzlash yoki past haroratda tayyorlash lichinkalarni o'ldirmasligi mumkin»"
+  }
+ ]
+}

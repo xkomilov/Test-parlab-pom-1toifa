@@ -1,0 +1,338 @@
+{
+ "028": [
+  {
+   "q": "Parazitemiya darajasi nimani bildiradi?",
+   "c": "qon eritrotsitlarining qancha qismi zararlanganini",
+   "w": [
+    "qonda antitelolar qancha hosil bo'lganini",
+    "qalin tomchida eritrotsitlar qancha parchalanganini",
+    "preparatda necha ko'rish maydoni tekshirilganini",
+    "qaysi tur parazit qancha uchrashini"
+   ],
+   "x": "«Uchinchi — parazitemiya darajasi qanday, ya'ni qon eritrotsitlarining qancha qismi zararlangan; bu kasallik og'irligini baholashga yordam beradi»"
+  },
+  {
+   "q": "Bezgak tashxisining oltin standarti nima?",
+   "c": "bo'yalgan qon surtmasini mikroskop ostida ko'rish",
+   "w": [
+    "polimeraza zanjir reaksiyasi yordamida DNK aniqlash",
+    "antitelolarni aniqlash orqali serologik tashxis",
+    "tezkor diagnostik testlar yordamida oqsil aniqlash",
+    "molekulyar usulda P. knowlesi ni aniqlash"
+   ],
+   "x": "«bo'yalgan qon surtmasini mikroskop ostida ko'rish»"
+  },
+  {
+   "q": "Qalin tomchining afzalligi nimada?",
+   "c": "parazit juda oz bo'lganda ham ko'rinadi",
+   "w": [
+    "eritrotsitlar butun qoladi va shakllar ko'rinadi",
+    "tur va parazitemiyani baholash qulay",
+    "antitelolar o'tgan infeksiyadan keyin saqlanadi",
+    "aralash infeksiyani DNK orqali ajratish"
+   ],
+   "x": "«Qalin tomchida qon ko'p miqdorda to'planadi va eritrotsitlar parchalanadi, shuning uchun parazit juda oz bo'lganda ham ko'rinadi; bu usul parazitni aniqlashda sezgir»"
+  },
+  {
+   "q": "Yupqa surtma nima uchun qulay?",
+   "c": "tur aniqlash va parazitemiya darajasini baholash",
+   "w": [
+    "oz miqdordagi parazitni topishda sezgirlik",
+    "eritrotsitlar parchalanishi va qon to'planishi",
+    "aralash infeksiyani molekulyar aniqlash",
+    "antitelolarni o'tkir bosqichda aniqlash"
+   ],
+   "x": "«Yupqa surtmada esa eritrotsitlar butun qoladi va parazit hamda eritrotsit shakllari yaxshi ko'rinadi, shu sababli tur aniqlash va parazitemiya darajasini baholash uchun qulay»"
+  },
+  {
+   "q": "Mikroskopiyaning cheklovi nimada?",
+   "c": "parazit juda kam bo'lganda xato salbiy natija",
+   "w": [
+    "arzonligi va tur aniqlashi",
+    "davolash natijasini kuzatish imkoniyati",
+    "o'tkir bosqichda antitelolar hosil bo'lmasligi",
+    "o'tgan infeksiyadan keyin ham saqlanishi"
+   ],
+   "x": "«Biroq u malakali mutaxassis, sifatli reaktiv va yaxshi mikroskop talab qiladi, parazit soni juda kam bo'lganda esa xato salbiy natija berishi mumkin»"
+  },
+  {
+   "q": "Klinik shubha saqlansa nima qilinadi?",
+   "c": "surtma bir necha marta takrorlanadi",
+   "w": [
+    "serologik test bilan tashxis qo'yiladi",
+    "natija bemor kartasiga yoziladi",
+    "tekshiruv bir marta bilan cheklanadi",
+    "sifat nazorati zarur bo'ladi"
+   ],
+   "x": "«Shu sababli klinik shubha saqlansa, surtma bir necha marta takrorlanadi»"
+  },
+  {
+   "q": "Molekulyar usullar nimasi bilan ajralib turadi?",
+   "c": "aralash infeksiyalarni ajrata oladi",
+   "w": [
+    "antitelolarni o'tkir bosqichda aniqlaydi",
+    "qon donorlarini skrining qiladi",
+    "ma'lumotnoma laboratoriyalarida emas, har joyda qo'llanadi",
+    "arzon va oddiy jihoz bilan ishlaydi"
+   ],
+   "x": "«Ular juda sezgir, aralash infeksiyalarni va kam uchraydigan turlarni, masalan P. knowlesi ni, aniq ajrata oladi»"
+  },
+  {
+   "q": "Serologik usullar qaysi maqsadda ishlatiladi?",
+   "c": "epidemiologik tadqiqotlar va qon donorlarini skrining qilish",
+   "w": [
+    "o'tkir isitmalovchi bemorda tashxis qo'yish",
+    "davolash samarasini kuzatish va parazitemiyani baholash",
+    "aralash infeksiyalarni va kam uchraydigan turlarni ajratish",
+    "parazitning qaysi bosqichlari borligini aniqlash"
+   ],
+   "x": "«Serologiya epidemiologik tadqiqotlar va qon donorlarini skrining qilish uchun ishlatiladi»"
+  },
+  {
+   "q": "Namuna olishda isitma xurujining eng baland nuqtasini kutish kerakmi?",
+   "c": "shart emas, parazit boshqa vaqtda ham qonda bo'ladi",
+   "w": [
+    "shart, parazit baland nuqtada qonda bo'ladi",
+    "shart, parazit boshqa vaqtda qonda bo'lmaydi",
+    "zarur, chunki qon oldin qotib qoladi",
+    "baland nuqtada namuna olish majburiy"
+   ],
+   "x": "«Namunani olish isitma xurujining eng baland nuqtasida bo'lishi shart emas, chunki parazit boshqa vaqtda ham qonda bo'ladi»"
+  },
+  {
+   "q": "P. falciparum topilsa nima qilinadi?",
+   "c": "shifokorga darhol xabar qilinadi",
+   "w": [
+    "natija faqat jurnalga yoziladi",
+    "surtma ikkinchi mutaxassisga yuboriladi",
+    "tekshiruv takrorlanmaydi",
+    "bemor ma'lumotnoma markaziga yuboriladi"
+   ],
+   "x": "«falciparum topilsa, shifokorga darhol xabar qilinadi, chunki bu holat shoshilinch davolashni talab qiladi»"
+  }
+ ],
+ "029": [
+  {
+   "q": "SOP nima?",
+   "c": "har bir amal tartibi va sifat talablari yozilgan hujjat",
+   "w": [
+    "mikroskop va reaktivlar yozilgan hujjat",
+    "bemor ma'lumotlari va natijalari yozilgan jurnal",
+    "xavfsizlik qoidalari va chiqindilar ro'yxati",
+    "chiqindilarni yoqish va zararsizlantirish jadvali"
+   ],
+   "x": "«Standart operatsion protsedura, ya'ni SOP — laboratoriyada bajariladigan har bir amal qanday, qaysi tartibda va qanday sifat talablari bilan bajarilishini batafsil yozib qo'ygan hujjat»"
+  },
+  {
+   "q": "Qon olish uchun qaysi barmoq tanlanadi?",
+   "c": "qo'lning noaniq tomonidagi uchinchi barmoq",
+   "w": [
+    "qo'lning faol tomonidagi bosh barmoq",
+    "qo'lning noaniq tomonidagi bosh barmoq",
+    "bosh barmoqdan sanaganda ikkinchi barmoq",
+    "oyoqning katta barmog'i va tovon"
+   ],
+   "x": "«Qon olish uchun qo'lning noaniq tomonidagi uchinchi barmoq (bosh barmoqdan sanaganda) tanlanadi»"
+  },
+  {
+   "q": "Chaqaloqlarda qon olish uchun qaysi joy tanlanadi?",
+   "c": "oyoqning katta barmog'i",
+   "w": [
+    "oyoqning tovon qismi",
+    "qo'lning uchinchi barmog'i",
+    "qo'lning bosh barmog'i",
+    "oyoqning ikkinchi barmog'i"
+   ],
+   "x": "«chaqaloqlarda esa oyoqning katta barmog'i, tovon emas»"
+  },
+  {
+   "q": "Barmoq nima bilan tozalanadi?",
+   "c": "70 foizli etil spirtida tozalanadi",
+   "w": [
+    "Giemza ishchi eritmasida yuviladi",
+    "suv va sovun bilan yuviladi",
+    "immersion moy bilan tozalanadi",
+    "steril lanset bilan tozalanadi"
+   ],
+   "x": "«barmoq 70 foizli etil spirtida tozalanadi»"
+  },
+  {
+   "q": "Parazitlar sonini hisoblash tartibini qaysi SOP belgilaydi?",
+   "c": "MM-SOP-09",
+   "w": [
+    "MM-SOP-05A",
+    "MM-SOP-07A",
+    "MM-SOP-08",
+    "MM-SOP-11"
+   ],
+   "x": "«Parazitlarni sanash: MM-SOP-09 To'rtinchi SOP parazitlar sonini hisoblash tartibini belgilaydi»"
+  },
+  {
+   "q": "Yupqa va qalin preparat uchun nechta tomchi olinadi?",
+   "c": "yupqa uchun bitta, qalin uchun ikki-uch tomchi",
+   "w": [
+    "yupqa uchun ikki-uch, qalin uchun bitta tomchi",
+    "ikkalasi uchun bitta tomchi",
+    "ikkalasi uchun ikki-uch tomchi",
+    "qalin uchun bitta, yupqa uchun yana bitta"
+   ],
+   "x": "«Yupqa surtma uchun bitta kichik tomchi, qalin tomchi uchun esa yana ikki-uch tomchi olinadi; qalin tomchi taxminan 1 sm diametrli doira shaklida aylantirib yoyiladi va preparat gorizontal holatda havoda quritiladi»"
+  },
+  {
+   "q": "Mikroskop qaysi obyektivlarga ega bo'lishi kerak?",
+   "c": "10×, 40× va 100× obyektivlar",
+   "w": [
+    "5×, 20× va 60× obyektivlar",
+    "100×, 200× va 500× obyektivlar",
+    "faqat 100× immersion obyektiv",
+    "10×, 100× va 500× obyektivlar"
+   ],
+   "x": "«mikroskop 10×, 40× va 100× obyektivlarga ega bo'lishi kerak»"
+  },
+  {
+   "q": "Parazit yo'q deyish uchun nechta maydon ko'rib chiqiladi?",
+   "c": "kamida 100 ta maydon ko'rib chiqiladi",
+   "w": [
+    "200 ta maydon ko'rib chiqiladi",
+    "50 ta maydon ko'rib chiqiladi",
+    "kamida 500 ta maydon ko'rib chiqiladi",
+    "kamida 15–20 ta maydon ko'rib chiqiladi"
+   ],
+   "x": "«Parazit yo'q deyish uchun kamida 100 ta maydon ko'rib chiqiladi»"
+  },
+  {
+   "q": "Qalin tomchi yetarli qalinlikda ekanini nima bildiradi?",
+   "c": "ko'rish maydonida 15–20 ta leykotsit",
+   "w": [
+    "200 leykotsitda 100 parazit bo'lishi",
+    "maydonda 500 ta leykotsit bo'lishi",
+    "preparatda 100 ta maydon bo'lishi",
+    "qalin tomchida 100 dan ortiq parazit"
+   ],
+   "x": "«qalin tomchi yetarlicha qalinlikda deb hisoblanishi uchun ko'rish maydonida 15–20 ta leykotsit bo'lishi kerak»"
+  },
+  {
+   "q": "Sanash paytida gametotsitlarga qanday munosabat bildiriladi?",
+   "c": "gametotsitlar sanalmaydi, lekin mavjudligi qayd etiladi",
+   "w": [
+    "jinssiz shakllar sanalmaydi, gametotsitlar sanaladi",
+    "gametotsitlar sanaladi, lekin qayd etilmaydi",
+    "gametotsitlar ham jinssiz shakllar bilan sanaladi",
+    "gametotsitlar sanalmaydi va qayd etilmaydi"
+   ],
+   "x": "«jinssiz shakllari sanaladi, gametotsitlar sanalmaydi, lekin ularning mavjudligi doimo qayd etiladi»"
+  }
+ ],
+ "030": [
+  {
+   "q": "Qalin tomchining vazifasi nima?",
+   "c": "oz miqdordagi parazitni ham topish",
+   "w": [
+    "parazit turini yupqa surtmada aniqlash",
+    "eritrotsitlar shaklini saqlash",
+    "leykotsitlarni parchalash",
+    "buyum oynasini belgilash va jurnalga yozish"
+   ],
+   "x": "«Uning vazifasi — oz miqdordagi parazitni ham topish: qon ko'p miqdorda bir joyga to'planib, eritrotsitlar bo'yash vaqtida parchalanadi va parazitlar yaqqol ko'rinadi»"
+  },
+  {
+   "q": "Qalin tomchida parazit nega yaxshi topiladi?",
+   "c": "qon bir joyga to'planib, eritrotsitlar parchalanadi",
+   "w": [
+    "eritrotsitlar butun qoladi va ko'rinadi",
+    "parazit hamda eritrotsit shakllari ko'rinadi",
+    "qon quriy boshlaydi va parazit saqlanadi",
+    "gemoglobin eritrotsitlarni saqlab qoladi"
+   ],
+   "x": "«Uning vazifasi — oz miqdordagi parazitni ham topish: qon ko'p miqdorda bir joyga to'planib, eritrotsitlar bo'yash vaqtida parchalanadi va parazitlar yaqqol ko'rinadi»"
+  },
+  {
+   "q": "Yupqa surtma nima uchun xizmat qiladi?",
+   "c": "turni aniqlash uchun xizmat qiladi",
+   "w": [
+    "parazitni topish uchun xizmat qiladi",
+    "qonni bir joyga jamlaydi",
+    "eritrotsitlarni parchalaydi",
+    "leykotsitlarni sanash uchun xizmat qiladi"
+   ],
+   "x": "«Qalin tomchi parazitni topish uchun, yupqa surtma esa turni aniqlash uchun xizmat qiladi»"
+  },
+  {
+   "q": "Buyum oynasi nega toza va yog'siz bo'lishi kerak?",
+   "c": "barmoq izi yoki yog' qon yoyilishiga xalaqit beradi",
+   "w": [
+    "yog' bo'yash vaqtida eritrotsitlarni parchalaydi",
+    "oyna toza bo'lsa qon tezroq quriydi",
+    "toza oyna parazitlarni bo'yaydi",
+    "yog' lanset bilan teshishga xalaqit beradi"
+   ],
+   "x": "«Buyum oynasi toza, yog'siz bo'lishi kerak, chunki barmoq izi yoki yog' qon yoyilishiga xalaqit beradi»"
+  },
+  {
+   "q": "Barmoq sovuq bo'lsa nima qilinadi?",
+   "c": "yengil massaj qilinadi",
+   "w": [
+    "spirt quriguncha kutilmaydi",
+    "barmoq lanset bilan qayta teshiladi",
+    "yana ikki-uch tomchi chiqariladi",
+    "bosh barmoqdan foydalaniladi"
+   ],
+   "x": "«Barmoq 70 foizli spirtga namlangan paxta bilan kuchli harakatlar bilan tozalanadi, bu tozalash bilan birga qon aylanishini ham yaxshilaydi; barmoq sovuq bo'lsa, yengil massaj qilinadi»"
+  },
+  {
+   "q": "Barmoq teshilgandan keyin birinchi tomchi bilan nima qilinadi?",
+   "c": "quruq paxta bilan artiladi",
+   "w": [
+    "yupqa surtma uchun olinadi",
+    "buyum oynasining o'rtasiga olinadi",
+    "qalin tomchiga qo'shiladi",
+    "spirt bilan namlanadi"
+   ],
+   "x": "«Yangi steril lanset bilan barmoq pulpasining markazi tez aylanma harakat bilan teshiladi, yengil bosim bilan birinchi tomchi chiqarilib, quruq paxta bilan artiladi, paxta tolalari qolmasligiga e'tibor beriladi»"
+  },
+  {
+   "q": "Qalin tomchi qanday shaklda yoyiladi?",
+   "c": "diametri taxminan 1 sm doira",
+   "w": [
+    "diametri taxminan 5 mm doira",
+    "uchta tomchidan iborat to'rtburchak",
+    "aralashtirilgan tomchilar doirasi",
+    "bitta kichik tomchi shaklida"
+   ],
+   "x": "«Qalin tomchi toza oynada, barmoq uchidan olingan 2–3 tomchi qonni taxminan 1 sm doira shaklida aylantirib yoyish va gorizontal quritish yo'li bilan tayyorlanadi»"
+  },
+  {
+   "q": "Qalin tomchining qalinligi qanday bo'lishi kerak?",
+   "c": "bo'yalganda taxminan 15–20 leykotsit ko'rinishi",
+   "w": [
+    "bo'yalganda taxminan 200 parazit ko'rinishi",
+    "ko'rish maydonida 8000 leykotsit bo'lishi",
+    "fonda leykotsitlar va parazitlar qolishi",
+    "yupqa surtmadagi eritrotsitlar ko'rinishi"
+   ],
+   "x": "«Tayyor qalin tomchi shunday qalinlikda bo'lishi kerakki, bo'yalganda ko'rish maydonida taxminan 15–20 leykotsit ko'rinsin»"
+  },
+  {
+   "q": "Qalin tomchi qanday quritiladi?",
+   "c": "gorizontal holatda lotokda havoda quritiladi",
+   "w": [
+    "lotokda issiq pechda quritiladi",
+    "fen yordamida juda yaqindan quritiladi",
+    "ho'l holda darhol bo'yaladi",
+    "bo'yashgacha spirtda saqlanadi"
+   ],
+   "x": "«Tayyor preparatlar gorizontal holatda lotokda havoda quritiladi, chang va pashshalardan himoya qilinadi»"
+  },
+  {
+   "q": "Fen bilan quritish zarur bo'lsa nima qilinadi?",
+   "c": "past issiqlik bilan 30 sm masofadan quritiladi",
+   "w": [
+    "yuqori issiqlik bilan oynaga yaqin quritiladi",
+    "spirt bilan namlangan paxta bilan artiladi",
+    "bo'yash jarayonida ho'l holda yuviladi",
+    "chang va pashshalardan himoya qilinadi"
+   ],
+   "x": "«fen yordamida past issiqlik bilan 30 sm masofadan 5 soniya quritish mumkin»"
+  }
+ ]
+}

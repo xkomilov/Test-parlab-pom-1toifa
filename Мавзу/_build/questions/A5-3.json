@@ -1,0 +1,450 @@
+{
+ "092": [
+  {
+   "q": "Geogelmintozlarga qarshi strategiya qaysi uchta asosga tayanadi?",
+   "c": "Davriy davolash, gigiyena ta'limi, sanitariya",
+   "w": [
+    "Davriy davolash, monitoring, resurslar",
+    "Gigiyena ta'limi, monitoring, xodimlar",
+    "Sanitariya, tashqi muhit nazorati, monitoring",
+    "Vaziyatni baholash, davolash, monitoring"
+   ],
+   "x": "«Strategiya uchta asosga tayanadi: xavf ostidagi aholini davriy davolash (profilaktik kimyoterapiya); sog'liqni saqlash va gigiyena ta'limi; sanitariyani yaxshilash»"
+  },
+  {
+   "q": "Qaysi aholi guruhlari xavf ostidagilar sifatida davolanadi?",
+   "c": "Bolalar va tug'ish yoshidagi ayollar",
+   "w": [
+    "Laboratoriya xodimlari va transport xodimlari",
+    "Tibbiyot xodimlari va o'qituvchilar",
+    "Maktab o'qituvchilari va bog'cha xodimlari",
+    "O'qituvchilar va laboratoriya xodimlari"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti xavf ostidagilar sifatida maktabgacha va maktab yoshidagi bolalar, tug'ish yoshidagi ayollar (shu jumladan homiladorlikning ikkinchi va uchinchi trimestridagilar va emizikli ayollar) hamda ba'zi yuqori xavfli kasbdagi kattalarni ko'rsatadi»"
+  },
+  {
+   "q": "Davolash qayta zararlanishning oldini olmasa, nima zarur?",
+   "c": "Sanitariya choralari",
+   "w": [
+    "Davolash chastotasini ko'paytirish",
+    "Xayriya dorilarini ko'paytirish",
+    "Laboratoriya reaktivlarini ko'paytirish",
+    "Xodimlar sonini ko'paytirish"
+   ],
+   "x": "«Davolash qayta zararlanishning oldini olmasligi sababli sanitariya choralari zarur: najasni xavfsiz yo'qotish (hojatxonalar, kanalizatsiya, oqova suvni tozalash); toza ichimlik suvi bilan ta'minlash; najasni o'g'it sifatida ishlatishni nazorat qilish; maktab va bog'chalarda hojatxona va qo'l yuvish joylarini ta'minlash»"
+  },
+  {
+   "q": "Geogelmintozlarga qarshi davolash qanday chora sifatida qo'llanadi?",
+   "c": "Tezkor chora sifatida",
+   "w": [
+    "Uzoq muddatli maqsad sifatida",
+    "Tashkiliy asos sifatida",
+    "Monitoring ko'rsatkichi sifatida",
+    "Tashqi muhit nazorati sifatida"
+   ],
+   "x": "«Shu bois sanitariya uzoq muddatli maqsad, davolash esa tezkor chora sifatida qo'llanadi»"
+  },
+  {
+   "q": "Epidemiologik baholash qachon o'tkazilishi tavsiya etiladi?",
+   "c": "5–6 yildan keyin",
+   "w": [
+    "2–3 yildan keyin",
+    "1–2 yildan keyin",
+    "10 yildan keyin",
+    "Yiliga ikki marta"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti epidemiologik baholashni 5–6 yildan keyin, samarali davolash qamrovi kamida 75 foiz bo'lganda o'tkazishni va natijalarga ko'ra davolash chastotasini moslashtirishni tavsiya etadi; ta'sir ko'rsatkichlari — har qanday tuproq gelmintozi tarqalganligi va o'rta hamda og'ir intensivlik tarqalganligi»"
+  },
+  {
+   "q": "Maktab o'qituvchilari nimaga tayyorlanadi?",
+   "c": "Davolashni o'tkazishga",
+   "w": [
+    "Najas tekshirishga",
+    "Oqova suvni zararsizlantirishga",
+    "Epidemiologik baholashni o'tkazishga",
+    "Laboratoriya reaktivlarini tayyorlashga"
+   ],
+   "x": "«Maktab o'qituvchilari davolashni o'tkazish uchun tayyorlanadi, chunki dorilarni tibbiyot xodimi bo'lmagan shaxslar ham berishi mumkin»"
+  },
+  {
+   "q": "Tashqi muhit nazoratida nimalar kuzatiladi?",
+   "c": "Tuproq, suv, sabzavot, oqova suv",
+   "w": [
+    "Hojatxona, kanalizatsiya, maktab, bog'cha",
+    "Bemorlar, xodimlar, maktab, bog'cha",
+    "Dori, reaktiv, transport, xodim",
+    "Tarqalganlik, intensivlik, sanitariya, suv"
+   ],
+   "x": "«Sanitariya-gelmintologik nazorat tashqi muhitni kuzatadi: tuproq, suv, sabzavot, oqova suv»"
+  },
+  {
+   "q": "Dastur boshida vaziyat baholanganda nimalar aniqlanadi?",
+   "c": "Tarqalganlik, intensivlik, sanitariya holati",
+   "w": [
+    "Dori vositalari, reaktivlar, transport",
+    "Davolash qamrovi, baholash muddati",
+    "Xodimlar soni, o'qituvchilar tayyorligi",
+    "Xayriya dorilar hajmi, yetkazish"
+   ],
+   "x": "«Dastur boshida vaziyat baholanadi: hududlar bo'yicha tarqalganlik va intensivlik, xavf ostidagi guruhlar, sanitariya holati, suv manbalari»"
+  },
+  {
+   "q": "Sanitariya choralariga qaysi tadbir kiradi?",
+   "c": "Najasni xavfsiz yo'qotish, hojatxonalar",
+   "w": [
+    "Xayriya dorilarini tarqatish",
+    "Laboratoriya xodimlarini o'qitish",
+    "Epidemiologik baholashni o'tkazish",
+    "Maktab o'qituvchilarini tayyorlash"
+   ],
+   "x": "«Davolash qayta zararlanishning oldini olmasligi sababli sanitariya choralari zarur: najasni xavfsiz yo'qotish (hojatxonalar, kanalizatsiya, oqova suvni tozalash)»"
+  },
+  {
+   "q": "Geogelmintozlarga qarshi kurash nega faqat davolash bilan hal bo'lmaydi?",
+   "c": "Qayta zararlanish tashqi muhitdagi tuxumlardan keladi",
+   "w": [
+    "Chuvalchanglar odamda doim ko'payib boradi",
+    "Dorilar faqat xayriya sifatida beriladi",
+    "Individual tashxissiz davolash mumkin emas",
+    "Monitoring davolash samarasini baholamaydi"
+   ],
+   "x": "«chuvalchanglar odamda ko'paymaydi, qayta zararlanish esa tuproq va tashqi muhitdagi infeksion tuxumlardan keladi»"
+  }
+ ],
+ "093": [
+  {
+   "q": "Teniarinxozning qo'zg'atuvchisi qaysi?",
+   "c": "Taenia saginata",
+   "w": [
+    "Cysticercus bovis",
+    "Taeniidae oilasi",
+    "Sestodalar sinfi",
+    "Sistitserk pufakchasi"
+   ],
+   "x": "«Teniarinxoz qo'zg'atuvchisi — Taenia saginata; odam ichagida yashaydigan uzun tasmasimon chuvalchang, oraliq xo'jayini qoramol»"
+  },
+  {
+   "q": "Teniarinxozda oraliq xo'jayin kim?",
+   "c": "Qoramol",
+   "w": [
+    "Odam",
+    "Cho'chqa",
+    "Yovvoyi hayvonlar",
+    "Oxirgi xo'jayin"
+   ],
+   "x": "«Qoramol (oraliq xo'jayin) o't-o'lan yoki suv bilan tuxumni yutadi»"
+  },
+  {
+   "q": "Voyaga yetgan T. saginata uzunligi qancha?",
+   "c": "Odatda 4–10 metr",
+   "w": [
+    "Odatda 5–10 mm",
+    "Odatda 30–40 mkm",
+    "Odatda 15–20 metr",
+    "Odatda 1–2 metr"
+   ],
+   "x": "«saginata odam ingichka ichagida yashaydi va juda uzun: odatda 4–10 metr, ba'zan undan ham uzun»"
+  },
+  {
+   "q": "T. saginata skoleksining xususiyati qanday?",
+   "c": "To'rtta so'rg'ich bor, kancali toj yo'q",
+   "w": [
+    "To'rtta so'rg'ich va kancali toj bor",
+    "Kancalar bor, so'rg'ichlar yo'q",
+    "Bitta skoleks bor, so'rg'ichlar yo'q",
+    "Kancali toj bor, so'rg'ichlar ko'p"
+   ],
+   "x": "«Uning boshchasi (skoleks) kichik, to'rtta so'rg'ichli, ammo kancali toj (rostellum) yo'q, shu bilan T»"
+  },
+  {
+   "q": "Tuxum ichida nima bor?",
+   "c": "Oltita kanchali lichinka",
+   "w": [
+    "Bitta skoleksli pufakcha",
+    "To'rtta so'rg'ichli skoleks",
+    "Suyuqlik bor sistitserk",
+    "Bo'g'imlar va bachadon tarmoqlari"
+   ],
+   "x": "«Tuxum dumaloq, kichik (taxminan 30–40 mkm), qalin radial chiziqli qobiqli, ichida oltita kanchali lichinka (onkosfera) bor»"
+  },
+  {
+   "q": "Qoramolda sistitserk qayerda hosil bo'ladi?",
+   "c": "Mushaklarda",
+   "w": [
+    "Odam ingichka ichagida",
+    "Suv va o't-o'landa",
+    "Anal teshikda",
+    "Bo'g'imlar ichida"
+   ],
+   "x": "«Qoramol ichagida onkosfera chiqib, ichak devoridan o'tadi va qon orqali mushaklarga (til, yurak, chaynov mushaklari, bo'yin, diafragma) yetib boradi va u yerda sistitserk (Cysticercus bovis) hosil qiladi — tarkibida suyuqlik va bitta skoleks bor pufakcha»"
+  },
+  {
+   "q": "Sistitserk tarkibida nima bor?",
+   "c": "Suyuqlik va bitta skoleks",
+   "w": [
+    "Oltita kancha va suyuqlik",
+    "Bitta skoleks va bachadon",
+    "Onkosfera va bo'g'imlar",
+    "Radial chiziqli qobiq va suyuqlik"
+   ],
+   "x": "«Qoramol ichagida onkosfera chiqib, ichak devoridan o'tadi va qon orqali mushaklarga (til, yurak, chaynov mushaklari, bo'yin, diafragma) yetib boradi va u yerda sistitserk (Cysticercus bovis) hosil qiladi — tarkibida suyuqlik va bitta skoleks bor pufakcha»"
+  },
+  {
+   "q": "Odam T. saginata bilan qanday zararlanadi?",
+   "c": "Xom qoramol go'shtini yeganda",
+   "w": [
+    "O't-o'lan bilan tuxum yutganda",
+    "Tuxum bilan suv yutganda",
+    "Najas bilan ifloslangan suv ichganda",
+    "Najas bilan tuxum chiqarganda"
+   ],
+   "x": "«Odam xom yoki yaxshi pishmagan qoramol go'shtini yeganda sistitserk ichakda boshchasini chiqarib, taxminan 8 haftada voyaga yetgan chuvalchangga aylanadi»"
+  },
+  {
+   "q": "T. saginata va T. solium farqlarida eng muhimi nima?",
+   "c": "Odam uchun xavf darajasi",
+   "w": [
+    "Oraliq xo'jayin farqi",
+    "Skoleksdagi kanchalar bor-yo'qligi",
+    "Bachadon tarmoqlari soni",
+    "Tuxumning mikroskopdagi ko'rinishi"
+   ],
+   "x": "«solium farqi: oraliq xo'jayin (qoramol va cho'chqa), skoleksda kanchalar (yo'q va bor), bachadon tarmoqlari soni va, eng muhimi, odam uchun xavf»"
+  },
+  {
+   "q": "Teniarinxoz qanday kasallik sifatida tasniflanadi?",
+   "c": "Biogelmintoz va zoonoz",
+   "w": [
+    "Zoonoz va sistitserkoz",
+    "Sistitserkoz va neyrosistitserkoz",
+    "Sestodoz va sistitserkoz",
+    "Neyrosistitserkoz va zoonoz"
+   ],
+   "x": "«Odam bu parazitning oxirgi xo'jayini, qoramol esa oraliq xo'jayini, shuning uchun teniarinxoz biogelmintoz va zoonoz sifatida tasniflanadi»"
+  }
+ ],
+ "094": [
+  {
+   "q": "Teniarinxozning xarakterli belgisi qaysi?",
+   "c": "Bo'g'imlarning mustaqil chiqishi",
+   "w": [
+    "Ichak tutilishi va appenditsit",
+    "Bosh aylanishi va uyqu buzilishi",
+    "Qusish va ishtaha o'zgarishi",
+    "Holsizlik va serjahllik"
+   ],
+   "x": "«Teniarinxoz ko'p hollarda yengil kechadi: qorin og'rig'i, ko'ngil aynishi, ich buzilishi yoki belgisiz; xarakterli belgi — bo'g'imlarning mustaqil chiqishi»"
+  },
+  {
+   "q": "Chuvalchang ichakda qancha vaqtda to'liq rivojlanadi?",
+   "c": "Taxminan 8 hafta",
+   "w": [
+    "Taxminan 8 yil",
+    "Taxminan 2 hafta",
+    "Bir necha yil",
+    "Bir necha oy"
+   ],
+   "x": "«asiatica tufayli) odatda yengil va nospesifik belgilar bilan xarakterlanishini ta'kidlaydi: chuvalchang ichakda to'liq rivojlangach, taxminan 8 hafta o'tgach, qorin og'rig'i, ko'ngil aynishi, diareya yoki ich qotishi paydo bo'lishi mumkin; belgilar chuvalchang davolanmaguncha yoki o'lmaguncha davom etishi va usiz chuvalchang bir necha yil yashashi mumkin»"
+  },
+  {
+   "q": "Ko'pchilik bemorlar kasallikni nima orqali bilib oladi?",
+   "c": "Najasda bo'g'imlarni payqash",
+   "w": [
+    "Ko'ngil aynishini payqash",
+    "Uyqu buzilishini payqash",
+    "Eozinofiliyani payqash",
+    "Qorin og'rig'ini payqash"
+   ],
+   "x": "«Ko'pchilik bemorlar kasallikni aynan shu bo'g'imlarni najasda yoki ichki kiyimda payqaganda bilib oladi»"
+  },
+  {
+   "q": "T. solium bo'g'imlari odatda qanday chiqadi?",
+   "c": "Najas bilan bo'laklar bo'lib",
+   "w": [
+    "Mustaqil faol harakatlanib",
+    "Ichki kiyimda sudralib yurib",
+    "Anal teshikdan mustaqil",
+    "Ichki kiyimda topilib"
+   ],
+   "x": "«solium bo'g'imlari odatda najas bilan birga bo'laklar bo'lib chiqadi»"
+  },
+  {
+   "q": "Teniarinxozda qorin og'rig'i ko'pincha qayerda bo'ladi?",
+   "c": "Kindik atrofida yoki epigastriyada",
+   "w": [
+    "Qorinda gurillash yoki ko'pirish",
+    "O't yo'llari yoki oshqozon osti bezida",
+    "Appendiks yoki o't pufagi sohasida",
+    "Anal teshik yoki appendiks sohasida"
+   ],
+   "x": "«Ichak belgilari: qorin og'rig'i (ko'pincha kindik atrofida yoki epigastriyada, xurujsimon), ko'ngil aynishi, ba'zan qusish, ishtaha o'zgarishi (kuchaygan yoki pasaygan), ich ketishi yoki ich qotishi, qorinda gurillash, ko'pirish»"
+  },
+  {
+   "q": "Neyrosistitserkoz qaysi kasallikning sabablaridan biri?",
+   "c": "Epilepsiya",
+   "w": [
+    "Kamqonlik",
+    "Eozinofiliya",
+    "Appenditsit",
+    "Pankreatit"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti neyrosistitserkoz epilepsiyaning eng ko'p uchraydigan oldini olish mumkin bo'lgan sabablaridan biri ekanini va T»"
+  },
+  {
+   "q": "Teniarinxozni qaysi holatlardan ajratish kerak?",
+   "c": "Diffillobotriaz va gimenolepidoz",
+   "w": [
+    "Epilepsiya va sistitserkoz",
+    "Neyrosistitserkoz va eozinofiliya",
+    "Kamqonlik va pankreatit",
+    "Bronxospazm va giperemiya"
+   ],
+   "x": "«Teniarinxozni boshqa ichak gelmintozlari (diffillobotriaz, gimenolepidoz), lyambliyoz, surunkali gastroduodenit, ich ketishi bilan kechadigan kasalliklar, appenditsit va qorin bo'shlig'i kasalliklaridan ajratish kerak»"
+  },
+  {
+   "q": "Bemorga nima tavsiya etiladi?",
+   "c": "Bo'g'imlarni laboratoriyaga keltirish",
+   "w": [
+    "Bo'g'imlarni najasga tashlash",
+    "Perianal qirindi olish",
+    "Kolit belgilarini kuzatish",
+    "Kontrast rentgenologik tekshirish"
+   ],
+   "x": "«Bemorga bo'g'imlarni tashlamay, laboratoriyaga keltirish, davolanish kursini to'liq o'tash, kuzatuv tekshiruvlaridan o'tish, xom go'shtdan saqlanish tavsiya etiladi»"
+  },
+  {
+   "q": "Oila a'zolariga nima tushuntiriladi?",
+   "c": "Kasallik to'g'ridan-to'g'ri yuqmaydi",
+   "w": [
+    "Oila a'zolari albatta zararlanadi",
+    "Bo'g'imlar ularga to'g'ridan-to'g'ri yuqadi",
+    "Birga xom go'sht yegan bo'lsalar tekshirilmaydi",
+    "Neyrosistitserkoz xavfi ularda bor"
+   ],
+   "x": "«Oila a'zolariga kasallik ularga to'g'ridan-to'g'ri yuqmasligi, lekin birga xom go'sht yegan bo'lsalar tekshirilishi mumkinligi tushuntiriladi»"
+  },
+  {
+   "q": "Qaysi belgilar allergik hisoblanadi?",
+   "c": "Teri toshmalari va qichishish",
+   "w": [
+    "Qorin og'rig'i va ko'ngil aynishi",
+    "Ich ketishi va ich qotishi",
+    "Ishtaha kuchayishi va vazn kamayishi",
+    "Holsizlik va bosh og'rig'i"
+   ],
+   "x": "«Chuvalchang mahsulotlariga javoban teri toshmalari, qichishish, eozinofiliya paydo bo'lishi mumkin»"
+  }
+ ],
+ "095": [
+  {
+   "q": "Odam teniarinxozga qanday go'sht orqali chalinadi?",
+   "c": "Sistitserk bor xom qoramol go'shti",
+   "w": [
+    "Veterinar nazoratidan o'tgan go'sht",
+    "Ishonchli muzlatilgan go'sht",
+    "Yaxshilab pishirilgan go'sht",
+    "Issiqlik bilan ishlov berilgan go'sht"
+   ],
+   "x": "«Odam teniarinxozga sistitserk (Cysticercus bovis) bor qoramol go'shtini xom yoki yetarli issiqlik bilan ishlov berilmagan holda iste'mol qilganda chalinadi»"
+  },
+  {
+   "q": "Teniarinxozda zararlanish yo'li qaysi?",
+   "c": "Alimentar (ovqat orqali)",
+   "w": [
+    "Yem orqali",
+    "Bevosita odamdan odamga",
+    "Teri orqali tuxum kirishi",
+    "Oqova suv orqali"
+   ],
+   "x": "«Zararlanish yo'li alimentar (ovqat orqali)»"
+  },
+  {
+   "q": "Sistitserkni nima o'ldiradi?",
+   "c": "Issiqlik va sovutish",
+   "w": [
+    "Sanitariya va gigiyena",
+    "Veterinar tamg'asi va nazorat",
+    "Najas va oqova suv",
+    "Sug'orish suvi va yem"
+   ],
+   "x": "«Pishirishning yetarliligi hal qiluvchi, chunki issiqlik va sovutish sistitserkni o'ldiradi»"
+  },
+  {
+   "q": "Qaysi sharoit qoramol zararlanishini ko'paytiradi?",
+   "c": "Ochiq joyda defekatsiya",
+   "w": [
+    "Go'shtni yaxshilab pishirish",
+    "Hojatxonalar mavjudligi",
+    "Oqova suvni tozalash",
+    "Veterinar nazorati mavjudligi"
+   ],
+   "x": "«Bunday zararlanish quyidagi sharoitlarda ko'payadi: ochiq joyda defekatsiya, hojatxonalar yo'qligi, tozalanmagan oqova suv bilan sug'orish, chorvadorlar va cho'ponlarning yaylovda hojat qilishi, najas bilan o'g'itlangan yemlar»"
+  },
+  {
+   "q": "Zanjirning ikki asosiy bo'g'ini qaysi?",
+   "c": "Sanitariya va go'sht ishlov berish",
+   "w": [
+    "Yaylov va sug'orish suvi nazorati",
+    "Chorvachilik va kasbiy xavf omillari",
+    "Veterinar tamg'asi va qassoblar nazorati",
+    "Xom qiyma va kabob tayyorlash"
+   ],
+   "x": "«Bu zanjirning ikki asosiy bo'g'inini kuzatish mumkin: odamlar sanitariyasi (najasning yaylovga tushishi) va go'sht ishlov berish (sistitserkli go'shtning odamga yetishi)»"
+  },
+  {
+   "q": "Teniarinxoz odamdan odamga yuqadimi?",
+   "c": "Odamdan odamga bevosita yuqmaydi",
+   "w": [
+    "Odamdan odamga bevosita yuqadi",
+    "Oilaga najas orqali yuqadi",
+    "Tuxum orqali oilaga yuqadi",
+    "Bo'g'imlar orqali oilaga yuqadi"
+   ],
+   "x": "«Teniarinxoz odamdan odamga bevosita yuqmaydi: T»"
+  },
+  {
+   "q": "Go'sht ekspertizasida nima qilinadi?",
+   "c": "Mushaklar kesilib sistitserklar izlanadi",
+   "w": [
+    "Najas tekshirilib tuxum izlanadi",
+    "Bemorlar so'ralib bo'g'im izlanadi",
+    "Yaylov tekshirilib tuxum izlanadi",
+    "Suv tekshirilib sistitserk izlanadi"
+   ],
+   "x": "«Go'sht ekspertizasida shu mushaklar kesilib, sistitserklar izlanadi»"
+  },
+  {
+   "q": "Teniarinxozli bemor najasi kimlar uchun xavfli?",
+   "c": "Qoramollar",
+   "w": [
+    "Oshpazlar",
+    "Qassoblar",
+    "Mehmonlar",
+    "Chorvadorlar"
+   ],
+   "x": "«Shu sababli teniarinxozli bemor oilasi uchun xavf tug'dirmaydi, faqat uning najasi tashqi muhitni ifloslantirsa, qoramollar uchun xavf bo'ladi»"
+  },
+  {
+   "q": "Go'sht pishirishda nima hal qiluvchi?",
+   "c": "Pishirishning yetarliligi",
+   "w": [
+    "Go'shtning tashqi ko'rinishi",
+    "Go'shtni tatib ko'rish",
+    "Qiymaning tashqi ko'rinishi",
+    "Veterinar tamg'asining mavjudligi"
+   ],
+   "x": "«Pishirishning yetarliligi hal qiluvchi, chunki issiqlik va sovutish sistitserkni o'ldiradi»"
+  },
+  {
+   "q": "Oqova suvdan foydalanishda qaysi qoida muhim?",
+   "c": "Tozalamasdan sug'orishda ishlatmaslik",
+   "w": [
+    "Faqat veterinar nazoratidan o'tkazish",
+    "Najas bilan yemlarni o'g'itlash",
+    "Ochiq joyda ishlatish",
+    "Najas bilan sug'orish"
+   ],
+   "x": "«Yo'llarni uzish uchun: go'shtni yaxshilab pishirish (ichiga ham issiqlik yetguncha) yoki ishonchli muzlatish; xom qiymani tatib ko'rmaslik; faqat veterinar nazoratidan o'tgan go'shtni iste'mol qilish; hojatxona va kanalizatsiya, ochiq defekatsiyani to'xtatish; oqova suvni tozalamasdan sug'orishda ishlatmaslik; teniarinxozli bemorlarni aniqlab davolash, ularning najasini xavfsiz yo'qotish; qoramolni yaylov va suv manbalaridan himoya qilish»"
+  }
+ ]
+}

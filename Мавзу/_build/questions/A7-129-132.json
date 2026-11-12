@@ -1,0 +1,450 @@
+{
+ "129": [
+  {
+   "q": "Lyambliyaning hayot siklida qaysi ikki shakl bor?",
+   "c": "faol trofozoit va yuqumli kista",
+   "w": [
+    "faol kista va yuqumli trofozoit",
+    "faol tashuvchi va yuqumli kista",
+    "faol trofozoit va yuqumli tashuvchi",
+    "oddiy trofozoit va fiksatsiya qilingan kista"
+   ],
+   "x": "«Sharhda lyambliya hayot sikli sodda, ya'ni ikki shakldan iborat ekani yozilgan: faol trofozoit va kista»"
+  },
+  {
+   "q": "Kista yutilgach ichakda nima sodir bo'ladi?",
+   "c": "trofozoitga aylanadi va ichakda ko'payadi",
+   "w": [
+    "kistaga aylanadi va ichakda ko'payadi",
+    "trofozoitga aylanadi va tashqi muhitda chidamli bo'ladi",
+    "tashqi muhitda oziqlanadi va kistaga aylanadi",
+    "kistaga aylanadi va najas-og'iz yo'liga o'tadi"
+   ],
+   "x": "«Kista yutilgach, ichakda trofozoitga aylanadi, trofozoitlar esa ko'payib, yangi kistalarga aylanadi va najas bilan chiqariladi»"
+  },
+  {
+   "q": "Kistalar yutilgandan keyin inkubatsion davr qancha davom etadi?",
+   "c": "9 dan 15 kungacha",
+   "w": [
+    "8 dan 30 kungacha",
+    "1 dan 8 kungacha",
+    "9 dan 30 kungacha",
+    "8 dan 15 kungacha"
+   ],
+   "x": "«Kistalar yutilgandan keyin inkubatsion davr 9 dan 15 kungacha davom etadi»"
+  },
+  {
+   "q": "Tashxis nega faqat belgilarga qarab qo'yilmaydi?",
+   "c": "klinik xilma-xillik tufayli laboratoriya tasdig'i kerak",
+   "w": [
+    "kistalar najas bilan bir tekis chiqmaydi",
+    "trofozoit namuna olingandan keyin parchalanadi",
+    "inkubatsion davr 9 dan 15 kungacha davom etadi",
+    "immunologik usullar to'ldiruvchi sifatida tavsiya etiladi"
+   ],
+   "x": "«Bu klinik xilma-xillik tufayli faqat belgilarga qarab tashxis qo'yib bo'lmaydi; laboratoriya tasdig'i kerak»"
+  },
+  {
+   "q": "Suyuq najasda trofozoitni ko'rish uchun nima ishlatiladi?",
+   "c": "fiziologik eritma yoki SAF bilan fiksatsiya qilingan surtmalar",
+   "w": [
+    "formalin–efir konsentratsiyasi usuli bilan oddiy surtmalar",
+    "ichak suyuqligi yoki Entero-Test ipi bilan tekshiruv",
+    "immunologik va molekulyar usullar to'ldiruvchi sifatida",
+    "kistalar uchun shakllangan najas surtmalari"
+   ],
+   "x": "«Sharhga ko'ra, tashxis ko'pincha najas tekshiruvi bilan tasdiqlanadi; suyuq yoki yumshoq najasda trofozoitlarni ko'rish uchun fiziologik eritma (0,85 foizli NaCl) yoki natriy asetat–sirka kislotasi–formalin (SAF) bilan fiksatsiya qilingan surtmalar ishlatiladi»"
+  },
+  {
+   "q": "Suyuq yoki yumshoq najasda asosan qaysi shakl uchraydi?",
+   "c": "faol trofozoit shakli",
+   "w": [
+    "chidamli kista shakli",
+    "belgisiz tashuvchi shakli",
+    "fiksatsiya qilingan surtma shakli",
+    "ichak suyuqligidagi shakl"
+   ],
+   "x": "«Trofozoit faol shakl bo'lib, u asosan suyuq yoki yumshoq najasda uchraydi»"
+  },
+  {
+   "q": "Kista qaysi najasda ko'proq uchraydi?",
+   "c": "shakllangan najasda",
+   "w": [
+    "suyuq najasda",
+    "yumshoq najasda",
+    "suvsimon najasda",
+    "parchalangan najasda"
+   ],
+   "x": "«Kista esa chidamli shakl bo'lib, shakllangan najasda ko'proq uchraydi va tashqi muhitda uzoq saqlanadi»"
+  },
+  {
+   "q": "Konsentratsiya usuli oddiy surtmadan nimasi bilan ustun?",
+   "c": "ko'proq ijobiy namunani aniqlagan",
+   "w": [
+    "kamroq ijobiy namunani aniqlagan",
+    "faqat trofozoitlarni aniqlagan",
+    "tekshiruvchi malakasiga bog'liq bo'lmagan",
+    "namunalar soniga bog'liq bo'lmagan"
+   ],
+   "x": "«Ikkinchidan, formalin–efir konsentratsiyasi usuli oddiy nam surtmaga qaraganda ko'proq ijobiy namunani aniqlagan: bitta tadqiqotda konsentratsiya usuli 65,26 foiz, to'g'ridan-to'g'ri surtma esa 34,74 foiz musbat namunani topgan»"
+  },
+  {
+   "q": "Kista chidamli bo'lgani uchun yuqishni to'xtatishda qaysi chora asosiy?",
+   "c": "qo'l yuvish va toza suv ichish",
+   "w": [
+    "trofozoitni fiksatsiya qilish va tekshirish",
+    "immunologik va molekulyar usullarni qo'llash",
+    "ingichka ichakka ip yuborish va tekshirish",
+    "kistalarni konsentratsiya qilish usuli"
+   ],
+   "x": "«qo'l yuvish va toza suv ichish orqali yuqishni to'xtatish mumkin»"
+  },
+  {
+   "q": "Entero-Test qachon qo'llanishi mumkin?",
+   "c": "oddiy usullar kasallikni tasdiqlay olmasa",
+   "w": [
+    "kistalar najas bilan bir tekis chiqsa",
+    "trofozoit namunada parchalanmasa",
+    "belgisiz bolalarda profilaktik tekshiruvda",
+    "suyuq najasda trofozoit ko'rinsa"
+   ],
+   "x": "«Uchinchidan, ba'zan oddiy usullar kasallikni tasdiqlay olmasa, ichak suyuqligi yoki ingichka ichakka yuboriladigan ip bilan tekshiruv (Entero-Test) qo'llanishi mumkin»"
+  }
+ ],
+ "130": [
+  {
+   "q": "Lyamblioz klinikasida inkubatsion davr nima uchun amaliy ahamiyatga ega?",
+   "c": "ikki-uch hafta oldingi ovqatlanish va safar tarixi so'raladi",
+   "w": [
+    "najas suyuq bo'lib, trofozoitlar ko'payadi",
+    "belgisiz bolalar kistalarni najas bilan chiqaradi",
+    "takroriy namunalar tavsiya etiladi va tekshiriladi",
+    "immuniteti zaif bemorlar alohida tekshiriladi"
+   ],
+   "x": "«bemor kasallik belgilari boshlanishidan ikki-uch hafta oldingi ovqatlanish, suv ichish va safar tarixini eslashi kerak»"
+  },
+  {
+   "q": "Lyamblioz o'tkir davrining belgilari qaysilar?",
+   "c": "suvsimon diareya, ko'ngil aynishi, epigastral og'riq",
+   "w": [
+    "kolit va jigar xo'ppozi belgilari",
+    "enterit va uzoq davom etuvchi simptomlar",
+    "bakteriyalar va viruslar keltirgan belgilar",
+    "belgisiz kechish va kista chiqarish"
+   ],
+   "x": "«o'tkir suvsimon diareya, ko'ngil aynishi, epigastral og'riq va vazn yo'qotishgacha o'zgaradi»"
+  },
+  {
+   "q": "Immuniteti zaif bemorlarda lyambliozni boshqa sabablardan farqlash uchun nima zarur?",
+   "c": "najas tekshiruvi",
+   "w": [
+    "klinik tasnif",
+    "klinik tashxisning cheklovlari",
+    "xavf guruhlarini baholash",
+    "bolalar jamoasida profilaktik tekshiruv"
+   ],
+   "x": "«bunday bemorlarda ham lyambliozni boshqa sabablardan farqlash uchun najas tekshiruvi zarur»"
+  },
+  {
+   "q": "O'tkir davrda laboratoriyaga keladigan namuna qanday bo'ladi?",
+   "c": "ko'pincha trofozoitlarga boy bo'ladi",
+   "w": [
+    "shakllangan va kistalarga boy bo'ladi",
+    "ko'pincha manfiy natija beradi",
+    "ko'pincha belgisiz bo'ladi",
+    "belgisiz bolalar najasidan olinadi"
+   ],
+   "x": "«O'tkir davrda najas suyuq bo'ladi, shuning uchun laboratoriyaga keladigan namuna ko'pincha trofozoitlarga boy bo'ladi»"
+  },
+  {
+   "q": "Klinika kuchli, natija manfiy bo'lsa nima tavsiya etiladi?",
+   "c": "takroriy namunalar",
+   "w": [
+    "bitta namuna yetarli bo'ladi",
+    "boshqa sabablardan farqlash kerak",
+    "najas tekshiruvi zarur emas",
+    "yangi klinik tashxis qo'yiladi"
+   ],
+   "x": "«Agar klinika kuchli, natija esa manfiy bo'lsa, takroriy namunalar tavsiya etiladi»"
+  },
+  {
+   "q": "Diareya lyambliozdan tashqari qaysi sabablardan kelib chiqishi mumkin?",
+   "c": "boshqa protozoylar, bakteriyalar, viruslar",
+   "w": [
+    "trofozoit va kistaning ikki shakli",
+    "fiziologik eritma va SAF surtmalari",
+    "tekshirilgan namunalar soni va malaka",
+    "inkubatsion davr va safar tarixi"
+   ],
+   "x": "«Diareya ko'plab boshqa sabablardan, jumladan boshqa protozoylar, bakteriyalar va viruslardan ham kelib chiqishi mumkin»"
+  },
+  {
+   "q": "Amyobiaz qanday kechishi mumkin?",
+   "c": "belgisiz yoki kolit va jigar xo'ppozigacha",
+   "w": [
+    "o'tkir suvsimon diareyadan vazn yo'qotishgacha",
+    "ko'ngil aynishidan epigastral og'riqqacha",
+    "belgisizlikdan o'tkir diareyagacha",
+    "faqat kolit va ichak zararlanishigacha"
+   ],
+   "x": "«amyobiaz ham belgisiz kechishi yoki kolit va jigar xo'ppozigacha olib borishi mumkinligi»"
+  },
+  {
+   "q": "Laborant natijani yozishda nimani ko'rsatsa, shifokorga yordam beradi?",
+   "c": "qo'zg'atuvchining nomi, shakli, miqdori",
+   "w": [
+    "bemorning ovqatlanish va safar tarixi",
+    "inkubatsion davr, simptomlar va xavf guruhi",
+    "o'tkir davr va surunkali kechish tasnifi",
+    "klinik tasnif, xavf guruhi va safar tarixi"
+   ],
+   "x": "«Laborant natijani yozishda qo'zg'atuvchining nomi, shakli va ko'rish maydonidagi taxminiy miqdorini ko'rsatsa, shifokorga yordam beradi»"
+  },
+  {
+   "q": "Nega lyambliozni faqat klinikaga qarab aniqlab bo'lmaydi?",
+   "c": "belgilar boshqa ichak kasalliklariga ham xos",
+   "w": [
+    "kasallik faqat bolalarda uchraydi",
+    "simptomlar faqat o'tkir davrda bo'ladi",
+    "inkubatsion davr juda qisqa bo'ladi",
+    "najas tekshiruvi kerak bo'lmaydi"
+   ],
+   "x": "«Lyambliozni faqat klinikaga qarab aniqlab bo'lmaydi, chunki belgilar boshqa ichak kasalliklariga ham xos»"
+  },
+  {
+   "q": "Belgisiz bolalar nega boshqalar uchun manba bo'ladi?",
+   "c": "kistalarni najas bilan chiqaradi",
+   "w": [
+    "o'tkir suvsimon diareya bilan kechadi",
+    "ko'ngil aynishi bilan kechadi",
+    "vazn yo'qotish bilan kechadi",
+    "inkubatsion davri 9 dan 15 kungacha davom etadi"
+   ],
+   "x": "«Bunday odamlar kasal bo'lmasa ham kistalarni najas bilan chiqaradi va boshqalar uchun manba bo'lib qoladi»"
+  }
+ ],
+ "131": [
+  {
+   "q": "Lyamblioz asosan nima orqali yuqadi?",
+   "c": "infeksion kistalarni yutish orqali",
+   "w": [
+    "ichak tashqarisidagi trofozoitlarni yutish orqali",
+    "qushlar va sudralib yuruvchilar orqali",
+    "safarga chiqqanlar orqali",
+    "bola jamoasiga qatnash orqali"
+   ],
+   "x": "«parazit esa infeksion kistalarni yutish orqali yuqadi»"
+  },
+  {
+   "q": "Trofozoit nega yuqishda asosiy rol o'ynamaydi?",
+   "c": "ichak tashqarisida beqaror",
+   "w": [
+    "tashqi muhitda yuqumli holda qoladi",
+    "najas bilan tashqi muhitga tushmaydi",
+    "yangi xo'jayin og'ziga tushmaydi",
+    "faqat belgisiz bolalarda uchraydi"
+   ],
+   "x": "«Trofozoit ichak tashqarisida beqaror, shuning uchun yuqish asosan kistalar orqali amalga oshadi»"
+  },
+  {
+   "q": "Qaysi joylarda bitta zararlangan odamdan boshqalarga o'tish ehtimoli yuqori?",
+   "c": "bola bog'chalari va maktab-internatlar",
+   "w": [
+    "sanitariya sharoiti yomon hududlar",
+    "rivojlanayotgan mamlakatlar",
+    "sanoati rivojlangan hududlar",
+    "yaqin muddatdagi safar joylari"
+   ],
+   "x": "«Bola bog'chalari, maktab-internatlar, uyushgan jamoalar kabi joylarda odamlar yaqin aloqada bo'ladi, shuning uchun bitta zararlangan odamdan boshqalarga o'tish ehtimoli yuqori»"
+  },
+  {
+   "q": "Kasallikning asosiy manbai kim?",
+   "c": "asosan zararlangan odam",
+   "w": [
+    "it va mushuk",
+    "yirik shoxli qoramol",
+    "qushlar va sudralib yuruvchilar",
+    "ayiq va bo'rsiq"
+   ],
+   "x": "«5-ilovaga ko'ra kasallik manbai zararlangan odam yoki hayvon, lekin asosan odam hisoblanadi; lyamblyaning bu turi it, mushuk, qo'y, yirik shoxli qoramol, ayiq, bo'rsiq kabi sutemizuvchilarda, shuningdek qushlarda va sudralib yuruvchilarda uchraydi, ba'zi hayvonlar kasallik rezervuari hisoblanadi»"
+  },
+  {
+   "q": "Xavf guruhlarini bilish laborantga nimada yordam beradi?",
+   "c": "tekshiruvlarni rejalashtirishda",
+   "w": [
+    "yo'llarni uzishni rejalashtirishda",
+    "laboratoriyani dezinfeksiya qilishda",
+    "namunalarni ochiq qoldirmaslikda",
+    "suv manbalarini rejalashtirishda"
+   ],
+   "x": "«Xavf guruhlarini bilish laborantga tekshiruvlarni rejalashtirishda yordam beradi, chunki bunday guruhlarda bir marta o'tkazilgan tekshiruv ham sezilarli natija beradi»"
+  },
+  {
+   "q": "Laborant anamnezda qaysi xavf omillarini so'rashi mumkin?",
+   "c": "suvning manbai, bola jamoasiga qatnash, yaqin muddatdagi safar",
+   "w": [
+    "bola bog'chalari, maktab-internatlar, uyushgan jamoalar",
+    "it, mushuk, qo'y va yirik shoxli qoramol",
+    "qo'lqop kiyish, dezinfeksiya, ochiq qoldirmaslik",
+    "belgisiz tashuvchilar, kistalar, najas-og'iz yo'li"
+   ],
+   "x": "«Laborant zararlanish yo'llarini bilib, anamnezda qaysi xavf omillari bo'lganini so'rashi mumkin: suvning manbai, bola jamoasiga qatnash, yaqin muddatdagi safar»"
+  },
+  {
+   "q": "Laboratoriyada najas namunalari bilan ishlaganda nima qilinadi?",
+   "c": "qo'lqop kiyish va ish joyini dezinfeksiya qilish",
+   "w": [
+    "yaqin muddatdagi safar tarixini so'rash",
+    "bola bog'chalari va maktab-internatlarni tekshirish",
+    "suvning manbasini so'rash va bolalarni davolash",
+    "sutemizuvchilar va qushlarni tekshirish"
+   ],
+   "x": "«Shuningdek, laboratoriya o'zi ham xavf manbai bo'lishi mumkin: najas namunalari bilan ishlaganda qo'lqop kiyish, namunani ochiq qoldirmaslik, ish joyini dezinfeksiya qilish kerak»"
+  },
+  {
+   "q": "Hayvonlarning lyamblioz tarqalishidagi roli qanday?",
+   "c": "ba'zi hayvonlar kasallik rezervuari hisoblanadi",
+   "w": [
+    "hayvonlar asosiy manba hisoblanadi",
+    "asosan qushlar tashuvchi hisoblanadi",
+    "kistalarni faqat qushlar yutadi",
+    "sudralib yuruvchilar xavfsiz hisoblanadi"
+   ],
+   "x": "«ba'zi hayvonlar kasallik rezervuari hisoblanadi»"
+  },
+  {
+   "q": "Tarqalish qanday omillar bilan bog'liq?",
+   "c": "sanitariya, toza suv va gigiyena madaniyati",
+   "w": [
+    "bola bog'chalari, maktab-internatlar va safar",
+    "kistalar, trofozoitlar va belgisiz tashuvchilar",
+    "it, mushuk va yirik shoxli qoramol",
+    "laboratoriya, qo'lqop va dezinfeksiya"
+   ],
+   "x": "«Bu farq ko'p jihatdan sanitariya, toza suv bilan ta'minlanish va gigiyena madaniyati bilan bog'liq»"
+  },
+  {
+   "q": "Kista najas bilan tashqi muhitga tushgach qanday holatda qoladi?",
+   "c": "yuqumli holda qoladi",
+   "w": [
+    "beqaror holda qoladi",
+    "ichak tashqarisida beqaror bo'ladi",
+    "ikki shaklga ega bo'ladi",
+    "kasallik belgilarini beradi"
+   ],
+   "x": "«Kista najas bilan tashqi muhitga tushadi, u yerda yuqumli holda qoladi»"
+  }
+ ],
+ "132": [
+  {
+   "q": "Profilaktika epidemik jarayonning qaysi uch bo'g'inini nazorat qiladi?",
+   "c": "manba, yuqish mexanizmi va moyil organizm",
+   "w": [
+    "kista, trofozoit va moyil organizm",
+    "manba, trofozoit va yuqish yo'li",
+    "kista, yuqish mexanizmi va suv",
+    "bola, manba va sanitariya"
+   ],
+   "x": "«Profilaktika epidemik jarayonning uch bo'g'inini — manba, yuqish mexanizmi va moyil organizmni — nazorat qilishga qaratiladi»"
+  },
+  {
+   "q": "Lyamblioz uchun manba kim hisoblanadi?",
+   "c": "kistalarni chiqaradigan odam",
+   "w": [
+    "ayniqsa moyil bolalar",
+    "najas-og'iz yo'li bilan yuqish",
+    "toza suv va kanalizatsiya",
+    "sabzavot, meva va ko'katlar"
+   ],
+   "x": "«Lyamblioz uchun manba — kistalarni chiqaradigan odam, yuqish mexanizmi — najas-og'iz yo'li, moyil organizm — ayniqsa bolalar»"
+  },
+  {
+   "q": "Eng oddiy va samarali chora qaysi?",
+   "c": "qo'lni sovun bilan yuvish",
+   "w": [
+    "suvni qaynatish yoki filtrlash",
+    "tirnoqni qisqa olish",
+    "sabzavotni toza suvda yuvish",
+    "ovqatni yopiq saqlash"
+   ],
+   "x": "«Eng oddiy va samarali chora — qo'lni sovun bilan yuvish: hojatxonadan keyin, ovqatlanishdan oldin, bola kiyimini almashtirgandan keyin va najas bilan aloqadan so'ng»"
+  },
+  {
+   "q": "Qo'lni sovun bilan qachon yuvish kerak?",
+   "c": "hojatxonadan keyin va ovqatlanishdan oldin",
+   "w": [
+    "tirnoqni qisqa olgandan keyin",
+    "ish stolini dezinfeksiya qilgandan keyin",
+    "namunani yopiq idishda tashishdan oldin",
+    "xom mahsulot ifloslanganda"
+   ],
+   "x": "«Eng oddiy va samarali chora — qo'lni sovun bilan yuvish: hojatxonadan keyin, ovqatlanishdan oldin, bola kiyimini almashtirgandan keyin va najas bilan aloqadan so'ng»"
+  },
+  {
+   "q": "Ochiq manbalardagi suv uchun nima tavsiya etiladi?",
+   "c": "ichishdan oldin qaynatish yoki filtrlash",
+   "w": [
+    "sovun bilan yuvib ichish",
+    "dezinfeksiya qilingan idishda saqlash",
+    "kanalizatsiya tizimini yaxshilash",
+    "chiqindi suvlarni nazorat qilish"
+   ],
+   "x": "«ochiq manbalardagi suv ichishdan oldin qaynatilishi yoki filtrlanishi tavsiya etiladi»"
+  },
+  {
+   "q": "Lyambliozga qarshi profilaktikaning qaysi usullari mavjud emas?",
+   "c": "spetsifik va medikamentli usullar",
+   "w": [
+    "sanitariya choralariga tayanish",
+    "qo'l yuvish va gigiyena choralari",
+    "toza suv bilan ta'minlash choralari",
+    "oziq-ovqat xavfsizligi choralari"
+   ],
+   "x": "«Davolash bayonnomasiga ko'ra lyambliozga qarshi profilaktikaning spetsifik va medikamentli usullari hozirgacha mavjud emas»"
+  },
+  {
+   "q": "Profilaktikaning cheklovi nima bilan bog'liq?",
+   "c": "belgisiz tashuvchilar ko'p bo'lishi",
+   "w": [
+    "suv ta'minoti nazorat qilinmagani",
+    "oziq-ovqat xodimlari tekshirilmagani",
+    "laboratoriya xodimlari zararlanishi",
+    "kanalizatsiya tizimi yaxshilanishi"
+   ],
+   "x": "«belgisiz tashuvchilar ko'p bo'lgani uchun manbani to'liq aniqlash qiyin»"
+  },
+  {
+   "q": "Laboratoriya xonasida nima taqiqlanadi?",
+   "c": "ovqatlanish va ichish",
+   "w": [
+    "qo'lni ish tugagach yuvish",
+    "ish stolini dezinfeksiya qilish",
+    "namunalarni yopiq idishda tashish",
+    "qo'lqop kiyish va qo'l yuvish"
+   ],
+   "x": "«Ovqatlanish va ichish laboratoriya xonasida taqiqlanishi umumiy qoida.»"
+  },
+  {
+   "q": "Profilaktika samaradorligini baholash uchun nimalar qiyoslanadi?",
+   "c": "holatlar soni, tekshirilgan bolalar soni va musbat ulush",
+   "w": [
+    "kistalar soni, trofozoitlar soni va tashuvchilar",
+    "sovun miqdori, qo'l yuvish soni va suv sifati",
+    "kanalizatsiya, chiqindi suvlar va sanitariya",
+    "xodimlar soni, tekshiruv sanasi va narxi"
+   ],
+   "x": "«Profilaktika choralari qanchalik ishlayotganini baholash uchun kuzatuv kerak: lyamblioz holatlari soni, tekshirilgan bolalar soni va musbat topilmalar ulushi vaqt o'tishi bilan qiyoslanadi»"
+  },
+  {
+   "q": "Profilaktika samaradorligini qiyoslashda sezgirlikka nimalar ta'sir qiladi?",
+   "c": "usul, namunalar soni va mutaxassis malakasi",
+   "w": [
+    "kistalar soni, trofozoitlar va sanitariya",
+    "tirnoq uzunligi, qo'l yuvish va gigiyena",
+    "chiqindi suv, kanalizatsiya va ichimlik suvi",
+    "tashuvchilar soni, bolalar va xodimlar"
+   ],
+   "x": "«usul, namunalar soni va mutaxassis malakasi sezgirlikka ta'sir qilishi»"
+  }
+ ]
+}

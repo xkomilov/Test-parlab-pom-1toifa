@@ -1,0 +1,338 @@
+{
+ "025": [
+  {
+   "q": "Bezgakdan holi hudud sertifikati nimani anglatadi?",
+   "c": "bezgakning mahalliy yuqishi to'xtatilganini rasman tan olish",
+   "w": [
+    "bolalar va homilador ayollar xavfi kamayganini tan olish",
+    "bezgak holatlari kamayganini rasman tasdiqlash",
+    "import holatlari yo'qligini rasman e'lon qilish",
+    "qo'zg'atuvchi chivinlar yo'qolganini rasman tan olish"
+   ],
+   "x": "«Sertifikat — Jahon sog'liqni saqlash tashkiloti tomonidan mamlakat hududida bezgakning mahalliy yuqishi to'xtatilganini rasman tan olish»"
+  },
+  {
+   "q": "Sertifikatlash uchun ariza berishga qanday mezon kerak?",
+   "c": "ketma-ket kamida uch yil mahalliy holat bo'lmasligi",
+   "w": [
+    "ketma-ket ikki yil import holat bo'lmasligi",
+    "ketma-ket uch yil kasallanish kamayishi",
+    "kamida o'n yil mahalliy holat bo'lmasligi",
+    "o'n to'rt yil davomida kuzatuv o'tkazilishi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkilotining ma'lumotiga ko'ra, ketma-ket kamida uch yil davomida mahalliy bezgak holatlari qayd etilmagan mamlakatlar sertifikatlash uchun ariza topshirishi mumkin»"
+  },
+  {
+   "q": "Import qilingan holat nima?",
+   "c": "bemor bezgak bilan boshqa mamlakatda zararlangan",
+   "w": [
+    "zararlanish bu hududda sodir bo'lgan",
+    "bemor sayohat tarixi aniqlanmagan",
+    "bezgak qon quyilishi orqali aniqlangan",
+    "bemor chivinlar bilan aloqada bo'lgan"
+   ],
+   "x": "«Import qilingan holat — bemor bezgak bilan boshqa mamlakatda zararlangan va kasallik shu hududda aniqlangan»"
+  },
+  {
+   "q": "Qaysi holatlar sertifikat maqomini xavf ostiga qo'yadi?",
+   "c": "mahalliy holatlar",
+   "w": [
+    "import qilingan holatlar",
+    "qon quyilgan holatlar",
+    "davolangan holatlar",
+    "sayohat tarixi aniq holatlar"
+   ],
+   "x": "«Import qilingan holatlar sertifikatga to'sqinlik qilmaydi, mahalliy holatlar esa maqomni xavf ostiga qo'yadi»"
+  },
+  {
+   "q": "Holat mahalliy yoki import ekanini nima belgilaydi?",
+   "c": "epidemiologik tekshiruv va sayohat tarixi tahlili",
+   "w": [
+    "chivinlar soni va mehnat qobiliyati tahlili",
+    "kuzatuv tizimi va laboratoriya tahlili",
+    "parazit turi va qon guruhi tahlili",
+    "sertifikat yili va mamlakat ro'yxati"
+   ],
+   "x": "«Tasnif epidemiologik tekshiruv asosida, bemorning sayohat tarixi, qon quyilishi va yashash joyi tahlil qilinib amalga oshiriladi»"
+  },
+  {
+   "q": "Sertifikatning ahamiyati qaysi jihatlarda namoyon bo'ladi?",
+   "c": "salomatlik, iqtisodiy jihat va tizim",
+   "w": [
+    "chivinlar yo'qolishi va kasallik tugatilishi",
+    "import holatlar yo'qligi va aholi immuniteti",
+    "chegara nazorati va qo'shni mamlakatlar",
+    "qo'shni endemik hududlar va sayyohlik"
+   ],
+   "x": "«Birinchidan, aholi salomatligi uchun: bezgak yo'qligi bolalar va homilador ayollarning kasallik va o'lim xavfini kamaytiradi. Ikkinchidan, iqtisodiy jihatdan: kasallik uchun sarflanadigan xarajatlar va mehnat qobiliyati yo'qotilishi kamayadi, sayyohlik va investitsiya jozibadorligi oshadi. Uchinchidan, tizim uchun: bezgakni yo'q qilish uchun yaratilgan kuzatuv va laboratoriya tizimi boshqa kasalliklarni nazorat qilishda ham foydali bo'ladi.»"
+  },
+  {
+   "q": "Sertifikatdan keyin ham ish nega tugamaydi?",
+   "c": "chivinlar yo'qolmaydi va aholi immunitetga ega emas",
+   "w": [
+    "chivinlar yo'qoladi va aholi immunitetga ega bo'ladi",
+    "bezgak qo'zg'atuvchilari mamlakatda yo'qolgan",
+    "import holatlar kelishi mumkin emas",
+    "aholi immunitetga ega va xavf yo'q"
+   ],
+   "x": "«Buning sababi shuki, chivinlar yo'qolmaydi, aholi immunitetga ega emas, chet eldan bezgak olib kirilishi esa muqarrar»"
+  },
+  {
+   "q": "Sertifikatlangan mamlakatlar uchun umumiy xavf nima?",
+   "c": "qo'shni endemik hududlardan kiruvchi holatlar",
+   "w": [
+    "qo'shni mamlakatlarda sertifikat olish tartibi",
+    "mintaqada sertifikatlangan mamlakatlar soni",
+    "O'zbekistondagi mahalliy yuqish o'choqlari",
+    "chegara hududlarida kuzatuv kuchaytirilishi"
+   ],
+   "x": "«Bu mamlakatlarning hammasi uchun umumiy xavf — qo'shni endemik hududlardan, masalan, Afg'onistondan yoki uzoq mamlakatlardan kiruvchi holatlar»"
+  },
+  {
+   "q": "O'zbekiston bezgakdan holi hudud sertifikatini qaysi yilda olgan?",
+   "c": "2018-yilda",
+   "w": [
+    "2016-yilda",
+    "2023-yilda",
+    "2025-yilda",
+    "2017-yilda"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti 2018-yilda O'zbekiston bilan bir qatorda Paragvayni bezgakdan holi deb sertifikatlaganini ko'rsatadi»"
+  },
+  {
+   "q": "Sertifikatning tizim uchun ahamiyati nimada?",
+   "c": "boshqa kasalliklarni nazorat qilishda foydali bo'lishi",
+   "w": [
+    "bolalar va homilador ayollarning o'lim xavfi kamayishi",
+    "sayyohlik va investitsiya jozibadorligi oshishi",
+    "kasallik uchun sarflanadigan xarajatlar kamayishi",
+    "mehnat qobiliyati yo'qotilishining kamayishi"
+   ],
+   "x": "«Uchinchidan, tizim uchun: bezgakni yo'q qilish uchun yaratilgan kuzatuv va laboratoriya tizimi boshqa kasalliklarni nazorat qilishda ham foydali bo'ladi»"
+  }
+ ],
+ "026": [
+  {
+   "q": "Jahon sog'liqni saqlash tashkiloti odamda bezgak qo'zg'atadigan nechta turni ko'rsatadi?",
+   "c": "beshta tur",
+   "w": [
+    "uch tur",
+    "to'rt tur",
+    "kam uchraydigan tur",
+    "tropik va uch kunlik tur"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkilotining ma'lumotiga ko'ra, odamda bezgakni beshta Plasmodium turi keltirib chiqaradi»"
+  },
+  {
+   "q": "Afrikadan tashqari ko'pchilik mamlakatlarda qaysi tur asosiy parazit hisoblanadi?",
+   "c": "P. vivax",
+   "w": [
+    "P. falciparum",
+    "P. malariae",
+    "P. ovale",
+    "P. knowlesi"
+   ],
+   "x": "«Ularning orasida P. falciparum va P. vivax eng katta xavf tug'diradi: birinchisi eng o'ldiruvchi va Afrikada ustun, ikkinchisi Afrikadan tashqari ko'pchilik mamlakatlarda asosiy parazit hisoblanadi»"
+  },
+  {
+   "q": "P. vivax mo''tadil mintaqalarga nega moslashgan?",
+   "c": "sovuqroq haroratda ham chivin ichida rivojlana oladi",
+   "w": [
+    "issiq iqlim talab qiladi va tropikda tarqalgan",
+    "jigarda uxlab yotuvchi shakllar hosil qilmaydi",
+    "qaytalanishsiz uzoq davom etuvchi infeksiya beradi",
+    "Afrikada eng o'ldiruvchi tur hisoblanadi"
+   ],
+   "x": "«P. vivax sovuqroq haroratda ham chivin ichida rivojlana oladi va jigarda uxlab yotuvchi shakllar hosil qilib»"
+  },
+  {
+   "q": "Tashqaridan kelganlarda uch kunlik bezgak nega kech qaytalanadi?",
+   "c": "jigardagi gipnozoitlar tufayli",
+   "w": [
+    "qon surtmasidagi parazitlar tufayli",
+    "chivin ichidagi sporozoitlar tufayli",
+    "mutant parazitlar tufayli",
+    "tropik shtammlar tufayli"
+   ],
+   "x": "«Bezgakdan holi bo'lgan O'zbekistonda ham uch kunlik bezgak bilan tashqaridan kelganlar orasida uchrashi mumkin va ular jigardagi gipnozoitlar tufayli kech qaytalanishi ehtimoli bor»"
+  },
+  {
+   "q": "To'rt kunlik bezgak qaysi mintaqalarda uchraydi?",
+   "c": "tropik va subtropik mintaqalarda",
+   "w": [
+    "faqat O'zbekistonda mahalliy tarzda",
+    "Janubi-Sharqiy Osiyoda makakalar orasida",
+    "mo''tadil iqlimli hududlarda asosan",
+    "Afrikadan tashqari ko'pchilik mamlakatlarda"
+   ],
+   "x": "«malariae, ya'ni to'rt kunlik bezgak, kam uchraydigan tur; u tropik va subtropik mintaqalarda uchraydi»"
+  },
+  {
+   "q": "P. ovale bezgagida qaytalanishning oldini olish uchun davoga nima qo'shiladi?",
+   "c": "primakvin qo'shilishi",
+   "w": [
+    "artemizinin qo'shilishi",
+    "xlorokin qo'shilishi",
+    "artemizinin va xlorokin birga",
+    "qaytalanishdan keyin xlorokin qo'shilishi"
+   ],
+   "x": "«P. vivax va P. ovale uchun qaytalanishning oldini olish maqsadida primakvin qo'shilishi»"
+  },
+  {
+   "q": "Tur aniqlash uchun qaysi usul asosiy bo'lib qoladi?",
+   "c": "qon surtmasi mikroskopiyasi",
+   "w": [
+    "tezkor test natijasi",
+    "ma'lumotnoma markazi xulosasi",
+    "epidemiologik tekshiruv natijalari",
+    "hisobotdagi tur nomi"
+   ],
+   "x": "«Tur qon surtmasi mikroskopiyasi bilan aniqlanadi»"
+  },
+  {
+   "q": "Tur noaniq bo'lsa laborant nima qiladi?",
+   "c": "ma'lumotnoma markazidan tasdiq so'raydi",
+   "w": [
+    "o'zboshimchalik bilan tur tanlaydi",
+    "P. falciparum deb yozadi",
+    "natijani epidemiologga yozadi",
+    "tezkor test bilan turni aniqlaydi"
+   ],
+   "x": "«deb yozadi va ma'lumotnoma markazidan tasdiq so'raydi, o'zboshimchalik bilan tur tanlamaydi»"
+  },
+  {
+   "q": "Bezgakdan holi hududda har bir tasdiqlangan holat uchun nima o'tkaziladi?",
+   "c": "epidemiologik tekshiruv",
+   "w": [
+    "ma'lumotnoma markazidan tasdiq so'rash",
+    "qaytalanish xavfini hisobga olish",
+    "davolashni noto'g'ri aniqlash",
+    "tur nomi bilan birga yozish"
+   ],
+   "x": "«Bezgakdan holi hududda har bir tasdiqlangan holat uchun epidemiologik tekshiruv o'tkaziladi: bemor qayerda bo'lgani, qaysi mamlakatdan kelgani, qancha vaqt bo'lgani, profilaktika qabul qilgani aniqlanadi»"
+  },
+  {
+   "q": "P. malariae bo'yicha epidemiologik tekshiruvda nima hisobga olinadi?",
+   "c": "uzoq davom etuvchi infeksiya",
+   "w": [
+    "zudlik bilan davolash",
+    "qaytalanish xavfi",
+    "mutant parazit shtammi",
+    "jigarda gipnozoit hosil bo'lishi"
+   ],
+   "x": "«P. malariae uchun uzoq davom etuvchi infeksiya hisobga olinadi»"
+  }
+ ],
+ "027": [
+  {
+   "q": "Yuqish mavsumi qaysi ikki omilga bog'liq?",
+   "c": "chivinlar faolligi va parazit rivojlanishi",
+   "w": [
+    "manba soni va aholi immuniteti",
+    "chivin ko'payish joylari va kuzatuv punktlari",
+    "gipnozoitlar va gametotsitlar soni",
+    "laboratoriya zaxirasi va dori vositalari"
+   ],
+   "x": "«Bezgak yuqish mavsumi chivinlar faolligi va parazit chivin ichida rivojlanishi uchun yetarli issiqlik mavjud bo'lgan davrda boshlanadi»"
+  },
+  {
+   "q": "Chivin xavfli bo'lishi uchun nima bo'lishi kerak?",
+   "c": "parazit so'lak bezlariga o'tishi kerak",
+   "w": [
+    "parazit qishda jigarda saqlanishi kerak",
+    "chivin faolligi sovuqda oshishi kerak",
+    "chivin qishlovga ketishi kerak",
+    "gametotsitlar so'lak bezlarida bo'lishi kerak"
+   ],
+   "x": "«Chivin kasal odam qonini so'rgandan keyin parazit unda bir necha kun rivojlanishi, so'ng so'lak bezlariga o'tishi kerak; shundan keyingina chivin xavfli bo'ladi»"
+  },
+  {
+   "q": "Havo sovuganda parazitning chivin ichidagi rivojlanishi qanday o'zgaradi?",
+   "c": "sekin kechadi, pastki haroratda to'xtaydi",
+   "w": [
+    "tezlashadi va chivin xavfliroq bo'ladi",
+    "o'zgarishsiz davom etadi va yuqish ortadi",
+    "pastki haroratda ham to'xtamaydi",
+    "chivin so'lak bezlarida boshlanadi"
+   ],
+   "x": "«Bu rivojlanish tezligi haroratga bog'liq: havo iliq bo'lsa tez, sovuq bo'lsa sekin kechadi, ma'lum pastki haroratda esa umuman to'xtaydi»"
+  },
+  {
+   "q": "Yuqish mavsumi chivin paydo bo'lgan kundan nega keyin boshlanadi?",
+   "c": "chivinlar hali zararlanmagan bo'ladi",
+   "w": [
+    "chivinlar hali qishlovga ketmagan bo'ladi",
+    "chivinlar suv havzalarida tuxum qo'ymagan",
+    "chivinlar sonining ortishi to'xtagan",
+    "chivinlar kasal odam qonini so'rmaydi"
+   ],
+   "x": "«Biroq bu davrda chivinlar hali zararlanmagan bo'ladi: ular kasal odam qonini so'rishi va parazit ichida rivojlanishi kerak»"
+  },
+  {
+   "q": "Mavsum boshida manba kim bo'lishi mumkin?",
+   "c": "import qilingan bemor yoki parazit tashuvchi",
+   "w": [
+    "bahorda tuxum qo'ygan chivinlar",
+    "qishlovga ketgan urg'ochi chivinlar",
+    "suv havzalaridagi lichinkalar soni",
+    "qonida gametotsitlar bo'lmagan odamlar"
+   ],
+   "x": "«Bezgakdan holi hududda bunday manba — import qilingan bemor yoki endemik hududdan qaytgan parazit tashuvchi»"
+  },
+  {
+   "q": "Gipnozoitlar mavsum boshida nimaga sabab bo'ladi?",
+   "c": "bahor va yoz boshida qaytalanishlarga",
+   "w": [
+    "kuzda yangi mahalliy yuqishni to'xtatishga",
+    "qishda chivinlarni zararlashga",
+    "lichinkalarga qarshi ishlov berishga",
+    "reaktivlar tayyorligini tekshirishga"
+   ],
+   "x": "«Uch kunlik bezgakda esa jigardagi gipnozoitlar qishdan keyin faollashib, bahor va yoz boshida qaytalanishlarni keltirib chiqarishi mumkin»"
+  },
+  {
+   "q": "Mavsum oldidan chivinlarga qarshi qanday tadbir boshlanadi?",
+   "c": "lichinkalarga qarshi ishlov va tozalash ishlari",
+   "w": [
+    "qaytalanishlarga qarshi dispanser nazorati",
+    "reaktivlar va mikroskoplar tekshiruvi",
+    "aholini xabardor qilish ishlari",
+    "isitmalagan bemorlarni tekshirish"
+   ],
+   "x": "«Birinchidan, chivinlarga qarshi tadbirlar, masalan, lichinkalarga qarshi ishlov va tozalash ishlari, mavsum boshlanishidan oldin boshlanishi kerak»"
+  },
+  {
+   "q": "Issiq va sovuq bahorda yuqish mavsumi qanday boshlanadi?",
+   "c": "issiq bahorda erta, sovuq bahorda kechroq",
+   "w": [
+    "issiq bahorda kechroq, sovuq bahorda erta",
+    "har yili bir xil kalendar sanasida",
+    "iqlim o'zgarishiga bog'liq emas",
+    "chivin faolligi pasayganda boshlanadi"
+   ],
+   "x": "«Issiq bahorda chivinlar va parazit tezroq rivojlanadi, sovuq bahorda esa mavsum kechroq boshlanadi»"
+  },
+  {
+   "q": "Kuzatuv qanday ma'lumotlarga tayanishi kerak?",
+   "c": "ob-havo va chivin faolligi ma'lumotlariga",
+   "w": [
+    "rasmiy kalendar sanasi ma'lumotlariga",
+    "o'tgan yilgi mavsum davomiyligiga",
+    "aholi xabardorligi ma'lumotlariga",
+    "laboratoriya zaxirasi ma'lumotlariga"
+   ],
+   "x": "«Shu sababli kuzatuv rasmiy kalendar sanasiga emas, balki joriy ob-havo va chivin faolligi ma'lumotlariga tayanishi kerak»"
+  },
+  {
+   "q": "Yuqish mavsumi qachon tugaydi?",
+   "c": "chivinlar faolligi pasayib, parazit rivojlana olmay qolganda",
+   "w": [
+    "gipnozoitlar jigarda faollashib, qaytalanish boshlanganda",
+    "chivinlar suv havzalarida tuxum qo'yib ko'paygan paytda",
+    "aholi chivin chaqishidan himoyalanib bo'lganda",
+    "qaytalanishlar kuzda va undan keyin ham uchraganda"
+   ],
+   "x": "«Kuzda havo sovishi bilan chivinlar faolligi pasayadi, parazit chivin ichida rivojlana olmay qoladi va yuqish to'xtaydi»"
+  }
+ ]
+}

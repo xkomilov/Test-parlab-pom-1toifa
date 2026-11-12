@@ -1,0 +1,338 @@
+{
+ "007": [
+  {
+   "q": "Ichak gelmintlari yetuk shaklda qayerda yashaydi?",
+   "c": "ovqat hazm qilish yo'lida, asosan ingichka va yo'g'on ichakda",
+   "w": [
+    "jigar va o't yo'llarida, asosan so'rg'ichli chuvalchanglar shaklida",
+    "ko'ndalang-targ'il mushaklarda kapsulalangan holda",
+    "qon tomirlarida, asosan shistosomalar shaklida",
+    "bosh miya, ko'z va mushaklarda lichinka shaklida"
+   ],
+   "x": "«Ichak gelmintlari yetuk shaklda ovqat hazm qilish yo'lida, asosan ingichka va yo'g'on ichakda yashaydi»"
+  },
+  {
+   "q": "Qilbosh chuvalchang va ostritsa asosan qayerda joylashadi?",
+   "c": "ko'r ichak hamda yo'g'on ichakda",
+   "w": [
+    "ingichka ichakning yuqori qismida shilliq qavatda",
+    "jigar va o't yo'llarining ichida",
+    "o'pka to'qimasi ichida",
+    "ko'ndalang-targ'il mushaklar ichida"
+   ],
+   "x": "«Qilbosh chuvalchang va ostritsa asosan ko'r ichak hamda yo'g'on ichakda joylashadi»"
+  },
+  {
+   "q": "G'ajakbosh chuvalchanglar ingichka ichakning yuqori qismida nima qiladi?",
+   "c": "shilliq qavatga yopishadi va qon bilan oziqlanadi",
+   "w": [
+    "ichak bo'shlig'ida erkin turadi va tuxum qo'yadi",
+    "ko'r ichakda joylashib dizenteriya chaqiradi",
+    "o'pkani zararlaydi va balg'amga tushadi",
+    "jigarda pufak hosil qiladi va to'qimani siqadi"
+   ],
+   "x": "«G'ajakbosh chuvalchanglar ham ingichka ichakning yuqori qismida shilliq qavatga yopishadi va qon bilan oziqlanadi»"
+  },
+  {
+   "q": "Trixinella lichinkalari qayerda kapsulalanadi?",
+   "c": "ko'ndalang-targ'il mushaklarda",
+   "w": [
+    "jigar va o'pkada pufak shaklida",
+    "qon tomirlarida erkin holda",
+    "jigar, o'pka va bosh miyada",
+    "o't yo'llarida lichinka holida"
+   ],
+   "x": "«Trixinella lichinkalari ko'ndalang-targ'il mushaklarda kapsulalanadi»"
+  },
+  {
+   "q": "Shistosomalar organizmda qayerda yashaydi?",
+   "c": "qon tomirlarida",
+   "w": [
+    "jigar va o't yo'llarida",
+    "o'pka to'qimasida",
+    "ko'r ichak va yo'g'on ichakda",
+    "ingichka ichakning shilliq qavatida"
+   ],
+   "x": "«Shistosomalar esa qon tomirlarida yashaydi»"
+  },
+  {
+   "q": "Cho'chqa tasmasimon chuvalchangi lichinkasi (sistitserk) qayerga joylashishi mumkin?",
+   "c": "bosh miya, ko'z va mushaklarga",
+   "w": [
+    "jigar va o'pkaga",
+    "ko'r ichak va yo'g'on ichakka",
+    "o't yo'llari va oshqozon osti bezi yo'liga",
+    "qon tomirlari va siydik pufagiga"
+   ],
+   "x": "«sistitserk, bosh miya, ko'z va mushaklarga joylashishi mumkin»"
+  },
+  {
+   "q": "To'qima gelmintozlarida oddiy najas tekshiruvi nima uchun yetarli bo'lmay qoladi?",
+   "c": "parazit tuxumi najasda har doim ham topilmaydi",
+   "w": [
+    "parazit tuxumi najasda faqat kechasi topiladi",
+    "parazit pufagi ichak bo'shlig'ida joylashadi",
+    "najas faqat suyuq holda tekshiriladi",
+    "najasda faqat lichinkalar bo'ladi"
+   ],
+   "x": "«Bunday kasalliklarda parazit tuxumi najasda har doim ham topilmaydi»"
+  },
+  {
+   "q": "Exinokokkozda tashxis ko'proq qaysi usullarga asoslanadi?",
+   "c": "ultratovush, rentgen va kompyuter tomografiya kabi tasvirlash usullari",
+   "w": [
+    "najasning mikroskopik tekshiruvi va tuxum sonini hisoblash usullari",
+    "perianal qirindi va qalin surtma usullari",
+    "o't suyuqligi va duodenal cho'kma tekshiruvi usullari",
+    "mushak biopsiyasi va trixinelloskopiya usullari"
+   ],
+   "x": "«Exinokokkozda tashxis ko'proq ultratovush, rentgen va kompyuter tomografiya kabi tasvirlash usullariga»"
+  },
+  {
+   "q": "Exinokokkoz gumon qilingan bemorda faqat najas tekshirilsa, nima uchun hech narsa topilmaydi?",
+   "c": "pufak ichak bo'shlig'ida emas",
+   "w": [
+    "tuxum anal atrofiga qo'yiladi",
+    "parazit faqat siydikda topiladi",
+    "lichinkalar balg'am bilan ajraladi",
+    "tuxumlar mushaklarda kapsulalanadi"
+   ],
+   "x": "«hech narsa topilmaydi, chunki pufak ichak bo'shlig'ida emas»"
+  },
+  {
+   "q": "Trixinellyozda qaysi tekshiruvlar qo'llanadi?",
+   "c": "mushak biopsiyasi va serologiya",
+   "w": [
+    "siydik cho'kmasi va serologiya",
+    "balg'am va najas tekshiruvi",
+    "duodenal suyuqlik va najas",
+    "perianal qirindi va najas"
+   ],
+   "x": "«Trixinellyozda mushak biopsiyasi va serologiya»"
+  }
+ ],
+ "008": [
+  {
+   "q": "Zararlanish yo'li deb nimaga aytiladi?",
+   "c": "parazitning infeksion bosqichi odam organizmiga qanday o'tishiga",
+   "w": [
+    "yuqish zanjirini uzish uchun qaysi bo'g'inda turganini bilishga",
+    "sanitariya holati, iqlim, odatlar va kasbga",
+    "o'tishni osonlashtiradigan yoki qiyinlashtiradigan sharoitlarga",
+    "kasallikning tarqalish mavsumi va hududiga"
+   ],
+   "x": "«Zararlanish yo'li deb parazitning infeksion bosqichi odam organizmiga qanday o'tishiga aytiladi»"
+  },
+  {
+   "q": "Peroral zararlanish yo'li qanday kirishni bildiradi?",
+   "c": "og'iz orqali kirish",
+   "w": [
+    "teri orqali kirish",
+    "qon so'ruvchi bo'g'imoyoqlilar orqali kirish",
+    "onadan homilaga o'tish",
+    "kasal hayvon bilan aloqa qilish"
+   ],
+   "x": "«peroral, ya'ni og'iz orqali kirishdir»"
+  },
+  {
+   "q": "Perkutan yo'lning eng yaqqol misoli qaysi gelmint?",
+   "c": "g'ajakbosh chuvalchanglar",
+   "w": [
+    "askarida chuvalchangi",
+    "qilbosh chuvalchang",
+    "ostritsa chuvalchangi",
+    "mitti tasmasimon chuvalchang"
+   ],
+   "x": "«Eng yaqqol misol g'ajakbosh chuvalchanglardir»"
+  },
+  {
+   "q": "Shistosomalarning sersariyalari odamga qanday kiradi?",
+   "c": "ifloslangan chuchuk suvda cho'milgan yoki ishlagan odamning terisiga",
+   "w": [
+    "yuvilmagan sabzavot va ifloslangan suv bilan og'iz orqali yutilganda",
+    "qon so'ruvchi chivinning chaqishi orqali odam qoniga tushganda",
+    "xom yoki yetarli pishmagan baliq iste'mol qilganda",
+    "ifloslangan qo'l orqali tuxum og'izga olib borilganda"
+   ],
+   "x": "«Shistosomalarning sersariyalari esa ifloslangan chuchuk suvda cho'milgan yoki ishlagan odamning terisiga kiradi»"
+  },
+  {
+   "q": "Teri va visseral leyshmanioz kimlar orqali yuqadi?",
+   "c": "chivinchalar orqali",
+   "w": [
+    "Anopheles urg'ochi chivini orqali",
+    "kanalar orqali",
+    "iflos qo'l orqali",
+    "yalang oyoq yurish orqali"
+   ],
+   "x": "«teri va visseral leyshmanioz chivinchalar orqali»"
+  },
+  {
+   "q": "Transplatsentar yo'lda parazit qanday o'tadi?",
+   "c": "onadan homilaga o'tadi",
+   "w": [
+    "zararlangan qon quyilganda",
+    "kasal hayvon bilan aloqada",
+    "jinsiy yo'l orqali",
+    "qon so'ruvchi chivin orqali"
+   ],
+   "x": "«Transplatsentar yo'lda parazit onadan homilaga o'tadi»"
+  },
+  {
+   "q": "Transfuzion yo'lda parazit qanday yuqadi?",
+   "c": "zararlangan qon quyilganda yoki sterillanmagan asbob orqali",
+   "w": [
+    "kasal hayvon bilan bevosita aloqa qilinganda yoki itni silaganda",
+    "qon so'ruvchi chivinlar yoki kanalar tashiganda",
+    "jinsiy yo'l orqali yuqganda yoki aloqa vaqtida",
+    "iflos qo'lni og'izga olib borganda yoki tuxum yutilganda"
+   ],
+   "x": "«Transfuzion yo'lda parazit zararlangan qon quyilganda yoki sterillanmagan asbob orqali yuqadi»"
+  },
+  {
+   "q": "Namlik, harorat, tuproq turi va mavsum qaysi omillar guruhiga kiradi?",
+   "c": "tabiiy omillar",
+   "w": [
+    "sanitariya omillari",
+    "xulq-atvor omillari",
+    "ijtimoiy va kasbiy omillar",
+    "epidemiologik omillar"
+   ],
+   "x": "«Ikkinchi guruh tabiiy omillar: namlik, harorat, tuproq turi, mavsum»"
+  },
+  {
+   "q": "Avtoinvaziya nima?",
+   "c": "odamning o'zini qayta zararlashi",
+   "w": [
+    "parazitning onadan homilaga o'tishi",
+    "tuxumning tuproqda yetilishi",
+    "lichinkaning teri orqali kirishi",
+    "bo'g'imoyoqlining parazitni tashishi"
+   ],
+   "x": "«Avtoinvaziya, ya'ni odamning o'zini qayta zararlashi»"
+  },
+  {
+   "q": "Alimentar zoonoz yo'lida tasmasimon va so'rg'ichli chuvalchanglarning lichinkalari nima orqali yutiladi?",
+   "c": "xom yoki yetarli pishmagan go'sht, baliq orqali",
+   "w": [
+    "yuvilmagan sabzavot va ifloslangan suv orqali",
+    "iflos qo'l va o'yinchoqlar orqali",
+    "chivin va kanalar chaqishi orqali",
+    "nam tuproq bilan teri aloqasi orqali"
+   ],
+   "x": "«xom yoki yetarli pishmagan go'sht, baliq orqali tasmasimon chuvalchang va so'rg'ichli chuvalchanglarning lichinkalari yutiladi»"
+  }
+ ],
+ "009": [
+  {
+   "q": "Edward Tayson (Tyson) nimani birinchi bo'lib tavsiflagan?",
+   "c": "odam ichagidagi chuvalchangning batafsil anatomiyasini",
+   "w": [
+    "cho'chqa tasmasimon chuvalchangining hayot siklini",
+    "medina chuvalchangining hayot siklini",
+    "g'ajakbosh lichinkalarining teri orqali kirishini",
+    "parazitlik va erkin yashash avlodlari almashinuvini"
+   ],
+   "x": "«Edward Tayson (Tyson) odam ichagidagi chuvalchangning batafsil anatomiyasini birinchi bo'lib tavsiflagan»"
+  },
+  {
+   "q": "Franchesko Redi nimani birinchi bo'lib payqagan?",
+   "c": "odam va hayvonlardagi pufaklarning parazit tabiatini",
+   "w": [
+    "tasmasimon chuvalchanglar haqida asar yozishni",
+    "siydik shistosomasini tasvirlab berishni",
+    "kanalar orqali qaytalama tifning yuqishini",
+    "qisqichbaqasimon oraliq xo'jayindagi bosqichlarni"
+   ],
+   "x": "«Redi bundan tashqari odam va hayvonlardagi pufaklarning parazit tabiatini birinchi bo'lib payqagan»"
+  },
+  {
+   "q": "Karl fon Zibold 1853-yilda nimani isbotladi?",
+   "c": "qo'ylardan olingan exinokokk pufaklarini itlarga yedirib, ularda yetuk tasmasimon chuvalchanglar rivojlanishini",
+   "w": [
+    "cho'chqa va qoramol tasmasimon chuvalchanglarining boshchasi tuzilishidagi farqni aniqlashni",
+    "medina chuvalchangining qisqichbaqasimon oraliq xo'jayindagi bosqichlarini ochib berishni",
+    "siydikda qon paydo bo'lishi bilan kasallik orasidagi bog'liqlikni ko'rsatishni",
+    "g'ajakbosh lichinkalarining teri orqali kirishini o'z tanasida aniqlashni"
+   ],
+   "x": "«Karl fon Zibold 1853-yilda qo'ylardan olingan exinokokk pufaklarini itlarga yedirib, ularda yetuk tasmasimon chuvalchanglar rivojlanishini isbotladi»"
+  },
+  {
+   "q": "Gotlib Kyuxenmeyster nimani aniqladi?",
+   "c": "cho'chqa va qoramol tasmasimon chuvalchanglarining boshchasi tuzilishidagi farqni",
+   "w": [
+    "pufaklar tasmasimon chuvalchanglarning lichinkalari ekanini taxmin qilishni",
+    "oraliq xo'jayinlar bo'lishi mumkinligiga ilk ishoralar berishni",
+    "siydikda qon paydo bo'lishi bilan kasallik orasidagi bog'liqlikni",
+    "medina chuvalchangining hayot siklini ochib berishni"
+   ],
+   "x": "«cho'chqa va qoramol tasmasimon chuvalchanglarining boshchasi tuzilishidagi farqni aniqladi»"
+  },
+  {
+   "q": "Aleksey Fedchenko 1870-yilda nimani ochib berdi?",
+   "c": "medina chuvalchangining (drakunkulyoz qo'zg'atuvchisi) butun hayot siklini",
+   "w": [
+    "cho'chqa tasmasimon chuvalchangining batafsil tadqiqotini",
+    "tasmasimon chuvalchanglarning lichinkalari pufaklar ekanini",
+    "siydik shistosomasining tuzilishini",
+    "qon so'ruvchi vektorlarning rolini"
+   ],
+   "x": "«Aleksey Fedchenko esa 1870-yilda medina chuvalchangining (drakunkulyoz qo'zg'atuvchisi) butun hayot siklini»"
+  },
+  {
+   "q": "Rudolf Leykart 1883-yilda nimani aniqlagan?",
+   "c": "parazitlik va erkin yashash bosqichlarini o'zgartirib turadigan avlodlar almashinuvini",
+   "w": [
+    "g'ajakbosh lichinkalarining teri orqali kirishini va yalang oyoq yurish xavfini",
+    "siydikda qon paydo bo'lishi bilan kasallik orasidagi bog'liqlik hamda sabablarini",
+    "qo'ylardan olingan exinokokk pufaklarining itlarda tasmasimon chuvalchanglarga aylanishini",
+    "medina chuvalchangining butun hayot siklini va qisqichbaqasimon oraliq xo'jayinni"
+   ],
+   "x": "«parazitlik va erkin yashash bosqichlarini o'zgartirib turadigan avlodlar almashinuvini aniqlagan»"
+  },
+  {
+   "q": "Bilgarts va fon Zibold 1851-yilda nimani tasvirlab berdi?",
+   "c": "siydik shistosomasini",
+   "w": [
+    "g'ajakbosh lichinkalarini",
+    "medina chuvalchangini",
+    "exinokokk pufaklarini",
+    "cho'chqa tasmasimon chuvalchangini"
+   ],
+   "x": "«Karl fon Zibold 1851-yilda siydik shistosomasini tasvirlab berdi»"
+  },
+  {
+   "q": "Artur Lus tasodifan o'zini zararlab nimani aniqladi?",
+   "c": "g'ajakbosh lichinkalarining teri orqali kirishini",
+   "w": [
+    "oraliq xo'jayinlar bo'lishi mumkinligini",
+    "pufaklar tasmasimon chuvalchang lichinkalari ekanini",
+    "tashuvchilarga qarshi kurash strategiyasini",
+    "qaytalama tifning kanalar orqali yuqishini"
+   ],
+   "x": "«tasodifan o'zini zararlab, g'ajakbosh lichinkalarining teri orqali kirishini aniqladi»"
+  },
+  {
+   "q": "Konstantin Ivanovich Skryabin qaysi yillarda yashagan?",
+   "c": "1878–1972",
+   "w": [
+    "1766–1853",
+    "1870–1959",
+    "1883–1972",
+    "1894–1959"
+   ],
+   "x": "«Konstantin Ivanovich Skryabin (1878–1972)»"
+  },
+  {
+   "q": "Skryabin 1917-yilda qanday lavozimga erishgan?",
+   "c": "Rossiyadagi birinchi parazitologiya kafedrasi professori",
+   "w": [
+    "Moskva veterinariya institutining rektori",
+    "Fanlar akademiyasi Zoologiya instituti bosh ilmiy xodimi",
+    "Helminthologia jurnalining bosh muharriri",
+    "Sankt-Peterburg veterinariya institutining dekani"
+   ],
+   "x": "«1917-yilda Rossiyadagi birinchi parazitologiya kafedrasi professori bo'lgan»"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "111": [
+  {
+   "q": "Odam difillobotriaz bilan asosan qanday zararlanadi?",
+   "c": "Xom yoki yarim xom baliqni iste'mol qilib",
+   "w": [
+    "Bemor odam bilan bevosita aloqada bo'lib",
+    "Xom qisqichbaqasimonni iste'mol qilib",
+    "Itlar va mushuklar bilan aloqada bo'lib",
+    "Suv havzalariga najas tashlab"
+   ],
+   "x": "«Odam keng tasmasimon chuvalchang pleroserkoid lichinkalari bor baliqni xom, yarim xom yoki yetarli ishlov berilmagan holda iste'mol qilganda zararlanadi»"
+  },
+  {
+   "q": "Pleroserkoidlarni nima o'ldiradi?",
+   "c": "Yaxshi pishirish yoki chuqur muzlatish",
+   "w": [
+    "Yengil tuzlash yoki sovuq dudlash",
+    "Tatib ko'rish yoki xom saqlash",
+    "Tuzlash yoki xom saqlash",
+    "Qiymalash yoki xom ikra"
+   ],
+   "x": "«Pleroserkoidlar yetarli issiqlik (ichigacha yaxshi pishirish) yoki chuqur muzlatish bilan o'ldiriladi»"
+  },
+  {
+   "q": "Qaysi baliq taomlari xavfli hisoblanadi?",
+   "c": "Xom, yengil tuzlangan va sovuq dudlangan baliq",
+   "w": [
+    "Ichigacha yaxshi pishirilgan baliq taomlari",
+    "Chuqur muzlatilgan va pishirilgan baliq",
+    "To'liq pishirilgan chuchuk suv baliqlari",
+    "Yaxshi pishirilgan baliq kabob"
+   ],
+   "x": "«Bunday baliq taomlari: xom baliq go'shti, sashimi va sushi, ceviche, yengil tuzlangan va sovuq dudlangan baliq, yarim pishgan kabob va qaynatilgan baliq, xom ikra, qiyma baliq (tatib ko'rish)»"
+  },
+  {
+   "q": "Qaysi baliqlar xavfliroq hisoblanadi?",
+   "c": "Pleroserkoidlarni to'playdigan yirik yirtqich baliqlar",
+   "w": [
+    "Muzlatilgan va yaxshi pishirilgan baliqlar",
+    "Dengiz baliqlari va tinch okean baliqlari",
+    "Qisqichbaqasimonlar va mayda baliqlar",
+    "Pleroserkoidlarni to'plamaydigan mayda baliqlar"
+   ],
+   "x": "«Yirtqich baliqlar mayda baliqlarni yeb, pleroserkoidlarni to'playdi, shuning uchun yirik yirtqich baliqlar xavfliroq»"
+  },
+  {
+   "q": "Qaysi shaxslar difillobotriaz xavf guruhiga kiradi?",
+   "c": "Baliqchilar, baliq ishlovchilar va oshpazlar",
+   "w": [
+    "Baliqni to'liq pishiruvchilar va muzlatuvchilar",
+    "Xom baliq taomlarini yemaydiganlar",
+    "Ko'l va suv omborlaridan uzoq yashovchilar",
+    "Pishirilgan baliq iste'molchilari va oshpazlar"
+   ],
+   "x": "«Xavf ostida: baliqchilar va ularning oilalari; baliq ishlovchilar va oshpazlar; xom baliq taomlarini sevuvchilar; baliq sotuvchilari; ko'l va suv omborlari bo'yida yashovchilar»"
+  },
+  {
+   "q": "Nima uchun difillobotriaz bemorini ajratish shart emas?",
+   "c": "Odamdan odamga bevosita yuqmaydi",
+   "w": [
+    "Tuxum suvda rivojlanmaydi",
+    "Qisqichbaqasimon va baliq kerak emas",
+    "Bemor najasi xavfli emas",
+    "Bemor boshqalar bilan baliq yemaydi"
+   ],
+   "x": "«Difillobotriaz odamdan odamga bevosita yuqmaydi: tuxum suvda rivojlanishi, qisqichbaqasimon va baliqdan o'tishi kerak»"
+  },
+  {
+   "q": "Difillobotriaz bemorida xavf nimada?",
+   "c": "Najasi suv havzasiga tushishi",
+   "w": [
+    "Ikrasi suv havzasiga tushishi",
+    "Najasi baliq mushaklariga tushishi",
+    "Bemor baliqni xom iste'mol qilishi",
+    "Odamdan odamga bevosita yuqishi"
+   ],
+   "x": "«Shu sababli bemorni ajratish shart emas; xavf — uning najasi suv havzasiga tushishi»"
+  },
+  {
+   "q": "Takroriy zararlanishni oldini olish uchun nima kerak?",
+   "c": "Baliqni to'liq pishirish va ishonchli muzlatish",
+   "w": [
+    "Baliqni yengil tuzlash va dudlash",
+    "Xom baliq iste'moli tarzini o'zgartirmaslik",
+    "Baliq tutganda tatib ko'rish",
+    "Davolashdan keyin xom ikra yeyish"
+   ],
+   "x": "«Shu bois davolash bilan birga profilaktik maslahat berilishi, ya'ni baliqni to'liq pishirish va ishonchli muzlatish haqida tushuntirilishi kerak»"
+  },
+  {
+   "q": "Tuzlash va dudlash lichinkalarni qanday o'ldiradi?",
+   "c": "Har doim ham o'ldirmaydi",
+   "w": [
+    "Har doim to'liq o'ldiradi",
+    "Sovuq dudlashda to'liq o'ldiradi",
+    "Yengil tuzlangan baliqda o'ldiradi",
+    "Ikra va jigarda o'ldiradi"
+   ],
+   "x": "«Tuzlash va dudlash lichinkalarni har doim ham o'ldirmaydi: ayniqsa yengil tuzlangan baliqda ular tirik qolishi mumkin»"
+  },
+  {
+   "q": "Zararlanishning asosiy omillari qaysilar?",
+   "c": "Ovqatlanish odatlari va suv havzalarining najas bilan ifloslanishi",
+   "w": [
+    "Baliqni to'liq pishirish va chuqur muzlatish odatlari",
+    "Hojatxonadan foydalanish va oqova suvni tozalash",
+    "Baliq sotuvchilari bilimi va nazorati",
+    "Kasallangan odam bilan bevosita aloqa"
+   ],
+   "x": "«Difillobotriaz bilan zararlanish xom yoki yaxshi pishmagan chuchuk suv baliqni iste'mol qilish orqali yuz beradi; asosiy omillar — ovqatlanish odatlari va suv havzalarining odam najasi bilan ifloslanishi»"
+  }
+ ]
+}

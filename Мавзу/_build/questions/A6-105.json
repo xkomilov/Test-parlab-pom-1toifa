@@ -1,0 +1,114 @@
+{
+ "105": [
+  {
+   "q": "Odamlar exinokokk tuxumlarini asosan qanday yo'l bilan yutadi?",
+   "c": "Ifloslangan oziq-ovqat, suv yoki tuproq orqali",
+   "w": [
+    "Qo'y go'shtini xom holda iste'mol qilish orqali",
+    "Zararlangan jigar va o'pkani yaxshi pishirmasdan yeyish orqali",
+    "Bemor odam bilan bevosita aloqa qilish orqali",
+    "Zararlangan baliqni xom holda iste'mol qilish orqali"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti odamlar exinokokk tuxumlarini ifloslangan oziq-ovqat, suv yoki tuproq bilan yutish orqali yoki hayvon xo'jayinlar bilan bevosita aloqa qilish natijasida zararlanishini ta'kidlaydi»"
+  },
+  {
+   "q": "Exinokokkoz yuqish zanjirida definitiv xo'jayin kim?",
+   "c": "It va boshqa yirtqichlar",
+   "w": [
+    "Qo'y, qoramol va boshqa hayvonlar",
+    "Odam va boshqa tasodifiy xo'jayinlar",
+    "Cho'ponlar, chorvadorlar va qassoblar",
+    "Bolalar, oshpazlar va charm ishlovchilar"
+   ],
+   "x": "«Exinokokkozning yuqish zanjiri uch bo'g'indan iborat: definitiv xo'jayin (it va boshqa yirtqichlar) → tashqi muhit (tuxum) → oraliq xo'jayin (qo'y, qoramol va boshqalar) → yana definitiv xo'jayin (ichki a'zolarni yeyish orqali)»"
+  },
+  {
+   "q": "Odamning exinokokkoz zanjiridagi o'rni qanday?",
+   "c": "Tasodifiy oraliq xo'jayin, zanjirni davom ettirmaydi",
+   "w": [
+    "Definitiv xo'jayin, ichki a'zolarni iste'mol qilish orqali",
+    "Yakuniy xo'jayin, tuxumlarni najas bilan chiqaradi",
+    "Tashqi muhit, tuxum bilan ifloslangan tuproq",
+    "Oraliq xo'jayin, ya'ni qo'y va qoramol"
+   ],
+   "x": "«Odam tasodifiy oraliq xo'jayin sifatida zanjirga qo'shiladi va uni davom ettirmaydi»"
+  },
+  {
+   "q": "Odam itni silaganda tuxumlar qayerga tushadi?",
+   "c": "Qo'llariga va yuziga tushadi",
+   "w": [
+    "Tuproq va changga tushadi",
+    "Oziq-ovqat va suvga tushadi",
+    "Tashqi muhitga tushadi",
+    "Itning ichki a'zolariga tushadi"
+   ],
+   "x": "«Itlar tuxum bilan ifloslangan junini yalaganda, tuxumlar teriga va tumshug'iga o'tadi, odam itni silaganda, o'ynaganda yoki o'padigan bo'lganda qo'llariga va yuziga tushadi»"
+  },
+  {
+   "q": "Itlar exinokokk bilan qanday zararlanadi?",
+   "c": "Uy so'yimidan qolgan xom ichki a'zolarni yeb",
+   "w": [
+    "Tuxum bilan ifloslangan tuproqni yalab",
+    "Qo'ylar bilan bevosita aloqa qilib",
+    "Ifloslangan suv va ko'katlarni yeb",
+    "Bolalar bilan yaqin aloqa qilib"
+   ],
+   "x": "«Itlar uy so'yimidan qolgan ichki a'zolarni (jigar, o'pka) xom holda yeganda zararlanadi»"
+  },
+  {
+   "q": "Alveolyar shaklda qanday hayvonlar manba bo'lishi mumkin?",
+   "c": "Tulkilar va yovvoyi hayvonlar",
+   "w": [
+    "Qo'ylar, qoramollar va boshqa chorva",
+    "Qo'ylar va boshqa oraliq xo'jayinlar",
+    "Uy so'yimidan qolgan ichki a'zolar",
+    "Qoramollar va boshqa o'txo'r hayvonlar"
+   ],
+   "x": "«Alveolyar shaklda tulkilar va yovvoyi hayvonlar, shuningdek tulki va it junidan o'tgan mevalar (yovvoyi rezavorlar) manba bo'lishi mumkin»"
+  },
+  {
+   "q": "Quyidagilardan qaysi biri xavf omili hisoblanadi?",
+   "c": "Gijjaga qarshi davolanmagan itlarni boqish",
+   "w": [
+    "Qo'lni sovun bilan yuvish odatlari",
+    "Qo'ylarni EG95 antigeni bilan emlash",
+    "So'yish nazoratining kuchli bo'lishi",
+    "Toza suv ichish va ko'katlarni yuvish"
+   ],
+   "x": "«Xavf omillari: chorvachilik, ayniqsa qo'ychilik, bilan shug'ullanish; itlarni boqish, ayniqsa gijjaga qarshi davolanmagan itlar; uy so'yimi va so'yish chiqindilarini itlarga berish; so'yish nazoratining yo'qligi; qo'l yuvish va gigiyena odatlarining zaifligi; bolalarning itlar bilan yaqin aloqasi; ochiq suv manbalaridan foydalanish»"
+  },
+  {
+   "q": "Bolalar nima uchun exinokokkoz xavfi ostida?",
+   "c": "Itlar bilan o'ynaydi, qo'llarini og'izlariga olib boradi",
+   "w": [
+    "Ichki a'zolarni itlarga xom holda berishadi",
+    "Uy so'yimi va chorvachilik bilan shug'ullanadi",
+    "Veterinar nazorati va gijjaga qarshi davo yetishmaydi",
+    "Ochiq suv manbalaridan foydalanib, qo'ylar boqadi"
+   ],
+   "x": "«Bolalar itlar bilan tez-tez o'ynaydi, qo'llarini og'izlariga olib boradi va gigiyena ko'nikmalari to'liq shakllanmagan, shuning uchun ular xavf ostida»"
+  },
+  {
+   "q": "Itlarni praziquantel bilan yiliga kamida necha marta degelmintizatsiya qilish tavsiya etiladi?",
+   "c": "4 marta",
+   "w": [
+    "2 marta",
+    "3 marta",
+    "5 marta",
+    "10 marta"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti praziquantel bilan yiliga kamida 4 marta degelmintizatsiyani tavsiya etadi»"
+  },
+  {
+   "q": "Qaysi guruhlar kasbiy aloqa tufayli ko'proq xavf ostida?",
+   "c": "Cho'ponlar, chorvadorlar, qassoblar va oshpazlar",
+   "w": [
+    "Bolalar va qishloq hududlarida yashovchilar",
+    "Kambag'allik va chekka hududlarda yashovchilar",
+    "Itlarni boqish bilan shug'ullanuvchi bolalar",
+    "Ochiq suv manbalaridan foydalanuvchi bolalar"
+   ],
+   "x": "«Cho'ponlar, chorvadorlar, qassoblar va oshpazlar kasbiy aloqa tufayli ko'proq xavf ostida»"
+  }
+ ]
+}

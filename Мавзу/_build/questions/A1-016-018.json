@@ -1,0 +1,338 @@
+{
+ "016": [
+  {
+   "q": "Bezgakning asosiy manbai kim?",
+   "c": "qonida gametotsitlar bo'lgan odam",
+   "w": [
+    "qonida sporozoitlar bo'lgan odam",
+    "qon quyilgan retsipient odam",
+    "bezgak yo'q qilingan hudud aholisi",
+    "immunitetsiz sayohatchi odam"
+   ],
+   "x": "«Bezgakning asosiy manbai — qonida parazitning jinsiy shakllari, ya'ni gametotsitlar bo'lgan odam»"
+  },
+  {
+   "q": "Chivin zararlanishi uchun odam qonida nima bo'lishi kerak?",
+   "c": "parazitning jinsiy shakllari",
+   "w": [
+    "parazitning jigarda uxlab yotuvchi shakllari",
+    "parazitning so'lak bezlariga o'tgan shakllari",
+    "parazitning sporozoit shakllari",
+    "parazitning jigarda ko'payayotgan shakllari"
+   ],
+   "x": "«Bezgakning asosiy manbai — qonida parazitning jinsiy shakllari, ya'ni gametotsitlar bo'lgan odam»"
+  },
+  {
+   "q": "Epidemiologik jihatdan eng xavfli guruh qaysi?",
+   "c": "belgisiz parazit tashuvchilar",
+   "w": [
+    "kasalxonada davolanayotgan og'ir bemorlar",
+    "bezgak belgilari yaqqol bemorlar",
+    "chaqaloqlar va homilador ayollar",
+    "immunitetsiz sayohatchilar guruhi"
+   ],
+   "x": "«Epidemiologik jihatdan eng xavfli guruh — belgisiz parazit tashuvchilar»"
+  },
+  {
+   "q": "Sporogoniya qayerda o'tadi?",
+   "c": "chivin ichagida",
+   "w": [
+    "odam jigarida",
+    "odam eritrotsitlarida",
+    "chivin so'lak bezlarida",
+    "donor qonida"
+   ],
+   "x": "«Chivin ichagida jinsiy ko'payish, sporogoniya o'tadi va parazit so'lak bezlariga o'tadi»"
+  },
+  {
+   "q": "Sovuq hududlarda bezgak yuqishi nega to'xtaydi?",
+   "c": "sporogoniya uchun muayyan harorat kerak",
+   "w": [
+    "chivinlar so'lak bezlarida sporozoitlar saqlamaydi",
+    "hududlarda gametotsitlar tashuvchilar bo'lmaydi",
+    "qon quyish orqali yuqish to'xtaydi",
+    "chivin to'rlari borligi yuqishni to'xtatadi"
+   ],
+   "x": "«Sporogoniya uchun muayyan harorat kerak, shuning uchun sovuq hududlarda yoki mavsumlarda yuqish to'xtaydi»"
+  },
+  {
+   "q": "Qon quyish va ifloslangan ignalar orqali yuqish yo'llari qanday ataladi?",
+   "c": "transfuzion va parenteral yo'llar",
+   "w": [
+    "transplatsentar va endemik yo'llar",
+    "transmissiv va transfuzion yo'llar",
+    "parenteral va ekologik yo'llar",
+    "tug'ma va transmissiv yo'llar"
+   ],
+   "x": "«Bu transfuzion va parenteral yo'llar deb ataladi»"
+  },
+  {
+   "q": "Tug'ma bezgak nima?",
+   "c": "onadan homilaga o'tadigan bezgak",
+   "w": [
+    "donordan retsipientga o'tadigan bezgak",
+    "chivindan odamga o'tadigan bezgak",
+    "bemordan qo'shniga o'tadigan bezgak",
+    "homiladan chivinga o'tadigan bezgak"
+   ],
+   "x": "«Bezgak onadan homilaga ham o'tishi mumkin, bu tug'ma bezgak deb ataladi»"
+  },
+  {
+   "q": "Qaysi guruhlarda og'ir kasallanish xavfi yuqori?",
+   "c": "chaqaloqlar, besh yoshgacha bolalar va homilador ayollar",
+   "w": [
+    "endemik hududlarda uzoq yashagan qisman immun kishilar",
+    "chivin to'rlaridan foydalanadigan sog'lom aholi",
+    "o'zini sog'lom his qiladigan donorlar",
+    "chivin to'rlari borligi sababli himoyalangan aholi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkilotining ta'kidlashicha, chaqaloqlar, besh yoshgacha bolalar, homilador ayollar, sayohatchilar va OIV yoki OITS bilan yashovchilar og'ir kasallanish xavfi yuqori bo'lgan guruhlardir»"
+  },
+  {
+   "q": "Chivinlarning ko'payishi uchun qanday joylar zarur?",
+   "c": "sekin oqadigan yoki turg'un suv havzalari",
+   "w": [
+    "sovuq hududlar va mavsumlar",
+    "chivin to'rlari bilan yopilgan xonalar",
+    "kimyoviy vositalar purkalgan xonalar",
+    "kechqurun va tunda tashqarida bo'lish joylari"
+   ],
+   "x": "«Chivinlarning ko'payishi uchun sekin oqadigan yoki turg'un suv havzalari — sholipoyalar, kanallar, hovuzlar, zax joylar zarur»"
+  },
+  {
+   "q": "Manbani yo'q qilish uchun nima qilinadi?",
+   "c": "bemorlarni aniqlab davolash",
+   "w": [
+    "chivinlarga qarshi kurash olib borish",
+    "xavf guruhlariga kimyoprofilaktika berish",
+    "donorlarni tekshirish tizimini yuritish",
+    "chaqishdan himoyalanish choralarini ko'rish"
+   ],
+   "x": "«Manba va yo'llarni bilish profilaktikaning yo'nalishini belgilaydi: manbani yo'q qilish uchun bemorlarni tez aniqlab davolash, yo'llarni uzish uchun chivinlarga qarshi kurash va chaqishdan himoyalanish, xavf guruhlarini himoya qilish uchun kimyoprofilaktika»"
+  }
+ ],
+ "017": [
+  {
+   "q": "Xurujning birinchi bosqichida bemorda qanday belgilar bo'ladi?",
+   "c": "sovuq qotish, qaltirash va titroq",
+   "w": [
+    "ko'p terlash va harorat pasayishi",
+    "yuz qizarishi va bosh og'rig'i",
+    "umumiy noxushlik va ishtaha pasayishi",
+    "taloq kattalashishi va kamqonlik"
+   ],
+   "x": "«Birinchi bosqichda bemorda sovuq qotish, qaltirash va titroq paydo bo'ladi, tana harorati ko'tarila boshlaydi»"
+  },
+  {
+   "q": "Xurujning uchinchi bosqichi qanday kechadi?",
+   "c": "ko'p terlash, harorat pasayishi va uxlab qolish",
+   "w": [
+    "tana harorati ko'tarila boshlashi va titroq",
+    "yuz qizarishi, nafas va yurak urishi tezlashishi",
+    "isitma 39–41 darajagacha ko'tarilishi",
+    "bosh og'rig'i va mushaklarda og'riq"
+   ],
+   "x": "«Uchinchi bosqichda ko'p terlash boshlanadi, harorat tez pasayadi va bemor holsizlanib, uxlab qoladi»"
+  },
+  {
+   "q": "Isitma davriyligi nima bilan bog'liq?",
+   "c": "parazitning eritrotsitlar ichidagi rivojlanish sikli",
+   "w": [
+    "taloqning kattalashuvi va qattiqlashuvi darajasi",
+    "jigardagi gipnozoitlarning qayta faollashuvi",
+    "bemorning endemik hududdan qaytish vaqti",
+    "leykotsitlar sonining pasayishi darajasi"
+   ],
+   "x": "«Davriylik parazitning eritrotsitlar ichidagi rivojlanish sikli bilan bog'liq: parazit yetilib eritrotsitni yorib chiqqanda va yangi eritrotsitlarni zararlaganda isitma ko'tariladi»"
+  },
+  {
+   "q": "Prodromal belgilar nega grippga o'xshab ketadi?",
+   "c": "nospetsifik belgilar tufayli",
+   "w": [
+    "sinxron bo'lmagan rivojlanish tufayli",
+    "jigarda ko'payish davri tufayli",
+    "taloq kattalashishi tufayli",
+    "kamqonlik rivojlanishi tufayli"
+   ],
+   "x": "«Bu belgilar nospetsifik bo'lgani uchun grippga yoki boshqa virusli infeksiyalarga o'xshab ketadi»"
+  },
+  {
+   "q": "Ob'ektiv tekshiruvda qaysi o'zgarish aniqlanadi?",
+   "c": "jigar va ayniqsa taloqning kattalashuvi",
+   "w": [
+    "leykotsitlar va trombotsitlar sonining ortishi",
+    "eritrotsitlar sonining ortishi va qizarishi",
+    "teri va shilliq pardalarning qizarishi",
+    "yurak urishi sekinlashuvi va nafas pasayishi"
+   ],
+   "x": "«Bemorni ko'rganda jigar va ayniqsa taloqning kattalashuvi aniqlanadi»"
+  },
+  {
+   "q": "Tashxis aniq qanday tasdiqlanadi?",
+   "c": "qon surtmasida parazitni topish",
+   "w": [
+    "taloq kattalashuvini paypaslash",
+    "leykotsitlar sonini aniqlash",
+    "trombotsitlar kamayishini aniqlash",
+    "teri rangparligini aniqlash"
+   ],
+   "x": "«Bu belgilar tashxisni shubha ostiga oladi, biroq aniq tasdiq faqat qon surtmasida parazitni topish bilan beriladi»"
+  },
+  {
+   "q": "Qaytalanishlar nega kuzatiladi?",
+   "c": "jigardagi gipnozoitlar qayta faollashadi",
+   "w": [
+    "taloq yorilishi xavfi ortadi",
+    "eritrotsitlar parchalanishi kuchayadi",
+    "yangi yuqish manbasi paydo bo'ladi",
+    "taloq bir necha xurujdan keyin paypaslanadi"
+   ],
+   "x": "«Uch kunlik bezgak 10–15 kunlik inkubatsiyadan keyin boshlanib, 48 soatlik davriylik bilan takrorlanuvchi isitma xurujlari, taloq kattalashishi, kamqonlik va jigardagi gipnozoitlar tufayli qaytalanishlar bilan kechadi»"
+  },
+  {
+   "q": "Qaytalanishning oldini olish uchun asosiy davoga nima qo'shiladi?",
+   "c": "primakvin qo'shib davolash",
+   "w": [
+    "taloqni jarohatlanishdan saqlash",
+    "jigarda uxlab yotuvchi shakllarni kuzatish",
+    "tezkor test bilan tekshirish",
+    "kamqonlikni davolash"
+   ],
+   "x": "«ovale bezgagida qaytalanishning oldini olish uchun asosiy davoga primakvin qo'shishni tavsiya etadi»"
+  },
+  {
+   "q": "Uzoq davom etgan kasallikda qanday asoratlar uchraydi?",
+   "c": "kamqonlik, taloq kattalashishi va taloq yorilishi",
+   "w": [
+    "muddatidan oldin tug'ilish va kam vaznli bola",
+    "grippga o'xshash belgilar va ishtaha pasayishi",
+    "yuz qizarishi, titroq va ko'p terlash",
+    "leykotsitlar pasayishi va trombotsitlar kamayishi"
+   ],
+   "x": "«Uzoq davom etgan kasallikda kamqonlik, taloqning kattalashishi va uning jarohatlanish xavfi, ayniqsa taloq yorilishi, kuzatilishi mumkin»"
+  },
+  {
+   "q": "Bolalarda uch kunlik bezgak nima deb adashtiriladi?",
+   "c": "ichak infeksiyasi kasalligi",
+   "w": [
+    "sepsis yoki brutsellyoz kasalligi",
+    "grippga o'xshash virusli infeksiya",
+    "leyshmanioz kasalligi",
+    "taloq jarohati kasalligi"
+   ],
+   "x": "«Bolalarda uch kunlik bezgak ko'pincha atipik boshlanadi: isitma tartibsiz, ko'ngil aynishi, qusish, qorin og'rig'i va ich ketishi bo'lishi mumkin, shuning uchun bu kasallik ichak infeksiyasi deb adashtiriladi»"
+  }
+ ],
+ "018": [
+  {
+   "q": "Tropik bezgakda isitma qanday kechadi?",
+   "c": "tartibsiz yoki doimiy tipda kechadi",
+   "w": [
+    "qat'iy davriy, har 48 soatda takrorlanadi",
+    "uch bosqichli klassik xuruj ko'rinishida",
+    "xuruj bosqichlari yaqqol ifodalangan holda",
+    "sutka davomida bir marta ko'tarilishi"
+   ],
+   "x": "«U ko'pincha tartibsiz yoki doimiy tipda kechadi, sutka davomida bir necha marta ko'tarilishi mumkin»"
+  },
+  {
+   "q": "Tropik bezgakda isitma nega tartibsiz bo'ladi?",
+   "c": "eritrotsitlar sinxron bo'lmagan holda zararlanadi",
+   "w": [
+    "eritrotsitlar jigarda uxlab yotuvchi shaklda zararlanadi",
+    "parazit rivojlanishi barcha eritrotsitlarda bir vaqtda tugaydi",
+    "taloq kattalashuvi isitmani tartibsiz qiladi",
+    "taloq va jigar kattalashuvi kuchayadi"
+   ],
+   "x": "«falciparum parazitlari eritrotsitlarni sinxron bo'lmagan holda zararlaydi va ularning rivojlanishi turli vaqtda tugaydi»"
+  },
+  {
+   "q": "Parazitemiya nima?",
+   "c": "qon eritrotsitlarining zararlangan ulushi",
+   "w": [
+    "jigar hujayralarining zararlangan ulushi",
+    "qondagi trombotsitlarning kamaygan ulushi",
+    "qondagi leykotsitlarning kamaygan ulushi",
+    "tashuvchi chivinlarning zararlangan ulushi"
+   ],
+   "x": "«Parazitemiya darajasi, ya'ni qon eritrotsitlarining zararlangan ulushi, kasallik og'irligini baholash uchun juda muhim: tropik bezgakda parazit soni tez ko'payib, yuqori bo'lishi mumkin»"
+  },
+  {
+   "q": "Og'ir tropik bezgakning belgilari qaysilar?",
+   "c": "hushning buzilishi, tutqanoq va nafas qiyinlashuvi",
+   "w": [
+    "yengil sariqlik va taloq kattalashuvi",
+    "bosh og'rig'i, titroq va mushak og'rig'i",
+    "ko'ngil aynishi, qusish va holsizlik",
+    "tartibsiz isitma va leykopeniya"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti og'ir bezgakning belgilarini sanab o'tadi: o'ta holsizlik va charchoq, hushning buzilishi, ko'p marta tutqanoq, nafas olishning qiyinlashuvi, to'q yoki qonli siydik, sariqlik va g'ayritabiiy qon ketish»"
+  },
+  {
+   "q": "Buyrak yetishmovchiligi nima bilan namoyon bo'ladi?",
+   "c": "qonli yoki to'q siydik va siydik kamayishi",
+   "w": [
+    "eritrotsitlarning ommaviy parchalanishi",
+    "hush buzilishi, tutqanoq va koma",
+    "past qand miqdori va holsizlik",
+    "taloq va jigar kattalashuvi"
+   ],
+   "x": "«Buyrak yetishmovchiligi qonli yoki to'q siydik va siydik ajralishining kamayishi bilan namoyon bo'ladi»"
+  },
+  {
+   "q": "Nafas yetishmovchiligi nima tufayli rivojlanadi?",
+   "c": "o'pka shishi yoki metabolik atsidoz",
+   "w": [
+    "bosh miya bezgagi yoki buyrak yetishmovchiligi",
+    "eritrotsitlar parchalanishi yoki trombotsitopeniya",
+    "kamqonlik yoki past qand miqdori",
+    "taloq kattalashishi yoki leykopeniya"
+   ],
+   "x": "«Nafas yetishmovchiligi o'pka shishi yoki metabolik atsidoz tufayli rivojlanadi»"
+  },
+  {
+   "q": "P. falciparum bezgagida uzoq muddatli qaytalanish nega kutilmaydi?",
+   "c": "jigarda uxlab yotuvchi shakllar hosil qilmagani sababli",
+   "w": [
+    "eritrotsitlar sinxron zararlanishi sababli",
+    "parazit artemizininga qarshilik ko'rsatgani sababli",
+    "kasallik og'ir shaklga o'tgani sababli",
+    "taloq kattalashmagani sababli"
+   ],
+   "x": "«falciparum jigarda uxlab yotuvchi shakllar hosil qilmaydi, shuning uchun to'g'ri davolangan bemorda uzoq muddatli qaytalanish kutilmaydi, lekin davolash to'liq tugallanishi shart»"
+  },
+  {
+   "q": "Tropik bezgakda qaysi davo eng samarali hisoblanadi?",
+   "c": "artemizinin asosidagi kombinatsiyalangan terapiya",
+   "w": [
+    "jigarda uxlab yotuvchi shakllarga qarshi davo",
+    "hayotiy a'zolar faoliyatini nazorat qilish",
+    "bezgakka qarshi davriy preparat berish",
+    "sezgirligiga bog'liq bo'lmagan davo tanlash"
+   ],
+   "x": "«Tropik bezgakni davolashda artemizinin asosidagi kombinatsiyalangan terapiya eng samarali hisoblanadi»"
+  },
+  {
+   "q": "Endemik hududlarda homilador ayollar uchun qanday profilaktik chora qo'llanadi?",
+   "c": "davriy preparat berish",
+   "w": [
+    "tomir ichiga dori yuborish",
+    "artemizinin asosidagi terapiya berish",
+    "kasalxonada davolanish",
+    "qon surtmasida parazitni topish"
+   ],
+   "x": "«Shu sababli endemik hududlarda homilador ayollar uchun alohida profilaktik choralar, jumladan davriy preparat berish, qo'llanadi»"
+  },
+  {
+   "q": "Differensial tashxisda hal qiluvchi omil nima?",
+   "c": "epidemiologik anamnez va qon surtmasida parazitni topish",
+   "w": [
+    "sariqlik, isitma va hush buzilishi belgilari",
+    "taloq kattalashishi va kamqonlik darajasi",
+    "meningit va virusli gepatit belgilari",
+    "isitma tartibsiz yoki doimiy tipda kechishi"
+   ],
+   "x": "«Hal qiluvchi omil — epidemiologik anamnez va qon surtmasida parazitni topish»"
+  }
+ ]
+}

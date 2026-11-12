@@ -1,0 +1,338 @@
+{
+ "022": [
+  {
+   "q": "Dispanser kuzatuvining maqsadi nima?",
+   "c": "qaytalanishni erta aniqlash va manbani yo'qotish",
+   "w": [
+    "gipnozoitlarni qon surtmasida topish va sanash",
+    "primakvin kursini qisqartirish va to'xtatish",
+    "davolash sxemasini yozish va hisobot berish",
+    "bemorlarni kasalxonada yotqizish va ajratish"
+   ],
+   "x": "«Dispanser kuzatuvining maqsadi — davolash samarasini tasdiqlash, qaytalanishni erta aniqlash va qayta yuqish manbasini yo'qotish»"
+  },
+  {
+   "q": "Davolangandan keyin ham uch kunlik bezgakda xavf nega tugamaydi?",
+   "c": "jigarda uxlab yotuvchi shakllar hosil bo'ladi",
+   "w": [
+    "qalin tomchida parazit soni kamayadi",
+    "qayta yuqish manbasi doimo saqlanadi",
+    "bemor kuzatuv ro'yxatidan chiqarilgan bo'ladi",
+    "bemor ko'rikdan qolgan bo'ladi"
+   ],
+   "x": "«Sababi shundaki, Plasmodium vivax jigarda uxlab yotuvchi shakllar hosil qiladi va ular oylar o'tgach kasallikni qaytarishi mumkin»"
+  },
+  {
+   "q": "Kimlar dispanser kuzatuviga kiradi?",
+   "c": "davolangan bemorlar va parazit tashuvchilar",
+   "w": [
+    "faqat kasalxonada yotqizilgan bemorlar",
+    "isitmali kasallik bilan og'riganlar",
+    "chivin ko'p bo'lgan hudud aholisi",
+    "oilaviy poliklinika va sanitariya xizmati xodimlari"
+   ],
+   "x": "«Kuzatuvga uch kunlik bezgak bilan og'rigan va davolangan barcha bemorlar, shuningdek, parazit tashuvchilar kiradi»"
+  },
+  {
+   "q": "Kuzatuv ro'yxatiga nimalar yoziladi?",
+   "c": "manzil, parazit turi va davolash sxemasi",
+   "w": [
+    "telefon raqami, manzil va oila tarkibi",
+    "bemor kartasi, laboratoriya jurnali va xulosa",
+    "tashxis sanasi va davolash dorilari davomiyligi",
+    "chivin faolligi mavsumi va profilaktik suhbat"
+   ],
+   "x": "«Kuzatuv ro'yxatida bemorning manzili, parazit turi, davolash sxemasi, primakvin qabul qilgan-qilmagani va keyingi tekshiruv sanalari ko'rsatiladi»"
+  },
+  {
+   "q": "Qaytalanishda sabab tahlil qilinganda nimalar aniqlanadi?",
+   "c": "dori to'liq ichilganmi, primakvin berilganmi",
+   "w": [
+    "chivin ko'pmi, to'r o'rnatilganmi",
+    "taloq kattalashganmi, jigar holati qanday",
+    "qalin tomchi sifatli tayyorlanganmi",
+    "ma'lumotnoma laboratoriyasiga yuborilganmi"
+   ],
+   "x": "«Kuzatuv davomida qaytalanish aniqlansa, bemor yana davolanadi, qaytalanishning sababi tahlil qilinadi: dori to'liq ichilganmi, primakvin berilganmi, qayta yuqish bo'lmaganmi»"
+  },
+  {
+   "q": "Qaytalanish va qayta yuqish qanday farqlanadi?",
+   "c": "parazit topilishi sayohat tarixi bilan solishtiriladi",
+   "w": [
+    "qalin tomchi yupqa surtma bilan solishtiriladi",
+    "bemor ma'lumotlari manzil bilan solishtiriladi",
+    "qaytalanishlar soni ulush bilan solishtiriladi",
+    "kuzatuv jadvali karta bilan solishtiriladi"
+   ],
+   "x": "«Yangi xurujda parazitning qondan topilishi qaytalanish va qayta yuqishni farqlash uchun sayohat tarixi bilan solishtiriladi»"
+  },
+  {
+   "q": "Bemorni kuzatuvdan chiqarish uchun qanday shartlar kerak?",
+   "c": "qaytalanish bo'lmasligi, manfiy surtma va klinik sog'ayish",
+   "w": [
+    "faqat primakvin kursini tugallash va ko'rikdan o'tish",
+    "chivin to'rini o'rnatish va qaytaruvchi vositalar",
+    "telefon raqamini yozib qo'yish va murojaat",
+    "ikkinchi mutaxassis xulosasi va ma'lumotnoma"
+   ],
+   "x": "«Kuzatuvdan chiqarish uchun belgilangan muddat davomida qaytalanish bo'lmasligi, bemorning qon surtmasi manfiy ekani va klinik jihatdan sog'lig'i tiklangani kerak»"
+  },
+  {
+   "q": "Qaytalanishda qalin tomchi nega ehtiyotkorlik bilan o'rganiladi?",
+   "c": "parazit soni ilk xurujdagidan kamroq bo'lishi mumkin",
+   "w": [
+    "gipnozoitlar qon surtmasida ko'p bo'ladi",
+    "primakvin kursi tugallanmagan bo'ladi",
+    "bemor kartasi to'ldirilmagan bo'ladi",
+    "taloq va jigar kattalashgan bo'ladi"
+   ],
+   "x": "«Qaytalanishda parazit soni ilk xurujga qaraganda kamroq bo'lishi mumkin, shuning uchun qalin tomchi ehtiyotkorlik bilan o'rganiladi»"
+  },
+  {
+   "q": "Kuzatuv samaradorligi nimalar bo'yicha baholanadi?",
+   "c": "qaytalanishlar soni va aniqlanish muddati",
+   "w": [
+    "bemorlar soni va chivin faolligi",
+    "primakvin dozasi va davolash sxemasi",
+    "kartalar soni va laboratoriya jurnali",
+    "ko'riklar jadvali va tekshiruv sanalari"
+   ],
+   "x": "«Kuzatuv dasturining samarasi qaytalanishlar soni, ular aniqlanish muddati va bemorlarning kuzatuvdan to'liq o'tish ulushi bilan baholanadi»"
+  },
+  {
+   "q": "Kuzatuvdan chiqarilgan bemor kelgusida nima qilishi kerak?",
+   "c": "isitma bo'lsa, ilgari bezgak bilan og'riganini aytishi",
+   "w": [
+    "primakvin kursini qaytadan to'liq qabul qilishi",
+    "ma'lumotnoma laboratoriyasiga murojaat qilishi",
+    "kuzatuv ro'yxatidan qayta o'tib ko'rikka kelishi",
+    "bemor ma'lumotlarini shifokordan yashirishi"
+   ],
+   "x": "«Kuzatuvdan chiqarilgan bemor keyinchalik isitma paydo bo'lsa, ilgari bezgak bilan og'riganini shifokorga aytishi kerak»"
+  }
+ ],
+ "023": [
+  {
+   "q": "Tropik bezgakda uzoq muddatli qaytalanish nega kutilmaydi?",
+   "c": "jigarda uxlab yotuvchi shakllar yo'q",
+   "w": [
+    "parazit eritrotsitlarda oylar o'tgach ko'payadi",
+    "gametotsitlar qonda yillab saqlanadi",
+    "dorilar to'liq ichilmagan bo'ladi",
+    "bemor qayta zararlangan bo'ladi"
+   ],
+   "x": "«Plasmodium falciparum jigarda uxlab yotuvchi shakllar hosil qilmaydi, shuning uchun to'g'ri va to'liq davolangan bemorda uzoq muddatli qaytalanish kutilmaydi»"
+  },
+  {
+   "q": "Tropik bezgak kuzatuvining asosiy maqsadlari qaysilar?",
+   "c": "davolash samarasini tasdiqlash va asoratlarni nazorat qilish",
+   "w": [
+    "qayta yuqish manbasini yo'qotish va chivin sonini kamaytirish",
+    "gipnozoitlarni aniqlash va primakvin berish",
+    "import holatlarni hisoblash va hisobot topshirish",
+    "oila a'zolarini davolash va ajratish"
+   ],
+   "x": "«Biroq tropik bezgak og'ir kechgani uchun davolashdan keyin ham kuzatuv zarur: u davolash samarasini tasdiqlash, parazit qaytib paydo bo'lishini erta aniqlash va asoratlarni nazorat qilish uchun o'tkaziladi»"
+  },
+  {
+   "q": "Tropik bezgakda qaytalanish ko'pincha nimani bildiradi?",
+   "c": "parazitlar to'liq yo'qotilmaganini",
+   "w": [
+    "gipnozoitlar qayta faollashuvini",
+    "kuzatuv muddati to'liq tugaganini",
+    "bemor klinik sog'ayib ketganini",
+    "bezgakdan holi hududda chivin yo'qligini"
+   ],
+   "x": "«Tropik bezgakda qaytalanish ko'pincha qondagi parazitlar to'liq yo'qotilmaganini, ya'ni davolash muvaffaqiyatsiz bo'lganini ko'rsatadi»"
+  },
+  {
+   "q": "Davolash muvaffaqiyatsizligining sabablari qaysilar?",
+   "c": "dorilar to'liq ichilmagan yoki parazit chidamli",
+   "w": [
+    "gipnozoit faollashgan yoki primakvin berilmagan",
+    "bemor kasalxonadan chiqqan yoki kuzatuvdan chiqarilgan",
+    "qalin tomchi sinchiklab ko'rilgan yoki kartaga kiritilgan",
+    "klinik sog'ayish tiklangan yoki surtma manfiy"
+   ],
+   "x": "«Buning sabablari: dorilar to'liq ichilmagan, parazit dori ta'siriga chidamli yoki bemor qayta zararlangan»"
+  },
+  {
+   "q": "Kuzatuv davrida chivin chaqishidan himoya nega tavsiya etiladi?",
+   "c": "gametotsitlar bir necha kun qonda saqlanadi",
+   "w": [
+    "gipnozoitlar jigarda faollashishi mumkin",
+    "parazit dori ta'siriga chidamli bo'ladi",
+    "bezgakdan holi hududda chivinlar bo'ladi",
+    "tezkor testlar xato beradi"
+   ],
+   "x": "«Parazitning jinsiy shakllari, gametotsitlar, davolashdan keyin ham bir necha kun qonda saqlanishi mumkin, shuning uchun kuzatuv davrida chivin chaqishidan himoya choralari tavsiya etiladi»"
+  },
+  {
+   "q": "Tezkor testlarning cheklovi nimada?",
+   "c": "mutant parazitlar testlarda aniqlanmaydi",
+   "w": [
+    "qalin tomchi testlarda ko'rinmaydi",
+    "gametotsitlar testlarda ko'p bo'ladi",
+    "parazit soni testlarda past bo'ladi",
+    "mikroskopiya testlarda aniqlanmaydi"
+   ],
+   "x": "«falciparum ning HRP2 va HRP3 oqsillarini ishlab chiqarmaydigan mutant parazitlar testlarda aniqlanmasligini ta'kidlaydi»"
+  },
+  {
+   "q": "Kuzatuvda qaysi usul ishonchli bo'lib qoladi?",
+   "c": "mikroskopiya ishonchli usul",
+   "w": [
+    "tezkor testlar natijasi",
+    "HRP2 oqsilini aniqlash",
+    "kamqonlik darajasini aniqlash",
+    "parhez va dam olish"
+   ],
+   "x": "«Shu sababli kuzatuvda mikroskopiya ishonchli usul bo'lib qoladi»"
+  },
+  {
+   "q": "Salomatlik yaxshi bo'lsa ham qon surtmasi nega takroran tekshiriladi?",
+   "c": "qonda parazit bo'lishi mumkin",
+   "w": [
+    "bemor kartasi jurnalga kiritilishi kerak",
+    "qon tahlili kamqonlik darajasini ko'radi",
+    "gipnozoitlar qonda ko'rinadi",
+    "tezkor testlar har doim to'liq aniqlaydi"
+   ],
+   "x": "«Bemorga qon surtmasini takroran tekshirishning zarurligi tushuntiriladi, chunki salomatlik yaxshi bo'lsa ham, qonda parazit bo'lishi mumkin»"
+  },
+  {
+   "q": "Tropik bezgak kuzatuvidan chiqarish uchun qanday shartlar kerak?",
+   "c": "qaytalanishsiz o'tish, manfiy surtma va klinik sog'ayish",
+   "w": [
+    "gametotsitlarning qonda bir necha kun saqlanishi",
+    "artemizininga qisman chidamlilik aniqlanishi",
+    "oila a'zolariga tushuntirish berilishi",
+    "kamqonlikka qarshi temir mahsulotlari iste'mol qilinishi"
+   ],
+   "x": "«Bemor belgilangan kuzatuv muddati davomida qaytalanishsiz o'tsa, qon surtmasi manfiy bo'lsa va klinik jihatdan sog'ayib ketgan bo'lsa, kuzatuvdan chiqariladi»"
+  },
+  {
+   "q": "Kimlar tropik bezgak kuzatuviga olinadi?",
+   "c": "tropik bezgak bilan davolangan barcha shaxslar",
+   "w": [
+    "faqat bolalar va homilador ayollar guruhi",
+    "bezgakdan holi hududning barcha aholisi",
+    "chivin chaqqan har bir shaxs",
+    "oila a'zolari va qo'shni uy aholisi"
+   ],
+   "x": "«Kuzatuvga tropik bezgak bilan og'rigan va davolangan barcha shaxslar, ayniqsa endemik hududlardan kelgan sayohatchilar va mehnat migrantlari kiradi»"
+  }
+ ],
+ "024": [
+  {
+   "q": "Bezgakni yo'q qilish nima?",
+   "c": "mahalliy yuqishning ongli tadbirlar bilan to'xtatilishi",
+   "w": [
+    "qo'zg'atuvchining tabiatda yo'qolishi",
+    "kasallik darajasini xavfsiz darajaga tushirish",
+    "import holatlarni to'liq to'xtatish",
+    "bezgak tashuvchilarining to'liq yo'qolishi"
+   ],
+   "x": "«Bezgakni yo'q qilish — belgilangan hududda mahalliy yuqishni ongli tadbirlar bilan to'xtatish va uni qayta tiklanishidan saqlash»"
+  },
+  {
+   "q": "Nazorat nimani anglatadi?",
+   "c": "xavf tug'dirmaydigan darajaga tushirish",
+   "w": [
+    "mahalliy yuqishni nolga tushirish",
+    "qo'zg'atuvchini butun dunyoda yo'qotish",
+    "import holatlarni nolga tushirish",
+    "qayta kiritilishining oldini olish"
+   ],
+   "x": "«Nazoratda maqsad kasallik darajasini jamiyat uchun xavf tug'dirmaydigan darajaga tushirish, ammo mahalliy yuqish davom etishi mumkin»"
+  },
+  {
+   "q": "Tugatish (eradication) nimani anglatadi?",
+   "c": "kasallikni butun dunyoda yo'qotish",
+   "w": [
+    "belgilangan hududda yuqishni nolga tushirish",
+    "mamlakatda kasallik darajasini kamaytirish",
+    "qayta kiritilishining oldini olish choralari",
+    "sertifikat olish uchun ariza berish"
+   ],
+   "x": "«Tugatish (eradication) esa kasallikni butun dunyoda yo'qotish, ya'ni qo'zg'atuvchining tabiatda yo'qolishi, ma'nosida ishlatiladi; bezgak uchun bu hozircha erishilmagan»"
+  },
+  {
+   "q": "Sertifikatlash uchun ariza berishga qanday sharoit kerak?",
+   "c": "kamida ketma-ket uch yil mahalliy holat bo'lmasligi",
+   "w": [
+    "kamida bir yil mahalliy holat bo'lmasligi",
+    "kamida ikki yil import holat bo'lmasligi",
+    "bir yil davomida kasallik darajasi kamayishi",
+    "uch yil davomida holatlar soni kamayishi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti kamida ketma-ket uch yil davomida mahalliy bezgak holatlari qayd etilmagan mamlakatlar bezgakni yo'q qilganligi bo'yicha sertifikatlash uchun ariza topshirishi mumkinligini ma'lum qiladi»"
+  },
+  {
+   "q": "Yo'q qilishdan keyin ish nega tugamaydi?",
+   "c": "chivinlar saqlanadi va import holatlar kelib turadi",
+   "w": [
+    "aholi immunitetga ega va chivinlar yo'q",
+    "laboratoriya imkoniyati keraksiz bo'lib qoladi",
+    "dori vositalari zaxirasi tugatiladi",
+    "tezkor javob guruhlari tarqatib yuboriladi"
+   ],
+   "x": "«Chivinlar saqlanib qoladi, import qilingan holatlar kelib turadi, aholi esa immunitetga ega emas»"
+  },
+  {
+   "q": "Qayta tiklanishning oldini olish uchun qanday tizim saqlanadi?",
+   "c": "laboratoriya, entomologik kuzatuv va tezkor javob guruhlari",
+   "w": [
+    "ommaviy dori berish va maktab kimyoterapiyasi",
+    "kasalxonaga yotqizish va xarajatlarni oshirish",
+    "chegara hududlarida aholini ko'chirish",
+    "faqat ichki purkash va to'rlar"
+   ],
+   "x": "«Shu sababli tizim saqlanishi kerak: laboratoriya imkoniyati, shifokor va laborantlarning bezgak bo'yicha bilimi, entomologik kuzatuv, dori vositalari zaxirasi, tezkor javob guruhlari»"
+  },
+  {
+   "q": "Yo'q qilishning asosiy tadbirlari qaysilar?",
+   "c": "kuchli epidemiologik kuzatuv va erta tashxis",
+   "w": [
+    "ommaviy dori berish va kimyoprofilaktika",
+    "aholini ko'chirish va chivinlarni yo'qotish",
+    "iqtisodiy samarani oshirish va xarajatlarni qisqartirish",
+    "sertifikat olish uchun ariza topshirish"
+   ],
+   "x": "«Birinchisi — kuchli epidemiologik kuzatuv: har bir isitmalagan bemor tekshiriladi, barcha holatlar qayd etiladi va tasniflanadi»"
+  },
+  {
+   "q": "Yo'q qilish yo'lidagi to'siq qaysi?",
+   "c": "chivinlarning insektitsidlarga chidamliligi",
+   "w": [
+    "chivinlarning vektor qobiliyatini pasaytirish",
+    "aholining immunitetga ega bo'lishi",
+    "dori vositalari zaxirasining bo'lishi",
+    "tezkor testlarning to'liq aniqlashi"
+   ],
+   "x": "«Chivinlarning insektitsidlarga chidamliligi paydo bo'lishi vektorga qarshi kurashni qiyinlashtiradi»"
+  },
+  {
+   "q": "Uch kunlik bezgak yo'q qilishga nega to'sqinlik qiladi?",
+   "c": "jigardagi uxlab yotuvchi shakllar qaytalanishga olib keladi",
+   "w": [
+    "jigardagi gametotsitlar mahalliy yuqishni to'xtatadi",
+    "qaytalanishlar yangi o'choqlarni yo'qotadi",
+    "mutant parazitlar tashxisni osonlashtiradi",
+    "aholining ko'chib yurishi kuzatuvni kuchaytiradi"
+   ],
+   "x": "«Uch kunlik bezgakda jigardagi uxlab yotuvchi shakllar mahalliy yuqishni to'xtatishga to'sqinlik qiladi, chunki qaytalanishlar yangi manbalarni yaratadi»"
+  },
+  {
+   "q": "Yo'q qilishning iqtisodiy samarasi nimada?",
+   "c": "davolash xarajatlari qisqaradi",
+   "w": [
+    "dastur boshida xarajat talab qilinmaydi",
+    "bolalar maktabga kamroq qatnaydi",
+    "kasalxonaga yotqizish xarajatlari oshadi",
+    "mehnat qobiliyati yo'qotilishi ko'payadi"
+   ],
+   "x": "«Kasallik kamayganda davolash va kasalxonaga yotqizish xarajatlari qisqaradi, mehnat qobiliyati yo'qotilishi kamayadi, bolalar maktabga ko'proq qatnaydi»"
+  }
+ ]
+}

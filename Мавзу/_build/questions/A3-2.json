@@ -1,0 +1,450 @@
+{
+ "052": [
+  {
+   "q": "Zoonoz teri leyshmaniozi yuqish zanjirida qaysi uchta bo'g'in bor?",
+   "c": "Kemiruvchilar, chivinchalar va moyil odamlar",
+   "w": [
+    "Kemiruvchilar, bemorlar va moyil odamlar",
+    "Chivinchalar, bemorlar va ishlov berilgan to'rlar",
+    "Kemiruvchilar, chivinchalar va ishlov berilgan devorlar",
+    "Parazit, rezervuar va insektitsid vositalari"
+   ],
+   "x": "«Zoonoz teri leyshmaniozining oldini olish uchun bir vaqtning o'zida bir necha yo'nalishda ish olib borish kerak, chunki yuqish zanjirida uchta bo'g'in bor: parazitni saqlovchi kemiruvchilar, uni tashuvchi chivinchalar va moyil odamlar»"
+  },
+  {
+   "q": "Suv havzalarini quritish ta'sir qilmaydigan chivinchalar qayerda rivojlanadi?",
+   "c": "Suvda emas, nam organik muhitda",
+   "w": [
+    "Suvda, organik chiqindisiz ochiq muhitda",
+    "Suvda emas, quruq organik chiqindisiz muhitda",
+    "Suv havzalarida, bezgak chivinlari orasida",
+    "Ochiq joyda, kechqurun va tunda"
+   ],
+   "x": "«Chivinchalar suvda emas, nam organik muhitda rivojlangani uchun suv havzalarini quritish ularga ta'sir qilmaydi, bu esa chiqindi va in joylariga e'tibor berish zaruratini ko'rsatadi»"
+  },
+  {
+   "q": "Insektitsid bilan ishlov berish qachon o'tkazilgani yaxshi?",
+   "c": "Mavsum boshida, chivinchalar faollashishidan oldin",
+   "w": [
+    "Mavsum oxirida, chivinchalar faollashgandan keyin",
+    "Kechqurun va tunda, chivinchalar chaqish vaqtida",
+    "Yoz o'rtasida, chivinchalar faol mavsumda",
+    "Eshik va derazalarga to'r o'rnatgandan keyin"
+   ],
+   "x": "«Ishlov berish mavsum boshida, chivinchalar faollashishidan oldin o'tkazilgani yaxshi»"
+  },
+  {
+   "q": "Qaysi holat chivinchalar chaqishi xavfini oshiradi?",
+   "c": "Yerda yoki ochiq joyda uxlash",
+   "w": [
+    "Mayda ko'zli to'rlar ostida uxlash",
+    "Eshik va derazalarga to'r o'rnatish",
+    "Uzun yenglik va shim kiyish",
+    "Qaytaruvchi vositalardan foydalanish"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti odamning yerda yoki ochiq joyda uxlashi xavfni oshirishini qayd etadi»"
+  },
+  {
+   "q": "Zoonoz teri leyshmaniozidan so'ng odatda nima shakllanadi?",
+   "c": "Ancha mustahkam immunitet",
+   "w": [
+    "Ancha zaif immunitet va qaytalanish",
+    "Bitmaydigan yara va chandiq",
+    "Immunitetsiz moyil odamlar guruhi",
+    "Qaytaruvchi vositalarga moslashish"
+   ],
+   "x": "«Zoonoz teri leyshmaniozidan so'ng odatda ancha mustahkam immunitet shakllanadi, shuning uchun kasallik asosan o'choqqa yangi kelganlarda uchraydi»"
+  },
+  {
+   "q": "Isitmasiz, ammo bitmaydigan yara bilan murojaat qilgan odam nima qilinishi kerak?",
+   "c": "Leyshmaniozga tekshirilishi kerak",
+   "w": [
+    "Faqat himoya vositalari bilan ta'minlanishi kerak",
+    "Immunitetsiz deb hisoblanib, ko'chirilishi kerak",
+    "Kemiruvchilarga qarshi ishlov berilishi kerak",
+    "O'choqlardan uzoqroq rejalashtirilishi kerak"
+   ],
+   "x": "«Shuning uchun isitmasiz, ammo bitmaydigan yara bilan murojaat qilgan har bir odam leyshmaniozga tekshirilishi kerak»"
+  },
+  {
+   "q": "Kuzatuv davomida nimalar epidemik faollikni oldindan ko'rsatishi mumkin?",
+   "c": "Kemiruvchilar soni va chivinchalar zichligi o'zgarishi",
+   "w": [
+    "Bemorlar soni va ishlov berilgan uylar ulushi",
+    "Chiqindilar hajmi va devor yoriqlari soni",
+    "Aholini o'qitish va tushuntirish ishlari",
+    "To'rlar tarqatilishi va qaytaruvchi vositalar"
+   ],
+   "x": "«Kemiruvchilar soni va zararlanganligi, chivinchalar zichligi o'zgarishi epidemik faollikni oldindan ko'rsatishi mumkin»"
+  },
+  {
+   "q": "Kuzatuv ma'lumotlari kimlar o'rtasida almashiladi?",
+   "c": "Tibbiy va sanitariya xizmatlari o'rtasida",
+   "w": [
+    "Ishchilar, harbiylar, ovchilar va sayyohlar o'rtasida",
+    "Maktablar va shifokorlar o'rtasida",
+    "Immunitetsiz odamlar va fermer xo'jaliklari o'rtasida",
+    "Dezinfektorlar va chorva binolari o'rtasida"
+   ],
+   "x": "«Ma'lumotlar tibbiy va sanitariya xizmatlari o'rtasida almashiladi»"
+  },
+  {
+   "q": "Zoonoz shaklda davolash sxemasi nimaga qarab tanlanadi?",
+   "c": "Parazit turi va yaraning xususiyatlariga qarab",
+   "w": [
+    "Yaralar soni va bemor yoshiga qarab",
+    "Mavsum va kemiruvchilar sonining o'zgarishiga qarab",
+    "Chivinchalar zichligi va tashuvchi turiga qarab",
+    "Ishlov turi va vositalarning xususiyatlariga qarab"
+   ],
+   "x": "«Davolash sxemasi parazit turi va yaraning xususiyatlariga qarab shifokor tomonidan tanlanadi»"
+  },
+  {
+   "q": "Zoonoz shaklda yarali bemor qanday xavf tug'diradi?",
+   "c": "Chivinchalarni zararlashi mumkin",
+   "w": [
+    "Asosiy manba bo'lib, kemiruvchilarni almashtiradi",
+    "Yangi o'choq hosil qilib, immunitet beradi",
+    "Chorva binolarida kemiruvchilarni ko'paytiradi",
+    "Insektitsid ta'sirini kamaytirib, yoriqlarni ochadi"
+   ],
+   "x": "«Zoonoz shaklda odam asosiy manba emas, lekin yarali bemor chivinchalarni zararlashi va ayniqsa chandiq qoldirishi mumkin»"
+  }
+ ],
+ "053": [
+  {
+   "q": "Qaysi chora chivinchalar ko'payish joylarini kamaytiradi?",
+   "c": "Axlat va organik qoldiqlarni yo'qotish",
+   "w": [
+    "Faol qidiruv, laboratoriya tasdig'i va davolash",
+    "Bemorlarni erta aniqlash va davolash",
+    "Kuzatuv va o'choqlarni aniq xaritalash",
+    "Insektitsid bilan ishlov berilgan to'rlar"
+   ],
+   "x": "«Uy-joy va chorva binolari devorlarini ishlov berish, yoriqlarni mahkamlash, axlat va organik qoldiqlarni yo'qotish chivinchalar ko'payish joylarini kamaytiradi»"
+  },
+  {
+   "q": "Samarali kuzatuv nimaga yordam beradi?",
+   "c": "Epidemiyalarga javob berishga",
+   "w": [
+    "Kimyoviy vositalar xavfini oshirishga",
+    "Aholi punktlari kengayishini tezlashtirishga",
+    "Chivinchalar ko'payish joylarini kengaytirishga",
+    "Kemiruvchilar populyatsiyasini oshirishga"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti samarali kuzatuvni epidemiyalarga tez javob berish uchun muhim deb ataydi»"
+  },
+  {
+   "q": "Bemorlarni erta aniqlash va davolash nimani kamaytiradi va oldini oladi?",
+   "c": "Chivinchalarning zararlanishini va nogironlikni",
+   "w": [
+    "Kemiruvchilar populyatsiyasi va hududlar kengligini",
+    "Kimyoviy vositalar ishlatilishini va kuzatuvni",
+    "Aholi punktlari kengayishini va o'choqlarga yaqinlashishni",
+    "Tashuvchilar tarkibi o'zgarishini va kemiruvchilar sonini"
+   ],
+   "x": "«bemorlarni erta aniqlash va davolash yara orqali chivinchalarning zararlanishini kamaytiradi va nogironlikning oldini oladi»"
+  },
+  {
+   "q": "Kurash samarali bo'lishi uchun o'choqlar bilan nima qilinadi?",
+   "c": "Aniq xaritaga tushiriladi",
+   "w": [
+    "Epidemiologik xizmatga uzatiladi",
+    "Yil bo'yicha solishtiriladi",
+    "Kimyoviy vositalar bilan ishlov beriladi",
+    "Ekologik xavfsiz usullar bilan baholanadi"
+   ],
+   "x": "«Kurash samarali bo'lishi uchun o'choqlar aniq xaritaga tushiriladi: kemiruvchilar koloniyalari, chivinchalar ko'payish joylari, aholi punktlari, oldingi holatlar»"
+  },
+  {
+   "q": "Choralar samarasini baholashda qaysi ko'rsatkich odamlar orasidagi vaziyatni aks ettiradi?",
+   "c": "Odamlar orasida yangi holatlar soni",
+   "w": [
+    "Kemiruvchilar zararlanganlik darajasi va soni",
+    "Chivinchalar zichligi va zararlanganligi",
+    "Ishlov berilgan aholi punktlari ulushi",
+    "Oldingi holatlar joylashgan aholi punktlari"
+   ],
+   "x": "«odamlar orasida yangi holatlar soni, kemiruvchilar zararlanganlik darajasi va soni, chivinchalar zichligi va zararlanganligi, ishlov berilgan aholi punktlari ulushi, aholining himoya vositalaridan foydalanishi»"
+  },
+  {
+   "q": "Yil bo'yicha solishtirilgan ko'rsatkichlarda samarasiz choralar nima qilinadi?",
+   "c": "Qayta ko'rib chiqiladi",
+   "w": [
+    "Aniq xaritaga tushiriladi",
+    "Kuzatuvga qo'shib qo'yiladi",
+    "Aholi punktlariga uzatiladi",
+    "Epidemiologik xizmatga uzatiladi"
+   ],
+   "x": "«Ko'rsatkichlar yil bo'yicha solishtiriladi va samarasiz choralar qayta ko'rib chiqiladi»"
+  },
+  {
+   "q": "Manbalarga qarshi kurashning asosiy qiyinchiligi nimada?",
+   "c": "Kemiruvchilar populyatsiyasi katta va hududlar keng",
+   "w": [
+    "Kemiruvchilar populyatsiyasi aniq va hududlar xaritada",
+    "Tashuvchilar tarkibi doimiy va kimyoviy vositalar xavfsiz",
+    "Aholi punktlari kengaymaydi va kuzatuv aniq",
+    "Bemorlar soni kam va davolash to'liq"
+   ],
+   "x": "«Zoonoz teri leyshmaniozi manbalariga qarshi kurashning asosiy qiyinchiliklari: kemiruvchilar populyatsiyasi katta va hududlar keng, kimyoviy vositalar ekologik xavf tug'dirishi mumkin, aholi punktlari kengayishi o'choqlarga yaqinlashishni oshiradi, tashuvchilar tarkibi o'zgaradi»"
+  },
+  {
+   "q": "Kimyoviy vositalar bilan bog'liq qanday muammo bor?",
+   "c": "Ekologik xavf tug'dirishi mumkin",
+   "w": [
+    "Tashuvchilar tarkibini o'zgartirishi mumkin",
+    "Aholi punktlari kengayishiga olib kelishi mumkin",
+    "Kemiruvchilar sonini oshirishi mumkin",
+    "Bemorlarni erta aniqlashga xalaqit berishi mumkin"
+   ],
+   "x": "«Zoonoz teri leyshmaniozi manbalariga qarshi kurashning asosiy qiyinchiliklari: kemiruvchilar populyatsiyasi katta va hududlar keng, kimyoviy vositalar ekologik xavf tug'dirishi mumkin, aholi punktlari kengayishi o'choqlarga yaqinlashishni oshiradi, tashuvchilar tarkibi o'zgaradi»"
+  },
+  {
+   "q": "Aholi punktlari kengayishi qanday ta'sir qiladi?",
+   "c": "O'choqlarga yaqinlashishni oshiradi",
+   "w": [
+    "Tashuvchilar tarkibini o'zgartiradi",
+    "Kemiruvchilar populyatsiyasini kamaytiradi",
+    "Chivinchalar ko'payish joylarini kamaytiradi",
+    "Odamlar orasida yangi holatlarni kamaytiradi"
+   ],
+   "x": "«Zoonoz teri leyshmaniozi manbalariga qarshi kurashning asosiy qiyinchiliklari: kemiruvchilar populyatsiyasi katta va hududlar keng, kimyoviy vositalar ekologik xavf tug'dirishi mumkin, aholi punktlari kengayishi o'choqlarga yaqinlashishni oshiradi, tashuvchilar tarkibi o'zgaradi»"
+  },
+  {
+   "q": "Istiqbolda qanday usullarni qo'llash muhim?",
+   "c": "Fanga asoslangan, ekologik jihatdan xavfsiz usullarni",
+   "w": [
+    "Kimyoviy vositalarga asoslangan, keng ko'lamli usullarni",
+    "Faqat insektitsid purkashga asoslangan usullarni",
+    "Kemiruvchilar populyatsiyasini kuzatmaydigan usullarni",
+    "Aholi punktlarini kengaytiradigan usullarni"
+   ],
+   "x": "«Istiqbolda kuzatuvni kuchaytirish, o'choqlarni aniq xaritalash va fanga asoslangan, ekologik jihatdan xavfsiz usullarni qo'llash muhim»"
+  }
+ ],
+ "054": [
+  {
+   "q": "Antroponoz teri leyshmaniozida parazit manbai kim?",
+   "c": "Kasal odamning o'zi",
+   "w": [
+    "Kemiruvchilar va yarali bemorlar",
+    "Tashuvchi chivinchalar lichinkalari",
+    "Immuniteti zaif bolalar",
+    "Immunitetsiz odamning o'zi"
+   ],
+   "x": "«Antroponoz teri leyshmaniozida parazit manbai kasal odamning o'zi bo'lgani uchun profilaktikaning mantig'i zoonoz shakldan farq qiladi: kemiruvchilarga qarshi kurash ikkinchi darajali, bemorlarni erta aniqlash va davolash, shuningdek odamlar yashaydigan joylarda chivinchalarga qarshi kurash birinchi o'rinda turadi»"
+  },
+  {
+   "q": "Antroponoz shaklda profilaktikada birinchi o'rinda nima turadi?",
+   "c": "Bemorlarni erta aniqlash va davolash",
+   "w": [
+    "Kemiruvchilarga qarshi kurash",
+    "Zoonoz shakldan farqlovchi sanitariya",
+    "Aholini o'qitish va ma'rifiy ishlar",
+    "Shaxsiy himoya vositalarini tarqatish"
+   ],
+   "x": "«Antroponoz teri leyshmaniozida parazit manbai kasal odamning o'zi bo'lgani uchun profilaktikaning mantig'i zoonoz shakldan farq qiladi: kemiruvchilarga qarshi kurash ikkinchi darajali, bemorlarni erta aniqlash va davolash, shuningdek odamlar yashaydigan joylarda chivinchalarga qarshi kurash birinchi o'rinda turadi»"
+  },
+  {
+   "q": "Faol qidiruvda kimlar ko'rikdan o'tadi?",
+   "c": "Bemor oilasi va yaqin atrofidagi odamlar",
+   "w": [
+    "Shifokorlar va hamshiralar",
+    "Bolalar va immuniteti zaif odamlar",
+    "Davolangan bemorlar",
+    "Uzoq bitmaydigan yarali bemorlar"
+   ],
+   "x": "«Faol qidiruv ham o'tkaziladi: bemor oilasi va yaqin atrofidagi odamlar ko'rikdan o'tadi, chunki antroponoz shakl oila ichida tarqalishi mumkin»"
+  },
+  {
+   "q": "Davolash tugaguncha bemor nima sababdan chivinchalardan himoya qilinadi?",
+   "c": "Yangi chivincha zararlanmasligi kerak",
+   "w": [
+    "Bemor qaytalanishdan himoyalanishi kerak",
+    "Bemor yara bitguncha kuzatilishi kerak",
+    "Parazit turi aniqlanishi kerak",
+    "Kemiruvchilar inlari yo'qotilishi kerak"
+   ],
+   "x": "«Davolash tugaguncha bemor chivinchalardan himoya qilinishi (yarani bog'lash, to'rda uxlash) tavsiya etiladi, shunda yangi chivincha zararlanmaydi»"
+  },
+  {
+   "q": "Shaxsiy himoya choralariga qaysi biri kiradi?",
+   "c": "To'r ostida uxlash va qaytaruvchi vositalar",
+   "w": [
+    "Insektitsid purkash va yoriqlarni ta'mirlash",
+    "Axlat olib tashlash va yoriqlarni ta'mirlash",
+    "Bemorlarni aniqlash va to'liq davolash",
+    "Mahallalarda sanitariya holatini yaxshilash"
+   ],
+   "x": "«Har bir odam chivinchalar chaqishidan o'zini himoya qilishi mumkin: kechqurun va tunda mayda ko'zli to'r ostida uxlash, qaytaruvchi vositalardan foydalanish, yopiq kiyim kiyish, derazalarga to'r o'rnatish»"
+  },
+  {
+   "q": "Atrof-muhitni boshqarish nimalarni o'z ichiga oladi?",
+   "c": "Uy atrofini tozalash, axlat va chiqindilarni olib tashlash",
+   "w": [
+    "Yopiq kiyim kiyish, derazalarga to'r o'rnatish",
+    "Kechqurun va tunda mayda ko'zli to'r ostida uxlash",
+    "Insektitsid purkash va qaytaruvchi vositalardan foydalanish",
+    "Bemorlarni erta aniqlash va to'liq davolash"
+   ],
+   "x": "«Atrof-muhitni boshqarish uy atrofini tozalash, axlat va organik chiqindilarni olib tashlash, devor va zaminlardagi yoriqlarni ta'mirlashni o'z ichiga oladi, chunki chivinchalar lichinkalari nam organik muhitda rivojlanadi»"
+  },
+  {
+   "q": "Qaysi holatlar antroponoz shaklda chivinchalar chaqishi xavfini oshiradi?",
+   "c": "Odam yerda uxlashi, zich joylashgan uy-joy",
+   "w": [
+    "Odam to'r ostida uxlashi, yopiq kiyim kiyishi",
+    "Kechqurun va tunda qaytaruvchi vositalardan foydalanishi",
+    "Derazalarga to'r o'rnatilishi, yoriqlar ta'mirlanishi",
+    "Axlat olib tashlanishi, mahallalar tozalanishi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti odam yerda yoki tashqarida uxlashi, zich joylashgan uy-joy xavfni oshirishini ta'kidlaydi»"
+  },
+  {
+   "q": "Yomon sanitariya sharoitlari chivinchalarga qanday ta'sir qiladi?",
+   "c": "Ko'payishi va dam olishi uchun joy yaratadi",
+   "w": [
+    "Ko'payishi uchun joyni yo'qotadi",
+    "Lichinkalar rivojlanishini kamaytiradi",
+    "Chivinchalar chaqishini kamaytiradi",
+    "Yoriqlarni ta'mirlash zaruratini yo'qotadi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti yomon uy-joy va sanitariya sharoitlari, jumladan chiqindilarni boshqarishning yo'qligi va ochiq oqova suv chivinchalar ko'payishi va dam olishi uchun joy yaratishini, chivinchalar zich joylashgan uy-joyga tortilishini qayd etadi»"
+  },
+  {
+   "q": "Mikroskopiyada ajratib bo'lmaydigan L. major va L. tropica qaysi usul bilan farqlanadi?",
+   "c": "Molekulyar usullar",
+   "w": [
+    "Mikroskopiya usuli",
+    "Faol qidiruv va ko'rik",
+    "Davolashdan keyingi kuzatuv",
+    "Yara holatini baholash"
+   ],
+   "x": "«tropica ni ajratib bo'lmaydi, shu sababli molekulyar usullar kerak bo'ladi»"
+  },
+  {
+   "q": "Davolangan bemor kuzatuvida nimalar baholanadi?",
+   "c": "Yara holati va qaytalanish alomatlari",
+   "w": [
+    "Parazit turi va yaralar xususiyatlari",
+    "Chivinchalar zichligi va yopiq kiyim",
+    "Uy-joy va sanitariya sharoitlari",
+    "Shaxsiy himoya va qaytaruvchi vositalar"
+   ],
+   "x": "«Kuzatuv davomida yara holati baholanadi, qaytalanish alomatlari tekshiriladi»"
+  }
+ ],
+ "055": [
+  {
+   "q": "Leishmaniya qaysi ikki xo'jayinda rivojlanadi?",
+   "c": "Umurtqali hayvon yoki odam va chivincha",
+   "w": [
+    "Phlebotomus va Lutzomyia chivinchalari",
+    "Odam va kemiruvchi hayvon",
+    "Bemor odam va uning makrofaglari",
+    "Chivincha va uning ichagidagi promastigot"
+   ],
+   "x": "«Leishmaniya, ya'ni Leishmania turkumi sodda jonivorlari, ikki xo'jayinda rivojlanadi: umurtqali hayvon yoki odam (o'rtalovchi, ya'ni makrofaglarida parazit ko'payadigan xo'jayin) va chivincha (Phlebotomus yoki Lutzomyia) — tashuvchi va ikkinchi xo'jayin»"
+  },
+  {
+   "q": "Promastigot shakli qayerda uchraydi?",
+   "c": "Chivincha ichagida va sun'iy ozuqa muhitida",
+   "w": [
+    "Odam va hayvon makrofaglari ichida",
+    "Suyak ko'migi va limfa tugunlari ichida",
+    "Teri yarasi va qonida",
+    "Taloq, jigar va limfa tugunlarida"
+   ],
+   "x": "«Promastigot — chivincha ichagida va sun'iy ozuqa muhitida uchraydigan, cho'ziq, oldingi uchida uzun xivchini bo'lgan harakatchan shakl»"
+  },
+  {
+   "q": "Amastigot shakli qanday tavsiflanadi?",
+   "c": "Xivchinsiz, dumaloq yoki oval, kichik shakl",
+   "w": [
+    "Cho'ziq, xivchini uzun, harakatchan shakl",
+    "Cho'ziq, xivchinsiz, harakatchan shakl",
+    "Dumaloq, uzun xivchini bor shakl",
+    "Katta yadroli, xivchinli, cho'ziq shakl"
+   ],
+   "x": "«Amastigot — odam va hayvon makrofaglari ichida yashaydigan, xivchinsiz, dumaloq yoki oval, kichik (taxminan 2–5 mkm) shakl, uning ichida katta yadro va kichik tayoqchasimon kinetoplast ko'rinadi»"
+  },
+  {
+   "q": "Odam tanasida parazit qaysi shaklda bo'ladi?",
+   "c": "Faqat amastigot ko'rinishida",
+   "w": [
+    "Promastigot shaklida, makrofag tashqarisida",
+    "Amastigot va promastigot ko'rinishida",
+    "Infeksion promastigot ko'rinishida",
+    "Faqat promastigot ko'rinishida"
+   ],
+   "x": "«Odam tanasida parazit faqat amastigot ko'rinishida bo'ladi, shu sababli laboratoriya tashxisi amastigotlarni izlashga qaratilgan»"
+  },
+  {
+   "q": "Chivincha ichagida promastigotlar qanday ko'payadi?",
+   "c": "Bo'linish yo'li bilan ko'payadi",
+   "w": [
+    "Fagotsitoz yo'li bilan ko'payadi",
+    "Makrofag ichida bo'linib ko'payadi",
+    "Chivincha chaqishi orqali ko'payadi",
+    "Taloq va jigarda ko'payadi"
+   ],
+   "x": "«Chivincha ichagida promastigotlar bo'linish yo'li bilan ko'payadi»"
+  },
+  {
+   "q": "Infeksion promastigotlar chivinchada qayerda to'planadi?",
+   "c": "Og'iz apparatida",
+   "w": [
+    "Chivincha ichagining oxirgi qismida",
+    "Teri ostida",
+    "Makrofag ichida",
+    "Taloq va limfa tugunlarida"
+   ],
+   "x": "«Infeksion promastigotlar chivincha og'iz apparatida to'planib qoladi»"
+  },
+  {
+   "q": "Infeksion promastigotlar odamga qanday yuboriladi?",
+   "c": "Chivincha chaqqanda teri ostiga yuboradi",
+   "w": [
+    "Makrofaglar yutgach teri ostiga o'tadi",
+    "Kasal odam bilan aloqada o'tadi",
+    "Chivincha ichagidan qonga so'riladi",
+    "Chivincha qon so'rganda makrofagga o'tadi"
+   ],
+   "x": "«Zararlangan chivincha odamni chaqqanda infeksion promastigotlarni teri ostiga yuboradi»"
+  },
+  {
+   "q": "Makrofag promastigotni yutgach (fagotsitoz) nima bo'ladi?",
+   "c": "Makrofag parazitni parchalay olmaydi",
+   "w": [
+    "Makrofag parazitni darhol parchalaydi",
+    "Promastigot makrofag ichida xivchinli bo'lib qoladi",
+    "Makrofag parazitni chaqish joyida yo'qotadi",
+    "Promastigot makrofagdan tashqarida ko'payadi"
+   ],
+   "x": "«Promastigotlarni makrofaglar yutadi (fagotsitoz), lekin ularni parchalay olmaydi»"
+  },
+  {
+   "q": "Visseral shakl davolanmasa, qanday holatda o'limga olib keladi?",
+   "c": "95 foizdan ortiq holatda",
+   "w": [
+    "70 foizdan ortiq holatda",
+    "20 foizdan ortiq holatda",
+    "2 foizdan ortiq holatda",
+    "5 foizdan ortiq holatda"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkilotining ta'rifiga ko'ra, visseral shakl davolanmasa 95 foizdan ortiq holatda o'limga olib keladi, teri shakli esa ochiq tana qismlarida yaralar hosil qiladi»"
+  },
+  {
+   "q": "Sikl chivincha tomonidan qanday boshlanadi?",
+   "c": "Chivincha kasal xo'jayindan amastigotlarni yutadi",
+   "w": [
+    "Chivincha chaqqanda promastigotlarni yangi xo'jayinga yuboradi",
+    "Makrofaglar promastigotlarni yutadi",
+    "Makrofag yoriladi, yangi hujayralar zararlanadi",
+    "Promastigotlar og'iz apparatiga o'tadi"
+   ],
+   "x": "«Qisqa sxema: 1) chivincha kasal xo'jayindan amastigotlarni yutadi; 2) ichakda promastigotlarga aylanadi va ko'payadi; 3) infeksion promastigotlar og'iz apparatiga o'tadi; 4) chivincha chaqqanda ularni yangi xo'jayinga yuboradi; 5) makrofaglar promastigotlarni yutadi; 6) ular amastigotlarga aylanib, hujayra ichida ko'payadi; 7) makrofag yoriladi, yangi hujayralar zararlanadi; 8) yangi chivincha zararlangan makrofaglarni so'radi va sikl takrorlanadi»"
+  }
+ ]
+}

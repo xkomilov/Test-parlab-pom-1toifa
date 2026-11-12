@@ -1,0 +1,349 @@
+{
+ "064": [
+  {
+   "q": "Qaysi dori makrofaglarga yaxshi yetib boradi va qisqa kurs bilan yuqori samara beradi?",
+   "c": "Liposomal amfoterisin B",
+   "w": [
+    "Surma preparatlari",
+    "Miltefozin og'iz orqali",
+    "Paromomitsin mushak ichiga",
+    "Antiretrovirus davo"
+   ],
+   "x": "«Liposomal amfoterisin B ko'pincha eng samarali va nisbatan xavfsiz hisoblanadi: u makrofaglarga yaxshi yetib boradi va qisqa kurs bilan yuqori samara beradi»"
+  },
+  {
+   "q": "Liposomal amfoterisin B qanday yo'l bilan yuboriladi?",
+   "c": "Tomir ichiga",
+   "w": [
+    "Mushak ichiga",
+    "Og'iz orqali",
+    "Tomir yoki mushak ichiga",
+    "Qon quyish orqali"
+   ],
+   "x": "«Liposomal preparatlar maxsus tayyorlanadi, tomir ichiga sekin yuboriladi va yuborish vaqtida bemor kuzatiladi»"
+  },
+  {
+   "q": "Liposomal amfoterisin B ning asosiy kamchiligi nimada?",
+   "c": "Narxining qimmatligi",
+   "w": [
+    "Homiladorlikda mumkin emas",
+    "Parazit chidamliligining rivojlanishi",
+    "Yurak va jigarga yon ta'siri",
+    "Uzoq muddat davomida yuborilishi"
+   ],
+   "x": "«Qimmatligi uning kamchiligi, lekin Jahon sog'liqni saqlash tashkiloti bilan kelishilgan narx tizimi va dori xayriya dasturi orqali dorilarga kirish yaxshilangani aytiladi»"
+  },
+  {
+   "q": "Surma preparatlarining qanday muammolari bor?",
+   "c": "Yon ta'sirlar, parazit chidamliligi",
+   "w": [
+    "Qisqa kurs, yuqori samara",
+    "Og'iz orqali qabul qilish",
+    "Homiladorlikda mumkin emas",
+    "Kombinatsiyada ishlatilishi"
+   ],
+   "x": "«Surma preparatlari tomir yoki mushak ichiga uzoq muddat yuboriladi, yon ta'sirlari (yurak, jigar, oshqozon osti bezi, buyrak) mumkin, ba'zi mintaqalarda parazit chidamliligi rivojlangan»"
+  },
+  {
+   "q": "Miltefozin haqida qaysi ma'lumot to'g'ri?",
+   "c": "Og'iz orqali qabul qilinadi, homiladorlikda mumkin emas",
+   "w": [
+    "Tomir ichiga yuboriladi, homiladorlikda mumkin emas",
+    "Og'iz orqali qabul qilinadi, homiladorlikda tavsiya etiladi",
+    "Mushak ichiga yuboriladi, homilaga zarar yo'q",
+    "Og'iz orqali qabul qilinadi, kombinatsiyada ishlatiladi"
+   ],
+   "x": "«Miltefozin og'iz orqali qabul qilinadi, lekin homiladorlikda mumkin emas (homilaga zarar)»"
+  },
+  {
+   "q": "Paromomitsin qanday yuboriladi va qanday ishlatiladi?",
+   "c": "Mushak ichiga, boshqa dori bilan kombinatsiyada",
+   "w": [
+    "Qisqa kurs, yuqori samara, tomir ichiga",
+    "Og'iz orqali, homiladorlikda mumkin emas",
+    "Tomir yoki mushak ichiga, uzoq muddat",
+    "Tomir ichiga sekin, bemor kuzatuvida"
+   ],
+   "x": "«Paromomitsin mushak ichiga yuboriladi va ko'pincha boshqa dori bilan kombinatsiyada ishlatiladi»"
+  },
+  {
+   "q": "Dori tanlovi qaysi omillarga bog'liq?",
+   "c": "Mintaqa va parazit turi, bemorning yoshi",
+   "w": [
+    "Bemorning vazni va narx tizimi",
+    "Dori narxi va xayriya dasturi",
+    "Isitma yo'qolishi va vazn ortishi",
+    "Stasionar va qon tahlili"
+   ],
+   "x": "«Davolash tanlovi quyidagilarga bog'liq: mintaqa va parazit turi, bemorning yoshi, homiladorlik, OIV holati, jigar va buyrak faoliyati»"
+  },
+  {
+   "q": "OIV bilan birga kechganda antiretrovirus davo nimaga yordam beradi?",
+   "c": "Qaytalanishni kechiktiradi, yashash davomiyligini oshiradi",
+   "w": [
+    "Parazitni tanadan to'liq chiqarib yuboradi",
+    "Narx tizimini yaxshilaydi va dorilarni kamaytiradi",
+    "Ikkilamchi profilaktikani bekor qiladi",
+    "Yon ta'sirlarni kamaytirib, kuzatuvni to'xtatadi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti OIV bilan yashovchi leyshmaniya bilan zararlanganlarda kasallikning to'liq rivojlanish, qaytalanish va o'lim xavfi yuqori ekanini, antiretrovirus davo kasallik rivojlanishini kamaytirishi, qaytalanishni kechiktirishi va yashash davomiyligini oshirishini, 2022-yilda Sharqiy Afrika va Janubi-Sharqiy Osiyo uchun OIV va visseral leyshmaniozning koinfeksiyasi davolash bo'yicha yangi tavsiyalar chop etganini ta'kidlaydi»"
+  },
+  {
+   "q": "Yordamchi davolashga qaysi choralar kiradi?",
+   "c": "Kamqonlikni to'g'rilash, oqsilga boy ovqatlanish",
+   "w": [
+    "Surma preparatlari, mushak ichiga yuborish",
+    "Miltefozin, og'iz orqali qabul qilish",
+    "Narx tizimi, dori xayriya dasturi",
+    "Antiretrovirus davo, uzoq kuzatuv"
+   ],
+   "x": "«Dorilarni qo'llash bilan bir qatorda yordamchi davolash ham muhim: kamqonlikni to'g'rilash (temir, kerak bo'lsa qon quyish), oqsil va vitaminlarga boy ovqatlanish, ikkilamchi infeksiyalarni davolash, suv-elektrolit muvozanatini saqlash»"
+  },
+  {
+   "q": "Davolash samarasi klinik jihatdan qanday baholanadi?",
+   "c": "Isitma yo'qolishi, vazn ortishi, taloq kichrayishi",
+   "w": [
+    "Isitma ortishi, vazn yo'qolishi, taloq kattalashishi",
+    "Isitma yo'qolishi, vazn kamayishi, jigar kattalashishi",
+    "Qon tahlili tiklanishi, isitma ortishi",
+    "Taloq kichrayishi, vazn yo'qolishi"
+   ],
+   "x": "«Davolash samarasi klinik ko'rsatkichlar (isitma yo'qolishi, vazn ortishi, taloq va jigar kichrayishi) va laboratoriya ko'rsatkichlari (qon tahlilining tiklanishi) bilan baholanadi»"
+  },
+  {
+   "q": "Nima sababdan visseral leyshmaniozni davolash stasionarda o'tkaziladi?",
+   "c": "Preparatlar zaharli ta'sir ko'rsatishi mumkin",
+   "w": [
+    "Preparatlar og'iz orqali qabul qilinadi",
+    "Preparatlar tomir ichiga yuboriladi",
+    "Bemor holati yengil bo'ladi",
+    "Kasallik ko'p uchraydi"
+   ],
+   "x": "«Visseral leyshmaniozni davolash odatda yuqumli kasalliklar stasionarida yoki ixtisoslashtirilgan bo'limda o'tkaziladi, chunki preparatlar zaharli ta'sir ko'rsatishi mumkin, bemor holati og'ir bo'lishi mumkin»"
+  }
+ ],
+ "065": [
+  {
+   "q": "Tasdiqlangan visseral leyshmanioz o'chog'i qayerda tadqiq qilingan?",
+   "c": "Namangan viloyatining Pop tumani",
+   "w": [
+    "Surxondaryo viloyatining Pop tumani",
+    "Farg'ona vodiysining Surxondaryo tumani",
+    "Namangan viloyatining Farg'ona tumani",
+    "Farg'ona viloyatining Pop tumani"
+   ],
+   "x": "«Tasdiqlangan: Namangan viloyatining Pop tumani (Farg'ona vodiysi) visseral leyshmanioz o'chog'i sifatida tadqiq qilingan»"
+  },
+  {
+   "q": "Surxondaryo viloyati haqida nima aytish mumkin?",
+   "c": "Ehtimoliy tashuvchisi mavjud",
+   "w": [
+    "Tasdiqlangan o'choq sifatida tadqiq qilingan",
+    "Endemik ro'yxatga kiritilgan",
+    "Rezervuar hayvonlar aniqlangan",
+    "Kasallik holatlari haqida ma'lumot yuboriladi"
+   ],
+   "x": "«Ehtimoliy: Surxondaryo viloyatida visseral leyshmaniozning ehtimoliy tashuvchisi mavjud»"
+  },
+  {
+   "q": "Endemik o'choq shakllanishiga nima yordam beradi?",
+   "c": "Chivinchalar turlari va rezervuar hayvonlar",
+   "w": [
+    "Kuchli kuzatuv tizimi va xaritalar",
+    "Yangi holatlar va ro'yxat",
+    "Ilmiy tadqiqotlar va ma'lumotlar bazasi",
+    "Tuman xizmatlari va yuqori idora"
+   ],
+   "x": "«Visseral leyshmaniozning endemik o'chog'i shakllanishiga quyidagilar yordam beradi: tashuvchi chivinchalar turlari mavjudligi (Phlebotomus turlari), rezervuar hayvonlar (itlar, tulkilar, shakallar) yoki antroponoz zanjir, aholining oziqlanish holati, uy-joy sharoiti, iqlim»"
+  },
+  {
+   "q": "Qaysi omillar visseral leyshmanioz xavf omillari hisoblanadi?",
+   "c": "Kambag'allik, yomon uy-joy va sanitariya",
+   "w": [
+    "Kuchli kuzatuv, yaxshi uy-joy va sanitariya",
+    "Yuqori idora, ma'lumotlar bazasi va xarita",
+    "Entomologik kuzatuv, tuman xizmatlari va hisobot",
+    "Ilmiy tadqiqotlar, shifokorlar va aholi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti kambag'allik, yomon uy-joy va sanitariya, to'yib ovqatlanmaslik, aholining ko'chib yurishi, atrof-muhit va iqlim o'zgarishlarini xavf omillari deb ko'rsatadi»"
+  },
+  {
+   "q": "Rasmiy endemik ro'yxat haqiqiy tarqalishni nima sababdan kam ko'rsatishi mumkin?",
+   "c": "Shifokorlar uni o'ylamaydi, tashxis kech qo'yiladi",
+   "w": [
+    "Shifokorlar uni o'ylaydi, tashxis erta qo'yiladi",
+    "Hisobotlar ko'p, tashxis xato qo'yilmaydi",
+    "Bemorlar boshqa hududlardan ko'chib yurmaydi",
+    "Kasallik ko'p uchraydi, kuzatuv kuchli"
+   ],
+   "x": "«Kam uchraydigan kasallikni baholashda muammo: shifokorlar uni o'ylamaydi, tashxis kech yoki xato qo'yiladi, bemorlar boshqa kasallik sifatida hisobga olinadi»"
+  },
+  {
+   "q": "Yangi holatlar paydo bo'lsa, hudud nima bo'ladi?",
+   "c": "Ro'yxatga qo'shiladi",
+   "w": [
+    "Toifasi o'zgaradi",
+    "Xavfli deb baholanadi",
+    "Yuqori idoraga yuboriladi",
+    "Xaritada o'zgarmaydi"
+   ],
+   "x": "«Endemik hududlar ro'yxati o'zgarmas emas: yangi holatlar paydo bo'lsa, hudud ro'yxatga qo'shiladi; uzoq vaqt holat bo'lmasa va kuzatuv tizimi kuchli bo'lsa, toifasi o'zgaradi»"
+  },
+  {
+   "q": "Xaritalar doimiy yangilanishi uchun holatlar haqida kim ma'lumot yuboradi?",
+   "c": "Tuman sanitariya-epidemiologiya xizmatlari",
+   "w": [
+    "Viloyat ilmiy tadqiqotlari",
+    "Shifokorlar va aholi",
+    "Entomologik kuzatuvlar va yuqori idora",
+    "Aholi va ilmiy tadqiqotlar"
+   ],
+   "x": "«Xaritalar doimiy yangilanib turishi uchun tuman sanitariya-epidemiologiya xizmatlari holatlar haqida ma'lumotni muntazam yuqori idoraga yuboradi»"
+  },
+  {
+   "q": "Endemik bo'lmagan hududda xavf qachon bo'lishi mumkin?",
+   "c": "Chivinchalar va rezervuar hayvonlar mavjud",
+   "w": [
+    "Kasallik bor, kuzatuv tizimi kuchli bo'lsa",
+    "Aholi ko'chib yurmaydi va iqlim o'zgarmaydi",
+    "Itlar orasida zararlanish yo'q, chivinchalar mavjud emas",
+    "Rezervuar hayvonlar mavjud emas"
+   ],
+   "x": "«Endemik bo'lmagan hududlarda ham xavf bo'lishi mumkin: chivinchalar va rezervuar hayvonlar mavjud, ammo kasallik hali qayd etilmagan»"
+  },
+  {
+   "q": "Xavf darajasi nimalarga qarab belgilanadi?",
+   "c": "Chivinchalar zichligi, itlar zararlanishi, aholi harakati",
+   "w": [
+    "Shifokorlar soni, tashxis usuli, davolash natijasi",
+    "Tuman xizmatlari, yuqori idora, hisobot muddati",
+    "Iqlim, kambag'allik, ilmiy tadqiqotlar soni",
+    "Ma'lumotlar bazasi, xarita, toifa"
+   ],
+   "x": "«Xavf darajasi chivinchalar zichligi, itlar orasida zararlanish, aholi harakati va uy-joy sharoitlariga qarab belgilanadi»"
+  },
+  {
+   "q": "Uzoq davom etuvchi isitma, ozish yoki qorin kattalashganda nima qilish lozim?",
+   "c": "Hududdan qat'i nazar, shifokorga murojaat qilish",
+   "w": [
+    "Endemik hududda yashamagan bo'lsa, kutish",
+    "Faqat yuqori idoraga hisobot yuborish",
+    "Ilmiy tadqiqotlarni kuzatib borish",
+    "Ma'lumotlar bazasini yangilash"
+   ],
+   "x": "«Uzoq davom etuvchi isitma, ozish yoki qorinning kattalashishi kuzatilsa, endemik hududda yashagan-yashamaganidan qat'i nazar, shifokorga murojaat qilish lozim»"
+  }
+ ],
+ "066": [
+  {
+   "q": "Yopishqoq tuzoq qanday prinsipga asoslanadi?",
+   "c": "Hasharotlar yopishqoq sirtga tegib, yopishib qoladi",
+   "w": [
+    "Hasharotlar yorug'likka jalb qilinib, yopishib qoladi",
+    "Hasharotlar qo'lda tutilib, spirtda saqlanadi",
+    "Hasharotlar elektr orqali jalb qilinadi",
+    "Hasharotlar aholi bilan kelishilib yig'iladi"
+   ],
+   "x": "«Yopishqoq tuzoq oddiy prinsipga asoslanadi: parazit tashuvchi hasharotlar kemiruvchi inlari, devor yoriqlari, hayvon g'orlari va shunga o'xshash joylarga kirib-chiqadi yoki dam oladi; ular yopishqoq qatlam bilan qoplangan sirtga tegib, yopishib qoladi»"
+  },
+  {
+   "q": "Yopishqoq tuzoq usuli qanday usul hisoblanadi?",
+   "c": "Passiv, hasharotni jalb qilmaydi",
+   "w": [
+    "Faol, hasharotni jalb qiladi",
+    "Elektr talab qiladi, hasharotni jalb qiladi",
+    "Qo'lda tutishga asoslanadi",
+    "Yorug'lik tuzoqlari bilan qo'llanadi"
+   ],
+   "x": "«Bu usul passiv, ya'ni hasharotni jalb qilmaydi, balki uning odatiy yo'liga qo'yiladi»"
+  },
+  {
+   "q": "Tuzoqdagi yopishqoq modda sifatida odatda nima ishlatiladi?",
+   "c": "Kastor moyi",
+   "w": [
+    "Spirt eritmasi",
+    "Sovun eritmasi",
+    "Maxsus eritma",
+    "Toza yopiq quti"
+   ],
+   "x": "«Yopishqoq varaq tayyorlash uchun quyidagilar kerak: bir xil o'lchamli oq yoki och rangli qog'oz varaqlar (masalan, 20×20 yoki 20×30 sm), yopishqoq modda (odatda kastor moyi yoki boshqa yopishqoq moy), cho'tka yoki shpatel, bir marta ishlatiladigan qo'lqoplar, belgilash uchun qalam, varaqlarni mahkamlash uchun mix yoki skotch, qog'oz varaqlarni olib kelish uchun toza yopiq quti yoki plyonka, kuzatuv jurnali»"
+  },
+  {
+   "q": "Yopishqoq moy qatlami qanday bo'lishi kerak?",
+   "c": "Yupqa va bir tekis, juda qalin emas",
+   "w": [
+    "Qalin va notekis, juda yupqa emas",
+    "Juda yupqa, hasharotni ushlab turmaydi",
+    "Qalin va bir tekis, changli",
+    "Juda qalin, ko'p changlangan"
+   ],
+   "x": "«Varaqning bir tomoniga cho'tka yordamida yopishqoq moy yupqa va bir tekis surtiladi; moy qatlami juda qalin bo'lmasligi kerak, aks holda ko'p changlanadi va hasharotlar ko'rinmaydi, juda yupqa bo'lsa, hasharotni ushlab turmaydi»"
+  },
+  {
+   "q": "Tuzoqlar qachon qo'yiladi va qachon yig'iladi?",
+   "c": "Kechqurun qo'yiladi, ertalab yig'iladi",
+   "w": [
+    "Ertalab qo'yiladi, kechqurun yig'iladi",
+    "Kechqurun qo'yiladi, kechqurun yig'iladi",
+    "Ertalab qo'yiladi, tunda yig'iladi",
+    "Tunda qo'yiladi, ertalab yo'q qilinadi"
+   ],
+   "x": "«Tuzoqlar kechqurun qo'yiladi va ertalab yig'iladi, chunki chivinchalar tunda faol»"
+  },
+  {
+   "q": "Tuzoqlar nima sababdan kechqurun qo'yiladi?",
+   "c": "Chivinchalar tunda faol",
+   "w": [
+    "Chivinchalar ertalab faol",
+    "Chivinchalar changdan himoyalangan",
+    "Chivinchalar kemiruvchi inlariga kirmaydi",
+    "Chivinchalar shamolda faol"
+   ],
+   "x": "«Tuzoqlar kechqurun qo'yiladi va ertalab yig'iladi, chunki chivinchalar tunda faol»"
+  },
+  {
+   "q": "Tuzoqlar qayerga qo'yiladi?",
+   "c": "Kemiruvchi in teshigi oldiga, devor yoriqlariga",
+   "w": [
+    "Aholi bilan kelishmagan uy-joylar ichiga",
+    "Yorug'lik tuzoqlari va qo'lda tutish joyiga",
+    "Laboratoriya ichiga, mikroskop yoniga",
+    "Qog'oz varaqlar saqlanadigan toza yopiq qutiga"
+   ],
+   "x": "«Tuzoqlar chivinchalar eng ko'p bo'ladigan joylarga qo'yiladi: kemiruvchi in teshigi oldiga, devor yoriqlari va tosh orasiga, chorva binolari va uy-joylar ichiga, xaroba va uzoq vaqt foydalanilmagan inshootlar yaqiniga»"
+  },
+  {
+   "q": "Zichlik ko'rsatkichi sifatida nima hisoblanadi?",
+   "c": "Bir kechaga to'g'ri keladigan chivinchalar soni",
+   "w": [
+    "Jami tutilgan chivinchalar soni",
+    "Bitta tuzoqning o'lchami va qatlami",
+    "Tuzoqlar soni va kechalar soni ko'paytmasi",
+    "Bir tuzoqdagi hasharotlar turlari soni"
+   ],
+   "x": "«Zichlik ko'rsatkichi sifatida bitta tuzoqdagi bir kechaga to'g'ri keladigan chivinchalar soni hisoblanadi: jami tutilgan chivinchalar ÷ (tuzoqlar soni × kechalar soni)»"
+  },
+  {
+   "q": "Yopishqoq tuzoqning kamchiligi qaysi?",
+   "c": "Passiv, hasharotlar o'zi duch kelsagina tutiladi",
+   "w": [
+    "Arzon, sodda, elektr talab qilmaydi",
+    "Ko'p joyda bir vaqtda qo'llash mumkin",
+    "Turlar tarkibini aniqlashga yaroqli",
+    "Yorug'lik tuzoqlari bilan birga qo'llanadi"
+   ],
+   "x": "«Kamchiliklari: faqat passiv, ya'ni hasharotlar o'zi duch kelsagina tutiladi; yog'ingarchilik, changlanish va shamol sifatini pasaytiradi; chivinchalarni yopishqoq moydan ajratib olish va ularni aniqlashga mehnat talab qiladi; tutilgan hasharotlar shikastlanishi mumkin»"
+  },
+  {
+   "q": "Moy teriga tushsa, nima qilinadi?",
+   "c": "Sovun bilan yuviladi",
+   "w": [
+    "Spirt bilan saqlanadi",
+    "Plyonka bilan yopiladi",
+    "Skotch bilan mahkamlanadi",
+    "Jurnalga yoziladi"
+   ],
+   "x": "«Tuzoqlar bilan ishlaganda qo'lqop kiyiladi, moy teriga tushsa sovun bilan yuviladi»"
+  }
+ ]
+}

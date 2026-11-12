@@ -1,0 +1,338 @@
+{
+ "019": [
+  {
+   "q": "Jigarda uyqusiz shakllar nima deb ataladi?",
+   "c": "gipnozoit shakllari",
+   "w": [
+    "sporozoit shakllari",
+    "merozoit shakllari",
+    "eritrositar shakllar",
+    "relaps shakllari"
+   ],
+   "x": "«Ana shu shakllar uyqusiz, ya'ni gipnozoitlar deb ataladi»"
+  },
+  {
+   "q": "Jigarda uyqusiz shakllar bezgakning qaysi turlarida bo'ladi?",
+   "c": "uch kunlik va ovale-bezgakda",
+   "w": [
+    "tropik va to'rt kunlik bezgakda",
+    "uch kunlik va tropik bezgakda",
+    "to'rt kunlik va ovale-bezgakda",
+    "tropik bezgak va ovale-bezgakda"
+   ],
+   "x": "«Jigarda uyqusiz shakllar — gipnozoitlar — uch kunlik (P. vivax) va ovale-bezgak (P. ovale) uchun xos»"
+  },
+  {
+   "q": "Jigarda kechadigan bosqich qanday ataladi?",
+   "c": "eritrositdan oldingi bosqich",
+   "w": [
+    "eritrositar bosqich",
+    "jigardan keyingi bosqich",
+    "qaytalanish bosqichi",
+    "uyqusiz bosqich"
+   ],
+   "x": "«Bu eritrositdan oldingi (jigar) bosqich deb ataladi»"
+  },
+  {
+   "q": "Gipnozoitlar faollashganda nimaga sabab bo'ladi?",
+   "c": "uzoq muddatli qaytalanishlarga",
+   "w": [
+    "qon bosqichining butunlay yo'qolishiga",
+    "qon surtmasida parazit ko'rinmasligiga",
+    "jigar bosqichining yo'qolishiga",
+    "sporozoitlarning jigarga kirishiga"
+   ],
+   "x": "«Ular uzoq muddatli qaytalanishlarga sabab bo'ladi, laboratoriyada aniqlanmaydi va primakvin bilan davolanadi»"
+  },
+  {
+   "q": "Gipnozoitlar qon surtmasida nima uchun ko'rinmaydi?",
+   "c": "jigar hujayralarida joylashgan va juda kam",
+   "w": [
+    "eritrositlar ichida joylashgan va juda ko'p",
+    "qonda yillab saqlanadi va juda kam",
+    "faqat eritrositar bosqichda joylashgan",
+    "sporozoitlar qonga chiqqan va juda kam"
+   ],
+   "x": "«Ular jigar hujayralarida joylashgani va juda kam bo'lgani uchun qon surtmasida ko'rinmaydi, qon testlari esa faqat eritrositar bosqichni aniqlaydi»"
+  },
+  {
+   "q": "Manfiy qon surtmasi nimani anglatadi?",
+   "c": "gipnozoitlar yo'qligini isbotlamaydi",
+   "w": [
+    "qaytalanish xavfi yo'qligini isbotlaydi",
+    "jigar bosqichi tugaganini isbotlaydi",
+    "primakvin kerak emasligini isbotlaydi",
+    "sporozoitlar yo'qligini isbotlaydi"
+   ],
+   "x": "«Bu holat laboratoriya natijasi va klinik qaror o'rtasidagi muhim farqni ko'rsatadi: manfiy qon surtmasi gipnozoitlar yo'qligini isbotlamaydi»"
+  },
+  {
+   "q": "Tropik va to'rt kunlik bezgakda primakvin qo'shish nega tavsiya etilmaydi?",
+   "c": "ularda gipnozoit shakllari odatda aniqlanmaydi",
+   "w": [
+    "ularda jigar bosqichi bir necha oy davom etadi",
+    "ularda qaytalanish dori qarshiligi bilan bog'liq",
+    "ularda sporozoitlar jigarga kirmaydi",
+    "ularda qon testlari faqat jigar bosqichini aniqlaydi"
+   ],
+   "x": "«Tropik bezgak (P. falciparum) va to'rt kunlik bezgak (P. malariae) uchun bunday tavsiya berilmaydi, chunki ularda gipnozoit shakllari odatda aniqlanmaydi»"
+  },
+  {
+   "q": "Uzoq muddatli qaytalanish nima bilan bog'liq?",
+   "c": "gipnozoitlarning qayta faollashishi",
+   "w": [
+    "davolashning samarasizligi yoki parazit dori qarshiligi",
+    "qondagi parazitlar to'liq yo'qotilmasligi",
+    "sporozoitlarning jigarga kirishi",
+    "manfiy qon surtmasi natijasi"
+   ],
+   "x": "«Ikkinchisi — uzoq muddatli qaytalanish, ya'ni gipnozoitlar faollashishi tufayli oylar o'tgach paydo bo'ladigan xuruj»"
+  },
+  {
+   "q": "Yaqin qaytalanish qanday ta'riflanadi?",
+   "c": "bir necha hafta ichida kasallik yana boshlanishi",
+   "w": [
+    "oylar o'tgach gipnozoitlar tufayli xuruj paydo bo'lishi",
+    "yillar davomida jigarda faolsiz qolishi",
+    "eritrositdan oldingi bosqichda ko'payish",
+    "primakvin ta'sirida kasallik yo'qolishi"
+   ],
+   "x": "«Birinchisi — yaqin (qisqa muddatli) qaytalanish, ya'ni qondagi parazitlar to'liq yo'qotilmaganda bir necha hafta ichida kasallik yana boshlanishi; bu davolashning samarasizligi yoki parazit dori qarshiligi bilan bog'liq bo'lishi mumkin»"
+  },
+  {
+   "q": "Dispanser kuzatuvida bemor nima qilishi kerak?",
+   "c": "isitma paydo bo'lganda darhol murojaat qilish",
+   "w": [
+    "davolangandan keyin kuzatuvsiz qolish",
+    "manfiy surtmadan keyin kuzatuvni to'xtatish",
+    "faqat tropik bezgakda kuzatuv olib borish",
+    "gipnozoitlarni qon surtmasida kuzatish"
+   ],
+   "x": "«Kuzatuv davomida bemor isitma paydo bo'lganda darhol murojaat qilishi, shifokor esa shubhali holatda qon surtmasini tekshirishi kerak»"
+  }
+ ],
+ "020": [
+  {
+   "q": "Og'ir asoratlarni qaysi shakl keltirib chiqaradi?",
+   "c": "tropik bezgak",
+   "w": [
+    "uch kunlik bezgak",
+    "to'rt kunlik bezgak",
+    "yengil bezgak",
+    "boshqa turlar bezgagi"
+   ],
+   "x": "«Og'ir asoratlar asosan Plasmodium falciparum qo'zg'atadigan tropik bezgak bilan bog'liq»"
+  },
+  {
+   "q": "P. falciparum parazitemiyasi nega juda yuqori bo'lishi mumkin?",
+   "c": "har yoshdagi eritrotsitni zararlay oladi",
+   "w": [
+    "asosan yosh eritrotsitlarni tanlaydi",
+    "asosan keksa eritrotsitlarni tanlaydi",
+    "kichik qon tomirlariga yopishmaydi",
+    "sekin rivojlanadi va a'zolarni zararlamaydi"
+   ],
+   "x": "«Birinchidan, P. falciparum har yoshdagi eritrotsitni zararlay oladi, shuning uchun parazitemiya juda yuqori bo'lishi mumkin, boshqa turlar esa asosan yosh yoki keksa eritrotsitlarni tanlaydi»"
+  },
+  {
+   "q": "Zararlangan eritrotsitlar kichik qon tomirlariga yopishsa nima bo'ladi?",
+   "c": "a'zolarda qon aylanishi buziladi",
+   "w": [
+    "a'zolarda qon aylanishi kuchayadi",
+    "parazitemiya darajasi pasayadi",
+    "eritrotsitlar yangidan hosil bo'ladi",
+    "siydik ajralishi ko'payadi"
+   ],
+   "x": "«Ikkinchidan, zararlangan eritrotsitlar kichik qon tomirlari devoriga yopishadi va a'zolarda qon aylanishini buzadi»"
+  },
+  {
+   "q": "Bosh miya bezgagining sababi nima?",
+   "c": "miya kapillyarlarida eritrotsitlar to'planishi",
+   "w": [
+    "buyrak qon aylanishining buzilishi holati",
+    "o'pka shishi va metabolik atsidoz holati",
+    "qon ivish tizimining buzilishi holati",
+    "gemoglobinning siydikka o'tishi holati"
+   ],
+   "x": "«Unda zararlangan eritrotsitlar miya kapillyarlarida to'planib, qon oqimini buzadi, natijada hushning buzilishi, tutqanoq va koma rivojlanadi»"
+  },
+  {
+   "q": "Tropik bezgakning eng xavfli asorati qaysi?",
+   "c": "bosh miya (serebral) bezgagi",
+   "w": [
+    "og'ir kamqonlik holati",
+    "buyrak va jigar yetishmovchiligi",
+    "nafas yetishmovchiligi va atsidoz",
+    "gipoglikemiya va qon ketishlar"
+   ],
+   "x": "«Eng xavfli asorat — bosh miya (serebral) bezgagi»"
+  },
+  {
+   "q": "Og'ir kamqonlik qanday namoyon bo'ladi?",
+   "c": "rangpar teri, nafas qisilishi va yurak urishi tezlashuvi",
+   "w": [
+    "to'q siydik, sariqlik va siydik ajralishi kamayishi",
+    "hush buzilishi, tutqanoq va koma holati",
+    "taloq kattalashishi va uning yorilishi holati",
+    "g'ayritabiiy qon ketish va ivish buzilishi"
+   ],
+   "x": "«Og'ir kamqonlik rangpar teri, yurak urishining tezlashuvi, nafas qisilishi va bolalarda holsizlik bilan namoyon bo'ladi»"
+  },
+  {
+   "q": "Gipoglikemiya nima?",
+   "c": "qon shakar miqdorining pasayishi",
+   "w": [
+    "qon ivish tizimining buzilishi",
+    "qonda gemoglobin miqdorining pasayishi",
+    "kreatinin va bilirubin pasayishi",
+    "trombotsitlar soni pasayishi"
+   ],
+   "x": "«Qon shakar miqdorining pasayishi, ya'ni gipoglikemiya, ham xavfli asorat bo'lib, bolalarda va homilador ayollarda tez-tez uchraydi»"
+  },
+  {
+   "q": "Gipoglikemiya qaysi guruhlarda tez-tez uchraydi?",
+   "c": "bolalarda va homilador ayollarda",
+   "w": [
+    "keksa yoshdagi bemorlarda va sayohatchilarda",
+    "faqat besh yoshdan katta bolalarda",
+    "endemik hududdan chiqqan sayohatchilarda",
+    "taloq jarohatlangan bemorlarda"
+   ],
+   "x": "«Qon shakar miqdorining pasayishi, ya'ni gipoglikemiya, ham xavfli asorat bo'lib, bolalarda va homilador ayollarda tez-tez uchraydi»"
+  },
+  {
+   "q": "Og'ir tropik bezgakda qonda qaysi ko'rsatkichlar ko'tariladi?",
+   "c": "kreatinin va bilirubin ko'tariladi",
+   "w": [
+    "gemoglobin va trombotsitlar ko'tariladi",
+    "eritrotsitlar va qand miqdori ko'tariladi",
+    "leykotsitlar va gemoglobin ko'tariladi",
+    "qon ivishi va eritrotsitlar ko'tariladi"
+   ],
+   "x": "«Qon surtmasida parazitemiya yuqori bo'ladi, gemoglobin va eritrotsitlar kamayadi, trombotsitlar soni pasayadi, qonda kreatinin va bilirubin ko'tariladi, qand miqdori pasayishi mumkin»"
+  },
+  {
+   "q": "Og'ir asoratlarning oldini olish uchun nima zarur?",
+   "c": "erta tashxis va to'g'ri davolash",
+   "w": [
+    "bolalarni kuzatish va himoya qilish",
+    "taloq jarohatlanishini davolash va kuzatish",
+    "diyaliz va intensiv terapiya o'tkazish",
+    "homilador ayollarni birinchi navbatda himoya qilish"
+   ],
+   "x": "«Og'ir asoratlarning oldini olish — erta tashxis va to'g'ri davolash»"
+  }
+ ],
+ "021": [
+  {
+   "q": "Bezgakning yuqish zanjiri qaysi bo'g'inlardan iborat?",
+   "c": "manba, yuqish yo'li va moyil odam",
+   "w": [
+    "manba, qaytalanish va moyil odam",
+    "chivin, kimyoprofilaktika va emlash",
+    "bemor, ommaviy dori va tashxis",
+    "tashxis, davolash va kuzatuv"
+   ],
+   "x": "«Bezgakning yuqish zanjiri uch bo'g'indan iborat: manba (kasal odam), yuqish yo'li (Anopheles chivini) va moyil odam»"
+  },
+  {
+   "q": "Manbani yo'qotish uchun nima qilinadi?",
+   "c": "bemorlar erta aniqlanib, to'liq davolanadi",
+   "w": [
+    "chivin to'rlari ostida uxlash tavsiya etiladi",
+    "shaxsiy himoya vositalari qo'llanadi",
+    "sayohatchilarga kimyoprofilaktika tavsiya etiladi",
+    "aholi bezgak belgilari haqida xabardor qilinadi"
+   ],
+   "x": "«Manbani yo'qotish uchun bemorlar erta aniqlanib, to'liq davolanadi»"
+  },
+  {
+   "q": "Moyil odamlarni himoya qilish uchun nimalar qo'llanadi?",
+   "c": "shaxsiy himoya vositalari, kimyoprofilaktika va emlash",
+   "w": [
+    "erta tashxis, davolash va epidemiologik kuzatuv",
+    "mikroskopiya yoki tezkor test o'tkazish",
+    "sanitariya-ma'rifiy ishlar va dispanser nazorati",
+    "atrof-muhitni boshqarish va suv havzalari holati"
+   ],
+   "x": "«Moyil odamlarni himoya qilish uchun shaxsiy himoya vositalari, kimyoprofilaktika va emlash qo'llanadi»"
+  },
+  {
+   "q": "Chivin chaqishidan saqlanish choralariga nima kiradi?",
+   "c": "chivin to'rlari ostida uxlash va himoya kiyimlari",
+   "w": [
+    "yozda tashqarida ishlovchilarni davolash va tekshirish",
+    "kimyoprofilaktika va profilaktik kimyoterapiya",
+    "dispanser nazoratiga olish va tekshirish",
+    "emlash va ommaviy dori berish"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti chivin chaqishidan saqlanish choralarini sanab o'tadi: chivin to'rlari ostida uxlash, kechqurundan keyin DEET, IR3535 yoki ikaridin tarkibli qaytaruvchi vositalardan foydalanish, spiral va bug'latgichlardan foydalanish, himoya kiyimlari kiyish va deraza to'rlaridan foydalanish»"
+  },
+  {
+   "q": "Kimyoprofilaktika zararlanishdan keyin ham nega davom ettiriladi?",
+   "c": "parazitlar jigardan hali chiqishi mumkin",
+   "w": [
+    "chivinlar hududda hali faol bo'ladi",
+    "chivinlar kechqurun va tunda faol bo'ladi",
+    "moyil odamlar emlanmagan bo'ladi",
+    "dorilar hududda bo'lgan davrda qabul qilinadi"
+   ],
+   "x": "«Birinchisi — sayohatchilar uchun kimyoprofilaktika: endemik hududga borishdan bir necha hafta oldin shifokor bilan maslahatlashish kerak; ba'zi dorilar safardan 2–3 hafta oldin boshlanadi, hududda bo'lgan butun davr davomida qabul qilinadi va oxirgi mumkin bo'lgan zararlanishdan keyin 4 hafta davom ettiriladi, chunki parazitlar jigardan hali chiqishi mumkin»"
+  },
+  {
+   "q": "Profilaktik kimyoterapiya qaysi guruhlar uchun qo'llanadi?",
+   "c": "xavf ostidagi aholi guruhlari",
+   "w": [
+    "endemik hududga borayotgan sayohatchilar",
+    "bezgakdan holi hudud aholisi",
+    "yozda tashqarida ishlovchilar",
+    "chet elga ketayotgan shaxslar"
+   ],
+   "x": "«Ikkinchisi — xavf ostidagi aholi guruhlari uchun profilaktik kimyoterapiya: mavsumiy, homiladorlikda va maktab yoshidagi bolalarda davriy, ommaviy dori berish»"
+  },
+  {
+   "q": "Gumon qilingan holatlar qanday tasdiqlanadi?",
+   "c": "mikroskopiya yoki tezkor test",
+   "w": [
+    "epidemiologik kuzatuv yoki entomologik ko'rsatma",
+    "kimyoprofilaktika yoki primakvin qabul qilish",
+    "sanitariya-ma'rifiy ishlar yoki tushuntirish",
+    "emlash yoki profilaktik kimyoterapiya"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti barcha gumon qilingan holatlar mikroskopiya yoki tezkor test bilan tasdiqlanishini tavsiya etadi»"
+  },
+  {
+   "q": "Sanitariya-ma'rifiy ishlarda aholiga nima tushuntiriladi?",
+   "c": "bezgak belgilari va chaqishdan himoyalanish yo'llari",
+   "w": [
+    "epidemiologik kuzatuv va entomologik ko'rsatmalar tartibi",
+    "dispanser nazorati va insektitsidlar tarkibi",
+    "tashxis qo'yish va primakvin qabul qilish tartibi",
+    "vektorga qarshi kurash va suv havzalari holati"
+   ],
+   "x": "«Aholi bezgak belgilari, chivin chaqishidan himoyalanish yo'llari va isitma paydo bo'lganda darhol shifokorga murojaat qilish zarurligi haqida xabardor bo'lishi kerak»"
+  },
+  {
+   "q": "Sayohatchilar kimyoprofilaktikani oxirgi mumkin bo'lgan zararlanishdan keyin qancha davom ettiradi?",
+   "c": "4 hafta davomida",
+   "w": [
+    "2 hafta davomida",
+    "3 hafta davomida",
+    "bir hafta davomida",
+    "6 hafta davomida"
+   ],
+   "x": "«oxirgi mumkin bo'lgan zararlanishdan keyin 4 hafta davom ettiriladi, chunki parazitlar jigardan hali chiqishi mumkin»"
+  },
+  {
+   "q": "Yuqish yo'lini uzish uchun nima qilinadi?",
+   "c": "chivin soni kamaytiriladi va aloqasi cheklanadi",
+   "w": [
+    "bemorlar erta aniqlanib davolanadi",
+    "moyil odamlarga emlash qo'llanadi",
+    "aholi isitma paytida shifokorga murojaat qiladi",
+    "sayohatchilar uchun kimyoprofilaktika beriladi"
+   ],
+   "x": "«Yuqish yo'lini uzish uchun chivin soni kamaytiriladi va ularning odamga aloqasi cheklanadi»"
+  }
+ ]
+}

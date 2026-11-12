@@ -1,0 +1,338 @@
+{
+ "010": [
+  {
+   "q": "Intensiv ko'rsatkich nima?",
+   "c": "hodisa soni va aholi soni o'rtasidagi nisbat",
+   "w": [
+    "tekshirilganlar soni va aholi soni o'rtasidagi farq",
+    "kasallik va tuxum soni o'rtasidagi ko'paytma",
+    "muhit va hudud o'rtasidagi masofa",
+    "zararlanish va davolash o'rtasidagi vaqt"
+   ],
+   "x": "«Intensiv ko'rsatkich — bu muayyan hodisa, masalan, kasallik, o'lim yoki zararlanish holatlari soni va ularni keltirib chiqargan muhit, ya'ni shu hodisa yuz berishi mumkin bo'lgan aholi soni o'rtasidagi nisbatdir»"
+  },
+  {
+   "q": "Kam uchraydigan kasalliklarda intensiv ko'rsatkich qaysi aholi soniga nisbatan olinadi?",
+   "c": "100 000 aholiga",
+   "w": [
+    "1000 aholiga",
+    "10 000 aholiga",
+    "foiz hisobida",
+    "100 aholiga"
+   ],
+   "x": "«Xulosa qilib aytganda, intensiv ko'rsatkich muayyan hodisa holatlari sonini shu hodisa yuz berishi mumkin bo'lgan aholi soniga nisbatan, odatda 100 000 ga ko'paytirib ifodalaydigan epidemiologik ko'rsatkichdir»"
+  },
+  {
+   "q": "Zararlanish tarqalganligi qanday hisoblanadi?",
+   "c": "zararlangan kishilar soni tekshirilganlar soniga bo'linib, 100 ga ko'paytiriladi",
+   "w": [
+    "tekshirilganlar soni zararlanganlar soniga bo'linib, 100 ga ko'paytiriladi",
+    "zararlangan kishilar soni aholi soniga bo'linib, 1000 ga ko'paytiriladi",
+    "parazitlar soni zararlangan xo'jayinlar soniga bo'linadi",
+    "tuxum soni najas grammiga bo'linib, 100 ga ko'paytiriladi"
+   ],
+   "x": "«Parazitologiyada ko'pincha aholining o'tkazilgan tekshiruvdan o'tgan qismi bo'yicha zararlanish tarqalganligi hisoblanadi: zararlangan kishilar soni tekshirilganlar soniga bo'linib, 100 ga ko'paytiriladi»"
+  },
+  {
+   "q": "Maktabda 480 bola tekshirilib, 96 tasida gelmint tuxumi topilsa, tarqalganlik necha foiz bo'ladi?",
+   "c": "20 foiz",
+   "w": [
+    "96 foiz",
+    "480 foiz",
+    "50 foiz",
+    "100 foiz"
+   ],
+   "x": "«Masalan, maktabda 480 bola tekshirilib, 96 tasida gelmint tuxumi topilsa, tarqalganlik 96 : 480 × 100 = 20 foiz bo'ladi»"
+  },
+  {
+   "q": "O'rtacha intensivlik nimani bildiradi?",
+   "c": "zararlangan xo'jayinga to'g'ri keladigan parazitlar sonini",
+   "w": [
+    "tekshirilgan har bir xo'jayinga to'g'ri keladigan parazitlar sonini",
+    "zararlanganlar sonining tekshirilganlarga nisbatini",
+    "najasning bir grammidagi tuxum sonini",
+    "aholi darajasidagi epidemiologik nisbatni"
+   ],
+   "x": "«Parazitologiya adabiyotida tarqalganlik bilan birga o'rtacha intensivlik, ya'ni zararlangan xo'jayinga to'g'ri keladigan parazitlar soni va o'rtacha mo'llik, ya'ni tekshirilgan har bir xo'jayinga to'g'ri keladigan parazitlar soni ham ajratiladi»"
+  },
+  {
+   "q": "Gelmintozda zararlanish intensivligi nima bilan o'lchanadi?",
+   "c": "najasning bir grammidagi tuxum soni (epg)",
+   "w": [
+    "tekshirilganlar soniga bo'lingan zararlanganlar soni",
+    "aholining 100 000 nisbatan kasallanishi",
+    "o'rtacha mo'llik ko'rsatkichi",
+    "tashxis ta'rifi bo'yicha holatlar soni"
+   ],
+   "x": "«Ikkinchisi najasning bir grammidagi tuxum soni (epg) bilan o'lchanadi va yengil, o'rta, og'ir darajalarga bo'linadi: masalan, askaridada 50 000 epg dan yuqori darajasi og'ir hisoblanadi»"
+  },
+  {
+   "q": "Tarqalganlik qanday bo'lgan hududlarda JSST ommaviy profilaktik davolashni tavsiya etadi?",
+   "c": "20 foizdan yuqori bo'lgan hududlarda",
+   "w": [
+    "20 foizdan past bo'lgan hududlarda",
+    "50 foizdan yuqori bo'lgan hududlarda",
+    "1000 dan past bo'lgan hududlarda",
+    "96 foizdan yuqori bo'lgan hududlarda"
+   ],
+   "x": "«Ikkalasi birgalikda vaziyatni to'liq tasvirlaydi: masalan, tarqalganlik 20 foizdan yuqori bo'lgan hududlarda JSST ommaviy profilaktik davolashni tavsiya etadi, chunki past tarqalganlikda og'ir zararlanish deyarli uchramaydi»"
+  },
+  {
+   "q": "Intensiv ko'rsatkichni hisoblashda aholi soni haqida qanday talab bor?",
+   "c": "eskirgan ro'yxat emas, joriy ma'lumot ishlatiladi",
+   "w": [
+    "faqat tekshirilganlar ro'yxati ishlatiladi",
+    "aholi soni hisobga olinmaydi",
+    "hudud ro'yxati ishlatilmaydi",
+    "zararlangan odamlar ro'yxati ishlatiladi"
+   ],
+   "x": "«Ikkinchidan, aholi soni aniq bo'lishi lozim, ya'ni eskirgan ro'yxat emas, joriy ma'lumot ishlatiladi»"
+  },
+  {
+   "q": "Holatlar soni juda kam bo'lganda ko'rsatkich qanday bo'ladi?",
+   "c": "ko'rsatkich ishonchsiz bo'ladi",
+   "w": [
+    "ko'rsatkich sun'iy oshib ketadi",
+    "ko'rsatkich yoshga moslashtiriladi",
+    "maxraj kattalashib ketadi",
+    "hududlar solishtirilmaydi"
+   ],
+   "x": "«To'rtinchidan, holatlar soni juda kam bo'lganda ko'rsatkich ishonchsiz bo'ladi, shuning uchun uni bir necha yillik o'rtacha bilan birga ko'rib chiqish ma'qul»"
+  },
+  {
+   "q": "Degelmintizatsiya dasturidan oldin va keyin tarqalganlik taqqoslansa, nima ko'rinadi?",
+   "c": "dastur ishlayotgani yoki ishlamayotgani",
+   "w": [
+    "resurslar taqsimoti va mutaxassislar soni",
+    "hududlar o'rtasidagi farq va noqulay hudud",
+    "vaqt bo'yicha o'zgarish va samara",
+    "yosh tarkibi bo'yicha farq"
+   ],
+   "x": "«Masalan, degelmintizatsiya dasturidan oldin va keyin tarqalganlik taqqoslansa, dastur ishlayotgani yoki ishlamayotgani ko'rinadi»"
+  }
+ ],
+ "011": [
+  {
+   "q": "Invaziya deb nimaga aytiladi?",
+   "c": "parazitlarning odam organizmiga kirib joylashishi va rivojlanishi",
+   "w": [
+    "bakteriya va viruslarning odam organizmiga kirib joylashishi",
+    "davolashdan keyin tekshiruv natijasining yana ijobiy chiqishi",
+    "tuxumlarning najas bilan tashqi muhitga chiqib yetilishi",
+    "sodda jonivorlar va bo'g'imoyoqlilarning tashqi muhitda yashashi"
+   ],
+   "x": "«Invaziya deb hayvonlar olamiga mansub parazitlarning, ya'ni sodda jonivorlar, gelmintlar va bo'g'imoyoqlilarning odam yoki hayvon organizmiga kirib, unda joylashishi va rivojlanishiga aytiladi»"
+  },
+  {
+   "q": "Bakteriya va viruslar qo'zg'atadigan jarayon qanday nomlanadi?",
+   "c": "infeksiya deb yuritiladi",
+   "w": [
+    "invaziya deb yuritiladi",
+    "superinvaziya deb yuritiladi",
+    "reinvaziya deb yuritiladi",
+    "parazitoz deb yuritiladi"
+   ],
+   "x": "«Mikroblar, ya'ni bakteriya va viruslar qo'zg'atadigan jarayon esa infeksiya deb yuritiladi»"
+  },
+  {
+   "q": "Invaziya qachon boshlanadi?",
+   "c": "infeksion bosqich odam tanasiga tushganda",
+   "w": [
+    "yetuk parazit odam tanasida jinsiy ko'paygandan keyin",
+    "tuxumlar najas bilan tashqi muhitga chiqqanda",
+    "iliq va nam iqlimda tuxumlar yetilganda",
+    "davolashdan keyin tekshiruv ijobiy chiqqanda"
+   ],
+   "x": "«Invaziya parazitning infeksion bosqichi, ya'ni tuxumi, lichinkasi yoki sistasi odam tanasiga tushganda boshlanadi»"
+  },
+  {
+   "q": "Superinvaziya nima?",
+   "c": "mavjud parazit bilan zararlanish fonida yangi parazitlar bilan qayta zararlanish",
+   "w": [
+    "parazit organizmdan butunlay chiqarilgandan keyin yangidan zararlanish",
+    "tashqi muhitdagi infeksion bosqichlarning tuproqda yetilishi jarayoni",
+    "davolashdan keyin tekshiruv natijasi yana ijobiy chiqishi holati",
+    "parazitning tanada ko'payishi va sonini oshirishi jarayoni"
+   ],
+   "x": "«Superinvaziya — organizmda parazit bilan zararlanish allaqachon mavjud bo'lgan sharoitda uning qayta, ya'ni yangi parazitlar bilan zararlanishidir»"
+  },
+  {
+   "q": "Reinvaziya nima?",
+   "c": "davolash bilan yoki o'z-o'zidan tozalangandan keyin yangidan zararlanish",
+   "w": [
+    "avvalgi parazitlar hali tanada qolgan sharoitda yangidan zararlanish",
+    "tashqi muhitdagi infeksion bosqichlar bilan doimiy aloqa natijasida zararlanish",
+    "bakteriya va viruslar kirib joylashishi natijasida zararlanish",
+    "tuxumlar yetilishi natijasida tashqi muhit ifloslanishi"
+   ],
+   "x": "«Reinvaziya parazit organizmdan butunlay chiqarilgandan, ya'ni davolash bilan yoki o'z-o'zidan tozalangandan keyin yangidan zararlanishdir»"
+  },
+  {
+   "q": "Askarida, qilbosh chuvalchang va g'ajakbosh odam tanasida qanday holatda bo'ladi?",
+   "c": "odam tanasida ko'paymaydi",
+   "w": [
+    "odam tanasida jinssiz ko'payadi",
+    "odam tanasida lichinkalik bosqichida ko'payadi",
+    "tashqi muhitda ko'payadi",
+    "tashqi muhitdagi infeksion bosqichlarda ko'payadi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkilotining ta'kidlashicha, askarida, qilbosh chuvalchang va g'ajakbosh odam tanasida ko'paymaydi va qayta zararlanish faqat tashqi muhitdagi infeksion bosqichlar bilan aloqa natijasida yuz beradi»"
+  },
+  {
+   "q": "JSST ma'lumotiga ko'ra yengil zararlanishda nima kuzatiladi?",
+   "c": "odamlar odatda kasallikdan aziyat chekmaydi",
+   "w": [
+    "diareya va qorin og'rig'i kuzatiladi",
+    "ichak tutilishi kuzatilishi mumkin",
+    "o'sishdan orqada qolish kuzatiladi",
+    "oziqlanish buzilishi kuzatiladi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti ma'lumotiga ko'ra, gelmintozning kasallik belgilari parazitlar soniga bog'liq: yengil zararlanishda odamlar odatda kasallikdan aziyat chekmaydi, og'ir zararlanishda esa diareya, qorin og'rig'i, oziqlanishning buzilishi, o'sishdan orqada qolish va ichak tutilishi kuzatilishi mumkin»"
+  },
+  {
+   "q": "Superinvaziya uchun eng qulay sharoit qaysi?",
+   "c": "tashqi muhitning infeksion bosqichlar bilan doimiy ifloslanishi",
+   "w": [
+    "ichimlik suvining xavfsizligi va qo'l gigiyenasi",
+    "najasni xavfsiz yo'qotish va sabzavotlarni yuvish",
+    "davriy profilaktik davolash va yalang oyoq yurmaslik",
+    "aholining parazit kam bo'lgan qismi"
+   ],
+   "x": "«Superinvaziya uchun eng qulay sharoit — tashqi muhitning infeksion bosqichlar bilan doimiy ifloslanishi»"
+  },
+  {
+   "q": "Yangi zararlanishda najas tekshiruvida tuxum nima uchun chiqmasligi mumkin?",
+   "c": "lichinkalar hali yetilmagan bo'ladi",
+   "w": [
+    "tuxumlar tuproqda yetilgan bo'ladi",
+    "parazit tanada ko'paygan bo'ladi",
+    "yetuk parazitlar soni juda ko'p bo'ladi",
+    "tuxum soni hisoblanmagan bo'ladi"
+   ],
+   "x": "«Biroq tuxum soni parazitning ayrim bosqichlarida bo'lmasligi mumkin, masalan, yangi zararlanishda lichinkalar hali yetilmagan bo'ladi va tuxum chiqmaydi»"
+  },
+  {
+   "q": "Aholi orasida parazitlar qanday taqsimlanadi?",
+   "c": "notekis: ko'pchilikda kam, kichik qismida ko'p",
+   "w": [
+    "ko'pchilikda ko'p, kichik qismida kam",
+    "ko'pchilikda kam, atrof-muhitni ifloslantirmaydi",
+    "kichik qismida kam, ko'pchilikda juda ko'p",
+    "kichik qismida ko'p, ko'pchilikda juda ko'p"
+   ],
+   "x": "«Aholi orasida parazitlar notekis taqsimlanadi: odamlarning ko'pchiligida parazit kam, kichik qismida esa juda ko'p bo'ladi»"
+  }
+ ],
+ "012": [
+  {
+   "q": "Aralash infeksiya deb nimaga aytiladi?",
+   "c": "organizmda bir vaqtning o'zida ikki yoki undan ortiq turdagi qo'zg'atuvchining mavjudligiga",
+   "w": [
+    "odamning o'z-o'zini qayta yuqtirishiga",
+    "organizmda parazit mavjud bo'lgan sharoitda yangi parazitlar bilan qayta zararlanishga",
+    "parazit organizmdan chiqarilgandan keyin yangidan zararlanishga",
+    "ikki xil davolash dorisining bir vaqtda qo'llanishiga"
+   ],
+   "x": "«Aralash infeksiya (aralash invaziya, koinfeksiya) deb organizmda bir vaqtning o'zida ikki yoki undan ortiq turdagi qo'zg'atuvchining mavjudligiga aytiladi»"
+  },
+  {
+   "q": "Askarida, qilbosh chuvalchang va g'ajakbosh chuvalchanglar nima uchun guruh sifatida ko'rib chiqiladi?",
+   "c": "o'xshash tashxis usullarini talab qiladi",
+   "w": [
+    "turli oraliq xo'jayinlarda rivojlanadi",
+    "alohida dori vositalariga javob beradi",
+    "o'xshash tashxis usullarini talab qilmaydi",
+    "turli sanitariya sharoitida tarqaladi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti ma'lumotiga ko'ra, askarida, qilbosh chuvalchang va g'ajakbosh chuvalchanglar odatda guruh sifatida ko'rib chiqiladi, chunki ular o'xshash tashxis usullarini talab qiladi va bir xil dori vositalariga javob beradi, hamda bir xil sanitariya sharoitida tarqaladi»"
+  },
+  {
+   "q": "Aralash infeksiyaning asosiy sababi nima?",
+   "c": "umumiy yuqish yo'li",
+   "w": [
+    "o'z-o'zini qayta yuqtirish xususiyati",
+    "yuqori dozada immunosupressiv dori qabul qilish",
+    "oila a'zolarining bir vaqtda davolanmasligi",
+    "davolash va gigiyena choralari"
+   ],
+   "x": "«Aralash infeksiyaning asosiy sababi umumiy yuqish yo'li: ifloslangan suv, tuproq va qo'l bir vaqtda turli parazitlarning tuxumi va sistalarini tashiydi»"
+  },
+  {
+   "q": "Aralash infeksiyada kasallik ko'rinishi qanday bo'ladi?",
+   "c": "belgilar qo'shilib, tashxisni qiyinlashtiradi",
+   "w": [
+    "belgilar yo'qolib, tashxis osonlashadi",
+    "belgilar ajralib, tashxis osonlashadi",
+    "belgilar bolalarda namoyon bo'lmaydi",
+    "belgilar davolashdan keyin paydo bo'ladi"
+   ],
+   "x": "«Aralash infeksiyada kasallik ko'rinishi murakkablashadi: belgilar bir-biriga qo'shilib, klinik tashxisni qiyinlashtiradi»"
+  },
+  {
+   "q": "Laboratoriyada aralash infeksiyani aniqlash uchun nima qilinadi?",
+   "c": "namunaning butun maydoni ko'rib chiqiladi",
+   "w": [
+    "bitta parazit topilgach tekshiruv to'xtatiladi",
+    "bitta turdagi tuxum izlanadi",
+    "namunaning bir qismi ko'rib chiqiladi",
+    "intensivlik yozilmaydi"
+   ],
+   "x": "«Namunaning butun maydoni ko'rib chiqilishi, turli kattalik va shakldagi tuxum, lichinka, sistalarga e'tibor berilishi kerak»"
+  },
+  {
+   "q": "Aralash infeksiyada davolash nima uchun murakkab?",
+   "c": "bir dori hamma turga bir xil ta'sir qilmaydi",
+   "w": [
+    "dori hamma turga bir xil ta'sir qiladi",
+    "davolash bitta turga qaratilgan bo'ladi",
+    "dori faqat sistalarga ta'sir qiladi",
+    "davolash oila a'zolarisiz o'tkaziladi"
+   ],
+   "x": "«Davolash ham aralash infeksiyani hisobga olib tanlanadi, chunki bir dori hamma turga bir xil ta'sir qilmasligi mumkin»"
+  },
+  {
+   "q": "Immuniteti pasaygan bemorlarda ichki autoinvaziya nimaga aylanishi mumkin?",
+   "c": "xavfli giperinvaziyaga aylanishi mumkin",
+   "w": [
+    "tashqi zararlanishga aylanishi mumkin",
+    "aralash infeksiyaga aylanishi mumkin",
+    "qayta zararlanishga aylanishi mumkin",
+    "tashqi manbaga aylanishi mumkin"
+   ],
+   "x": "«Immuniteti pasaygan bemorlarda, masalan, yuqori dozada immunosupressiv dori qabul qilayotganlarda ichki autoinvaziya xavfli giperinvaziyaga aylanishi mumkin»"
+  },
+  {
+   "q": "Autoinvaziyaning oldini olishda qaysi chora to'g'ri?",
+   "c": "tirnoqni qisqa olish va kechasi ichki kiyim kiyish",
+   "w": [
+    "faqat bemorni davolash, oila a'zolarini tekshirmaslik",
+    "ichki kiyimni ertalab almashtirmaslik",
+    "ko'rpa-to'shak va ichki kiyimni yuvmaslik",
+    "qo'lni suv bilan chayish"
+   ],
+   "x": "«Autoinvaziyaning oldini olish uchun shaxsiy gigiyenaga qat'iy rioya qilinadi: qo'lni sovun bilan tez-tez yuvish, tirnoqni qisqa olish, kechasi ichki kiyim kiyish va uni ertalab almashtirish, ko'rpa-to'shak va ichki kiyimni issiq suvda yuvish»"
+  },
+  {
+   "q": "Autoinvaziyada davolash kimlarga o'tkazilishi kerak?",
+   "c": "oila yoki jamoadagi barcha a'zolarga bir vaqtda",
+   "w": [
+    "zararlangan bolaga alohida o'tkaziladi",
+    "belgilari bor odamlarga alohida o'tkaziladi",
+    "bemorga boshqalardan keyin o'tkaziladi",
+    "tekshiruvdan keyin kattalarga o'tkaziladi"
+   ],
+   "x": "«Davolash oila yoki jamoadagi barcha a'zolar uchun bir vaqtda o'tkazilishi kerak, aks holda boshqa zararlangan odamlar qayta zararlanish manbasiga aylanadi»"
+  },
+  {
+   "q": "Bolalar jamoalarida aralash infeksiya va autoinvaziya nega ayniqsa keng tarqaladi?",
+   "c": "bolalar o'yinchoq va idishlarni birgalikda ishlatadi",
+   "w": [
+    "bolalar qo'llarini har doim sovun bilan yuvadi",
+    "bolalar bir-biri bilan yaqin aloqada bo'lmaydi",
+    "bolalar o'yinchoq va idishlarni alohida ishlatadi",
+    "bolalar qo'llarini yuvishni unutmaydi"
+   ],
+   "x": "«Bolalar o'yinchoq, idish va yuvinish xonalarini birgalikda ishlatadi, qo'llarini yuvishni unutadi, bir-biri bilan yaqin aloqada bo'ladi»"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "107": [
+  {
+   "q": "Epidemiologik tekshiruvning asosiy yo'nalishi nima?",
+   "c": "Hayvonlar va tashqi muhit",
+   "w": [
+    "Bemorning tashxisi va davolash usuli",
+    "Bemor kistasining joylashuvi va bosqichi",
+    "Bemor bilan aloqada bo'lganlar",
+    "Oila a'zolarining kasbi va yashash joyi"
+   ],
+   "x": "«Kasallik zoonoz va bemor odamdan odamga yuqmaydi, shuning uchun tekshiruvning asosiy yo'nalishi — hayvonlar va tashqi muhit»"
+  },
+  {
+   "q": "Nima uchun zararlanish joyi va vaqtini aniqlash qiyin?",
+   "c": "Kasallik uzoq yillar yashirin kechadi",
+   "w": [
+    "Bemor odamdan odamga yuqtiradi",
+    "Zararlanish manbasi hayvonlarda aniqlanmaydi",
+    "Bemorning oila a'zolari tekshirilmaydi",
+    "Tashqi muhit ifloslanishi baholanmaydi"
+   ],
+   "x": "«Kasallik uzoq yillar yashirin kechgani uchun zararlanish joyi va vaqtini aniqlash qiyin, bu tekshiruvning o'ziga xos murakkabligi»"
+  },
+  {
+   "q": "Qaysi usullar holatni tasdiqlash usullariga kiradi?",
+   "c": "Ultratovush, KT, serologiya, gistologiya",
+   "w": [
+    "Surtma, tuproq, ko'kat va suv namunalari",
+    "Najas, koproantigen, tuxum va surtma",
+    "Anamnez, kasb, yashash joyi va itlar",
+    "Ultratovush, skrining, xaritalash va baza"
+   ],
+   "x": "«Holat tashxis qo'yilgan zahoti qayd etiladi: bemor ma'lumotlari, tashxis, kista joylashuvi, tasdiqlash usuli (ultratovush, KT, serologiya, gistologiya), davolash»"
+  },
+  {
+   "q": "Epidemiologik anamnezda bemordan nimalar so'raladi?",
+   "c": "Yashash joyi, kasbi va itlar bilan aloqasi",
+   "w": [
+    "Kista bosqichi, davolash usuli va natijasi",
+    "Surtmalar olinadigan joylar va namunalar soni",
+    "Itlarning degelmintizatsiya holati va koproantigeni",
+    "Veterinar xodimlarining soni va ishtiroki"
+   ],
+   "x": "«Bemordan quyidagilar so'raladi: yashash joyi (qishloq/shahar), hozirgi va avvalgi yashash joylari (bolalikdagi joylar ham, chunki kasallik yillar o'tib bilinadi); kasbi (chorvador, cho'pon, qassob, dehqon); itlar bilan aloqa (uyida it bormi, qo'ylarni qo'riqlaydimi, itni silash, bolalikda itlar bilan o'ynash); uy so'yimi va ichki a'zolar bilan ishlash; sabzavot va suv manbalari; oilada boshqa exinokokkoz holatlari»"
+  },
+  {
+   "q": "Nima uchun bolalikdagi yashash joylari ham so'raladi?",
+   "c": "Kasallik yillar o'tib bilinadi",
+   "w": [
+    "Bolalikdagi joylarda skrining o'tkazilgan",
+    "Bolalar so'yish ishlarida qatnashadi",
+    "Bolalarda itlar bilan aloqa yo'q",
+    "Bolalarda tashxis qo'yish qiyin"
+   ],
+   "x": "«Bemordan quyidagilar so'raladi: yashash joyi (qishloq/shahar), hozirgi va avvalgi yashash joylari (bolalikdagi joylar ham, chunki kasallik yillar o'tib bilinadi); kasbi (chorvador, cho'pon, qassob, dehqon); itlar bilan aloqa (uyida it bormi, qo'ylarni qo'riqlaydimi, itni silash, bolalikda itlar bilan o'ynash); uy so'yimi va ichki a'zolar bilan ishlash; sabzavot va suv manbalari; oilada boshqa exinokokkoz holatlari»"
+  },
+  {
+   "q": "Bemorning oila a'zolari nima uchun tekshiriladi?",
+   "c": "Ular bir xil muhitda yashagan va itlar bilan aloqada",
+   "w": [
+    "Tashxisni tasdiqlash uchun ularning kasbi kerak",
+    "Itlarni degelmintizatsiya qilish uchun ular tekshiriladi",
+    "Kasallik ular orasida odamdan odamga yuqadi",
+    "Ular so'yish ekspertizasi uchun namunalar beradi"
+   ],
+   "x": "«Bemorning oila a'zolari va yaqin atrofdagi xavf guruhlari ultratovush va (imkoniyatga ko'ra) serologik tekshiruvdan o'tkaziladi, chunki ular ham bir xil muhitda yashagan, bir xil itlar bilan aloqada bo'lgan»"
+  },
+  {
+   "q": "Itlarni tekshirish qanday amalga oshiriladi?",
+   "c": "Najasda tuxum yoki koproantigen aniqlanadi",
+   "w": [
+    "Jigar va o'pkada kista topiladi",
+    "Ultratovush skrining natijasi baholanadi",
+    "Tashqi muhitdan surtmalar olinadi",
+    "Tuproq va ko'kat namunalari olinadi"
+   ],
+   "x": "«Veterinariya xizmati bilan hamkorlikda bemor yashaydigan hovli va mahalladagi itlar tekshiriladi: itlar soni, ularning degelmintizatsiya holati, najasda tuxum yoki koproantigen»"
+  },
+  {
+   "q": "Yagona ma'lumotlar bazasi nima uchun yuritiladi?",
+   "c": "Yillik tahlil va nazorat dasturlarini rejalashtirish",
+   "w": [
+    "Oila a'zolari skrining natijalarini yig'ish",
+    "Bemor ma'lumotlarini yuqori idoraga yuborish",
+    "Itlar va chorva tekshiruvini tashkil etish",
+    "Bemorni boshqa bemorlardan ajratib qo'yish"
+   ],
+   "x": "«Baza yillik tahlil va nazorat dasturlarini rejalashtirish uchun foydalaniladi»"
+  },
+  {
+   "q": "Chorva mollari orasida zararlanish qaysi ma'lumotlar orqali baholanadi?",
+   "c": "So'yish ekspertizasi ma'lumotlari (jigar va o'pkada kista)",
+   "w": [
+    "Itlar najasidagi koproantigen ma'lumotlari",
+    "Bemorlarning ultratovush skrining ma'lumotlari",
+    "Tuproq va suv namunalari ma'lumotlari",
+    "Epidemiologik karta va baza ma'lumotlari"
+   ],
+   "x": "«Chorva mollari orasida zararlanish: so'yish ekspertizasi ma'lumotlari (jigar va o'pkada kista), uy so'yimi amaliyoti, ichki a'zolarni itlarga berish odatlari»"
+  },
+  {
+   "q": "Exinokokkoz holati epidemiologik tekshiruvda qachon qayd etiladi?",
+   "c": "Tashxis qo'yilgan zahoti qayd etiladi",
+   "w": [
+    "Serologiya tasdiqlanganda qayd etiladi",
+    "Itlar tekshirilganda qayd etiladi",
+    "Jarrohlik o'tkazilganda qayd etiladi",
+    "Yillik tahlil o'tkazilganda qayd etiladi"
+   ],
+   "x": "«Holat tashxis qo'yilgan zahoti qayd etiladi»"
+  }
+ ]
+}

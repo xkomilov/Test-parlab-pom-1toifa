@@ -1,0 +1,450 @@
+{
+ "070": [
+  {
+   "q": "KQT tabiiy o'choqi qaysi uch komponentdan iborat?",
+   "c": "Qo'zg'atuvchi, rezervuar hayvonlar, tashuvchi kanalar",
+   "w": [
+    "Borrelia, odam, insektitsid-akaritsid ishlov",
+    "Kemiruvchilar, eski binolar, chorva qo'ralari",
+    "Zoolog, entomolog, epidemiolog hamkorligi",
+    "Qon surtmasi, serologiya, molekulyar usul"
+   ],
+   "x": "«Tabiiy o'choq uch asosiy komponentdan iborat: qo'zg'atuvchi (Borrelia), rezervuar hayvonlar va tashuvchi kanalar»"
+  },
+  {
+   "q": "KQT da odam kim hisoblanadi?",
+   "c": "Tasodifiy xo'jayin",
+   "w": [
+    "Yagona infeksiya manbai",
+    "Epidemik kuchaytiruvchi",
+    "Asosiy rezervuar hayvon",
+    "Spirohetalarni saqlovchi kana"
+   ],
+   "x": "«KQT da odam yagona manba emas va epidemik kuchaytiruvchi ham emas, u tasodifiy xo'jayin»"
+  },
+  {
+   "q": "Nima uchun odamlarni davolashning o'zi KQT ni yo'q qilishga yetarli emas?",
+   "c": "Tabiiy manba saqlanib qoladi",
+   "w": [
+    "Odam epidemik kuchaytiruvchi hisoblanadi",
+    "Odamdan odamga bevosita yuqadi",
+    "Odam spirohetalarni saqlovchi kanadir",
+    "Bit orqali yuqadigan shakl ustun"
+   ],
+   "x": "«Shuning uchun KQT ni yo'q qilish uchun odamlarni davolashning o'zi yetarli emas, chunki tabiiy manba saqlanib qoladi»"
+  },
+  {
+   "q": "Kanalarda spirohetalar qanday usul bilan izlanadi?",
+   "c": "Mikroskopiya yoki molekulyar usul",
+   "w": [
+    "Qon surtmasi yoki serologiya",
+    "Qon zardobi yoki xaritalash",
+    "Serologik so'rov yoki xaritalash",
+    "Tur aniqlash yoki deratizatsiya"
+   ],
+   "x": "«Manbalarni aniqlash uchun quyidagilar bajariladi: kemiruvchilar tutiladi va ularning qoni qon surtmasi yoki serologiya bilan tekshiriladi; kanalar kemiruvchi inlari, g'orlar va uy-joylardan yig'iladi, tur aniqlanadi va ularda spirohetalar mikroskopiya yoki molekulyar usul bilan izlanadi; itlar va mushuklar tekshiriladi; bemorlarning tunagan joylari xaritalanadi»"
+  },
+  {
+   "q": "Kemiruvchilar manbai bo'lgani uchun uy-joylarda aynan qaysi kurash olib boriladi?",
+   "c": "Kemiruvchilarga qarshi kurash (deratizatsiya)",
+   "w": [
+    "Kanalarga qarshi ishlov (dezinsektsiya)",
+    "Eski binolarni ta'mirlash",
+    "Yoriqlarni mahkamlash",
+    "G'orlar va inlarga kirmaslik"
+   ],
+   "x": "«Kemiruvchilar manbai bo'lgani uchun uy-joylarda kemiruvchilarga qarshi kurash (deratizatsiya) va ularga yo'l bermaydigan qurilish (kemiruvchilardan himoyalangan uylar) zarur»"
+  },
+  {
+   "q": "Kanalar yashaydigan joylarni dezinsektsiya qilish uchun nima qilinadi?",
+   "c": "Insektitsid-akaritsid bilan ishlov berish",
+   "w": [
+    "Kemiruvchilarga yo'l bermaydigan qurilish",
+    "Aholiga tunamaslikni tushuntirish",
+    "Bemorlarning tunagan joylarini xaritalash",
+    "Itlar va mushuklarni tekshirish"
+   ],
+   "x": "«Kanalar yashaydigan joylarni insektitsid-akaritsid bilan ishlov berish (dezinsektsiya), eski binolarni ta'mirlash, yoriqlarni mahkamlash, g'orlar va inlarga kirmaslik tavsiya etiladi [3]. Aholiga xavfli joylarda tunamaslik tushuntiriladi»"
+  },
+  {
+   "q": "Odam epidemik shaklda qanday rol o'ynaydi?",
+   "c": "Asosiy manba bo'lib qoladi",
+   "w": [
+    "Kemiruvchilar rezervuari bo'lib qoladi",
+    "Tabiiy o'choq komponenti bo'ladi",
+    "Tashuvchi kana hisoblanadi",
+    "Qo'zg'atuvchi spirohetalarni saqlaydi"
+   ],
+   "x": "«Epidemik shaklda esa odam asosiy manba bo'lib qoladi: bit orqali yuqadi»"
+  },
+  {
+   "q": "Manbani aniqlashda kanalar qayerdan yig'iladi?",
+   "c": "Kemiruvchi inlari, g'orlar va uy-joylardan",
+   "w": [
+    "Itlar va mushuklarning qonidan",
+    "Bemorlarning qon preparatlaridan",
+    "Qon surtmasi namunalaridan",
+    "Bemorlar tunagan joylar xaritasidan"
+   ],
+   "x": "«Manbalarni aniqlash uchun quyidagilar bajariladi: kemiruvchilar tutiladi va ularning qoni qon surtmasi yoki serologiya bilan tekshiriladi; kanalar kemiruvchi inlari, g'orlar va uy-joylardan yig'iladi, tur aniqlanadi va ularda spirohetalar mikroskopiya yoki molekulyar usul bilan izlanadi; itlar va mushuklar tekshiriladi; bemorlarning tunagan joylari xaritalanadi»"
+  },
+  {
+   "q": "Aholiga xavfli joylarda nima tushuntiriladi?",
+   "c": "Xavfli joylarda tunamaslik",
+   "w": [
+    "Kemiruvchilardan himoyalangan uylar",
+    "G'orlar va inlarga kirish",
+    "Eski uylarni ta'mirlamaslik",
+    "Kanalar tomonidan chaqilish"
+   ],
+   "x": "«Aholiga xavfli joylarda tunamaslik tushuntiriladi»"
+  },
+  {
+   "q": "O'zbekistonda KQT manbalari bo'yicha ma'lumotlar qanday?",
+   "c": "Ma'lumotlar tarqoq, yangi tadqiqotlar kerak",
+   "w": [
+    "Kemiruvchi turlari aniq aniqlangan",
+    "Kanalarning zararlanganlik darajasi o'rganilgan",
+    "Aholi orasida serologik so'rovlar o'tkazilgan",
+    "Molekulyar usullar tizimli qo'llangan"
+   ],
+   "x": "«O'zbekistonda KQT manbalari bo'yicha ma'lumotlar tarqoq: aniq kemiruvchi turlari, kanalarning zararlanganlik darajasi va ularning joylashuvi uchun zamonaviy tadqiqotlar kerak»"
+  }
+ ],
+ "071": [
+  {
+   "q": "KQT ning inkubatsion davri o'rtacha necha kun?",
+   "c": "7 kun",
+   "w": [
+    "4 kun",
+    "18 kun",
+    "3 kun",
+    "76 soat"
+   ],
+   "x": "«Adabiyotda ta'kidlanishicha, KQT ning inkubatsion davri o'rtacha 7 kun, ya'ni 4 kundan 18 kundan ortiqqacha bo'lishi mumkin»"
+  },
+  {
+   "q": "Nima uchun bemor kana chaqqanini sezmaydi?",
+   "c": "Yumshoq kanalar og'riqsiz chaqadi",
+   "w": [
+    "Kana chaqqan joyda kuchli og'riq bo'ladi",
+    "Spirohetalar qonda aniqlanmaydi",
+    "Isitmasiz davr boshlanib ketadi",
+    "Chaqqan joyda katta o'zgarish bo'ladi"
+   ],
+   "x": "«Bu davrda kana chaqqan joyda deyarli o'zgarish bo'lmaydi, bemor kana chaqqanini ham sezmaydi, chunki yumshoq kanalar og'riqsiz chaqadi va tez ajraladi»"
+  },
+  {
+   "q": "KQT nomidagi «terlama» so'zi nimani bildiradi?",
+   "c": "Xurujlar terlash bilan tugashini",
+   "w": [
+    "Isitma qayta-qayta qaytishini",
+    "Bezgakka o'xshash kasallikni",
+    "Bemor titroq bilan boshlashini",
+    "Isitmasiz davr boshlanishini"
+   ],
+   "x": "«KQT klinikasi: inkubatsiya o'rtacha 7 kun, to'satdan yuqori isitma, titroq, bosh va mushak og'riqlari, bir necha kunlik xuruj va terlash bilan tugashi, isitmasiz davr va qaytalanishlar, taloq kattalashishi, mumkin asoratlar»"
+  },
+  {
+   "q": "Birinchi xuruj necha kun atrofida davom etadi?",
+   "c": "3 kun atrofida",
+   "w": [
+    "7 kun atrofida",
+    "18 kun atrofida",
+    "76 soat atrofida",
+    "4 kun atrofida"
+   ],
+   "x": "«Xuruj bir necha kun, odatda 3 kun atrofida davom etadi, keyin harorat tez pasayadi, ko'p terlash boshlanadi va bemor holsizlanadi»"
+  },
+  {
+   "q": "Yarish–Gerksgeymer reaksiyasida nima sodir bo'ladi?",
+   "c": "Toksinlar keskin ajraladi",
+   "w": [
+    "Harorat pasayib, ko'p terlash boshlanadi",
+    "Immun tizim yangi variantni tanimaydi",
+    "Spirohetalar sirt antigenlarini o'zgartiradi",
+    "Qonda spirohetalar ko'p bo'ladi"
+   ],
+   "x": "«Davolash boshlanganda ba'zi bemorlarda Yarish–Gerksgeymer reaksiyasi (Jarisch–Herxheimer) rivojlanadi: antibiotik spirohetalarni tez yo'q qilishi natijasida toksinlar keskin ajraladi, harorat ko'tariladi, titroq, tomir bosimi pasayishi, yurak urishi tezlashuvi kuzatiladi»"
+  },
+  {
+   "q": "KQT da qon preparatida spirohetalar qayerda ko'rinadi?",
+   "c": "Eritrotsitlar oralig'ida erkin",
+   "w": [
+    "Eritrotsitlar ichida joylashgan",
+    "Leykotsitlar oralig'ida erkin",
+    "Trombotsitlar oralig'ida erkin",
+    "Taloq va jigar ichida"
+   ],
+   "x": "«Bezgak va KQT ni farqlash uchun: bezgakda isitma xurujlari aniq davriylikka ega (48 yoki 72 soat), KQT da isitmali davr bir necha kun davom etadi va isitmasiz davr undan keyin keladi; bezgakda qon preparatida parazitlar eritrotsitlar ichida, KQT da spirohetalar eritrotsitlar oralig'ida erkin ko'rinadi»"
+  },
+  {
+   "q": "Bezgakda isitma xurujlari qanday davriylikka ega?",
+   "c": "48 yoki 72 soat",
+   "w": [
+    "3 yoki 7 kun",
+    "4 yoki 18 kun",
+    "39 yoki 41 soat",
+    "1 yoki 2 hafta"
+   ],
+   "x": "«Bezgak va KQT ni farqlash uchun: bezgakda isitma xurujlari aniq davriylikka ega (48 yoki 72 soat), KQT da isitmali davr bir necha kun davom etadi va isitmasiz davr undan keyin keladi; bezgakda qon preparatida parazitlar eritrotsitlar ichida, KQT da spirohetalar eritrotsitlar oralig'ida erkin ko'rinadi»"
+  },
+  {
+   "q": "Qaysi asoratlar asab tizimi bilan bog'liq?",
+   "c": "Meningit va yuz nervi falaji",
+   "w": [
+    "Miokardit va o'pka shishi",
+    "Uveit va ko'z asoratlari",
+    "Jigar va buyrak zararlanishi",
+    "Qon ketishlar va nafas yetishmovchiligi"
+   ],
+   "x": "«Qaytalama terlama asoratlari: miokardit (yurak mushagi yallig'lanishi), o'pka shishi va nafas yetishmovchiligi, qon ketishlar, jigar va buyrak zararlanishi, asab tizimi asoratlari (meningit, yuz nervi falaji), ko'z asoratlari (uveit)»"
+  },
+  {
+   "q": "Davolash boshida bemor nima uchun kuzatuv ostida bo'lishi kerak?",
+   "c": "Yarish–Gerksgeymer reaksiyasi xavfi bor",
+   "w": [
+    "Spirohetalar antigenini o'zgartirishi mumkin",
+    "Isitmasiz davr tezda boshlanib ketadi",
+    "Taloq va jigar kattalashishi mumkin",
+    "Kana chaqqan joyda o'zgarish bo'lmaydi"
+   ],
+   "x": "«Davolashda Yarish–Gerksgeymer reaksiyasi xavfi bor»"
+  },
+  {
+   "q": "Bolalarda KQT qanday kechadi?",
+   "c": "Ko'pincha og'irroq, tashxis kechikadi",
+   "w": [
+    "Yengil kechadi, tashxis kechikmaydi",
+    "Belgilarsiz kechadi, asoratlar bo'lmaydi",
+    "Faqat isitmasiz davrda uchraydi",
+    "Taloq kattalashmasdan kechadi"
+   ],
+   "x": "«Bolalarda KQT ko'pincha og'irroq kechadi va tashxis kechikadi; ularda qusish, qorin og'rig'i va bezovtalik ustun bo'lishi mumkin»"
+  }
+ ],
+ "072": [
+  {
+   "q": "Spirohetalar qonda qachon ko'rinadi?",
+   "c": "Isitma davrida",
+   "w": [
+    "Isitmasiz davrda aniqlanadi",
+    "Davolash boshlangandan keyin",
+    "Bezgak surtmasi manfiy bo'lsa",
+    "Kana chaqqani esda bo'lsa"
+   ],
+   "x": "«Diagnostikaning o'ziga xos jihati shundaki, qo'zg'atuvchi spirohetalar qonda faqat isitma davrida ko'rinadi, isitmasiz davrda esa mikroskopik jihatdan aniqlanmaydi»"
+  },
+  {
+   "q": "KQT diagnostikasida eng muhim usul qaysi?",
+   "c": "Periferik qon surtmasini mikroskopda ko'rish",
+   "w": [
+    "Qon zardobida antitelolarni aniqlash",
+    "Spirohetalar DNK sini aniqlash",
+    "Umumiy qon tahlilini o'tkazish",
+    "Jigar fermentlarini aniqlash"
+   ],
+   "x": "«Eng muhim usul — periferik qon surtmasini mikroskopda ko'rib, spirohetalarni topish»"
+  },
+  {
+   "q": "Qalin tomchi qanday afzallikka ega?",
+   "c": "Sezgirroq hisoblanadi",
+   "w": [
+    "Morfologiyani yaxshiroq ko'rsatadi",
+    "Spirohetalarni tirik ko'rsatadi",
+    "Antitelolarni aniqlaydi",
+    "Turni belgilashga imkon beradi"
+   ],
+   "x": "«Qalin tomchi sezgirroq, yupqa surtma morfologiyani yaxshiroq ko'rsatadi»"
+  },
+  {
+   "q": "Qorong'i maydon mikroskopiyasida spirohetalar qanday ko'rinadi?",
+   "c": "Tirik, harakatchan holda",
+   "w": [
+    "Fiksatsiyalangan, bo'yalgan holda",
+    "Ko'k-binafsha rangli tuzilma sifatida",
+    "Eritrotsitlar orasida spiral shaklli",
+    "Antitelolar bilan bog'langan holda"
+   ],
+   "x": "«Qorong'i maydon mikroskopiyasida yoki yangi (ho'l) tomchi preparatida spirohetalar tirik, harakatchan holda ko'rinadi»"
+  },
+  {
+   "q": "Isitmasiz davrda olingan manfiy natija nimani anglatadi?",
+   "c": "KQT ni istisno qilmaydi",
+   "w": [
+    "KQT ni to'liq istisno qiladi",
+    "Bezgak tashxisini tasdiqlaydi",
+    "Tekshiruvni to'xtatishga asos bo'ladi",
+    "Epidemiologik tekshiruvni bekor qiladi"
+   ],
+   "x": "«Bu holat shuni ko'rsatadiki, isitmasiz davrda manfiy natija KQT ni istisno qilmaydi»"
+  },
+  {
+   "q": "Serologik testlarning cheklanishi nimada?",
+   "c": "Borrelia turlari orasida o'zaro reaksiya beradi",
+   "w": [
+    "Spirohetalar DNK sini aniqlay olmaydi",
+    "Faqat Lyme borreliozni aniqlaydi",
+    "Qalin tomchida sezgirroq hisoblanadi",
+    "Ma'lumotnoma laboratoriyalarida o'tkaziladi"
+   ],
+   "x": "«Biroq serologiya Borrelia turlari orasida o'zaro reaksiyaga (boshqa Borrelia, jumladan Lyme borrelioz bilan) kirishishi mumkin va o'tkir tashxis uchun cheklangan»"
+  },
+  {
+   "q": "PZR nimani aniqlaydi?",
+   "c": "Spirohetalar DNK sini va turini",
+   "w": [
+    "Antitelolarni va Lyme borreliozni",
+    "Eritrotsitlar orasidagi spirohetalarni",
+    "Qorong'i maydonda tirik spirohetalarni",
+    "Leykotsitlar o'zgarishi va kamqonlikni"
+   ],
+   "x": "«Molekulyar usullar (PZR) spirohetalar DNK sini aniqlaydi va turni belgilashga imkon beradi; ular ma'lumotnoma laboratoriyalarida o'tkaziladi»"
+  },
+  {
+   "q": "Endemik hududdan kelgan isitmalovchida bezgak surtmasi manfiy bo'lsa nima qilinadi?",
+   "c": "KQT ham tekshiriladi",
+   "w": [
+    "Sepsis tashxisi qo'yiladi",
+    "Serologik tahlil bilan cheklanadi",
+    "Tashxis bezgak sifatida qoladi",
+    "Faqat gripp tekshiriladi"
+   ],
+   "x": "«Shuning uchun endemik hududdan kelgan isitmalovchida bezgak surtmasi manfiy bo'lsa, KQT ni ham tekshirish kerak»"
+  },
+  {
+   "q": "Qaysi holat tashxis xatosiga kiradi?",
+   "c": "Kana chaqishi tarixi yo'qligi uchun tashxisni rad etish",
+   "w": [
+    "Isitma davrida qon surtmasidan spirohetalarni topish",
+    "Manfiy bo'lsa, isitma qaytganda tekshiruvni takrorlash",
+    "Bezgak surtmasida spirohetalarga ham e'tibor berish",
+    "Epidemiologik ma'lumotni natija bilan birga baholash"
+   ],
+   "x": "«Eng ko'p xatolar: faqat bezgakka tekshirib, spirohetalarni ko'rmaslik; isitmasiz davrda olingan namunada manfiy natija bilan to'xtash; kana chaqishi tarixi yo'qligi uchun tashxisni rad etish; serologik natijaga ortiqcha tayanish»"
+  },
+  {
+   "q": "Spirohetalar turini aniqlash uchun qaysi usul kerak?",
+   "c": "Molekulyar usul",
+   "w": [
+    "Qorong'i maydon mikroskopiyasi",
+    "Fiksatsiyalangan bo'yalgan surtma",
+    "Qalin tomchi surtmasi",
+    "Yangi tomchi preparati"
+   ],
+   "x": "«Mikroskopiyada topilgan spirohetalar KQT tashxisini tasdiqlaydi; ammo tur aniqlash uchun molekulyar usul kerak»"
+  }
+ ],
+ "073": [
+  {
+   "q": "Namuna qaysi vaqtda olinishi kerak?",
+   "c": "Isitma xuruji davrida, antibiotikdan oldin",
+   "w": [
+    "Isitmasiz davrda, antibiotikdan keyin",
+    "Isitmasiz davrda, antibiotikdan oldin",
+    "Inkubatsion davrda, kana chaqqanda",
+    "Isitma qaytganda, antibiotikdan keyin"
+   ],
+   "x": "«Eng muhim ko'rsatma: namunani isitma xuruji davrida olish»"
+  },
+  {
+   "q": "Molekulyar tahlil uchun nima olinadi?",
+   "c": "To'liq qon",
+   "w": [
+    "Qon zardobi",
+    "Qalin tomchi",
+    "Yupqa surtma",
+    "Ho'l tomchi"
+   ],
+   "x": "«Serologik tahlil uchun qon zardobi, molekulyar tahlil uchun to'liq qon olinadi»"
+  },
+  {
+   "q": "Ijobiy natija zudlik bilan kimga xabar qilinadi?",
+   "c": "Shifokorga va sanitariya-epidemiologiya xizmatiga",
+   "w": [
+    "Birgalikda tunagan odamlarga va laborantga",
+    "Laborant va tajriba laboratoriyasiga",
+    "Bemorga va tekshirgan laborantga",
+    "Tajriba laboratoriyasi va bemorga"
+   ],
+   "x": "«Ijobiy natija zudlik bilan shifokorga va sanitariya-epidemiologiya xizmatiga xabar qilinadi, chunki bu favqulodda epidemiologik tekshiruvni boshlash uchun asos»"
+  },
+  {
+   "q": "KQT ga tekshirish qaysi bemorlarda ko'rsatiladi?",
+   "c": "Bezgak surtmasi manfiy, isitmasi davom etayotganlar",
+   "w": [
+    "Bezgak surtmasi ijobiy bo'lgan, isitmasi tushganlar",
+    "Eski uyda tunamagan, isitmasiz bemorlar",
+    "Endemik hududda bo'lmagan, titroqsiz bemorlar",
+    "Guruhdan alohida tunagan, isitmasiz shaxslar"
+   ],
+   "x": "«Quyidagi shaxslarda KQT ga tekshirish ko'rsatiladi: endemik hududda (Markaziy Osiyo kabi) yashagan yoki bo'lgan va yuqori isitma, titroq, bosh og'rig'i, mushak og'rig'i bilan kelgan bemorlar; davriy (qaytalanuvchi) isitmasi bor bemorlar; eski uy, g'or, qo'ra yoki kemiruvchilar bor joyda tunaganlar; bezgak surtmasi manfiy bo'lgan, isitmasi esa davom etayotganlar; bir joyda tunagan bir necha kishi orasida isitma bo'lsa, ularning barchasi»"
+  },
+  {
+   "q": "O'tkir buyumlar qayerga tashlanadi?",
+   "c": "Maxsus idishga tashlanadi",
+   "w": [
+    "Zararsizlantiriladigan naychaga tashlanadi",
+    "Spirt solingan idishga tashlanadi",
+    "Antikoagulyant solingan naychaga tashlanadi",
+    "Metanol solingan idishga tashlanadi"
+   ],
+   "x": "«Qon bilan ishlaganda qo'lqop, xalat kiyiladi, har bir bemor uchun yangi lanset ishlatiladi, o'tkir buyumlar maxsus idishga tashlanadi, ifloslangan materiallar zararsizlantiriladi»"
+  },
+  {
+   "q": "Qorong'i maydon uchun qanday preparat tayyorlanadi?",
+   "c": "Yangi (ho'l) tomchi preparat",
+   "w": [
+    "Qalin tomchi, Giemza bilan bo'yalgan",
+    "Yupqa surtma, metanolda fiksatsiyalangan",
+    "Venoz qon, EDTA solingan naycha",
+    "Qon zardobi, serologik tahlilga mo'ljallangan"
+   ],
+   "x": "«Qorong'i maydon uchun yangi (ho'l) tomchi preparat tayyorlanadi, qoplagich oyna bilan yopiladi va darhol ko'riladi»"
+  },
+  {
+   "q": "Qon surtmasida spirohetalar qanday ko'rinadi?",
+   "c": "Eritrotsitlar orasida cho'ziq, spiral tuzilma",
+   "w": [
+    "Eritrotsitlar ichida parazitlar sifatida",
+    "Leykotsitlar orasida cho'ziq, oval tuzilma",
+    "To'qimalarda cho'ziq, spiral tuzilma",
+    "Eritrotsitlar orasida qisqa, silindrsimon tuzilma"
+   ],
+   "x": "«Qon surtmalari havoda quritiladi; yupqa surtma metanol bilan fiksatsiya qilinadi; Giemza bilan bo'yaladi (pH 7,2 buferli suvda) [3]. Bezgak uchun tavsiya etilgan bo'yash tartibi: tezkor usulda 10 foizli eritma 8–10 daqiqa, sekin usulda 3 foizli eritma 45–60 daqiqa [3]. Spirohetalar eritrotsitlar orasida cho'ziq, spiral shaklli tuzilma sifatida ko'rinadi»"
+  },
+  {
+   "q": "Preparatda bezgak parazitlari nima uchun ham izlanadi?",
+   "c": "Aralash infeksiya yoki alternativ tashxis bo'lishi mumkin",
+   "w": [
+    "Spirohetalar eritrotsitlar ichida joylashadi",
+    "Qalin tomchi faqat bezgak uchun tayyorlanadi",
+    "Isitma davrida spirohetalar ko'rinmay qoladi",
+    "Spirohetalar sonini taxminiy ko'rsatish kerak"
+   ],
+   "x": "«Preparatda bezgak parazitlari ham izlanadi, chunki aralash infeksiya yoki alternativ tashxis bo'lishi mumkin»"
+  },
+  {
+   "q": "Qo'shimcha laboratoriya tekshiruvlari nimalarni o'z ichiga oladi?",
+   "c": "Umumiy qon tahlili, biokimyo, serologiya, PZR",
+   "w": [
+    "Qon surtmasi, Giemza bo'yog'i, immersion obyektiv",
+    "Lanset, spirt, toza buyum oynasi, qo'lqop",
+    "Metanol, pH 7,2 bufer, Giemza eritmasi",
+    "Ho'l tomchi, qoplagich oyna, qorong'i maydon"
+   ],
+   "x": "«Qo'shimcha laboratoriya tekshiruvlari: umumiy qon tahlili (leykotsitlar, trombotsitlar, gemoglobin); biokimyo (jigar fermentlari, bilirubin, kreatinin, elektrolitlar); serologiya (EIA, Western blot); PZR»"
+  },
+  {
+   "q": "Namuna tayyorlash uchun qaysi buyumlar kerak?",
+   "c": "Toza buyum oynasi, steril lanset, spirt, qo'lqop",
+   "w": [
+    "Umumiy qon tahlili, biokimyo, serologiya, PZR",
+    "Qalin tomchi, yupqa surtma, ho'l tomchi, EDTA",
+    "Metanol, Giemza, bufer, qoplagich oyna",
+    "Qorong'i maydon, immersion obyektiv, spreder"
+   ],
+   "x": "«Bezgak diagnostikasi bilan bir xil: toza buyum oynasi, steril lanset, spirt, qo'lqop»"
+  }
+ ]
+}

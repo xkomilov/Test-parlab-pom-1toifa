@@ -1,0 +1,450 @@
+{
+ "139": [
+  {
+   "q": "Geofagiya nima?",
+   "c": "Tuproq, gil yoki loyni iste'mol qilish",
+   "w": [
+    "Gelmint tuxumlarining najasda uchrashi",
+    "Hayvon najasi bilan ifloslangan o'yin maydoni",
+    "Ovqatlanishni yaxshilash va ta'lim berish",
+    "Itlar va mushuklarning gijjaga qarshi davosi"
+   ],
+   "x": "«Geofagiya tuproq, gil yoki loyni ataylab yoki odat tusida iste'mol qilishdir»"
+  },
+  {
+   "q": "Geofagiya ko'pincha kimlarda uchraydi?",
+   "c": "Bolalarda va ba'zi homilador ayollarda",
+   "w": [
+    "Laborantlarda va sog'liqni saqlash xodimlarida",
+    "Ota-onalarda va ba'zi shifokorlarda",
+    "Izg'ib yuruvchi mushuk va itlarda",
+    "Kanalizatsiya yo'q hududdagi laborantlarda"
+   ],
+   "x": "«U ko'pincha bolalarda, shuningdek ba'zi homilador ayollarda va alohida madaniy yoki ruhiy holatlarda uchraydi»"
+  },
+  {
+   "q": "Geofagiya nima sababdan parazitologiyada alohida o'rganiladi?",
+   "c": "Parazitar infeksiyalarning bevosita xavf omili ekani",
+   "w": [
+    "Geofagiyaning alohida laboratoriya usuli ekani",
+    "Geofagiyaning faqat ruhiy holat ekani",
+    "Tuproqning o'zi gelmint turi ekani",
+    "Gil va loyning toksokaroz qo'zg'atuvchisi ekani"
+   ],
+   "x": "«Geofagiya parazitar infeksiyalarning bevosita xavf omili bo'lgani uchun parazitologiya darslarida alohida o'rganiladi»"
+  },
+  {
+   "q": "Geofagiyasi borlarda najasni gelmint tuxumlariga tekshirishda qaysi usullar qo'llanadi?",
+   "c": "Kato–Katz yoki konsentratsiya usullari",
+   "w": [
+    "Umumiy qon tahlili va gemoglobin o'lchash",
+    "Ota-onalar bilan ishlash va ogohlantirish",
+    "Qo'lni yuvishni o'rgatish va ta'lim",
+    "Eozinofillarni aniqlash va gemoglobin"
+   ],
+   "x": "«Geofagiyasi borlarda najasni gelmint tuxumlariga tekshirish (masalan, Kato–Katz yoki konsentratsiya usullari), umumiy qon tahlilida eozinofillar va gemoglobin ko'rsatkichlari shifokor tomonidan belgilanadi»"
+  },
+  {
+   "q": "Umumiy qon tahlilida qaysi ko'rsatkichlar belgilanadi?",
+   "c": "Eozinofillar va gemoglobin ko'rsatkichlari",
+   "w": [
+    "Kato–Katz va konsentratsiya ko'rsatkichlari",
+    "Gelmint tuxumlari va lichinkalari soni",
+    "Najas tahlili va laborant xulosasi",
+    "Tuproq va gil miqdori ko'rsatkichlari"
+   ],
+   "x": "«Geofagiyasi borlarda najasni gelmint tuxumlariga tekshirish (masalan, Kato–Katz yoki konsentratsiya usullari), umumiy qon tahlilida eozinofillar va gemoglobin ko'rsatkichlari shifokor tomonidan belgilanadi»"
+  },
+  {
+   "q": "Geofagiyani to'xtatish ko'pincha nimaga bog'liq?",
+   "c": "Tuproq yeyish sababi aniqlanishiga",
+   "w": [
+    "Gelmint tuxumlari topilishiga",
+    "Gemoglobin ko'rsatkichi oshishiga",
+    "Hayvon najasi mavjudligiga",
+    "Toza suv yetarliligiga"
+   ],
+   "x": "«Geofagiyani to'xtatish ko'pincha sabab aniqlanishiga bog'liq»"
+  },
+  {
+   "q": "Laborant geofagiyada qanday vazifani bajaradi?",
+   "c": "Tahlilni bajaradi va natijani aniq yetkazadi",
+   "w": [
+    "Tahlil natijalariga qarab tavsiyalar beradi",
+    "Ota-onalar bilan ishlaydi va davo tayinlaydi",
+    "Ovqatlanish yetishmovchiligini tuzatadi va davolaydi",
+    "Temir miqdoriga qarab davo tayinlaydi"
+   ],
+   "x": "«Laborant faqat tahlilni bajaradi va natijani aniq yetkazadi; davo tayinlamaydi»"
+  },
+  {
+   "q": "Geofagiyani ba'zan nima keltirib chiqaradi?",
+   "c": "Yetarlicha ovqatlanmaslik",
+   "w": [
+    "Gelmintlarga qarshi davolash",
+    "Hayvon najasidan himoya qilish",
+    "Qo'lni yuvishni o'rgatish",
+    "Ota-onalar bilan ishlash"
+   ],
+   "x": "«kambag'allik, ba'zan geofagiyani keltirib chiqaradigan yetarlicha ovqatlanmaslik»"
+  },
+  {
+   "q": "Tuproq yeyish tarixi bor bolaning najasida nima uchrashi mumkin?",
+   "c": "Bir nechta gelmint turi birga",
+   "w": [
+    "Faqat bitta gelmint turi",
+    "Toksokaroz lichinkalari va eozinofiliya",
+    "Kato–Katz usuli va konsentratsiya",
+    "Itlar va mushuklar gijjasi"
+   ],
+   "x": "«Tuproq yeyish tarixi bo'lgan bolaning najasida bir nechta gelmint turi birga uchrashi mumkin, shuning uchun laborant topilmani faqat bitta tur bilan cheklamasdan butun preparatni ko'rib chiqishi lozim»"
+  },
+  {
+   "q": "Geofagiyani qanday ko'rish kerak?",
+   "c": "Shaxsiy odat va ijtimoiy muammo sifatida",
+   "w": [
+    "Faqat shaxsiy odat sifatida",
+    "Laboratoriya jihatlari sifatida",
+    "Nam va iliq iqlim muammosi sifatida",
+    "Mushuk va itlar muammosi sifatida"
+   ],
+   "x": "«Demak, geofagiyani faqat shaxsiy odat sifatida emas, balki ijtimoiy muammo sifatida ham ko'rish kerak»"
+  }
+ ],
+ "140": [
+  {
+   "q": "Parazitologik usulda gelmintozlar diagnostikasida nima topiladi?",
+   "c": "Tuxum, lichinka yoki gelmint bo'laklari",
+   "w": [
+    "Antitelo yoki antigen aniqlash natijasi",
+    "Rentgen, UZI yoki tomografiya tasviri",
+    "Umumiy qon tahlilidagi eozinofiliya",
+    "Toksokaroz va exinokokkoz serologiyasi"
+   ],
+   "x": "«Gelmintozlar diagnostikasi usullarini quyidagicha guruhlash mumkin: parazitologik (tuxum, lichinka yoki gelmint bo'laklarini topish), immunologik (antitelo yoki antigen aniqlash), molekulyar, instrumental (rentgen, UZI, tomografiya) va umumiy qon tahlili»"
+  },
+  {
+   "q": "Enterobioz uchun qaysi usul qo'llaniladi?",
+   "c": "Yopishqoq tasma usuli",
+   "w": [
+    "To'g'ridan-to'g'ri nam surtma usuli",
+    "Kato–Katz usulida tuxum sanash",
+    "McMaster kabi miqdoriy usullar",
+    "Najasni lupa bilan ko'rish"
+   ],
+   "x": "«Shu sababli yopishqoq tasma usuli (Graham usuli, Scotch tape test) qo'llaniladi: tasma ertalab yuvinishdan oldin perianal terining burmalariga yopishtirilib, keyin buyum oynasiga o'tkaziladi va mikroskopda ko'riladi»"
+  },
+  {
+   "q": "Yopishqoq tasma usulida tasma qayerga yopishtiriladi?",
+   "c": "Perianal terining burmalariga",
+   "w": [
+    "Najasning standart miqdoriga",
+    "Buyum oynasining selofan qismiga",
+    "Tasmasimon chuvalchang bo'g'imlariga",
+    "Fiziologik eritmali nam surtmaga"
+   ],
+   "x": "«Shu sababli yopishqoq tasma usuli (Graham usuli, Scotch tape test) qo'llaniladi: tasma ertalab yuvinishdan oldin perianal terining burmalariga yopishtirilib, keyin buyum oynasiga o'tkaziladi va mikroskopda ko'riladi»"
+  },
+  {
+   "q": "Kato–Katz usuli qanday natija beradi?",
+   "c": "Najasning bir grammidagi tuxum soni",
+   "w": [
+    "Gelmint turini aniq aniqlash",
+    "Antitelolar miqdorini aniqlash",
+    "Tasmasimon chuvalchang bo'g'imlari soni",
+    "Qon tahlilidagi eozinofiliya"
+   ],
+   "x": "«Kato–Katz usuli najasning standart miqdorini selofan bilan yopib tuxumlarni sanashga imkon beradi va tuxum soni (epg, najasning bir grammidagi tuxumlar) beradi»"
+  },
+  {
+   "q": "Askaridada qaysi tuxum soni og'ir intensivlikka mos keladi?",
+   "c": "50 000 epg va undan yuqori",
+   "w": [
+    "1–4999 epg",
+    "5000–49 999 epg",
+    "10 000 epg va undan yuqori",
+    "1000–9999 epg"
+   ],
+   "x": "«Intensivlik toifalari: askaridada 1–4999 epg yengil, 5000–49 999 o'rta, 50 000 va undan yuqori og'ir; qilbosh chuvalangda 1–999 yengil, 1000–9999 o'rta, 10 000 va undan yuqori og'ir»"
+  },
+  {
+   "q": "Strongiloidozda nima uchun maxsus usullar kerak?",
+   "c": "Tuxum emas, lichinkalar topiladi",
+   "w": [
+    "Tasmasimon chuvalchang bo'laklari topiladi",
+    "Tuxumlar perianal sohada qo'yiladi",
+    "Kasallik tasvirlash bilan aniqlanadi",
+    "Tuxumlar najasda topiladi"
+   ],
+   "x": "«Ba'zi gelmintozlarda (masalan, strongiloidozda) tuxum emas, lichinkalar topiladi va bunday hollarda maxsus usullar kerak bo'ladi»"
+  },
+  {
+   "q": "Serologik natijalar qanday baholanadi?",
+   "c": "Klinik tasvir bilan birga",
+   "w": [
+    "Faqat najas tekshiruvi natijasiga qarab",
+    "Tasvirlash usullaridan alohida holda",
+    "Kato–Katz epg ko'rsatkichiga qarab",
+    "Intensivlik toifasiga qarab"
+   ],
+   "x": "«Shuning uchun serologik natijalar klinik tasvir bilan birga baholanadi»"
+  },
+  {
+   "q": "Neyrotsistitserkoz tashxisida oltin standart qaysi?",
+   "c": "Tasvirlash usullari",
+   "w": [
+    "Nam surtma usuli",
+    "Yopishqoq tasma usuli",
+    "Umumiy qon tahlili",
+    "Kato–Katz usuli"
+   ],
+   "x": "«Jigar, o'pka yoki miyada joylashgan gelmintozlar (exinokokkoz, neyrotsistitserkoz) uchun tasvirlash usullari (UZI, tomografiya) hal qiluvchi»"
+  },
+  {
+   "q": "Manfiy natijada nima yoziladi?",
+   "c": "Qaysi usul va nechta namuna ko'rilgani",
+   "w": [
+    "Topilgan tuxum turi va miqdori",
+    "Intensivlik toifasi va epg",
+    "Tuxumlar morfologik farqi va soni",
+    "Serologik usul va antitelo turi"
+   ],
+   "x": "«Manfiy natijada ham qaysi usul va nechta namuna ko'rilgani qayd etiladi, chunki bitta manfiy namuna zararlanishni istisno qilmaydi»"
+  },
+  {
+   "q": "Makroskopik tekshiruvda najas ko'z yoki lupa bilan ko'rilganda nima topiladi?",
+   "c": "Gelmint bo'laklari yoki butun gelmintlarni",
+   "w": [
+    "Strongyloides lichinkalari va tuxumlar",
+    "Fiziologik eritma bilan nam surtma",
+    "Kato–Katz usuli bilan epg",
+    "Antitelo yoki antigen aniqlash"
+   ],
+   "x": "«Najasni ko'z bilan yoki lupa bilan ko'rish gelmint bo'laklarini (masalan, tasmasimon chuvalchang bo'g'imlari) yoki butun gelmintlarni topishga imkon beradi»"
+  }
+ ],
+ "141": [
+  {
+   "q": "Ichak gelmintozlarini tekshirish qaysi ikki sababga ko'ra tayinlanadi?",
+   "c": "Shikoyat bo'lganda va xavf guruhlarida",
+   "w": [
+    "Ommaviy davolash va monitoring dasturida",
+    "Davolashdan keyin nazorat va dispanser kuzatuvida",
+    "Faqat o'sishdan orqada qolgan bolalarda",
+    "Namuna tayyorlash va yo'llanma yozilganda"
+   ],
+   "x": "«Tekshiruv ikki sababga ko'ra tayinlanadi: shikoyat va belgilar bo'lganda (klinik ko'rsatma) hamda zararlanish xavfi yuqori bo'lgan guruhlarda belgisiz bo'lsa ham (epidemiologik ko'rsatma)»"
+  },
+  {
+   "q": "JSST ma'lumotiga ko'ra, dunyo aholisining necha foizi tuproq gelmintlari bilan zararlangan?",
+   "c": "24 foizi",
+   "w": [
+    "20 foizi",
+    "50 foizi",
+    "5 foizi",
+    "1,5 foizi"
+   ],
+   "x": "«taxminan 1,5 milliard odam, ya'ni dunyo aholisining 24 foizi zararlangan»"
+  },
+  {
+   "q": "Ankilostomalar kimlarda kamqonlikka sabab bo'lishi mumkin?",
+   "c": "O'spirin qizlar va tug'ish yoshidagi ayollarda",
+   "w": [
+    "Sayohatdan qaytganlar va ko'chib kelganlar",
+    "Sabzavot yetishtiruvchilar va fermer xo'jaligida ishlovchilar",
+    "Maktab, bolalar uyi va internat bolalari",
+    "Oziq-ovqat korxonalari va sog'lomlashtirish oromgohlari"
+   ],
+   "x": "«JSST ma'lumotiga ko'ra, ankilostomalar ichakda surunkali qon yo'qotilishiga olib keladi va bu o'spirin qizlar va tug'ish yoshidagi ayollarda kamqonlikka sabab bo'lishi mumkin»"
+  },
+  {
+   "q": "Kamqonlik gelmintozni istisno qilish uchun nima sababdan ko'rsatma bo'ladi?",
+   "c": "Ankilostomalar surunkali qon yo'qotilishiga olib keladi",
+   "w": [
+    "Qilbosh chuvalang diareya va dizenteriya keltirib chiqaradi",
+    "Enterobioz oilada va jamoada tarqaladi",
+    "Askarida tuxumlari najas bilan chiqadi",
+    "Tasmasimon chuvalanglar eozinofiliya keltirib chiqaradi"
+   ],
+   "x": "«JSST ma'lumotiga ko'ra, ankilostomalar ichakda surunkali qon yo'qotilishiga olib keladi va bu o'spirin qizlar va tug'ish yoshidagi ayollarda kamqonlikka sabab bo'lishi mumkin»"
+  },
+  {
+   "q": "Enterobioz aniqlansa, boshqa oila a'zolari nima sababdan tekshiriladi?",
+   "c": "Oilada va jamoada tarqaladi",
+   "w": [
+    "Davolashdan keyin kuzatuv kerak",
+    "Faqat bolalar zararlanadi",
+    "Tuproq orqali yuqadi",
+    "Yengil intensivlikda belgisiz bo'ladi"
+   ],
+   "x": "«Enterobioz oilada va jamoada tez tarqaladi, shuning uchun bitta bola aniqlansa, boshqa a'zolar ham tekshiriladi»"
+  },
+  {
+   "q": "JSST tuproq gelmintlari tarqalishi qancha bo'lgan hududlarda ommaviy davolashni tavsiya qilgan?",
+   "c": "20 foiz va undan yuqori",
+   "w": [
+    "20 foizdan past",
+    "50 foiz va undan yuqori",
+    "24 foiz va undan past",
+    "1,5 foiz va undan yuqori"
+   ],
+   "x": "«JSST tuproq gelmintlari tarqalishi 20 foiz va undan yuqori bo'lgan hududlarda albendazol yoki mebendazol bilan davriy ommaviy davolashni tavsiya qilgan»"
+  },
+  {
+   "q": "Yengil intensivlikdagi zararlanish qanday kechadi?",
+   "c": "Odatda kasallik belgilari bermaydi",
+   "w": [
+    "Diareya va qorin og'rig'i beradi",
+    "Ichak tutilishi keltirib chiqaradi",
+    "O'sish va rivojlanishni susaytiradi",
+    "Kamqonlik va holsizlik keltirib chiqaradi"
+   ],
+   "x": "«JSST tuproq gelmintlari yengil intensivlikda odatda kasallik belgilari bermasligini, og'ir zararlanishda esa belgilar paydo bo'lishini ta'kidlaydi»"
+  },
+  {
+   "q": "Ichak gelmintozlarida nazorat najas tekshiruvi qachon o'tkaziladi?",
+   "c": "Davolashdan 1 oy o'tgach",
+   "w": [
+    "Davolashdan 3 oy o'tgach",
+    "Davolashdan 5 yil o'tgach",
+    "Davolashdan 6 oy o'tgach",
+    "Davolashdan 2 yil o'tgach"
+   ],
+   "x": "«6-ilovaga ko'ra ichak gelmintozlarida nazorat najas tekshiruvi davolashdan 1 oy o'tgach, biogelmintozlarda esa 3–4–5 oydan keyin dispanser kuzatuvi davomida kamida 3 marta o'tkaziladi»"
+  },
+  {
+   "q": "Enterobioz va gimenolepidozga klinik ko'rsatmadan qat'i nazar kimlar tekshiriladi?",
+   "c": "Shifoxonaga kelgan maktabgacha yoshdagi bolalar",
+   "w": [
+    "Fermer xo'jaligida ishlovchi kattalar",
+    "Oziq-ovqat korxonalariga kirayotgan xodimlar",
+    "Sayohatdan qaytgan muhojirlar",
+    "Tibbiy ko'rsatma bo'yicha bemorlar"
+   ],
+   "x": "«Shifoxonaga kelgan maktabgacha yoshdagi va boshlang'ich sinf bolalari klinik ko'rsatmadan qat'i nazar enterobioz va gimenolepidozga DPM laboratoriyalarida tekshiriladi»"
+  },
+  {
+   "q": "Bemorni laboratoriyaga yuborishda yo'llanmaga nima yoziladi?",
+   "c": "Birlamchi tashxis",
+   "w": [
+    "Intensivlik toifalari va epg",
+    "Namuna belgilanishi va topshirilishi",
+    "Zararlanish turi va intensivligi",
+    "Toza quruq idish va namuna"
+   ],
+   "x": "«6-ilovaga ko'ra bemorni laboratoriya tekshiruviga yuborishda yo'llanmaga birlamchi tashxis yozilishi kerak, chunki u qo'zg'atuvchini aniqlash yoki rad etish uchun qaysi usuldan foydalanishni belgilaydi»"
+  }
+ ],
+ "142": [
+  {
+   "q": "Muntazam nazorat qaysi savollarga javob beradi?",
+   "c": "Tarqalish, intensivlik va davolash natijasi",
+   "w": [
+    "Gelmint turi, usul va laboratoriya sifati",
+    "Namuna turi, tuxum soni va sanasi",
+    "Intensivlik, sifat nazorati va hisobot",
+    "Tarqalish, namuna olish va qayd etish"
+   ],
+   "x": "«Nazorat uch savolga javob beradi: hududda zararlanish qancha tarqalgan, zararlanish intensivligi qanday va davolash dasturi natija berayaptimi»"
+  },
+  {
+   "q": "Dehelmintizatsiya dasturlari qaysi hududlarda tavsiya etilgan?",
+   "c": "20 foiz va undan yuqori tarqalgan hududlarda",
+   "w": [
+    "20 foizdan past tarqalgan hududlarda",
+    "5 foizdan kam tarqalgan hududlarda",
+    "Strongiloidoz xavfi bo'lgan hududlarda",
+    "Tuxum yo'q deb baholangan hududlarda"
+   ],
+   "x": "«Dehelmintizatsiya dasturlari tarqalish 20 foiz va undan yuqori bo'lgan hududlarda tavsiya etilgan»"
+  },
+  {
+   "q": "Muntazam nazoratda eng ko'p ishlatiladigan usul qaysi?",
+   "c": "Najasda tuxumlarni topish",
+   "w": [
+    "Antitelolarni aniqlash usullari",
+    "Strongiloidoz uchun maxsus usullar",
+    "Tarqalish va intensivlik hisoboti",
+    "Namuna olish va saqlash tartibi"
+   ],
+   "x": "«Eng ko'p ishlatiladigan usul — najasda tuxumlarni topish»"
+  },
+  {
+   "q": "JSST nechta intensivlik toifasini belgilagan?",
+   "c": "4 toifa",
+   "w": [
+    "3 toifa",
+    "5 toifa",
+    "2 toifa",
+    "6 toifa"
+   ],
+   "x": "«JSST belgilagan to'rt toifa mavjud: tuxum yo'q, yengil, o'rta va og'ir intensivlik»"
+  },
+  {
+   "q": "Qilbosh chuvalangda qaysi tuxum soni yengil intensivlikka mos keladi?",
+   "c": "1–999 epg",
+   "w": [
+    "1–4999 epg",
+    "1000–9999 epg",
+    "10 000 epg va undan yuqori",
+    "5000–49 999 epg"
+   ],
+   "x": "«Qilbosh chuvalangda 1–999 epg yengil, 1000–9999 o'rta, 10 000 va undan yuqori og'ir»"
+  },
+  {
+   "q": "Strongiloidoz nazoratda nima uchun alohida e'tibor talab qiladi?",
+   "c": "Boshqa diagnostik usullar talab qiladi",
+   "w": [
+    "Albendazol va mebendazolga sezgir",
+    "Tuxum sanash bilan aniqlanadi",
+    "Faqat tarqalish past hududlarda uchraydi",
+    "Tuproq gelmintlari bilan bir xil aniqlanadi"
+   ],
+   "x": "«JSST Strongyloides stercoralis boshqa tuproq gelmintlaridan farqli diagnostik usullarni talab qilishini, shu sababli u ko'pincha aniqlanmay qolishini yozgan; u albendazol va mebendazolga sezgir emas»"
+  },
+  {
+   "q": "Immunologik usullar aholi monitoringida nima sababdan ehtiyotkorlik bilan qo'llanadi?",
+   "c": "Antitelolar joriy va o'tgan infeksiyani farqlamaydi",
+   "w": [
+    "Tarqalish va intensivlikni aniq o'lchaydi",
+    "Tuxumlarni najasda topishga imkon beradi",
+    "Mikroskopistlarni o'qitishni talab qiladi",
+    "Namunalar sonini kamaytirishga imkon beradi"
+   ],
+   "x": "«JSST trematodozlar bo'yicha immunologik usullar sezgirroq bo'lishi mumkin, ammo antitelolar aniqlash joriy, yaqinda o'tgan va o'tgan infeksiyani farqlamasligini ko'rsatadi»"
+  },
+  {
+   "q": "Muntazam nazorat natijalari qachon ishonchli bo'ladi?",
+   "c": "Laboratoriya sifati yaxshi bo'lganda",
+   "w": [
+    "Hududlarda turli usullar qo'llanganda",
+    "Namunalar soni kam bo'lganda",
+    "Faqat immunologik usullar ishlatilganda",
+    "Mikroskopistlar o'qitilmagan bo'lganda"
+   ],
+   "x": "«Muntazam nazorat natijalari faqat laboratoriya sifati yaxshi bo'lganda ishonchli»"
+  },
+  {
+   "q": "Hududlar o'rtasida natijalarni qiyoslash uchun nima kerak?",
+   "c": "Bir xil usul qo'llanishi",
+   "w": [
+    "Turli sezgir usullar qo'llanishi",
+    "Faqat immunologik usullar qo'llanishi",
+    "Namunalar soni kamaytirilishi",
+    "Mikroskopistlar soni oshirilishi"
+   ],
+   "x": "«Hududlar o'rtasida qiyoslash uchun bir xil usul qo'llanishi kerak»"
+  },
+  {
+   "q": "Mikroskopiya aniq bo'lishi uchun nima kerak?",
+   "c": "Mutaxassislar yaxshi o'qitilgan bo'lishi",
+   "w": [
+    "Tuxumlar soni kam bo'lishi",
+    "Albendazol va mebendazolga sezgir bo'lishi",
+    "Strongiloidoz xavfi mavjud bo'lishi",
+    "Tarqalish 20 foizdan yuqori bo'lishi"
+   ],
+   "x": "«JSST ham mikroskopiya aniq bo'lishi uchun mutaxassislar yaxshi o'qitilgan bo'lishi shartligini yozgan»"
+  }
+ ]
+}

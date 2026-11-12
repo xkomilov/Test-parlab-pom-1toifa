@@ -1,0 +1,450 @@
+{
+ "096": [
+  {
+   "q": "Teniarinxoz va teniozda klinik belgilar nospesifik bo'lgani uchun tashxis nimani talab qiladi?",
+   "c": "Laboratoriya tasdig'ini",
+   "w": [
+    "Epidemiologik anamnezni",
+    "Bemor shikoyatlarini",
+    "Kamqonlik belgilarini",
+    "Eozinofiliya aniqlanishini"
+   ],
+   "x": "«Klinik belgilar nospesifik bo'lgani uchun tashxis laboratoriya tasdig'ini talab qiladi: chuvalchang bo'g'imlarini yoki tuxumini topish va turini aniqlash»"
+  },
+  {
+   "q": "Nega tashxisda tur aniqlash zarur?",
+   "c": "T. solium sistitserkoz xavfini tug'diradi",
+   "w": [
+    "T. saginata bo'g'imlari faol chiqmaydi",
+    "Tuxumlarni mikroskopda ajratib bo'ladi",
+    "T. saginata neyrosistitserkoz keltiradi",
+    "T. solium bo'g'imlari faol chiqadi"
+   ],
+   "x": "«solium sistitserkoz xavfini tug'diradi»"
+  },
+  {
+   "q": "Teniarinxoz va teniozda eng ishonchli va oddiy tashxis usuli qaysi?",
+   "c": "Bemor keltirgan bo'g'imni tekshirish",
+   "w": [
+    "Najas mikroskopiyasida tuxum izlash",
+    "Koproantigenni aniqlash",
+    "Mushaklar rentgenini o'tkazish",
+    "Qon tahlilini o'tkazish"
+   ],
+   "x": "«Eng ishonchli va oddiy usul — bemor keltirgan bo'g'imni laboratoriyada tekshirish»"
+  },
+  {
+   "q": "Laboratoriyaga yuboriladigan tasmasimon chuvalchang bo'g'imi qanday saqlanadi?",
+   "c": "Fiziologik eritmada yoki 70 foizli spirtda",
+   "w": [
+    "Glitserin yoki sirka kislotasida",
+    "Tush yoki karmin aralashmasida",
+    "Buyum oynasi orasida yoyilgan holda",
+    "Quritilgan yoki parchalangan holda"
+   ],
+   "x": "«Bo'g'im toza idishda, fiziologik eritmada yoki 70 foizli spirtda saqlanadi»"
+  },
+  {
+   "q": "T. saginata bo'g'imida bachadon yon tarmoqlari soni qancha?",
+   "c": "15–20 tadan ortiq",
+   "w": [
+    "7–13 tadan kam",
+    "15–20 tadan kam",
+    "20 tadan kam",
+    "10 tadan kam"
+   ],
+   "x": "«saginata bo'g'imida yon tarmoqlar ko'p (15–20 tadan ortiq), T»"
+  },
+  {
+   "q": "Tasmasimon chuvalchang tuxumlarini topishda yopishqoq tasma usuli qachon qo'llanadi?",
+   "c": "Ertalab, yuvinishdan oldin",
+   "w": [
+    "Yuvinishdan keyin, davolashdan oldin",
+    "Davolashdan oldin, ertalab",
+    "Najas tahlilidan keyin",
+    "Bo'g'im chiqqanda"
+   ],
+   "x": "«Bu usul tasmasimon chuvalchang tuxumlarini topishda qo'llanadi: ertalab, yuvinishdan oldin yopishqoq tasma perianal sohaga bosiladi va mikroskopda ko'riladi»"
+  },
+  {
+   "q": "Tur aniqlash uchun qaysi belgilar asosiy?",
+   "c": "Bachadon tarmoqlari va skoleks tuzilishi",
+   "w": [
+    "Radial chiziqli qobiq va onkosfera",
+    "Najasda tuxum topilishi va soni",
+    "Perianal terida tuxum qolishi",
+    "Yopishqoq tasma va perianal qirindi"
+   ],
+   "x": "«Tur aniqlash uchun bo'g'imdagi bachadon tarmoqlari soni va skoleks tuzilishi (kancha bor-yo'qligi) asosiy belgilar»"
+  },
+  {
+   "q": "Qaysi usul tur aniqlashga imkon beradi?",
+   "c": "Molekulyar usullar (PZR)",
+   "w": [
+    "Perianal qirindi",
+    "Yopishqoq tasma usuli",
+    "Takroriy najas tekshiruvi",
+    "Bo'g'imni lupa orqali ko'rish"
+   ],
+   "x": "«Molekulyar usullar (PZR) tur aniqlashga imkon beradi va ma'lumotnoma laboratoriyalarida o'tkaziladi»"
+  },
+  {
+   "q": "Neyrosistitserkoz tashxisining oltin standarti qaysi?",
+   "c": "Vizualizatsiya (tasvirlash) usullari",
+   "w": [
+    "Mushaklar rentgeni va serologiya",
+    "Umumiy qon tahlili va eozinofiliya",
+    "Najas mikroskopiyasi va koproantigen",
+    "Perianal qirindi va yopishqoq tasma"
+   ],
+   "x": "«solium gumon qilinsa, bemor sistitserkozga tekshiriladi (neyrovizualizatsiya, mushaklar rentgeni, serologiya); Jahon sog'liqni saqlash tashkilotiga ko'ra neyrosistitserkoz tashxisining oltin standarti vizualizatsiya (tasvirlash) usullari»"
+  },
+  {
+   "q": "Najas tahlilining sezgirligi nega pastroq?",
+   "c": "Tuxum najasda doim topilmaydi",
+   "w": [
+    "Najas tahlilida bo'g'imlar ko'p topiladi",
+    "Tuxum perianal terida ko'p qoladi",
+    "Tuxumlar bir xil bo'ladi",
+    "Tuxum juda katta bo'ladi"
+   ],
+   "x": "«Biroq tuxum chuvalchang bo'g'imlari ajralgan paytda ko'p chiqadi va najasda doim topilmaydi, shuning uchun najas tahlilining sezgirligi pastroq»"
+  }
+ ],
+ "097": [
+  {
+   "q": "Teniozda ichak taeniazi qaysi go'sht orqali yuz beradi?",
+   "c": "Xom cho'chqa go'shti",
+   "w": [
+    "Xom qoramol go'shti",
+    "Yarim xom mol go'shti",
+    "Tuz-qaynatma mol go'shti",
+    "Qoramolning oldindan tekshirilmagan go'shti"
+   ],
+   "x": "«solium taeniazi odamlarda xom yoki yaxshi pishmagan cho'chqa go'shti orqali yuz berishini ta'kidlaydi»"
+  },
+  {
+   "q": "Teniarinxozda odam sistitserkozga nega chalinmaydi?",
+   "c": "Odam oraliq xo'jayin emas",
+   "w": [
+    "Cho'chqa go'shti iste'mol qilinmaydi",
+    "Chuvalchang ichakda yashamaydi",
+    "Tuxum najas bilan chiqmaydi",
+    "Sistitserk kanchasiz bo'ladi"
+   ],
+   "x": "«saginata tuxumlarini yutganda kasallanmaydi: odam bu parazitning oraliq xo'jayini emas, shuning uchun teniarinxozda sistitserkoz bo'lmaydi»"
+  },
+  {
+   "q": "Neyrosistitserkoz qaysi kasallikning oldini olish mumkin bo'lgan sababi?",
+   "c": "Epilepsiyaning",
+   "w": [
+    "Ichak taeniazining",
+    "Teniarinxozning",
+    "Autoinvaziyaning",
+    "Bosh og'rig'ining"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti neyrosistitserkozni epilepsiyaning eng ko'p uchraydigan oldini olish mumkin bo'lgan sababi deb ataydi: T»"
+  },
+  {
+   "q": "Teniozning teniarinxozdan farqi nimada?",
+   "c": "Skoleksda kancha bor",
+   "w": [
+    "Skoleksda kancha yo'q",
+    "Oraliq xo'jayin qoramol",
+    "Odam faqat oxirgi xo'jayin",
+    "Sistitserkoz xavfi yo'q"
+   ],
+   "x": "«Qisqacha taqqoslash: teniarinxoz — qoramol, skoleksda kancha yo'q, odam faqat oxirgi xo'jayin, sistitserkoz yo'q; tenioz — cho'chqa, skoleksda kancha bor, odam ham oxirgi, ham tasodifiy oraliq xo'jayin, sistitserkoz va neyrosistitserkoz xavfi bor»"
+  },
+  {
+   "q": "Cho'chqalar qanday zararlanadi?",
+   "c": "Ifloslangan yem va tuproqdan tuxum yutadi",
+   "w": [
+    "Yaylov va suv orqali tuxum yutadi",
+    "Xom go'sht orqali sistitserk yutadi",
+    "Tuproq orqali sistitserk yutadi",
+    "Xom qoramol go'shtini yeb zararlanadi"
+   ],
+   "x": "«Cho'chqalar erkin yuradigan joylarda najas bilan ifloslangan yem va tuproqdan tuxum yutadi»"
+  },
+  {
+   "q": "Teniarinxoz va teniozda yuqish zanjirining kaliti nima?",
+   "c": "Odam najasining hayvon muhitiga tushishi",
+   "w": [
+    "Go'sht ekspertizasining yo'qligi",
+    "Sistitserkning mushaklarda joylashishi",
+    "Go'sht pishirish odatlarining o'zgarishi",
+    "Veterinar nazoratsiz so'yishning ko'payishi"
+   ],
+   "x": "«Ikkala holatda ham odam najasining hayvon muhitiga tushishi zanjirning kaliti»"
+  },
+  {
+   "q": "Tenioz uchun alohida omil qaysi?",
+   "c": "Erkin yuradigan cho'chqalar",
+   "w": [
+    "Xom yoki yarim xom mol go'shti",
+    "Veterinar nazorati zaifligi",
+    "Yaylovlar va suvning ifloslanishi",
+    "Qoramolni oldindan tekshirmasdan sotish"
+   ],
+   "x": "«Tenioz uchun alohida omillar: cho'chqachilik rivojlangan, cho'chqa go'shti iste'mol qilinadigan jamoalar; erkin yuradigan cho'chqalar; taeniaz bilan og'rigan oila a'zosi (tuxum manbai, sistitserkoz xavfi); taeniaz tashuvchisining oziq-ovqat bilan ishlashi»"
+  },
+  {
+   "q": "Teniozda odam qanday xo'jayin hisoblanadi?",
+   "c": "Oxirgi va tasodifiy oraliq",
+   "w": [
+    "Faqat oxirgi xo'jayin hisoblanadi",
+    "Odam oxirgi xo'jayin emas",
+    "Qoramol oraliq xo'jayin hisoblanadi",
+    "Cho'chqa oxirgi xo'jayin hisoblanadi"
+   ],
+   "x": "«Qisqacha taqqoslash: teniarinxoz — qoramol, skoleksda kancha yo'q, odam faqat oxirgi xo'jayin, sistitserkoz yo'q; tenioz — cho'chqa, skoleksda kancha bor, odam ham oxirgi, ham tasodifiy oraliq xo'jayin, sistitserkoz va neyrosistitserkoz xavfi bor»"
+  },
+  {
+   "q": "T. solium tuxumlarini fekal–oral yo'l bilan yutish nimaga olib keladi?",
+   "c": "Sistitserkozga",
+   "w": [
+    "Ichak taeniaziga",
+    "Teniarinxozga",
+    "Qoramol zararlanishiga",
+    "Taeniaz tashuvchiligiga"
+   ],
+   "x": "«solium tuxumlarini fekal–oral yo'l bilan yutishi natijasida to'qimalarda lichinka bosqichi (sistitserkoz) rivojlanishi mumkinligini ta'kidlaydi; T»"
+  },
+  {
+   "q": "Teniozda ikkinchi mumkin bo'lgan yo'l qaysi?",
+   "c": "Tuxum yutilib sistitserkoz rivojlanishi",
+   "w": [
+    "Xom go'sht yeyilib ichak taeniazi rivojlanishi",
+    "Cho'chqalar yem orqali zararlanishi",
+    "Qoramol go'shti orqali teniarinxoz rivojlanishi",
+    "Ichakda voyaga yetgan chuvalchang yashashi"
+   ],
+   "x": "«Ikkinchisi — sistitserkoz: odam T. solium tuxumlarini yutadi (fekal–oral yo'l bilan, yoki ifloslangan oziq-ovqat va suv orqali), tuxumlardan lichinkalar (sistitserklar) mushaklar, teri, ko'z va markaziy asab tizimida rivojlanadi»"
+  }
+ ],
+ "098": [
+  {
+   "q": "Qoramolda teniarinxoz sistitserkozi qanday aniqlanadi?",
+   "c": "So'yishdan keyingi ko'rik orqali",
+   "w": [
+    "Klinik belgilar bo'yicha ko'rik orqali",
+    "Yaylov va suv tekshiruvi orqali",
+    "Hojatxona va yem tekshiruvi orqali",
+    "Najas tekshirish orqali"
+   ],
+   "x": "«Teniarinxoz sistitserkozi qoramolda odatda klinik belgisiz kechadi, shu sababli uni faqat so'yishdan keyingi ko'rik (go'sht ekspertizasi) aniqlaydi»"
+  },
+  {
+   "q": "Teniarinxoz va boshqa zoonozlar tarqalishining asosiy sababi nima?",
+   "c": "Nazoratsiz hayvon so'yish",
+   "w": [
+    "Go'sht bozorlarida nazorat o'tkazilishi",
+    "So'yilgan hayvonlarning hisobi yuritilishi",
+    "Uy so'yimida ekspertiza o'tkazilishi",
+    "Ekspertiza qoidalarining bajarilishi"
+   ],
+   "x": "«Nazoratsiz so'yish teniarinxoz va boshqa zoonozlar tarqalishining asosiy sababi»"
+  },
+  {
+   "q": "Kuchli zararlanishda go'sht nima qilinadi?",
+   "c": "Yo'qotiladi",
+   "w": [
+    "Iste'molga ruxsat beriladi",
+    "Chuqur muzlatiladi",
+    "Uzoq vaqt qaynatiladi",
+    "Bozorga yuboriladi"
+   ],
+   "x": "«Odatda yengil zararlanishda (kam sistitserk) go'sht ishlov berilgandan keyin (masalan, chuqur muzlatish yoki uzoq vaqt qaynatish/pishirish) iste'molga ruxsat berilishi mumkin, kuchli zararlanishda esa go'sht yo'qotiladi»"
+  },
+  {
+   "q": "Veterinariya chora-tadbirlari uy so'yimiga qanday talab qo'yadi?",
+   "c": "Go'sht ekspertizasidan o'tkazish",
+   "w": [
+    "Go'sht bozorida tekshirishga yuborish",
+    "So'yilgan hayvon hisobidan chiqarish",
+    "Ekspertizasiz iste'molga ruxsat berish",
+    "Begona shaxslardan himoya qilish"
+   ],
+   "x": "«Veterinariya chora-tadbirlari so'yish joylarini ham qamrab oladi: hayvonlarni faqat ruxsat etilgan, nazorat ostidagi so'yish joylarida so'yish; uy so'yimida ham go'sht ekspertizasidan o'tkazish; so'yilgan hayvonlarning hisobi; go'sht bozorlarida nazorat»"
+  },
+  {
+   "q": "Qoramol qaysi orqali zararlanadi?",
+   "c": "Ifloslangan yaylov, suv va yem",
+   "w": [
+    "Sistitserkli go'sht iste'moli",
+    "Nazorat ostidagi so'yish joylari",
+    "Go'sht bozorlari va ekspertiza",
+    "Yaylovdagi begona shaxslar"
+   ],
+   "x": "«Qoramolning zararlanishi odam najasi bilan ifloslangan yaylov, suv va yem orqali yuz beradi»"
+  },
+  {
+   "q": "Veterinariya xizmati va chorvadorlar nimani ta'minlashi kerak?",
+   "c": "Yaylovlarda hojatxonalar mavjudligi",
+   "w": [
+    "Sug'orishda oqova suv ishlatilishi",
+    "Ishchilarning yaylovda hojat qilishi",
+    "Fermalarga begona shaxslar kirishi",
+    "Yem va suvni ifloslantirish"
+   ],
+   "x": "«Veterinariya xizmati va chorvadorlar quyidagilarni ta'minlashi kerak: yaylovlar va fermalarda hojatxonalar mavjudligi; chorvadorlar va ishchilarning yaylovda hojat qilmasligi; sug'orishda oqova suv va najasni ishlatmaslik; fermalarni begona shaxslardan himoya qilish; yem va suvni ifloslanishdan saqlash»"
+  },
+  {
+   "q": "Veterinar go'shtda sistitserk topsa, kimga xabar beradi?",
+   "c": "Sanitariya-epidemiologiya xizmatiga",
+   "w": [
+    "Chorvadorlar va xo'jalik ishchilariga",
+    "Go'sht bozori va chorvadorlarga",
+    "Tibbiyot xodimi va chorvadorlarga",
+    "Tibbiyot xodimlari va veterinarlarga"
+   ],
+   "x": "«Veterinar go'shtda sistitserk topsa, bu haqda sanitariya-epidemiologiya xizmatiga xabar beradi; epidemiolog zararlangan hayvon manbasini (xo'jalik, yaylov) aniqlashga yordam beradi; tibbiyot xizmati teniarinxozli bemorlar haqida veterinariyaga xabar beradi, shunda ularning hayvonlari tekshiriladi»"
+  },
+  {
+   "q": "Chorvadorlarga nima tushuntiriladi?",
+   "c": "Odamdagi chuvalchang najasi qoramolga xavfli",
+   "w": [
+    "Go'shtni tekshirmasdan sotish xavfsiz",
+    "Hojatxona bo'lishi shart emas",
+    "Xom go'sht iste'moli xavfsiz",
+    "Najas qoramolga zarar keltirmaydi"
+   ],
+   "x": "«Chorvadorlarga teniarinxoz tarqalishi haqida tushuntirish beriladi: odamda chuvalchang bo'lsa, uning najasi qoramolga xavfli; o'z hojatxonasi bo'lishi kerak; go'shtni tekshirmasdan sotish va iste'mol qilish xavfli»"
+  },
+  {
+   "q": "Veterinariya tadbirlarining samarasi nimaga bog'liq?",
+   "c": "Go'sht ekspertizasi sifatiga",
+   "w": [
+    "Sanitariya-ma'rifiy ishlarga",
+    "Tripartit hamkorlikka",
+    "Go'sht bozorlari hisobiga",
+    "So'yilgan hayvonlar hisobiga"
+   ],
+   "x": "«Veterinariya tadbirlarining samarasi go'sht ekspertizasi sifatiga bog'liq: sistitserklar ko'p hollarda yengil zararlanishda kam bo'ladi va kesimda bir nechta mushak ko'rilmasa, ular o'tkazib yuborilishi mumkin»"
+  },
+  {
+   "q": "Nega ekspertizada bir nechta mushak ko'riladi?",
+   "c": "Yengil zararlanishda sistitserk kam bo'ladi",
+   "w": [
+    "Sistitserklar faqat tilda bo'ladi",
+    "Kuchli zararlanishda sistitserk kam bo'ladi",
+    "Kesimda sistitserklar doim ko'rinadi",
+    "Ekspertiza bitta mushakni ko'radi"
+   ],
+   "x": "«Veterinariya tadbirlarining samarasi go'sht ekspertizasi sifatiga bog'liq: sistitserklar ko'p hollarda yengil zararlanishda kam bo'ladi va kesimda bir nechta mushak ko'rilmasa, ular o'tkazib yuborilishi mumkin»"
+  }
+ ],
+ "099": [
+  {
+   "q": "Teniarinxoz holatini epidemiologik tekshirishning ikkinchi yo'nalishi nima?",
+   "c": "Qoramolning zararlanish xavfini baholash",
+   "w": [
+    "Odamdan odamga yuqish xavfini baholash",
+    "Davolash samarasini baholash",
+    "Tashxisni va turni tasdiqlash",
+    "Veterinariya zanjirini uzish"
+   ],
+   "x": "«Teniarinxoz odamdan odamga bevosita yuqmaydi, shu sababli tekshiruv asosan ikki yo'nalishda boradi: zararlangan go'sht manbasini topish (veterinariya zanjiri) va bemorning najasi orqali qoramolning zararlanish xavfini baholash»"
+  },
+  {
+   "q": "T. solium aniqlansa, tekshiruv nega kengayadi?",
+   "c": "Sistitserkoz xavfi bor",
+   "w": [
+    "Teniarinxoz odamdan odamga yuqmaydi",
+    "Asosiy e'tibor go'sht manbasiga qaratiladi",
+    "Bemor va oila xavfi yo'q",
+    "Tuxumlarni mikroskopda ajratib bo'ladi"
+   ],
+   "x": "«solium (tenioz) aniqlansa, tekshiruv kengayadi, chunki bemor va uning oilasi uchun sistitserkoz xavfi bor»"
+  },
+  {
+   "q": "Teniarinxoz holati qachon qayd etiladi?",
+   "c": "Tashxis qo'yilgan zahoti",
+   "w": [
+    "Davolashdan keyin",
+    "Kuzatuvdan keyin",
+    "Oilani tekshirgandan keyin",
+    "Najas tekshirilgandan keyin"
+   ],
+   "x": "«Holat tashxis qo'yilgan zahoti qayd etiladi: bemor ma'lumotlari, tashxis, parazit turi (iloji bo'lsa), aniqlanish usuli (bo'g'im, tuxum), davolash»"
+  },
+  {
+   "q": "Anamnezda go'sht manbasi sifatida nimalar so'raladi?",
+   "c": "Uy so'yimi, bozor, do'kon, restoran",
+   "w": [
+    "Qassob, oshpaz, chorvador",
+    "Kabob, qiyma, tatib ko'rish",
+    "Hojatxona sharoiti, qo'lni yuvish odatlari",
+    "Bo'g'imlar qachon va qanday chiqqan"
+   ],
+   "x": "«Bemordan quyidagilar so'raladi: qachon va nima yegan (xom/yarim xom qoramol yoki cho'chqa go'shti, kabob, qiyma, tatib ko'rish); go'sht qayerdan olingan (uy so'yimi, bozor, do'kon, restoran, ziyofat); qaysi hududda bo'lgan, sayohat; kasb (qassob, oshpaz, chorvador); bo'g'imlar qachon va qanday chiqqan; oilada va atrofda shunga o'xshash holatlar; hojatxona sharoiti, qo'lni yuvish odatlari»"
+  },
+  {
+   "q": "Parazit turi nimalar bilan aniqlanadi?",
+   "c": "Bachadon tarmoqlari yoki skoleks tuzilishi",
+   "w": [
+    "Tuxumlarni mikroskopda ajratish",
+    "Bemorning bir necha oylik ovqatlanish tarixi",
+    "Sanitariya-epidemiologiya xizmati hisoboti",
+    "Najasdagi tuxum soni"
+   ],
+   "x": "«shuning uchun bo'g'imdagi bachadon tarmoqlari soni, skoleks tuzilishi yoki molekulyar usul qo'llanadi»"
+  },
+  {
+   "q": "T. saginata aniqlansa, asosiy e'tibor nimaga qaratiladi?",
+   "c": "Go'sht manbasiga",
+   "w": [
+    "Sistitserkozga tekshirishga",
+    "Oila a'zolariga",
+    "Molekulyar usullarga",
+    "Hojatxonaga"
+   ],
+   "x": "«saginata aniqlansa, asosiy e'tibor go'sht manbasiga qaratiladi»"
+  },
+  {
+   "q": "Taeniazni praziquantel bilan davolashda dozalash qanday?",
+   "c": "Yagona dozasi 10 mg/kg",
+   "w": [
+    "Uch kun ketma-ket 400 mg",
+    "Kattalar va 6 yoshdan katta bolalar 2 g",
+    "2–6 yoshdagilar 1 g",
+    "Niclosamid yagona dozasi 2 g"
+   ],
+   "x": "«Bemor davolanadi: Jahon sog'liqni saqlash tashkiloti taeniazni praziquantelning yagona dozasi (10 mg/kg) yoki niclosamid (kattalar va 6 yoshdan katta bolalar 2 g, 2–6 yoshdagilar 1 g) bilan, shuningdek albendazol 400 mg uch kun ketma-ket qo'llash bilan davolash mumkinligini ta'kidlaydi»"
+  },
+  {
+   "q": "Davolashdan keyin nima qilinadi?",
+   "c": "Najas yig'ilib, skoleks izlanadi",
+   "w": [
+    "Bo'g'imlar yig'ilib, tuxum sanaladi",
+    "Oila yig'ilib, anamnez so'raladi",
+    "Bo'g'im yig'ilib, tur aniqlanadi",
+    "Najas yig'ilib, hojatxonaga tashlanmaydi"
+   ],
+   "x": "«Davolashdan keyin najas yig'ilib, skoleks izlanadi; najas xavfsiz yo'qotiladi (hojatxona, zararsizlantirish), chunki tuxumlar qoramolni zararlashi mumkin»"
+  },
+  {
+   "q": "Ma'lumot to'liq bo'lmasa ham nima o'tkaziladi?",
+   "c": "Xavf guruhlari bo'yicha profilaktika choralari",
+   "w": [
+    "Faqat bemor bo'yicha davolash choralari",
+    "Tashxis bo'yicha qo'shimcha tekshiruvlar",
+    "Molekulyar usullar bilan tekshirish",
+    "Tibbiyot va veterinariya almashinuvi"
+   ],
+   "x": "«Ma'lumot to'liq bo'lmasa ham, xavf guruhlari bo'yicha profilaktika choralari o'tkaziladi»"
+  },
+  {
+   "q": "Tekshiruv natijalari kimlar o'rtasida almashiladi?",
+   "c": "Tibbiyot va veterinariya xizmatlari",
+   "w": [
+    "Bemor va chorvadorlar",
+    "Epidemiolog va guvohlar",
+    "Bemor va oila a'zolari",
+    "Hujjat va hisobot xizmatlari"
+   ],
+   "x": "«Tekshiruv natijalari tibbiyot va veterinariya xizmatlari o'rtasida almashiladi»"
+  }
+ ]
+}

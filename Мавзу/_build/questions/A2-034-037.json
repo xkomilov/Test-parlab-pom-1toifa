@@ -1,0 +1,450 @@
+{
+ "034": [
+  {
+   "q": "Bezgakning oxirgi mahalliy holatlari O'zbekistonda qaysi yilda aniqlangan?",
+   "c": "2010-yilda",
+   "w": [
+    "2006-yilda",
+    "2008-yilda",
+    "2014-yilda",
+    "1961-yilda"
+   ],
+   "x": "«JSST xabariga ko'ra O'zbekiston bezgakni 1961-yilda birinchi marta yo'q qilgan, keyingi o'n yilliklarda kasallik qayta kirib kelgan va mamlakat uni ikkinchi marta 2010-yilda yo'q qilgan; mamlakatning eng ko'p zararlangan hududi bo'lgan Surxondaryo viloyatida holatlar soni 2007-yildagi 81 tadan 2011–2014-yillarda nolga tushgan, oxirgi uchta mahalliy holat 2010-yilda aniqlangan»"
+  },
+  {
+   "q": "Oxirgi uchta mahalliy holat qaysi viloyatlarda aniqlangan?",
+   "c": "Surxondaryo va Sirdaryo viloyatlarida",
+   "w": [
+    "Andijon va Farg'ona viloyatlarida",
+    "Jizzax va Namangan viloyatlarida",
+    "Navoiy va Toshkent viloyatlarida",
+    "Toshkent shahri va Andijon viloyatida"
+   ],
+   "x": "«JSST xabariga ko'ra O'zbekiston bezgakni 1961-yilda birinchi marta yo'q qilgan, keyingi o'n yilliklarda kasallik qayta kirib kelgan va mamlakat uni ikkinchi marta 2010-yilda yo'q qilgan; mamlakatning eng ko'p zararlangan hududi bo'lgan Surxondaryo viloyatida holatlar soni 2007-yildagi 81 tadan 2011–2014-yillarda nolga tushgan, oxirgi uchta mahalliy holat 2010-yilda aniqlangan»"
+  },
+  {
+   "q": "Oxirgi mahalliy holat yili nima uchun muhim hisoblanadi?",
+   "c": "uch yillik davr sanadan keyin hisoblanadi",
+   "w": [
+    "bemorning sayohat tarixi sanadan keyin aniqlanadi",
+    "chivinlar ko'payish joylari sanadan keyin tekshiriladi",
+    "qon preparatlari sanadan keyin ommaviy olinadi",
+    "atrofdagi aholi sanadan keyin faol qidiriladi"
+   ],
+   "x": "«Oxirgi mahalliy holat yili sertifikatlash jarayoni uchun hisoblanadi: uch yillik davr shu sanadan keyin hisoblanadi»"
+  },
+  {
+   "q": "O'zbekiston bezgakdan holi deb qaysi yilda sertifikatlangan?",
+   "c": "2018-yilda",
+   "w": [
+    "2011-yilda",
+    "2007-yilda",
+    "2015-yilda",
+    "2005-yilda"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkilotining ma'lumotiga ko'ra, O'zbekiston bezgakdan holi deb 2018-yilda sertifikatlangan»"
+  },
+  {
+   "q": "Sertifikatlash uchun ariza topshirishga mahalliy holat qayd etilmagan qancha muddat kerak?",
+   "c": "uch yil davomida",
+   "w": [
+    "2 yil davomida",
+    "5 yil davomida",
+    "10 yil davomida",
+    "7 yil davomida"
+   ],
+   "x": "«Shuningdek, sertifikatlash uchun ariza topshirishga kamida ketma-ket uch yil davomida mahalliy bezgak holatlari qayd etilmagan mamlakatlar haqli»"
+  },
+  {
+   "q": "Mahalliy (indigen) holat nima?",
+   "c": "hudud ichidagi chivin orqali zararlangan bemor",
+   "w": [
+    "boshqa mamlakatda zararlanib kelgan bemor",
+    "qon quyilganligi aniqlangan bemor",
+    "sayohat tarixi bor bemor",
+    "yashash joyi o'zgargan bemor"
+   ],
+   "x": "«Mahalliy (indigen) holat — zararlanish shu hudud ichida, shu yerdagi chivin orqali sodir bo'lgan bemor»"
+  },
+  {
+   "q": "Import qilingan holatda zararlanish qayerda yuz bergan bo'ladi?",
+   "c": "boshqa mamlakat yoki hududda",
+   "w": [
+    "yashash joyidagi chivin orqali",
+    "bemorning o'z hududida",
+    "chegaradosh 3 km hududda",
+    "qishloq aholisi orasida"
+   ],
+   "x": "«Bunga qarshi, import qilingan holatda zararlanish boshqa mamlakat yoki hududda yuz bergan, kasallik esa keyin aniqlangan»"
+  },
+  {
+   "q": "Kiritilgan holat nima?",
+   "c": "import holatdan chivin orqali mahalliy yuqish",
+   "w": [
+    "avval mahalliy zararlangan bemorning kasalligi qaytalanishi",
+    "mahalliy manba orqali yuqish",
+    "qon quyish orqali yuqish",
+    "boshqa mamlakatda zararlanib kelish"
+   ],
+   "x": "«Mahalliy holatlar o'z navbatida tasniflanishi mumkin: mahalliy yuqish (mahalliy manba orqali), kiritilgan (introduced) holat, ya'ni import holatdan chivin orqali mahalliy yuqish, va qaytalanish (relaps), ya'ni avval mahalliy zararlangan bemorning kasalligi qaytalanishi»"
+  },
+  {
+   "q": "Jahon sog'liqni saqlash tashkiloti bezgak nazoratining asosiy elementlari sifatida nimani ko'rsatadi?",
+   "c": "vektorga qarshi kurash va yaxshilangan kuzatuv",
+   "w": [
+    "qon surtmasini ommaviy olish va tekshirish",
+    "aholi immunitetini hisoblash va tarixiy tahlil",
+    "o'choqlarni yolg'on yoki faol deb toifalash",
+    "sertifikatlash uchun ariza topshirish"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti vektorga qarshi kurash va yaxshilangan kuzatuvni bezgak nazoratining asosiy elementlari sifatida ko'rsatadi»"
+  },
+  {
+   "q": "2006–2010-yillarda mahalliy holatlarning ko'pchiligi qaysi viloyatda aniqlangan?",
+   "c": "Surxondaryo viloyatida",
+   "w": [
+    "Qashqadaryo viloyatida",
+    "Toshkent viloyatida",
+    "Jizzax viloyatida",
+    "Namangan viloyatida"
+   ],
+   "x": "«JSST hisobotiga ko'ra eliminatsiya davrida (2006–2010-yillar) mahalliy holatlar faqat uchta viloyatda aniqlangan: 133 holat (91,7 foiz) Surxondaryo viloyatida, 11 holat Qashqadaryo viloyatida va bitta holat Toshkent viloyatida»"
+  }
+ ],
+ "035": [
+  {
+   "q": "P. malariae qo'zg'atadigan bezgak shakli qanday nomlanadi?",
+   "c": "to'rt kunlik bezgak",
+   "w": [
+    "uch kunlik bezgak",
+    "tropik bezgak",
+    "ovale-bezgak",
+    "zoonoz bezgak"
+   ],
+   "x": "«Shunga mos ravishda bezgakning nozologik shakllari ajratiladi: tropik bezgak (P. falciparum), uch kunlik bezgak (P. vivax), to'rt kunlik bezgak (P. malariae), ovale-bezgak (P. ovale) va zoonoz bezgak (P. knowlesi)»"
+  },
+  {
+   "q": "Odamda bezgak qo'zg'atadigan Plasmodium turlari nechta?",
+   "c": "5 ta Plasmodium turi",
+   "w": [
+    "3 ta Plasmodium turi",
+    "4 ta Plasmodium turi",
+    "7 ta Plasmodium turi",
+    "10 ta Plasmodium turi"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti odamda bezgak qo'zg'atadigan beshta Plasmodium turini ko'rsatadi: P. falciparum, P. vivax, P. malariae, P. ovale va P. knowlesi»"
+  },
+  {
+   "q": "Aralash bezgak nima?",
+   "c": "bir bemorda ikki yoki undan ortiq tur parazitlari",
+   "w": [
+    "bir bemorda ikki marta qaytalangan kasallik",
+    "ikki mamlakatdan kelgan bemorlar guruhi",
+    "bir tur parazitning yengil va og'ir shakli",
+    "ikki chivin chaqishidan keyingi isitma"
+   ],
+   "x": "«Bir bemorda ikki yoki undan ortiq tur parazitlari bir vaqtda bo'lishi mumkin; bunday holat aralash bezgak yoki aralash infeksiya deb ataladi»"
+  },
+  {
+   "q": "Aralash infeksiyada tashxis vaqtida nimaga e'tibor kerak?",
+   "c": "bitta tur ikkinchisini niqoblab qo'yishi mumkin",
+   "w": [
+    "epidemik hududlarda aralash infeksiya kam uchraydi",
+    "barcha tur laboratoriya natijasida ko'rsatilmaydi",
+    "aralash infeksiya tashxis vaqtida e'tibor talab qilmaydi",
+    "ikkinchi tur jigardagi shaklda bo'ladi"
+   ],
+   "x": "«Aralash infeksiyalar epidemik hududlarda ko'proq uchraydi va tashxis vaqtida e'tibor talab qiladi, chunki bitta tur ikkinchisini niqoblab qo'yishi mumkin»"
+  },
+  {
+   "q": "Yengil bezgak belgilariga qaysi biri kiradi?",
+   "c": "isitma, titroq, bosh og'rig'i",
+   "w": [
+    "o'ta holsizlik va hushning buzilishi",
+    "to'q yoki qonli siydik",
+    "sariqlik va g'ayritabiiy qon ketish",
+    "nafas qiyinlashuvi va tutqanoq"
+   ],
+   "x": "«Yengil belgilar: isitma, titroq, bosh og'rig'i»"
+  },
+  {
+   "q": "Bemorni ambulator yoki kasalxonada davolash nimaga bog'liq?",
+   "c": "kasallikning og'irligi",
+   "w": [
+    "qo'zg'atuvchining turi",
+    "yuqish yo'li",
+    "zararlanish joyi",
+    "davolash samarasi"
+   ],
+   "x": "«Bu tasnif bemorni qayerda va qanday davolash (ambulator yoki kasalxonada) kerakligini belgilaydi»"
+  },
+  {
+   "q": "Belgilar zararlangan chivin chaqqanidan keyin odatda qancha vaqt ichida boshlanadi?",
+   "c": "10–15 kun ichida",
+   "w": [
+    "1–3 kun ichida",
+    "20–30 kun ichida",
+    "2–5 kun ichida",
+    "100 kun ichida"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti belgilar odatda zararlangan chivin chaqqanidan keyin 10–15 kun ichida boshlanishini ko'rsatadi»"
+  },
+  {
+   "q": "Uzoq muddatli qaytalanish nima bilan bog'liq?",
+   "c": "jigardagi uxlab yotuvchi shakllar faollashishi",
+   "w": [
+    "davolash samarasizligi va parazit qarshiligi",
+    "qon quyish orqali qayta zararlanish",
+    "ifloslangan ignalar orqali zararlanish",
+    "onadan homilaga o'tish xavfi"
+   ],
+   "x": "«Kasallikning qaytalanishlari ham bosqichlar sifatida ko'riladi: yaqin (qisqa muddatli) qaytalanish, ya'ni davolash samarasizligi yoki parazit qarshiligi bilan bog'liq, va uzoq muddatli qaytalanish, ya'ni jigardagi uxlab yotuvchi shakllar faollashishi bilan bog'liq, bu faqat P. vivax va P. ovale ga xos»"
+  },
+  {
+   "q": "Yuqish yo'li bo'yicha bezgak qaysi shakllarga bo'linadi?",
+   "c": "transmissiv, transfuzion, parenteral va tug'ma",
+   "w": [
+    "yengil, og'ir, transfuzion va tug'ma",
+    "faol, xuruj, parenteral va tug'ma",
+    "yaqin, uzoq, transfuzion va zoonoz",
+    "dastlabki, xuruj, parenteral va tug'ma"
+   ],
+   "x": "«Yuqish yo'li bo'yicha bezgak transmissiv (chivin orqali), transfuzion (qon quyish orqali), parenteral (ifloslangan ignalar orqali) va tug'ma (onadan homilaga) shakllarga bo'linadi»"
+  },
+  {
+   "q": "Qon quyish orqali yuqadigan bezgak qanday ataladi?",
+   "c": "transfuzion bezgak",
+   "w": [
+    "parenteral bezgak",
+    "tug'ma bezgak",
+    "transmissiv bezgak",
+    "aralash bezgak"
+   ],
+   "x": "«Yuqish yo'li bo'yicha bezgak transmissiv (chivin orqali), transfuzion (qon quyish orqali), parenteral (ifloslangan ignalar orqali) va tug'ma (onadan homilaga) shakllarga bo'linadi»"
+  }
+ ],
+ "036": [
+  {
+   "q": "O'choq deb nimaga aytiladi?",
+   "c": "manba, chivin va moyil aholi birga uchraydigan hudud",
+   "w": [
+    "faqat chivin ko'payadigan cheklangan hudud",
+    "aholi zich joylashgan sug'orish tizimi",
+    "bemor yashaydigan uy va atrofdagi hudud",
+    "bezgakdan holi deb sertifikatlangan hudud"
+   ],
+   "x": "«O'choq — bezgak yuqishi uchun barcha sharoit mavjud bo'lgan, ya'ni manba, chivin va moyil aholi birga uchrashadigan cheklangan hudud»"
+  },
+  {
+   "q": "Faol o'choqda qanday holat kuzatiladi?",
+   "c": "yuqish davom etayotgani",
+   "w": [
+    "yuqish to'xtagani, lekin xavf saqlanishi",
+    "belgilangan muddat yuqish bo'lmagani",
+    "kuzatuv eng zich bo'lmagani",
+    "aholi immunitetga ega bo'lgani"
+   ],
+   "x": "«Faol o'choqda yuqish davom etayotgani uchun eng kuchli chora-tadbirlar o'tkaziladi: isitmalovchilarni faol qidirish, barcha holatlarni to'liq davolash, chivinlarga qarshi ishlov (xonalarni purkash, lichinkalarga qarshi kurash), aholini himoya vositalari bilan ta'minlash»"
+  },
+  {
+   "q": "Vektorga qarshi kurashning ikkita asosiy usuli qaysilar?",
+   "c": "insektitsid bilan ishlov berilgan to'rlar va ichki purkash",
+   "w": [
+    "isitmalovchilarni faol qidirish va davolash",
+    "o'choq pasportini yuritish va yangilash",
+    "chivin ko'payish joylarini xaritaga tushirish",
+    "kuzatuvni saqlash va chivin zichligini kuzatish"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti vektorga qarshi kurashning ikkita asosiy usuli — insektitsid bilan ishlov berilgan to'rlar va xonalarga ichki purkashni ko'rsatadi»"
+  },
+  {
+   "q": "Qoldiq nofaol o'choqda asosiy vazifa nima?",
+   "c": "kuzatuvni saqlash va isitmalaganlarni tekshirish",
+   "w": [
+    "kuzatuvni to'xtatib, ro'yxatdan chiqarish",
+    "xonalarga ichki purkashni kuchaytirish",
+    "chivin zichligini kuzatishni to'xtatish",
+    "bitta yangi holatda shoshilinch tekshirish"
+   ],
+   "x": "«Bu yerda asosiy vazifa — kuzatuvni saqlash, isitmalagan har bir bemorni bezgakka tekshirish, chivin zichligini kuzatish va import yoki qaytalangan holatlar paydo bo'lganda tez javob berish»"
+  },
+  {
+   "q": "Uch kunlik bezgakda qoldiq nofaol o'choqlar nima uchun ayniqsa muhim?",
+   "c": "jigardagi uxlab yotuvchi shakllar qaytalanadi",
+   "w": [
+    "chivinlar yangi mavsumda ko'payishdan to'xtaydi",
+    "aholi bezgakka qarshi immunitet hosil qiladi",
+    "bunday o'choqlar ro'yxatda yuritilmaydi",
+    "kuzatuv yangi mavsumda susaytiriladi"
+   ],
+   "x": "«Ular uch kunlik bezgak holatlarida ayniqsa muhim, chunki jigardagi uxlab yotuvchi shakllar yangi mavsumda qaytalanishlarga sabab bo'ladi»"
+  },
+  {
+   "q": "Tugatilgan o'choq nima sababdan ro'yxatda qoladi?",
+   "c": "chivinlar saqlanadi, aholi esa immunitetga ega emas",
+   "w": [
+    "chivinlar yo'qoladi, aholi esa immunitetga ega bo'ladi",
+    "yuqish yana davom etayotgan bo'ladi",
+    "isitmalarni tekshirish butunlay to'xtatiladi",
+    "barcha holatlar to'liq davolangan bo'ladi"
+   ],
+   "x": "«Biroq tugatilgan o'choq ham yo'q bo'lib ketmaydi: chivinlar saqlanadi, aholi esa immunitetga ega emas, shuning uchun tugatilgan o'choq ro'yxatda qoladi va shubhali isitmalarni tekshirish davom etadi»"
+  },
+  {
+   "q": "Qaysi o'choq turi tabiiy-geografik xususiyatiga ko'ra ajratiladi?",
+   "c": "daryo bo'yi o'choqlari",
+   "w": [
+    "faol o'choqlar",
+    "qoldiq nofaol o'choqlar",
+    "tugatilgan o'choqlar",
+    "yuqori xavfli o'choqlar"
+   ],
+   "x": "«Faoliyat darajasi bilan birga o'choqlar tabiiy-geografik xususiyatlariga ko'ra ham tasniflanadi: sholi yetishtiriladigan o'choqlar, daryo bo'yi o'choqlari, tog' oldi o'choqlari, shahar o'choqlari va hokazo»"
+  },
+  {
+   "q": "Yuqish intensivligiga ko'ra o'choqlar qanday bo'lishi mumkin?",
+   "c": "yuqori, o'rta va past xavfli",
+   "w": [
+    "faol, qoldiq nofaol va tugatilgan",
+    "sholi, daryo bo'yi va shahar",
+    "past, o'rta va tog' oldi",
+    "yaqin, uzoq va qisqa muddatli"
+   ],
+   "x": "«Shuningdek, o'choqlar yuqish intensivligiga ko'ra yuqori, o'rta va past xavfli bo'lishi mumkin»"
+  },
+  {
+   "q": "O'choq chegarasi nimaga qarab belgilanadi?",
+   "c": "uchib borish masofasi va aholining harakati",
+   "w": [
+    "aholi soni va chivin ko'payish joylari soni",
+    "bemorning yashash va ishlash joylari",
+    "holatlar tarixi va o'tkazilgan tadbirlar",
+    "sug'orish tizimlari va aholi zichligi"
+   ],
+   "x": "«O'choq chegarasi chivinlarning uchib borish masofasi va aholining harakatiga qarab belgilanadi»"
+  },
+  {
+   "q": "Tugatilgan o'choqda yangi holat paydo bo'lsa, o'choq qanday bo'ladi?",
+   "c": "yana faol bo'ladi",
+   "w": [
+    "qoldiq nofaol bo'ladi",
+    "tugatilgan bo'lib qoladi",
+    "tugatilgan deb qayta tasniflanadi",
+    "past xavfli bo'ladi"
+   ],
+   "x": "«Faol o'choq yuqish to'xtagach qoldiq nofaol, uzoq muddat holat bo'lmasa tugatilgan deb qayta tasniflanishi mumkin, aksincha, tugatilgan o'choqda yangi holat paydo bo'lsa, yana faol bo'ladi»"
+  }
+ ],
+ "037": [
+  {
+   "q": "P. vivax va P. ovale nima sababli oylar o'tib qaytalanishi mumkin?",
+   "c": "jigardagi uxlab yotuvchi shakllari sababli",
+   "w": [
+    "inkubatsiya muddati uzayishi sababli",
+    "profilaktika dori qabul qilinishi sababli",
+    "parazitemiya darajasi yuqoriligi sababli",
+    "tropik bezgak aniqlanishi sababli"
+   ],
+   "x": "«P. vivax va P. ovale esa jigardagi uxlab yotuvchi shakllari sababli oylar o'tib qaytalanishi mumkin, bu esa bemorlarni kuzatish zaruratini bildiradi»"
+  },
+  {
+   "q": "Import qilingan holat nima?",
+   "c": "boshqa mamlakatda zararlanib, holi hududda aniqlangan holat",
+   "w": [
+    "holi hududdagi chivin orqali zararlanib aniqlangan holat",
+    "qon quyilishi tufayli holi hududda zararlangan holat",
+    "sayohat tarixi bo'lmagan bemorda aniqlangan holat",
+    "profilaktika qabul qilgan sayohatchida aniqlangan holat"
+   ],
+   "x": "«Import qilingan holat — bemorning bezgak bilan zararlanishi boshqa mamlakat yoki bezgak yuqishi mavjud hududda yuz bergan, kasallik esa bezgakdan holi hududda aniqlangan»"
+  },
+  {
+   "q": "Sayohatchilar orasida qaysi guruh eng xavfli hisoblanadi?",
+   "c": "profilaktika qabul qilmagan va immunitetsiz sayohatchilar",
+   "w": [
+    "profilaktika qabul qilgan sayohatchilar",
+    "bezgakdan holi hududdagi aholi",
+    "qaytganidan keyin isitmalamagan sayohatchilar",
+    "sayohat tarixi bo'lmagan bolalar"
+   ],
+   "x": "«Eng xavfli guruh — profilaktika qabul qilmagan va immunitetsiz sayohatchilar, chunki ularda kasallik og'ir kechadi»"
+  },
+  {
+   "q": "Dunyodagi bezgak holatlarining taxminan necha foizi Afrika mintaqasiga to'g'ri kelgan?",
+   "c": "95 foiz holat",
+   "w": [
+    "100 foiz holat",
+    "15 foiz holat",
+    "10 foiz holat",
+    "4 foiz holat"
+   ],
+   "x": "«Bezgak eng ko'p Afrika mintaqasida tarqalgan: Jahon sog'liqni saqlash tashkiloti 2024-yilda dunyodagi taxminan 282 million holatning 95 foizi Afrika mintaqasiga to'g'ri kelganini ma'lum qiladi»"
+  },
+  {
+   "q": "Profilaktika dori qabul qilgan sayohatchilarda nima kuzatilishi mumkin?",
+   "c": "inkubatsiya muddati uzayishi, belgilar yengillashishi",
+   "w": [
+    "inkubatsiya muddati qisqarishi, belgilar og'irlashishi",
+    "belgilar yengillashishi, inkubatsiya muddati qisqarishi",
+    "tashxis osonlashishi, belgilar yengillashishi",
+    "muddat uzayishi, belgilar og'irlashishi"
+   ],
+   "x": "«Profilaktika dori qabul qilgan sayohatchilarda inkubatsiya muddati uzayishi va klinik ko'rinish yengillashishi mumkin»"
+  },
+  {
+   "q": "Barcha gumon qilingan bezgak holatlari nima bilan tasdiqlanadi?",
+   "c": "mikroskopiya yoki tezkor test",
+   "w": [
+    "epidemiologik anamnez yoki sayohat tarixi",
+    "klinik ko'rinish yoki isitma",
+    "dispanser nazorati yoki maxsus jurnal",
+    "kimyoprofilaktika yoki to'r bilan himoya"
+   ],
+   "x": "«Jahon sog'liqni saqlash tashkiloti barcha gumon qilingan bezgak holatlarini mikroskopiya yoki tezkor test bilan tasdiqlashni tavsiya etadi»"
+  },
+  {
+   "q": "Tezkor testning qanday cheklovi hisobga olinadi?",
+   "c": "HRP2 va HRP3 oqsillarini ishlab chiqarmaydigan mutantlar",
+   "w": [
+    "ikkita oqsilni ishlab chiqaradigan parazitlar aniqlanmaydi",
+    "faqat yupqa surtmadagi parazitlar aniqlanadi",
+    "qalin tomchi tayyorlash zarurati yo'qoladi",
+    "inkubatsiya muddatini aniqlab bo'lmaydi"
+   ],
+   "x": "«Tezkor testning cheklovlari ham hisobga olinadi: HRP2 va HRP3 oqsillarini ishlab chiqarmaydigan mutant parazitlar test bilan aniqlanmaydi»"
+  },
+  {
+   "q": "Laborant import holatda nimani aniqlaydi?",
+   "c": "turini va parazitemiya darajasini",
+   "w": [
+    "bemorning sayohat tarixini va muddatini",
+    "shifokorga xabar berish tartibini",
+    "profilaktika dori qabul qilganini",
+    "bemorning tropik bezgak shaklini"
+   ],
+   "x": "«Laborant qalin tomchi va yupqa surtma tayyorlab, turini va parazitemiya darajasini aniqlaydi»"
+  },
+  {
+   "q": "Kimyoprofilaktika dorilari safardan necha hafta oldin boshlanadi?",
+   "c": "2–3 hafta oldin",
+   "w": [
+    "4 hafta oldin",
+    "10 hafta oldin",
+    "15 hafta oldin",
+    "1 hafta oldin"
+   ],
+   "x": "«Birinchisi — sayohatdan oldin: endemik hududga borayotganlar shifokor bilan oldindan maslahatlashishi, kerak bo'lsa kimyoprofilaktika qabul qilishi, chivin chaqishidan himoyalanish (to'r, qaytaruvchi vositalar, yopiq kiyim) choralariga rioya qilishi kerak; ba'zi dorilar safardan 2–3 hafta oldin boshlanadi va hududdan chiqqandan keyin 4 hafta davom ettiriladi»"
+  },
+  {
+   "q": "Sayohatchi qaytgandan keyin isitma paydo bo'lsa, nima qilishi kerak?",
+   "c": "darhol shifokorga murojaat qilishi",
+   "w": [
+    "chivin chaqishidan himoyalanishi",
+    "kimyoprofilaktika qabul qilishni boshlashi",
+    "to'r va yopiq kiyim kiyishi",
+    "hududdan chiqqandan keyin 4 hafta kutishi"
+   ],
+   "x": "«Ikkinchisi — qaytgandan keyin: isitma paydo bo'lganda darhol shifokorga murojaat qilish va sayohat haqida ma'lumot berish»"
+  }
+ ]
+}

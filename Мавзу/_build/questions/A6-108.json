@@ -1,0 +1,114 @@
+{
+ "108": [
+  {
+   "q": "Nima uchun kistoz exinokokkoz oldini olish mumkin bo'lgan kasallik hisoblanadi?",
+   "c": "Zanjirda faqat uy hayvonlari va odam ishtirok etadi",
+   "w": [
+    "Zanjirda yovvoyi tulkilar va qoramollar ishtirok etadi",
+    "Oraliq xo'jayin sifatida faqat it ishtirok etadi",
+    "Kasallik tuxum chiqarmaydigan itlar orqali tarqaladi",
+    "Odam definitiv xo'jayin hisoblanadi"
+   ],
+   "x": "«Exinokokkoz — oldini olish mumkin bo'lgan kasallik, chunki uning zanjirida faqat uy hayvonlari va odam ishtirok etadi (kistoz shaklda)»"
+  },
+  {
+   "q": "Davolangandan keyin it najasi bilan nima qilinadi?",
+   "c": "Yig'ilib yo'qotiladi",
+   "w": [
+    "Qo'ylarga beriladi",
+    "Egasiz itlarga beriladi",
+    "Chorvadorlarga beriladi",
+    "Ko'kat va sabzavotga beriladi"
+   ],
+   "x": "«Itlarga davolash vaqti belgilanadi, ro'yxatga olinadi; davolangandan keyin it najasi yig'ilib yo'qotiladi»"
+  },
+  {
+   "q": "Itlarni davolash zanjirda nimani kamaytiradi?",
+   "c": "Tuxum chiqarishni kamaytiradi",
+   "w": [
+    "Oraliq xo'jayinlar sonini kamaytiradi",
+    "Kistali a'zolarni kamaytiradi",
+    "Qo'zilarni emlashni kamaytiradi",
+    "Egasiz itlarni kamaytiradi"
+   ],
+   "x": "«Zanjirni uzish uchun: itlarni davolash (tuxum chiqarishni kamaytiradi); itlarga kistali ichki a'zolarni bermaslik (siklni yopmaydi); oraliq xo'jayinlarni himoya qilish (emlash); odamni tuxum bilan aloqadan himoya qilish (gigiyena)»"
+  },
+  {
+   "q": "Itlar kistali ichki a'zolarni yemasligi uchun nima qilinadi?",
+   "c": "Kistali a'zolarni yoqish yoki chuqur ko'mish",
+   "w": [
+    "Ichki a'zolarni uy so'yimida itlarga qoldirish",
+    "Ichki a'zolarni ekspertizasiz itlarga berish",
+    "Kistali a'zolarni xom holda saqlash",
+    "Kista topilgan a'zolarni uy so'yimida saqlash"
+   ],
+   "x": "«Itlar kistali ichki a'zolarni yemasligi uchun: so'yilgan hayvon ichki a'zolarini ekspertizadan o'tkazish; kista topilgan a'zolarni yoqish yoki chuqur ko'mish; ichki a'zolarni itlarga xom holda bermaslik; uy so'yimida ham shu qoidalarga rioya qilish»"
+  },
+  {
+   "q": "Qo'lni sovun bilan yuvish qachon zarur?",
+   "c": "Itlar bilan aloqadan keyin va ovqatdan oldin",
+   "w": [
+    "Tuproq bilan ishlaganda va rezavorlar yig'ilganda",
+    "Sabzavotlar yuvilgandan keyin va pishirishdan oldin",
+    "Qo'ylar emlangandan keyin va ovqatdan keyin",
+    "Itlar davolangandan keyin va najas yig'ilganda"
+   ],
+   "x": "«Odam uchun: itlar bilan aloqadan keyin (silash, o'ynash, boqish) qo'lni sovun bilan yuvish; ovqatdan oldin qo'l yuvish; itlarni yuzga yaqinlashtirmaslik va o'pmaslik; bolalarni qo'l yuvishga o'rgatish; sabzavot, ko'kat va mevalarni yaxshilab yuvish; toza suv ichish; yovvoyi rezavorlarni yuvib yoki pishirib iste'mol qilish (alveolyar shakl hududlarida); tuproq bilan ishlaganda qo'lqop kiyish»"
+  },
+  {
+   "q": "Qaysi choralar birgalikda odamlardagi kasallikni 10 yildan kamroq vaqtda yo'q qilishga olib kelishi mumkin?",
+   "c": "Qo'zilarni emlash, itlarni davolash, keksa qo'ylarni brak qilish",
+   "w": [
+    "Itlarni yo'q qilish, tulkilarni davolash va qo'l yuvish",
+    "Qo'zilarni so'yish, itlarni emlash va skrining",
+    "Keksa qo'ylarni emlash, itlarni so'yish va PAIR",
+    "Ultratovush skrining, jarrohlik va kutib turish"
+   ],
+   "x": "«Qo'zilarni emlash, itlarni degelmintizatsiya qilish va keksa qo'ylarni brak qilish birgalikda odamlardagi kasallikni 10 yildan kamroq vaqtda yo'q qilishga olib kelishi mumkin»"
+  },
+  {
+   "q": "Alveolyar shakl hududlarida yovvoyi rezavorlar bilan nima qilish kerak?",
+   "c": "Yuvib yoki pishirib iste'mol qilish",
+   "w": [
+    "Xom holda yig'ib iste'mol qilish",
+    "Faqat tuproqdan tozalab iste'mol qilish",
+    "Itlar yalagan holda iste'mol qilish",
+    "Yovvoyi holda yeyish"
+   ],
+   "x": "«Odam uchun: itlar bilan aloqadan keyin (silash, o'ynash, boqish) qo'lni sovun bilan yuvish; ovqatdan oldin qo'l yuvish; itlarni yuzga yaqinlashtirmaslik va o'pmaslik; bolalarni qo'l yuvishga o'rgatish; sabzavot, ko'kat va mevalarni yaxshilab yuvish; toza suv ichish; yovvoyi rezavorlarni yuvib yoki pishirib iste'mol qilish (alveolyar shakl hududlarida); tuproq bilan ishlaganda qo'lqop kiyish»"
+  },
+  {
+   "q": "Zanjirning qaysi bo'g'ini emlash orqali himoyalanadi?",
+   "c": "Oraliq xo'jayinlar, ya'ni qo'ylar",
+   "w": [
+    "Definitiv xo'jayinlar, ya'ni itlar",
+    "Tashqi muhit, ya'ni tuxumlar",
+    "Tasodifiy odam, ya'ni gigiyena orqali",
+    "Yovvoyi tulkilar, ya'ni egasiz itlar"
+   ],
+   "x": "«Zanjirni uzish uchun: itlarni davolash (tuxum chiqarishni kamaytiradi); itlarga kistali ichki a'zolarni bermaslik (siklni yopmaydi); oraliq xo'jayinlarni himoya qilish (emlash); odamni tuxum bilan aloqadan himoya qilish (gigiyena)»"
+  },
+  {
+   "q": "Endemik hududlarda erta tashxis va davolash uchun nima muhim?",
+   "c": "Tibbiyot xodimlarini tayyorlash va ultratovush uskunalari",
+   "w": [
+    "Itlarni davolash va qo'ylarni brak qilish ishlari",
+    "Gigiyena kurslarini o'tkazish va xodimlarni o'qitish",
+    "Qo'zilarni emlash va itlarni davolash dasturlari",
+    "So'yish nazorati va ichki a'zolarni yoqish choralari"
+   ],
+   "x": "«Endemik hududlarda tibbiyot xodimlarini tayyorlash va ultratovush uskunalari mavjudligi muhim»"
+  },
+  {
+   "q": "Xavf guruhlari uchun qanday qo'shimcha ehtiyot choralari ko'rsatiladi?",
+   "c": "Qo'l yuvish, ish kiyimini almashtirish, himoya vositalari",
+   "w": [
+    "Itlarni davolash va rezavorlarni yuvmaslik",
+    "Ultratovush skrining va uy so'yimini ko'paytirish",
+    "Tulkilarni yo'q qilish va qo'ylarni emlash",
+    "Uy so'yimini cheklash va tulkilarni yo'q qilish"
+   ],
+   "x": "«Ularga qo'shimcha ehtiyot choralari: ish davomida va undan keyin qo'l yuvish, ish kiyimini almashtirish, itlarni muntazam davolash, so'yishda himoya vositalari, ultratovush skrining (endemik hududlarda)»"
+  }
+ ]
+}
