@@ -1,0 +1,338 @@
+{
+ "004": [
+  {
+   "q": "Gelmintlar kimlar?",
+   "c": "odam, hayvon va o'simliklarda parazitlik qiladigan ko'p hujayrali chuvalchanglar",
+   "w": [
+    "odam tanasida parazitlik qiladigan bir hujayrali sodda jonivorlar",
+    "odam, hayvon va o'simliklarda yashaydigan bir hujayrali sodda jonivorlar",
+    "faqat hayvon organizmida yashaydigan bir hujayrali chuvalchanglar",
+    "tuproq va suvda yashaydigan ko'p hujayrali sodda jonivorlar"
+   ],
+   "x": "«Gelmintlar odam, hayvon va o'simliklarda parazitlik qiladigan ko'p hujayrali chuvalchanglar bo'lib»"
+  },
+  {
+   "q": "Qaysi gelmintlar nematodalar ichida keng tarqalgan?",
+   "c": "askarida, qilbosh, ostritsa va g'ajakbosh",
+   "w": [
+    "fassiola, opistorx va shistosomalar",
+    "qoramol va cho'chqa tasmasimon chuvalchanglari va exinokokk",
+    "keng tasmasimon chuvalchang va exinokokk, shistosomalar",
+    "choy teruvchilar, konchilar va maktab yoshidagi bolalar"
+   ],
+   "x": "«Nematodalar ichida askarida, qilbosh, ostritsa va g'ajakbosh keng tarqalgan»"
+  },
+  {
+   "q": "G'ajakbosh lichinkalari odam organizmiga qanday kirishi mumkin?",
+   "c": "teri orqali, ko'pincha yalang oyoq yurganda",
+   "w": [
+    "yuvilmagan sabzavot orqali, og'izga tushganda",
+    "ifloslangan suv orqali, ichganda",
+    "bolaning iflos qo'li orqali, og'izga tushganda",
+    "oraliq xo'jayin orqali, tishlaganda"
+   ],
+   "x": "«G'ajakbosh lichinkalari esa teri orqali, ko'pincha yalang oyoq yurganda kirishi mumkin»"
+  },
+  {
+   "q": "Gelmintozda kasallik og'irligi nimaga to'g'ri keladi?",
+   "c": "parazitlar soniga",
+   "w": [
+    "tuxum va lichinkalar o'lchamiga",
+    "bemorning ishtaha pasayishiga va holsizligiga",
+    "oraliq xo'jayin turiga",
+    "yuqish yo'li va hududiga"
+   ],
+   "x": "«kasallik og'irligi parazitlar soniga to'g'ri keladi»"
+  },
+  {
+   "q": "Ankilostomidozda surunkali qon yo'qotish qanday holatga olib keladi?",
+   "c": "kamqonlik rivojlanadi",
+   "w": [
+    "ichak tutilishi yuz beradi",
+    "yo'tal va nafas qisishi paydo bo'ladi",
+    "qon aralash axlat kuzatiladi",
+    "qichishish kuchayadi"
+   ],
+   "x": "«Ankilostomidozda surunkali qon yo'qotish tufayli kamqonlik rivojlanadi»"
+  },
+  {
+   "q": "Enterobiozning asosiy belgisi nima?",
+   "c": "anal sohada, ayniqsa kechasi kuchayadigan qichishish",
+   "w": [
+    "o'pka orqali o'tganda yo'tal va nafas qisishi",
+    "diareya va qon aralash axlat",
+    "najasda bo'g'imlar chiqqanini sezish",
+    "ichakdagi yetuk chuvalchanglar tufayli ko'ngil aynishi"
+   ],
+   "x": "«Enterobiozning asosiy belgisi anal sohada, ayniqsa kechasi kuchayadigan qichishishdir»"
+  },
+  {
+   "q": "Exinokokkozda belgilar qachon paydo bo'ladi?",
+   "c": "pufak kattalashib a'zo faoliyatini buzgandagina",
+   "w": [
+    "lichinkalar o'pka orqali o'tganda",
+    "ichakdagi yetuk chuvalchanglar tufayli",
+    "tuxum najas bilan tashqi muhitga chiqqanda",
+    "najasda bo'g'imlar chiqqanini sezganda"
+   ],
+   "x": "«belgilar kasallik uzoq yillar o'tgach, pufak kattalashib a'zo faoliyatini buzgandagina paydo bo'ladi»"
+  },
+  {
+   "q": "Gelmintozda umumiy qon tahlilida qanday o'zgarish bo'lishi mumkin?",
+   "c": "eozinofillar sonining ko'payishi",
+   "w": [
+    "eozinofillar sonining kamayishi",
+    "oqsil miqdorining ko'payishi",
+    "temir miqdorining ko'payishi",
+    "qon aralash axlat bo'lishi"
+   ],
+   "x": "«Umumiy qon tahlilida eozinofillar sonining ko'payishi»"
+  },
+  {
+   "q": "Laboratoriya natijasi salbiy bo'lsa-yu, belgilar saqlansa, nima qilinadi?",
+   "c": "tekshiruv boshqa kunda qayta o'tkaziladi",
+   "w": [
+    "bemor sog'lom deb hisoblanadi va tekshiruv to'xtatiladi",
+    "faqat umumiy qon tahlili bilan cheklaniladi",
+    "jarrohlik davolash darhol boshlanadi",
+    "oiladagi boshqa a'zolar tekshirilmaydi"
+   ],
+   "x": "«belgilar saqlansa, tekshiruv boshqa kunda qayta o'tkaziladi»"
+  },
+  {
+   "q": "Odam organizmida parazitlik qilib gelmintoz chaqiruvchi nechta gelmint turi aniqlangan?",
+   "c": "250 dan ortiq",
+   "w": [
+    "50 dan ortiq",
+    "20 dan ortiq",
+    "287 ta",
+    "90 dan ortiq"
+   ],
+   "x": "«odam organizmida parazitlik qilib gelmintoz chaqiruvchi 250 dan ortiq gelmint turi aniqlangani»"
+  }
+ ],
+ "005": [
+  {
+   "q": "Askaridalar ko'p bo'lganda mexanik ta'sir qanday namoyon bo'ladi?",
+   "c": "to'p hosil qilib, ichak yo'lini bekitishi mumkin",
+   "w": [
+    "ichak shilliq qavatiga yopishib, uni jarohatlaydi",
+    "lichinkalar ko'chib yurib, mayda shikastlanishlar hosil qiladi",
+    "oziq moddalarning ichakdan so'rilishini yomonlashtiradi",
+    "ishtahani pasaytiradi va ovqat iste'molini kamaytiradi"
+   ],
+   "x": "«Askaridalar ko'p bo'lganda to'p hosil qilib, ichak yo'lini bekitishi mumkin»"
+  },
+  {
+   "q": "Exinokokk pufagi jigar yoki o'pkada o'sib, nima qiladi?",
+   "c": "atrofdagi to'qimalarni siqadi",
+   "w": [
+    "ichakdan surunkali qon ketishini keltirib chiqaradi",
+    "diareya va dizenteriya sababchisi bo'ladi",
+    "ichakda A vitamini uchun raqobat qiladi",
+    "yo'tal va infiltratlar hosil qiladi"
+   ],
+   "x": "«Exinokokk pufagi jigar yoki o'pkada o'sib, atrofdagi to'qimalarni siqadi»"
+  },
+  {
+   "q": "Ichakdan surunkali qon ketishi ayniqsa kimlarda kamqonlik bilan yakunlanishi mumkin?",
+   "c": "o'smir qizlar hamda tug'ish yoshidagi ayollarda",
+   "w": [
+    "bolalarda va maktab yoshidagi o'quvchilarda",
+    "homilador ayollarda faqat ikkinchi trimestrda",
+    "parazit soni ko'p bo'lgan kishilarda",
+    "uzoq muddatli aloqa qilgan odamlarda"
+   ],
+   "x": "«bu ayniqsa o'smir qizlar hamda tug'ish yoshidagi ayollarda kamqonlik bilan yakunlanishi mumkin»"
+  },
+  {
+   "q": "Gelmintlarga javoban qanday allergik reaksiyalar rivojlanadi?",
+   "c": "teri toshmalari, qichishish, bronxospazm, eozinofiliya",
+   "w": [
+    "holsizlik, bosh og'rig'i, ishtaha buzilishi va uyqu bezovtaligi",
+    "ichak tutilishi, qon quyilishi va yallig'lanish o'choqlari",
+    "kamqonlik, shishlar va oqsil tanqisligi",
+    "temir va oqsil yo'qotilishi, ishtaha pasayishi"
+   ],
+   "x": "«allergik reaksiyalar rivojlanadi: teri toshmalari, qichishish, bronxospazm, eozinofiliya»"
+  },
+  {
+   "q": "Askaridada qaysi miqdor og'ir zararlanish hisoblanadi?",
+   "c": "50 000 va undan yuqori epg",
+   "w": [
+    "1–4999 epg",
+    "5000–49 999 epg",
+    "1000–9999 epg",
+    "10 000 dan yuqori epg"
+   ],
+   "x": "«50 000 va undan yuqori epg og'ir hisoblanadi»"
+  },
+  {
+   "q": "Umumiy tarqalganlik 20 foizdan past bo'lgan hududlarda nima deyarli uchramaydi?",
+   "c": "og'ir intensivlikdagi zararlanish",
+   "w": [
+    "yengil intensivlikdagi zararlanish",
+    "o'rta intensivlikdagi zararlanish",
+    "kamqonlik bilan kechadigan zararlanish",
+    "davolash dasturlari o'tkazilmaydigan zararlanish"
+   ],
+   "x": "«umumiy tarqalganlik 20 foizdan past bo'lgan hududlarda og'ir intensivlikdagi zararlanish deyarli uchramaydi»"
+  },
+  {
+   "q": "Oqsil tanqisligi qanday asoratga olib keladi?",
+   "c": "shishlarga olib keladi",
+   "w": [
+    "kamqonlikka olib keladi",
+    "o'sishdan orqada qolishga olib keladi",
+    "bakterial infeksiyaga olib keladi",
+    "yiringli jarayonga olib keladi"
+   ],
+   "x": "«oqsil tanqisligi esa shishlarga olib keladi»"
+  },
+  {
+   "q": "JSST homiladorlikning qaysi davrida xavf guruhi sifatida davolashni tavsiya etadi?",
+   "c": "ikkinchi va uchinchi trimestrida va emizish davrida",
+   "w": [
+    "birinchi trimestrida va emizish davrida ham xavf guruhi sifatida",
+    "uchinchi trimestrida va emizish davrida ham xavf guruhi sifatida",
+    "birinchi va ikkinchi trimestrida va emizish davrida",
+    "emizish davrida ham xavf guruhi sifatida"
+   ],
+   "x": "«homiladorlikning ikkinchi va uchinchi trimestrida va emizish davrida ham xavf guruhi sifatida davolashni tavsiya etadi»"
+  },
+  {
+   "q": "Mutaxassislar gelmintozlarni qaysi kasalliklar qatoriga kiritadi?",
+   "c": "e'tibordan chetda qolgan tropik kasalliklar",
+   "w": [
+    "ikkilamchi bakterial infeksiyalar",
+    "immunitet susayishi bilan kechadigan kasalliklar",
+    "jarrohlik davolashni talab qiladigan kasalliklar",
+    "allergik reaksiyalar bilan kechadigan kasalliklar"
+   ],
+   "x": "«Mutaxassislar gelmintozlarni e'tibordan chetda qolgan tropik kasalliklar qatoriga kiritadi»"
+  },
+  {
+   "q": "Shistosoma tuxumlari siydik pufagi devorida nimaga olib kelishi mumkin?",
+   "c": "yallig'lanish va kanserogenezga",
+   "w": [
+    "ichak tutilishiga",
+    "elefantiazga",
+    "to'g'ri ichak tushishiga",
+    "o'tkir og'riq sindromiga"
+   ],
+   "x": "«shistosoma tuxumlari siydik pufagi devorida yallig'lanish va kanserogenezga»"
+  }
+ ],
+ "006": [
+  {
+   "q": "Geogelmintlarning rivojlanishi uchun nima zarur?",
+   "c": "tuxum yoki lichinka tashqi muhitda, asosan tuproqda, yetilishi",
+   "w": [
+    "lichinkalik bosqichlari mollyuskalarda o'tishi",
+    "tuxum tashqi muhitga chiqqach tezda infeksion bo'lishi",
+    "qoramol oraliq xo'jayin, odam oxirgi xo'jayin bo'lishi",
+    "bevosita aloqa bilan o'z-o'zini qayta zararlash"
+   ],
+   "x": "«tuxum yoki lichinka tashqi muhitda, asosan tuproqda, yetilishi zarur»"
+  },
+  {
+   "q": "Qaysi gelmintlar geogelmintlarga kiradi?",
+   "c": "askarida, qilbosh chuvalchang va g'ajakbosh chuvalchanglar",
+   "w": [
+    "opistorx va fassiola",
+    "qoramol tasmasimon chuvalchangi va strongiloid",
+    "ostritsa va exinokokk",
+    "mitti tasmasimon chuvalchang va fassiola"
+   ],
+   "x": "«askarida, qilbosh chuvalchang va g'ajakbosh chuvalchanglar kiradi»"
+  },
+  {
+   "q": "Biogelmintlarning rivojlanishi uchun nima zarur?",
+   "c": "kamida bitta oraliq xo'jayin",
+   "w": [
+    "tuxumning tuproqda yetilishi",
+    "odamning o'zida o'z-o'zini qayta zararlash",
+    "tuproqda erkin yashash",
+    "namlik, harorat va kislorodning mavjudligi"
+   ],
+   "x": "«Biogelmintlarning rivojlanishi uchun kamida bitta oraliq xo'jayin zarur»"
+  },
+  {
+   "q": "Exinokokkda odam qaysi xo'jayin bo'lib qoladi?",
+   "c": "tasodifiy oraliq xo'jayin",
+   "w": [
+    "oxirgi xo'jayin",
+    "asosiy oraliq xo'jayin",
+    "qo'shimcha oraliq xo'jayin",
+    "oraliq xo'jayin bo'lmay qoladi"
+   ],
+   "x": "«odam esa tasodifiy oraliq xo'jayin bo'lib qoladi»"
+  },
+  {
+   "q": "Opistorx va fassiola kabi so'rg'ichli chuvalchanglarning rivojlanishi nima orqali o'tadi?",
+   "c": "mollyuskalar, baliq yoki o'simlik orqali",
+   "w": [
+    "tuproq, suv yoki najas orqali",
+    "qo'l, kiyim va o'yinchoq orqali",
+    "teri orqali, yalang oyoq yurganda",
+    "go'sht va itlar orqali"
+   ],
+   "x": "«rivojlanishi ham mollyuskalar, baliq yoki o'simlik orqali o'tadi»"
+  },
+  {
+   "q": "Biogelmintozlarni to'xtatish uchun nima zarur?",
+   "c": "oraliq xo'jayinlarni nazorat qilish, go'sht va baliqni yetarli issiqlik bilan ishlash hamda itlarni degelmintizatsiya qilish",
+   "w": [
+    "tuproq va suvni najas bilan ifloslanishdan himoya qilish hamda yuvilmagan sabzavotni iste'mol qilmaslik",
+    "qo'lni yuvish, ichki kiyim va ro'zg'or buyumlarini tozalash hamda jamoada bir vaqtda davolash",
+    "xavf guruhlarini individual tashxissiz davriy davolash hamda sanitariya sharoitini yaxshilash",
+    "tuxum va lichinkalarni najas namunasida izlash hamda ularning rivojlanish darajasini baholash"
+   ],
+   "x": "«Biogelmintozlarni to'xtatish uchun oraliq xo'jayinlarni nazorat qilish, go'sht va baliqni yetarli issiqlik bilan ishlash hamda itlarni degelmintizatsiya qilish zarur»"
+  },
+  {
+   "q": "Qaysi gelmintlar kontakt gelmintlarga tipik misol bo'ladi?",
+   "c": "o'tkirbosh chuvalchang (ostritsa) va mitti tasmasimon chuvalchang",
+   "w": [
+    "askarida va qilbosh chuvalchang kabi tuproq gelmintlari",
+    "qoramol tasmasimon chuvalchangi va exinokokk kabi biogelmintlar",
+    "g'ajakbosh va strongiloid kabi tuproq gelmintlari",
+    "fassiola va qilbosh chuvalchang kabi gelmintlar"
+   ],
+   "x": "«Bunga o'tkirbosh chuvalchang (ostritsa) va mitti tasmasimon chuvalchang tipik misol bo'ladi»"
+  },
+  {
+   "q": "Ostritsa tuxumlari qanday tarqaladi?",
+   "c": "qo'l, kiyim, o'yinchoq va maishiy buyumlar orqali",
+   "w": [
+    "teri orqali, yalang oyoq yurganda",
+    "mollyuskalar, baliq yoki o'simlik orqali",
+    "oraliq xo'jayin va itlar orqali",
+    "tuproq va suv orqali"
+   ],
+   "x": "«ular qo'l, kiyim, o'yinchoq va maishiy buyumlar orqali tarqaladi»"
+  },
+  {
+   "q": "Mitti tasmasimon chuvalchangda odamning o'zida bevosita yuqishdan tashqari yana qanday holat mumkin?",
+   "c": "o'z-o'zini qayta zararlash (autoinvaziya)",
+   "w": [
+    "oraliq xo'jayinda lichinkalik bosqichini o'tkazish",
+    "tuproqda uch hafta yetilish",
+    "teri orqali lichinkalar kirishi",
+    "mollyuskalar orqali rivojlanish"
+   ],
+   "x": "«hatto o'z-o'zini qayta zararlash (autoinvaziya) ham mumkin»"
+  },
+  {
+   "q": "Strongiloidoz immuniteti pasaygan kishilarda qanday oqibatga olib kelishi mumkin?",
+   "c": "nazoratsiz ko'payishi o'lim bilan tugashi mumkin",
+   "w": [
+    "oraliq xo'jayinga o'tib, mollyuskalarda ko'payishi mumkin",
+    "ostritsa urg'ochisi tuxumlarini anal atrofiga qo'yishi mumkin",
+    "tuxumi qisqa vaqtda infeksion bo'lib qolishi mumkin",
+    "ichak tutilishi bilan jarrohlik davolashni talab qilishi mumkin"
+   ],
+   "x": "«immuniteti pasaygan kishilarda nazoratsiz ko'payishi o'lim bilan tugashi mumkin»"
+  }
+ ]
+}
