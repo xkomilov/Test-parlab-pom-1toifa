@@ -27,9 +27,9 @@
    "c": "Qopqoq, o'lchami va shakli",
    "w": [
     "Bo'g'imlar shakli va rozetkasi",
-    "Najas bilan chiqqan uzun tasma",
-    "Kamqonlik va B12 yetishmovchiligi",
-    "Mitoxondrial DNK ketma-ketligi"
+    "Skoleksning yoriqlari va bo'rtmasi",
+    "Najas miqdori va tiniqligi",
+    "Bachadonning rozetkasimon tuzilishi"
    ],
    "x": "«Tuxumlarni boshqa trematoda tuxumlaridan (masalan, opistorx, fassiola) ajratish uchun qopqoq, o'lchami va shakli e'tiborga olinadi»"
   },
@@ -37,10 +37,10 @@
    "q": "Chiqqan chuvalchang bo'laklari laboratoriyada qanday saqlanadi?",
    "c": "Fiziologik eritmada yoki spirtda",
    "w": [
-    "Cho'ktirish va formalin–efir usulida",
-    "Ikra va jigar eritmasi",
-    "Najas va ikra aralashmasi",
-    "Najas va spirt eritmasi"
+    "Formalin va efir aralashmasida",
+    "Sho'r eritmada tuzlangan",
+    "Najas bilan flotatsiya eritmasida",
+    "Cho'ktirish usulida tayyorlangan eritmada"
    ],
    "x": "«Laboratoriyada ular fiziologik eritmada yoki spirtda saqlanib, bo'g'imlarning shakli va bachadonining markaziy rozetkasimon tuzilishi bo'yicha tekshiriladi»"
   },
@@ -71,9 +71,9 @@
    "c": "Megaloblast kamqonlik va B12 vitamini pasayishi",
    "w": [
     "MCV pasaygan kamqonlik va B12 oshishi",
-    "Jigar yetishmovchiligi va eozinofiliya",
+    "Jigar yetishmovchiligi va allergiya belgilari",
     "Zararli kamqonlik va ichak tutilishi",
-    "Opistorxoz va fassiola belgilari"
+    "Yuqori eozinofiliya va MCV pasayishi"
    ],
    "x": "«Umumiy qon tahlilida megaloblast kamqonlik (MCV oshgan) va B12 vitamini darajasi pasayishi mumkin; eozinofiliya yengil bo'ladi»"
   },
@@ -81,7 +81,7 @@
    "q": "Manfiy bir martalik natija nima uchun tashxisni istisno qilmaydi?",
    "c": "Tuxum chiqishi turlicha bo'lishi mumkin",
    "w": [
-    "Tuxum chiqishi bir martalik bo'ladi",
+    "Tuxum qobig'i mikroskopda ko'rinmaydi",
     "Mikroskopiya bitta preparatda sezgir emas",
     "Chuvalchang bo'laklari tashlab yuboriladi",
     "Skoleks najas bilan chiqadi"
@@ -105,7 +105,7 @@
    "w": [
     "Davolashdan keyin chuvalchang yig'ilganda",
     "Skoleksning chiqqani tekshirilganda",
-    "Najas bir necha kun ketma-ket tekshirilganda",
+    "Qonda B12 darajasi tekshirilganda",
     "Baliq iste'moli haqida so'ralganda"
    ],
    "x": "«Bir necha haftadan keyin najas qayta tekshirilib, tuxum yo'qolgani tasdiqlanadi»"

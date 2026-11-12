@@ -23,15 +23,15 @@
    "x": "«JSST xabariga ko'ra O'zbekiston bezgakni 1961-yilda birinchi marta yo'q qilgan, keyingi o'n yilliklarda kasallik qayta kirib kelgan va mamlakat uni ikkinchi marta 2010-yilda yo'q qilgan; mamlakatning eng ko'p zararlangan hududi bo'lgan Surxondaryo viloyatida holatlar soni 2007-yildagi 81 tadan 2011–2014-yillarda nolga tushgan, oxirgi uchta mahalliy holat 2010-yilda aniqlangan»"
   },
   {
-   "q": "Oxirgi holatlardan ikkitasi zararlanishni qaysi tumanda yuqtirgan?",
-   "c": "Qashqadaryo viloyatining Dehqonobod tumanida",
+   "q": "Oxirgi mahalliy holat yili nima uchun muhim hisoblanadi?",
+   "c": "uch yillik davr sanadan keyin hisoblanadi",
    "w": [
-    "Surxondaryo viloyatining Uzun tumanida",
-    "Sirdaryo viloyatining Dehqonobod tumanida",
-    "Toshkent viloyatining Uzun tumanida",
-    "Qashqadaryo viloyatining Uzun tumanida"
+    "bemorning sayohat tarixi sanadan keyin aniqlanadi",
+    "chivinlar ko'payish joylari sanadan keyin tekshiriladi",
+    "qon preparatlari sanadan keyin ommaviy olinadi",
+    "atrofdagi aholi sanadan keyin faol qidiriladi"
    ],
-   "x": "«vivax holati 2010-yilda aniqlangan, ulardan biri Surxondaryo viloyatida, ikkitasi Sirdaryo viloyati aholisi bo'lib, zararlanishni Qashqadaryo viloyatining Dehqonobod tumanida yuqtirgan»"
+   "x": "«Oxirgi mahalliy holat yili sertifikatlash jarayoni uchun hisoblanadi: uch yillik davr shu sanadan keyin hisoblanadi»"
   },
   {
    "q": "O'zbekiston bezgakdan holi deb qaysi yilda sertifikatlangan?",
@@ -89,24 +89,24 @@
    "x": "«Mahalliy holatlar o'z navbatida tasniflanishi mumkin: mahalliy yuqish (mahalliy manba orqali), kiritilgan (introduced) holat, ya'ni import holatdan chivin orqali mahalliy yuqish, va qaytalanish (relaps), ya'ni avval mahalliy zararlangan bemorning kasalligi qaytalanishi»"
   },
   {
-   "q": "Surxondaryo viloyatida 2007-yildagi holatlar soni qancha bo'lgan?",
-   "c": "81 ta holat",
+   "q": "Jahon sog'liqni saqlash tashkiloti bezgak nazoratining asosiy elementlari sifatida nimani ko'rsatadi?",
+   "c": "vektorga qarshi kurash va yaxshilangan kuzatuv",
    "w": [
-    "60 ta holat",
-    "133 ta holat",
-    "145 ta holat",
-    "201 ta holat"
+    "qon surtmasini ommaviy olish va tekshirish",
+    "aholi immunitetini hisoblash va tarixiy tahlil",
+    "o'choqlarni yolg'on yoki faol deb toifalash",
+    "sertifikatlash uchun ariza topshirish"
    ],
-   "x": "«JSST xabariga ko'ra O'zbekiston bezgakni 1961-yilda birinchi marta yo'q qilgan, keyingi o'n yilliklarda kasallik qayta kirib kelgan va mamlakat uni ikkinchi marta 2010-yilda yo'q qilgan; mamlakatning eng ko'p zararlangan hududi bo'lgan Surxondaryo viloyatida holatlar soni 2007-yildagi 81 tadan 2011–2014-yillarda nolga tushgan, oxirgi uchta mahalliy holat 2010-yilda aniqlangan»"
+   "x": "«Jahon sog'liqni saqlash tashkiloti vektorga qarshi kurash va yaxshilangan kuzatuvni bezgak nazoratining asosiy elementlari sifatida ko'rsatadi»"
   },
   {
-   "q": "2006–2010-yillarda mahalliy holatlarning necha foizi Surxondaryo viloyatida aniqlangan?",
-   "c": "91,7 foiz",
+   "q": "2006–2010-yillarda mahalliy holatlarning ko'pchiligi qaysi viloyatda aniqlangan?",
+   "c": "Surxondaryo viloyatida",
    "w": [
-    "72,13 foiz",
-    "96 foiz",
-    "11 foiz",
-    "16 foiz"
+    "Qashqadaryo viloyatida",
+    "Toshkent viloyatida",
+    "Jizzax viloyatida",
+    "Namangan viloyatida"
    ],
    "x": "«JSST hisobotiga ko'ra eliminatsiya davrida (2006–2010-yillar) mahalliy holatlar faqat uchta viloyatda aniqlangan: 133 holat (91,7 foiz) Surxondaryo viloyatida, 11 holat Qashqadaryo viloyatida va bitta holat Toshkent viloyatida»"
   }
@@ -121,18 +121,18 @@
     "ovale-bezgak",
     "zoonoz bezgak"
    ],
-   "x": "«malariae qo'zg'atadigan to'rt kunlik bezgak (malaria quartana), P»"
+   "x": "«Shunga mos ravishda bezgakning nozologik shakllari ajratiladi: tropik bezgak (P. falciparum), uch kunlik bezgak (P. vivax), to'rt kunlik bezgak (P. malariae), ovale-bezgak (P. ovale) va zoonoz bezgak (P. knowlesi)»"
   },
   {
    "q": "Odamda bezgak qo'zg'atadigan Plasmodium turlari nechta?",
-   "c": "beshta Plasmodium turi",
+   "c": "5 ta Plasmodium turi",
    "w": [
     "3 ta Plasmodium turi",
     "4 ta Plasmodium turi",
     "7 ta Plasmodium turi",
     "10 ta Plasmodium turi"
    ],
-   "x": "«Jahon sog'liqni saqlash tashkiloti odamda bezgak qo'zg'atadigan beshta Plasmodium turini ko'rsatadi: P»"
+   "x": "«Jahon sog'liqni saqlash tashkiloti odamda bezgak qo'zg'atadigan beshta Plasmodium turini ko'rsatadi: P. falciparum, P. vivax, P. malariae, P. ovale va P. knowlesi»"
   },
   {
    "q": "Aralash bezgak nima?",
@@ -150,7 +150,7 @@
    "c": "bitta tur ikkinchisini niqoblab qo'yishi mumkin",
    "w": [
     "epidemik hududlarda aralash infeksiya kam uchraydi",
-    "bitta tur boshqasini davolab yuboradi",
+    "barcha tur laboratoriya natijasida ko'rsatilmaydi",
     "aralash infeksiya tashxis vaqtida e'tibor talab qilmaydi",
     "ikkinchi tur jigardagi shaklda bo'ladi"
    ],
@@ -171,12 +171,12 @@
    "q": "Bemorni ambulator yoki kasalxonada davolash nimaga bog'liq?",
    "c": "kasallikning og'irligi",
    "w": [
-    "qo'zg'atuvchi turi bo'yicha",
-    "yuqish yo'li bo'yicha",
-    "zararlanish joyi bo'yicha",
-    "davolash samarasi bo'yicha"
+    "qo'zg'atuvchining turi",
+    "yuqish yo'li",
+    "zararlanish joyi",
+    "davolash samarasi"
    ],
-   "x": "«Ikkinchi mezon — kasallikning og'irligi»"
+   "x": "«Bu tasnif bemorni qayerda va qanday davolash (ambulator yoki kasalxonada) kerakligini belgilaydi»"
   },
   {
    "q": "Belgilar zararlangan chivin chaqqanidan keyin odatda qancha vaqt ichida boshlanadi?",
@@ -198,7 +198,7 @@
     "ifloslangan ignalar orqali zararlanish",
     "onadan homilaga o'tish xavfi"
    ],
-   "x": "«Kasallikning qaytalanishlari ham bosqichlar sifatida ko'riladi: yaqin (qisqa muddatli) qaytalanish, ya'ni davolash samarasizligi yoki parazit qarshiligi bilan bog'liq, va uzoq muddatli qaytalanish, ya'ni jigardagi uxlab yotuvchi shakllar faollashishi bilan bog'liq, bu faqat P»"
+   "x": "«Kasallikning qaytalanishlari ham bosqichlar sifatida ko'riladi: yaqin (qisqa muddatli) qaytalanish, ya'ni davolash samarasizligi yoki parazit qarshiligi bilan bog'liq, va uzoq muddatli qaytalanish, ya'ni jigardagi uxlab yotuvchi shakllar faollashishi bilan bog'liq, bu faqat P. vivax va P. ovale ga xos»"
   },
   {
    "q": "Yuqish yo'li bo'yicha bezgak qaysi shakllarga bo'linadi?",
@@ -291,7 +291,7 @@
    "x": "«Biroq tugatilgan o'choq ham yo'q bo'lib ketmaydi: chivinlar saqlanadi, aholi esa immunitetga ega emas, shuning uchun tugatilgan o'choq ro'yxatda qoladi va shubhali isitmalarni tekshirish davom etadi»"
   },
   {
-   "q": "Quyidagilardan qaysi biri tabiiy-geografik o'choq turi hisoblanadi?",
+   "q": "Qaysi o'choq turi tabiiy-geografik xususiyatiga ko'ra ajratiladi?",
    "c": "daryo bo'yi o'choqlari",
    "w": [
     "faol o'choqlar",
@@ -340,12 +340,12 @@
    "q": "P. vivax va P. ovale nima sababli oylar o'tib qaytalanishi mumkin?",
    "c": "jigardagi uxlab yotuvchi shakllari sababli",
    "w": [
-    "chivinlar saqlanib qolishi sababli",
-    "HRP2 oqsillarini ishlab chiqarmasligi sababli",
+    "inkubatsiya muddati uzayishi sababli",
     "profilaktika dori qabul qilinishi sababli",
-    "profilaktika qabul qilmagani sababli"
+    "parazitemiya darajasi yuqoriligi sababli",
+    "tropik bezgak aniqlanishi sababli"
    ],
-   "x": "«ovale esa jigardagi uxlab yotuvchi shakllari sababli oylar o'tib qaytalanishi mumkin, bu esa bemorlarni kuzatish zaruratini bildiradi»"
+   "x": "«P. vivax va P. ovale esa jigardagi uxlab yotuvchi shakllari sababli oylar o'tib qaytalanishi mumkin, bu esa bemorlarni kuzatish zaruratini bildiradi»"
   },
   {
    "q": "Import qilingan holat nima?",
@@ -359,7 +359,7 @@
    "x": "«Import qilingan holat — bemorning bezgak bilan zararlanishi boshqa mamlakat yoki bezgak yuqishi mavjud hududda yuz bergan, kasallik esa bezgakdan holi hududda aniqlangan»"
   },
   {
-   "q": "Qaysi guruh eng xavfli hisoblanadi?",
+   "q": "Sayohatchilar orasida qaysi guruh eng xavfli hisoblanadi?",
    "c": "profilaktika qabul qilmagan va immunitetsiz sayohatchilar",
    "w": [
     "profilaktika qabul qilgan sayohatchilar",
@@ -395,10 +395,10 @@
    "q": "Barcha gumon qilingan bezgak holatlari nima bilan tasdiqlanadi?",
    "c": "mikroskopiya yoki tezkor test",
    "w": [
-    "epidemiologik anamnez va sayohat tarixi",
-    "klinik ko'rinish va isitma",
-    "sayohat tarixi va muddati",
-    "kimyoprofilaktika yoki qaytaruvchi vositalar"
+    "epidemiologik anamnez yoki sayohat tarixi",
+    "klinik ko'rinish yoki isitma",
+    "dispanser nazorati yoki maxsus jurnal",
+    "kimyoprofilaktika yoki to'r bilan himoya"
    ],
    "x": "«Jahon sog'liqni saqlash tashkiloti barcha gumon qilingan bezgak holatlarini mikroskopiya yoki tezkor test bilan tasdiqlashni tavsiya etadi»"
   },

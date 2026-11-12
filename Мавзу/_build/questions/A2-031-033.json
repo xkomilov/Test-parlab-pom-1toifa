@@ -4,10 +4,10 @@
    "q": "Yupqa surtmada qalin tomchidan farqli ravishda nima ko'rinadi?",
    "c": "eritrotsit ichidagi parazit shakli",
    "w": [
-    "leykotsitlar tekis taqsimlanishi",
+    "eritrotsitlar to'p-to'p bo'lib to'planishi",
     "chiziqlar, teshiklar va changlar",
     "bo'yoq yuzasidagi yashil parda",
-    "fiksatsiya qilinmagan eritrotsitlar"
+    "eritrotsitlar yoyilib ketgan va ko'rinmasligi"
    ],
    "x": "«Yupqa surtmada eritrotsitlar butun holda qoladi, shuning uchun parazitning eritrotsit ichidagi shakli, zararlangan eritrotsit o'lchami va unda hosil bo'ladigan nuqtalar ko'rinadi»"
   },
@@ -26,10 +26,10 @@
    "q": "Yupqa surtma uchun oynaning o'rta qismiga qancha qon olinadi?",
    "c": "bitta kichik tomchi",
    "w": [
-    "katta tomchi ortiqcha qon",
-    "qalin tomchi uchun tomchilar",
+    "ikki-uch kichik tomchi",
+    "bitta katta tomchi",
     "oynaning butun yuzasi",
-    "barmoq uchidagi barcha qon"
+    "uchinchi barmoqdagi barcha qon"
    ],
    "x": "«So'ng oyna barmoqqa tegizilib, yupqa surtma uchun bitta kichik tomchi oynaning o'rta qismiga olinadi»"
   },
@@ -37,10 +37,10 @@
    "q": "Yupqa surtma qanday holatda quritiladi?",
    "c": "gorizontal holatda havoda",
    "w": [
-    "metanol ichida gorizontal holatda",
-    "javonda to'g'ri holatda",
-    "spirt bilan to'liq namlangan holda",
-    "bo'yoq ustida gorizontal holatda"
+    "to'g'ri holatda javonda",
+    "buferli suv tomchilari ostida",
+    "bo'yoq ustida gorizontal holatda",
+    "spirt bilan to'liq namlangan holda"
    ],
    "x": "«Tayyor surtma gorizontal holatda havoda quritiladi va chang hamda pashshalardan himoya qilinadi»"
   },
@@ -62,9 +62,9 @@
     "70 foizli spirt bilan fiksatsiya qilinadi",
     "buferli suv bilan fiksatsiya qilinadi",
     "Giemza eritmasi bilan fiksatsiya qilinadi",
-    "spreder oynasi bilan fiksatsiya qilinadi"
+    "glitserin bilan fiksatsiya qilinadi"
    ],
-   "x": "«Bo'yash bo'yicha M-SOM-07 muolajasida esa yupqa surtma Paster pipetkasi yoki metanolga botirilgan paxta tampon yordamida metanol bilan fiksatsiya qilinadi, qalin tomchining metanolga tegishiga yo'l qo'yilmaydi»"
+   "x": "«Yupqa surtma barmoq uchidan olingan bitta kichik tomchini spreder oynasi bilan 45 graduslik burchak ostida uzluksiz harakat bilan yoyish yo'li bilan tayyorlanadi, havoda quritiladi, metanol bilan fiksatsiya qilinadi va Giemza bilan bo'yaladi»"
   },
   {
    "q": "Tezkor usulda Giemza eritmasi qanday konsentratsiya va muddatda ishlatiladi?",
@@ -82,9 +82,9 @@
    "c": "yashil parda yopishib, preparat yaroqsiz bo'ladi",
    "w": [
     "eritrotsitlar yoyilib ketadi va ko'rinmaydi",
-    "bo'yoq rangi toza bo'lib, parazit yaqqol ko'rinadi",
     "surtma chiziqlar va teshiklar bilan qoplanadi",
-    "leykotsitlar bir qatlamda tekis taqsimlanadi"
+    "eritrotsitlar to'p-to'p bo'lib to'planadi",
+    "leykotsitlar tekis taqsimlanmay qoladi"
    ],
    "x": "«Bo'yash tugagach, bo'yoqni to'kib tashlamasdan, buferli suv tomchilari bilan sekin yuvib yuboriladi, chunki to'kib tashlansa bo'yoq yuzasidagi yashil parda preparatga yopishib, uni mikroskopiya uchun yaroqsiz qiladi»"
   },
@@ -92,10 +92,10 @@
    "q": "Parazitemiya darajasi yupqa surtmada qanday baholanadi?",
    "c": "zararlangan eritrotsitlar ulushi hisoblanadi",
    "w": [
-    "ko'rish maydonlari soni sanaladi",
-    "leykotsitlar tekis taqsimlanishi baholanadi",
-    "eritrotsitlar to'p-to'p to'planishi sanaladi",
-    "bo'yoq rangi toza bo'lishi baholanadi"
+    "qalin tomchidagi leykotsitlar sanaladi",
+    "eritrotsitlar to'p-to'p bo'lishi baholanadi",
+    "bo'yoq rangi toza bo'lishi baholanadi",
+    "surtmada patsimon zona o'lchanadi"
    ],
    "x": "«Parazitemiya darajasini baholash uchun yupqa surtmada zararlangan eritrotsitlar ulushi hisoblanadi: ko'rish maydonlarida zararlangan va jami eritrotsitlar sanalib, foiz topiladi»"
   },
@@ -135,13 +135,13 @@
    "x": "«Qalin tomchi fiksatsiya qilinmaydi, chunki u bo'yash vaqtida gemoglobinsizlanishi, ya'ni eritrotsitlar yorilishi kerak»"
   },
   {
-   "q": "Giemza eritmasi qanday tarkibiy qismlardan iborat?",
+   "q": "Giemza eritmasining bo'yovchi moddalari qaysilar?",
    "c": "eozin va metilen ko'k",
    "w": [
-    "eozin va glitserin",
-    "azur va metanol",
-    "kaliy digidrofosfat va glitserin",
-    "buferli suv va metanol"
+    "kaliy digidrofosfat va Na2HPO4",
+    "metanol va glitserin",
+    "buferli suv va metanol",
+    "bo'yoq cho'kmasi va yashil parda"
    ],
    "x": "«Giemza eritmasi eozin va metilen ko'k (azur) dan iborat: eozin parazit yadrosini qizil, metilen ko'k sitoplazmani ko'k rangga bo'yaydi»"
   },
@@ -294,10 +294,10 @@
    "q": "Qon bilan ifloslangan materiallar qanday usulda zararsizlantiriladi?",
    "c": "yoqish yoki avtoklavlash",
    "w": [
-    "maxsus idishga tashlash",
+    "metanol bilan fiksatsiya qilish",
     "ishdan keyin qo'lini yuvish",
     "yangi lanset ishlatish",
-    "metanol bilan fiksatsiya qilish"
+    "immersion moy bilan tozalash"
    ],
    "x": "«Har bir bemor uchun yangi lanset ishlatiladi, o'tkir buyumlar maxsus idishga tashlanadi, qon bilan ifloslangan materiallar yoqish yoki avtoklavlash yo'li bilan zararsizlantiriladi»"
   },
@@ -306,7 +306,7 @@
    "c": "chap yuqori burchakdan boshlab, maydon-maydon",
    "w": [
     "o'ng yuqori burchakdan boshlab, maydon-maydon",
-    "chap yuqori burchakdan boshlab, yupqa surtmada",
+    "ikkinchi mutaxassisdan boshlab, maydon-maydon",
     "yaroqsiz preparatdan boshlab, maydon-maydon",
     "yupqa surtmaning patsimon uchidan boshlab"
    ],
@@ -327,10 +327,10 @@
    "q": "Bezgakdan holi hududlarda mikroskopist ko'nikmasi nima sababdan susayishi mumkin?",
    "c": "kamdan-kam ijobiy preparat ko'rishi",
    "w": [
-    "salbiy preparatlarni qayta tekshirishi",
-    "ikkinchi ko'rib chiqishda qatnashishi",
-    "ikkinchi mutaxassis tomonidan qayta ko'rib chiqilishi",
-    "bo'yoq partiyasini sinab ko'rishi"
+    "immersion moy sifati pastligi",
+    "Giemza zahira eritmasi sifatining pastligi",
+    "bo'yoq partiyasi sinab ko'rilmasligi",
+    "mexanik stol ishdan chiqishi"
    ],
    "x": "«Bezgakdan holi hududlarda mikroskopistlar kamdan-kam ijobiy preparat ko'radi, shuning uchun ularning ko'nikmasi susayishi mumkin»"
   }

@@ -5,9 +5,9 @@
    "c": "Kasallik odam, it va chorva o'rtasida aylanadi",
    "w": [
     "Bemorlarni davolash yuqishni to'liq to'xtatadi",
-    "Faqat tibbiyot sohasi chora-tadbirlari talab qilinadi",
-    "Atrof-muhit sohasi chora-tadbirlari talab qilinmaydi",
-    "Chorva mollari kasallikni belgisiz o'tkazmaydi"
+    "Kasallik faqat tashqi muhit orqali aylanadi",
+    "Kasallik faqat odamlar orasida aylanadi",
+    "Faqat tibbiyot sohasi nazoratini talab qiladi"
    ],
    "x": "«Kistoz exinokokkozga qarshi kurash faqat bemorlarni davolash bilan cheklanmaydi: kasallik odam, it va chorva mollari o'rtasida aylangani uchun nazorat tibbiyot, veterinariya va atrof-muhit sohalarining birgalikdagi, ya'ni kompleks chora-tadbirlarini talab qiladi»"
   },
@@ -16,8 +16,8 @@
    "c": "Itlar ro'yxatga olinadi, davolangan itlar belgilanadi",
    "w": [
     "Itlar so'yish joylarida xom ichki a'zolar bilan boqiladi",
-    "Davolangan itlar belgilanadi, ro'yxatga olinmaydi",
-    "Itlarni davolash natijasi tuxum chiqarilishini oshiradi",
+    "Itlar yo'q qilinadi, davolash esa o'tkazilmaydi",
+    "Itlar uchun vaksina ishlab chiqariladi",
     "Egasiz itlar va ko'chada yuruvchi itlar nazoratga olinmaydi"
    ],
    "x": "«Dasturda itlar ro'yxatga olinadi, har bir davolash qayd etiladi, davolangan itlar belgilanadi»"
@@ -26,21 +26,21 @@
    "q": "So'yish gigiyenasida zararlangan ichki a'zolar bilan nima qilinadi?",
    "c": "Yoqiladi yoki chuqur ko'miladi",
    "w": [
-    "Itlarga xom ichki a'zolar bermaslik",
-    "Uy so'yimida chorvadorlar uchun qoldiriladi",
-    "So'yish joylarida nazoratga olinmaydi",
-    "Itlar uchun xom holda saqlanadi"
+    "Nazoratsiz so'yimida saqlanadi",
+    "Chorva mollarini boqish uchun saqlanadi",
+    "Itlar uchun xom saqlanadi",
+    "Qushxonalarda ekspertizasiz saqlanadi"
    ],
    "x": "«So'yish joylarini nazorat qilish, uy so'yimini cheklash yoki nazoratga olish, zararlangan ichki a'zolarni yoqish yoki chuqur ko'mish, itlarga xom ichki a'zolar bermaslik»"
   },
   {
-   "q": "Qaysi choralar birgalikda odamlardagi kasallikni 10 yildan kamroq vaqtda yo'q qilishi mumkin?",
-   "c": "Qo'zilarni emlash, itlarni davolash, keksa qo'ylarni brak qilish",
+   "q": "Exinokokkozga qarshi EG95 rekombinant antigeni bilan qaysi hayvonlar emlanadi?",
+   "c": "Qo'zilarga emlash qo'llanadi",
    "w": [
-    "Itlarni davolash, ultratovush skrining va qo'l yuvish",
-    "Qo'zilarni emlash, itlarni yo'q qilish va skrining",
-    "Keksa qo'ylarni so'yish, itlarni yo'q qilish va emlash",
-    "So'yish ekspertizasi, ultratovush va PAIR usuli"
+    "Itlarga emlash qo'llanadi",
+    "Keksa qo'ylarga emlash qo'llanadi",
+    "Egasiz itlarga emlash qo'llanadi",
+    "Chorvadorlarga emlash qo'llanadi"
    ],
    "x": "«granulosus EG95 rekombinant antigeni bilan emlash istiqbolli ekanini, vaksina tijorat asosida ishlab chiqarilayotganini va Xitoy hamda Argentinada ro'yxatdan o'tganini, qo'zilarni emlash, itlarni degelmintizatsiya qilish va keksa qo'ylarni brak qilish birgalikda odamlardagi kistoz exinokokkozni 10 yildan kamroq vaqtda yo'q qilishga olib kelishi mumkinligini ta'kidlaydi»"
   },
@@ -86,7 +86,7 @@
     "Kasalxona ma'lumotlari kasallik yukini ko'rsatmaydi",
     "Itlarda tuxum najasda topilmaydi"
    ],
-   "x": "«Dastur samarasi ko'rsatkichlar bilan baholanadi: itlarning degelmintizatsiya qamrovi, itlar va chorva mollari zararlanganligi, so'yish ekspertizasida kista topilish ulushi, odamlar orasida yangi holatlar»"
+   "x": "«hayvonlar orasida kuzatuv qiyin, chunki infeksiya chorva mollari va itlarda belgisiz kechadi»"
   },
   {
    "q": "Monitoring va baholashda qaysi ko'rsatkich qo'llaniladi?",
@@ -94,7 +94,7 @@
    "w": [
     "Egasiz itlarni yo'q qilish soni",
     "Aholini xabardor qilish kampaniyalari soni",
-    "Chorva mollarini so'yish ekspertizasi qamrovi",
+    "Aholi punktlari xaritalari soni",
     "Odamlar orasida eski holatlar soni"
    ],
    "x": "«Dastur samarasi ko'rsatkichlar bilan baholanadi: itlarning degelmintizatsiya qamrovi, itlar va chorva mollari zararlanganligi, so'yish ekspertizasida kista topilish ulushi, odamlar orasida yangi holatlar»"
@@ -103,10 +103,10 @@
    "q": "Aholini o'qitish qaysi yo'llar orqali tashkil etiladi?",
    "c": "Chorvadorlar, maktablar va mahalla orqali",
    "w": [
-    "Veterinar xodimlari va qushxonalar orqali",
-    "Egasiz itlar va tulkilar orqali",
-    "Kasalxona ma'lumotlari va xaritalar orqali",
-    "Aholi punktlari va yaylovlar orqali"
+    "Veterinar xodimlari va so'yish joylari orqali",
+    "Qushxonalar va ultratovush skrining orqali",
+    "Sanitariya xodimlari va bozorlar orqali",
+    "Kasalxona xodimlari va bemorlar orqali"
    ],
    "x": "«Ta'lim chorvadorlar, maktablar va mahalla orqali tashkil etiladi»"
   }

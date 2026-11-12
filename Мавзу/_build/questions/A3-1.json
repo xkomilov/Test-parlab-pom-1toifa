@@ -15,32 +15,32 @@
    "q": "Chivinchalar oddiy chivinlardan nimasi bilan farq qiladi?",
    "c": "Kichik, tukli, tunda faol hasharotlar",
    "w": [
-    "Kichik, tukli, kunduzi faol hasharotlar",
-    "Suvda rivojlanuvchi, tuksiz hasharotlar",
-    "Kichik, tukli, tunda faol bezgak chivinlari",
-    "Suvda rivojlanuvchi, tunda faol hasharotlar"
+    "Kichik, tuksiz, kunduzi faol hasharotlar",
+    "Suvda rivojlanuvchi, tuksiz, kunduzi faol hasharotlar",
+    "Kichik, tukli, g'ira-shirada faol bezgak chivinlari",
+    "Yirik, tukli, suv havzalarida rivojlanuvchi hasharotlar"
    ],
    "x": "«Bu tashuvchilar chivinchalar (Phlebotominae kenja oilasi) bo'lib, oddiy chivinlardan farq qiladi: ular kichik, tukli, tunda faol, ko'pincha ovozsiz uchadigan hasharotlar»"
   },
   {
-   "q": "Zoonoz teri leyshmaniozining ayblangan tashuvchisi bo'lgan eudominant tur qaysi?",
-   "c": "Phlebotomus papatasi",
+   "q": "Antroponoz teri leyshmaniozining ayblangan tashuvchisi qaysi tur?",
+   "c": "Phlebotomus sergenti",
    "w": [
-    "Phlebotomus sergenti",
-    "Phlebotomus major turi",
+    "Phlebotomus papatasi",
     "Phlebotominae kenja oilasi",
-    "Phlebotomus eudominant oilasi"
+    "Oddiy bezgak chivinlari turi",
+    "Kemiruvchilar inlaridagi hasharotlar"
    ],
-   "x": "«Tadqiqotda zoonoz leyshmaniozning ayblangan tashuvchisi Phlebotomus papatasi eudominant, ya'ni juda ustun tur bo'lib qolgani aniqlangan»"
+   "x": "«Antroponoz teri leyshmaniozining ayblangan tashuvchisi — Phlebotomus sergenti»"
   },
   {
    "q": "Chivincha lichinkalari qayerda rivojlanadi?",
    "c": "Nam, organik moddaga boy quruq muhitda",
    "w": [
     "Suv ostida, organik moddaga boy muhitda",
-    "Suv havzalarida va bezgak chivinlari orasida",
+    "Bezgak chivinlari orasida, suv havzalarida",
     "Quruq, organik moddasiz tosh yoriqlarida",
-    "Hayvon g'orlarida, suv havzalarida"
+    "Suv ostida, kemiruvchilar inlari yaqinida"
    ],
    "x": "«Chivincha lichinkalari suvda emas, nam, organik moddaga boy quruq muhitda — kemiruvchilar inlari, hayvon g'orlari, tosh yoriqlari, chiqindi to'plangan joylarda rivojlanadi»"
   },
@@ -49,9 +49,9 @@
    "c": "Tuxum rivojlanishi uchun qon kerak",
    "w": [
     "Lichinkalar qon bilan oziqlanishi kerak",
-    "Qon tanani tuk bilan qoplaydi",
-    "Qon qanotlarni ko'tarilgan holatda ushlaydi",
-    "Erkak chivinchalarda og'iz apparati bo'lmaydi"
+    "Qanotlar ko'tarilgan holatda turishi kerak",
+    "Tana tuk bilan qoplanishi kerak",
+    "Kemiruvchilar inlarida rivojlanishi kerak"
    ],
    "x": "«Faqat urg'ochi chivincha qon so'radi, chunki tuxum rivojlanishi uchun qon kerak»"
   },
@@ -81,10 +81,10 @@
    "q": "Chivinchalarni yig'ish uchun qaysi usullardan foydalaniladi?",
    "c": "Yopishqoq qog'oz va yorug'lik tuzoqlari",
    "w": [
-    "Insektitsid purkash va ishlov berilgan to'rlar",
-    "Spirtda saqlash va mikroskop ostida aniqlash",
-    "Atrof-muhitni boshqarish va shaxsiy himoya",
-    "Spermatekalar va farinks tuzilishini o'lchash"
+    "Spirtda saqlash va mikroskopda aniqlash",
+    "Insektitsid purkash va to'rlar bilan himoya",
+    "Suv havzalarini quritish va tuzoq qo'yish",
+    "Kemiruvchilar inlarini hisoblash va yo'q qilish"
    ],
    "x": "«Entomologlar chivinchalarni yig'ish uchun yopishqoq qog'oz tuzoqlar, yorug'lik tuzoqlari va qo'lda tutish usullaridan foydalanadilar»"
   },
@@ -105,8 +105,8 @@
    "w": [
     "Chivincha lichinkalari suvda rivojlanadi",
     "Kemiruvchilar inlari butunlay yo'qoladi",
-    "Urg'ochi chivinchalar tuxum qo'ymaydi",
-    "Bemorlar soni doimo o'zgarmaydi"
+    "Urg'ochi chivinchalar qon so'rmaydi",
+    "Bezgak chivinlari tashuvchi bo'lib qoladi"
    ],
    "x": "«sergenti ulushining oshishi, kasallik shakllari nisbatini o'zgartirishi mumkin»"
   }
@@ -119,7 +119,7 @@
     "Odamlar orasida, aholi punktlaridagi bemorlarda",
     "Chivinchalar lichinkalari orasida, nam inlarida",
     "Immunitetsiz odamlar orasida, tasodifan zanjirga qo'shilganlarda",
-    "Yarali bemorlar terisida, ishlov berilgan to'rlarda"
+    "Yarali bemorlar orasida, aholi punktlarida"
    ],
    "x": "«Zoonoz teri leyshmaniozi hayvonlardan odamga o'tadigan kasallik, shuning uchun uning infeksiya manbalari tabiatda, ya'ni yovvoyi va sinantrop hayvonlar orasida joylashadi»"
   },
@@ -138,7 +138,7 @@
    "q": "Zoonoz teri leyshmaniozining asosiy manbai kimlar?",
    "c": "Cho'l kemiruvchilari",
    "w": [
-    "Sinantrop uy hayvonlari",
+    "Ko'chib o'tgan odamlar",
     "Chivinchalar lichinkalari",
     "Immunitetsiz odamlar",
     "Yarali bemorlar"
@@ -149,10 +149,10 @@
    "q": "Nima uchun kemiruvchilar qulay rezervuar hisoblanadi?",
    "c": "Yirik koloniyalarda yashaydi, yil davomida ko'payadi",
    "w": [
-    "Yirik koloniyalarda yashaydi, parazitga qarshi chidamsiz",
-    "Odam bilan birga koloniyalarda yashaydi",
-    "Parazitga butunlay chidamsiz bo'ladi",
-    "Parazitni tashimaydi va infeksiyani saqlamaydi"
+    "Kichik guruhlarda yashaydi, mavsumda ko'payadi",
+    "Odam turar joylarida yashaydi, parazitga chidamsiz",
+    "Yolg'iz yashaydi, parazitni uzoq saqlamaydi",
+    "Koloniyalarda yashamaydi, parazitni saqlab turadi"
    ],
    "x": "«Kemiruvchilar bir necha sababga ko'ra qulay rezervuar: ular yirik koloniyalarda yashaydi, inlarida chivinchalar lichinkalari rivojlanishi uchun qulay muhit (nam, organik moddaga boy, doimiy harorat) yaratadi; ularning yil davomida ko'payishi parazitni saqlab turadi; ular parazitga qarshi qisman chidamli bo'lishi va uzoq muddat infeksiyani tashishi mumkin»"
   },
@@ -161,9 +161,9 @@
    "c": "Tasodifiy xo'jayin",
    "w": [
     "Asosiy rezervuar xo'jayin",
-    "Doimiy tashuvchi chivinchalar",
-    "Asosiy infeksiya manbai",
-    "Kemiruvchilar o'rnini bosuvchi tashuvchi"
+    "Tabiiy o'choq tashuvchisi",
+    "Parazitning doimiy xo'jayini",
+    "Chivinchalar lichinkalari manbai"
    ],
    "x": "«Zoonoz shaklda odam odatda tasodifiy xo'jayin: yarali bemor chivinchalarni zararlashi mumkin, ammo bu parazit aylanishida asosiy rol o'ynamaydi»"
   },
@@ -171,10 +171,10 @@
    "q": "Kemiruvchi in nima uchun muhim joy hisoblanadi?",
    "c": "Chivinchalar ko'payadi va parazit saqlanadi",
    "w": [
-    "Chivinchalar ko'payadi va parazit yo'qoladi",
-    "Odamlar yashaydi va parazit ko'payadi",
-    "Lichinkalar suvda rivojlanadi va ko'payadi",
-    "Kemiruvchilar yo'qoladi va o'choq susayadi"
+    "Chivinchalar yo'qoladi va parazit ko'payadi",
+    "Odamlar zararlanadi va parazit yo'qoladi",
+    "Lichinkalar suvda rivojlanadi va saqlanadi",
+    "Kemiruvchilar ko'payadi va o'choq susayadi"
    ],
    "x": "«Kemiruvchilar populyatsiyasi yil davomida o'zgaradi: yaxshi ozuqa va iqlim sharoitida ularning soni ortadi, parazit aylanishi kuchayadi va keyingi mavsumda odamlar orasida kasallik ko'payadi»"
   },
@@ -184,8 +184,8 @@
    "w": [
     "Parazit aylanishi susayadi",
     "Kasallik odamlar orasida kamayadi",
-    "Parazit aylanishi kuchayadi, o'choq susayishi",
-    "Kemiruvchilar qirilish davri boshlanadi"
+    "Kemiruvchilar qirilish davri boshlanadi",
+    "Chivinchalar lichinkalari rivojlanishi to'xtaydi"
    ],
    "x": "«Kemiruvchilar populyatsiyasi yil davomida o'zgaradi: yaxshi ozuqa va iqlim sharoitida ularning soni ortadi, parazit aylanishi kuchayadi va keyingi mavsumda odamlar orasida kasallik ko'payadi»"
   },
@@ -193,8 +193,8 @@
    "q": "Manba hayvonlardan parazitni izlash uchun qaysi a'zolardan material olinadi?",
    "c": "Teri, quloq va ichki a'zolardan",
    "w": [
-    "Quloq, teri va ichki a'zolar faolligi",
     "Quloq, oyoq va tashuvchi chivinchalardan",
+    "Yara, quloq va inlardagi organik moddadan",
     "Teri, quloq va chivincha ichagidan",
     "Yara, quloq va in organik moddasidan"
    ],
@@ -204,10 +204,10 @@
    "q": "Manba hayvonlarda parazit qanday usullar bilan izlanadi?",
    "c": "Bo'yalgan preparat, kultura va molekulyar usul",
    "w": [
-    "Insektitsid purkash va atrof-muhitni boshqarish",
-    "Shaxsiy himoya va ishlov berilgan to'rlar",
-    "Odamlarni ko'chirish va yarali bemorlarni davolash",
-    "Epidemiologik xarita va hisobot tuzish"
+    "Inlar sonini hisoblash va faolligini baholash",
+    "Kemiruvchilar sonini hisoblash va inlarini baholash",
+    "Insektitsid purkash va ishlov berilgan to'rlar",
+    "Hayvonlarni kuzatish va epidemiologik xarita tuzish"
    ],
    "x": "«Manba hayvonlarni aniqlash uchun zoolog va parazitologlar kemiruvchilarni tutadi, ularning teri, quloq va ichki a'zolaridan material oladi, bo'yalgan preparatlarda yoki kulturada, molekulyar usulda parazitni izlaydi»"
   },
@@ -217,8 +217,8 @@
    "w": [
     "Parazit rivojlanish bosqichlari va davomiyligi",
     "Odamlar immuniteti va bemorlar soni",
-    "Qurg'oqchilik davri va qirilish muddati",
-    "Kemiruvchilar koloniyasi hajmi va rangi"
+    "Tashuvchi chivinchalar soni va faolligi",
+    "Epidemiologik xarita va hisobot shakli"
    ],
    "x": "«Manbani aniq bilish kurash strategiyasini belgilaydi: agar manba kemiruvchilar bo'lsa, ularni nazorat qilish bilan o'choqni susaytirish mumkin»"
   }
@@ -272,10 +272,10 @@
    "q": "Parazitologik tekshiruv uchun material yaraning qaysi qismidan olinadi?",
    "c": "Yaraning chetidan, faol yallig'lanish zonasidan",
    "w": [
-    "Yaraning o'rtasidan, nekroz zonasidan",
-    "Yaraning o'rtasidan, po'stloq ostidan",
-    "Yaraning atrofidagi sog' teri qismidan",
-    "Yaraning chetidan, tozalanmagan po'stloq ustidan"
+    "Yaraning o'rtasidagi nekroz zonasidan",
+    "Yara atrofidagi sog' teri qismidan",
+    "Po'stloq ustidagi tozalanmagan qismdan",
+    "Yaraning o'rtasidagi po'stloq ostidan"
    ],
    "x": "«Material yaraning chetidan, ya'ni faol yallig'lanish zonasidan, yara tozalangandan keyin olinadi: qirindi, aspirat yoki biopsiya»"
   },
@@ -283,9 +283,9 @@
    "q": "Yaradan olingan surtma qanday ishlanadi?",
    "c": "Metanol bilan fiksatsiya qilinib, Giemza bilan bo'yaladi",
    "w": [
-    "Metanol bilan bo'yalib, Giemza bilan fiksatsiya qilinadi",
+    "Quritilgach, Giemza bilan fiksatsiya qilinadi",
     "Quritilmay fiksatsiya qilinib, Giemza bilan bo'yaladi",
-    "Metanol bilan fiksatsiya qilinib, ozuqa muhitida ekiladi",
+    "Metanol bilan bo'yalib, ozuqa muhitida ekiladi",
     "Giemza bilan bo'yalib, metanol bilan yuviladi"
    ],
    "x": "«Buyum oynasiga surtma qilinadi, quritiladi, metanol bilan fiksatsiya qilinadi va Giemza bilan bo'yaladi»"
@@ -296,8 +296,8 @@
    "w": [
     "Makrofaglar ichida va tashqarisida promastigotlar",
     "Faqat makrofaglar tashqarisida promastigotlar",
-    "Makrofaglar yadrosida va kinetoplastida antitelolar",
-    "Chivinchalar tanasida va yaralarda amastigotlar"
+    "Yadro va kinetoplastsiz dumaloq hujayralar",
+    "Yara chetida chivincha lichinkalari"
    ],
    "x": "«Mikroskopda makrofaglar ichida va ular tashqarisida kichik dumaloq yoki oval amastigotlar, ularning yadro va kinetoplastlari ko'rinadi»"
   },
@@ -316,10 +316,10 @@
    "q": "PZR ning kultura va mikroskopiyadan afzalligi nimada?",
    "c": "Turni aniqlash imkonini beradi",
    "w": [
-    "Antitelolar past titrini aniqlaydi",
-    "O'tgan infeksiyani ko'rsatadi",
-    "Yara chetini fiksatsiya qiladi",
-    "Amastigotlarni bo'yash imkonini beradi"
+    "O'tgan infeksiyani aniqlash imkonini beradi",
+    "Antitelolar past titrini aniqlash imkonini beradi",
+    "Amastigotlarni bo'yash imkonini beradi",
+    "Promastigotlarni o'stirish imkonini beradi"
    ],
    "x": "«Polimeraza zanjir reaksiyasi (PZR) yanada sezgir va turni aniqlash imkonini beradi: L»"
   },
@@ -327,9 +327,9 @@
    "q": "Leyshmanin teri sinamasi (Montenegro) nimani ko'rsatadi?",
    "c": "O'tgan infeksiyani, hozirgi kasallikni emas",
    "w": [
-    "Hozirgi kasallikni, o'tgan infeksiyani emas",
-    "Parazit turini va yaralar xususiyatini",
-    "Antitelolar past miqdori va turi",
+    "Hozirgi kasallikni va parazit turini",
+    "Parazit turini va yaralar soni",
+    "Antitelolar past miqdorini va turini",
     "Yara chetidagi amastigotlar miqdorini"
    ],
    "x": "«Leyshmanin teri sinamasi (Montenegro sinamasi) ilgari qo'llangan, u o'tgan infeksiyani ko'rsatadi, hozirgi kasallikni emas»"

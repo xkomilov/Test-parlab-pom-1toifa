@@ -13,25 +13,25 @@
   },
   {
    "q": "Davolangandan keyin it najasi bilan nima qilinadi?",
-   "c": "It najasi yig'ilib yo'qotiladi",
+   "c": "Yig'ilib yo'qotiladi",
    "w": [
-    "Davolangandan keyin it ro'yxatga olinadi",
-    "Davolash vaqti it najasi bilan belgilanadi",
-    "Najas egasiz itlarga beriladi",
-    "Tuxum chiqarishni kamaytirish uchun ko'miladi"
+    "Qo'ylarga beriladi",
+    "Egasiz itlarga beriladi",
+    "Chorvadorlarga beriladi",
+    "Ko'kat va sabzavotga beriladi"
    ],
    "x": "«Itlarga davolash vaqti belgilanadi, ro'yxatga olinadi; davolangandan keyin it najasi yig'ilib yo'qotiladi»"
   },
   {
-   "q": "Alveolyar shaklda yovvoyi tulkilar va egasiz itlarni yo'q qilish samarasiz. Nima afzal?",
-   "c": "Davolash yo'q qilishdan afzal",
+   "q": "Itlarni davolash zanjirda nimani kamaytiradi?",
+   "c": "Tuxum chiqarishni kamaytiradi",
    "w": [
-    "Yo'q qilish davolashdan afzal",
-    "Emlash yo'q qilishdan afzal",
-    "So'yish gigiyenasi davolashdan afzal",
-    "Skrining yo'q qilishdan afzal"
+    "Oraliq xo'jayinlar sonini kamaytiradi",
+    "Kistali a'zolarni kamaytiradi",
+    "Qo'zilarni emlashni kamaytiradi",
+    "Egasiz itlarni kamaytiradi"
    ],
-   "x": "«Qo'zilarni emlash, itlarni degelmintizatsiya qilish va keksa qo'ylarni brak qilish birgalikda odamlardagi kasallikni 10 yildan kamroq vaqtda yo'q qilishga olib kelishi mumkin»"
+   "x": "«Zanjirni uzish uchun: itlarni davolash (tuxum chiqarishni kamaytiradi); itlarga kistali ichki a'zolarni bermaslik (siklni yopmaydi); oraliq xo'jayinlarni himoya qilish (emlash); odamni tuxum bilan aloqadan himoya qilish (gigiyena)»"
   },
   {
    "q": "Itlar kistali ichki a'zolarni yemasligi uchun nima qilinadi?",
@@ -40,7 +40,7 @@
     "Ichki a'zolarni uy so'yimida itlarga qoldirish",
     "Ichki a'zolarni ekspertizasiz itlarga berish",
     "Kistali a'zolarni xom holda saqlash",
-    "Kista topilgan a'zolarni yoqmaslik"
+    "Kista topilgan a'zolarni uy so'yimida saqlash"
    ],
    "x": "«Itlar kistali ichki a'zolarni yemasligi uchun: so'yilgan hayvon ichki a'zolarini ekspertizadan o'tkazish; kista topilgan a'zolarni yoqish yoki chuqur ko'mish; ichki a'zolarni itlarga xom holda bermaslik; uy so'yimida ham shu qoidalarga rioya qilish»"
   },
@@ -48,7 +48,7 @@
    "q": "Qo'lni sovun bilan yuvish qachon zarur?",
    "c": "Itlar bilan aloqadan keyin va ovqatdan oldin",
    "w": [
-    "Faqat tuproq bilan ishlaganda qo'lqop kiyilganda",
+    "Tuproq bilan ishlaganda va rezavorlar yig'ilganda",
     "Sabzavotlar yuvilgandan keyin va pishirishdan oldin",
     "Qo'ylar emlangandan keyin va ovqatdan keyin",
     "Itlar davolangandan keyin va najas yig'ilganda"
@@ -71,9 +71,9 @@
    "c": "Yuvib yoki pishirib iste'mol qilish",
    "w": [
     "Xom holda yig'ib iste'mol qilish",
-    "Tuproq bilan birga yeyish",
-    "Yuvmasdan alveolyar hududlarda yeyish",
-    "Chorva mollariga berib iste'mol qilish"
+    "Faqat tuproqdan tozalab iste'mol qilish",
+    "Itlar yalagan holda iste'mol qilish",
+    "Yovvoyi holda yeyish"
    ],
    "x": "«Odam uchun: itlar bilan aloqadan keyin (silash, o'ynash, boqish) qo'lni sovun bilan yuvish; ovqatdan oldin qo'l yuvish; itlarni yuzga yaqinlashtirmaslik va o'pmaslik; bolalarni qo'l yuvishga o'rgatish; sabzavot, ko'kat va mevalarni yaxshilab yuvish; toza suv ichish; yovvoyi rezavorlarni yuvib yoki pishirib iste'mol qilish (alveolyar shakl hududlarida); tuproq bilan ishlaganda qo'lqop kiyish»"
   },
@@ -92,10 +92,10 @@
    "q": "Endemik hududlarda erta tashxis va davolash uchun nima muhim?",
    "c": "Tibbiyot xodimlarini tayyorlash va ultratovush uskunalari",
    "w": [
-    "Itlarni yo'q qilish va rezavorlarni yig'ish",
-    "Qo'ylarni brak qilish va so'yishni to'xtatish",
-    "Praziquantel ishlab chiqarish va eksport qilish",
-    "Egasiz itlarni ro'yxatga olish va emlash"
+    "Itlarni davolash va qo'ylarni brak qilish ishlari",
+    "Gigiyena kurslarini o'tkazish va xodimlarni o'qitish",
+    "Qo'zilarni emlash va itlarni davolash dasturlari",
+    "So'yish nazorati va ichki a'zolarni yoqish choralari"
    ],
    "x": "«Endemik hududlarda tibbiyot xodimlarini tayyorlash va ultratovush uskunalari mavjudligi muhim»"
   },

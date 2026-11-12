@@ -4,10 +4,10 @@
    "q": "Odamlar exinokokk tuxumlarini asosan qanday yo'l bilan yutadi?",
    "c": "Ifloslangan oziq-ovqat, suv yoki tuproq orqali",
    "w": [
-    "Jigar braki va sut kamayishi orqali",
-    "Uy so'yimi va ichki a'zolar bilan ishlash orqali",
-    "Cho'ponlar va qassoblar kasbiy aloqasi orqali",
-    "Itlarni gijjaga qarshi davolash orqali"
+    "Qo'y go'shtini xom holda iste'mol qilish orqali",
+    "Zararlangan jigar va o'pkani yaxshi pishirmasdan yeyish orqali",
+    "Bemor odam bilan bevosita aloqa qilish orqali",
+    "Zararlangan baliqni xom holda iste'mol qilish orqali"
    ],
    "x": "«Jahon sog'liqni saqlash tashkiloti odamlar exinokokk tuxumlarini ifloslangan oziq-ovqat, suv yoki tuproq bilan yutish orqali yoki hayvon xo'jayinlar bilan bevosita aloqa qilish natijasida zararlanishini ta'kidlaydi»"
   },
@@ -16,9 +16,9 @@
    "c": "It va boshqa yirtqichlar",
    "w": [
     "Qo'y, qoramol va boshqa hayvonlar",
+    "Odam va boshqa tasodifiy xo'jayinlar",
     "Cho'ponlar, chorvadorlar va qassoblar",
-    "Bolalar, oshpazlar va charm ishlovchilar",
-    "Tulkilar va yovvoyi hayvonlar"
+    "Bolalar, oshpazlar va charm ishlovchilar"
    ],
    "x": "«Exinokokkozning yuqish zanjiri uch bo'g'indan iborat: definitiv xo'jayin (it va boshqa yirtqichlar) → tashqi muhit (tuxum) → oraliq xo'jayin (qo'y, qoramol va boshqalar) → yana definitiv xo'jayin (ichki a'zolarni yeyish orqali)»"
   },
@@ -27,9 +27,9 @@
    "c": "Tasodifiy oraliq xo'jayin, zanjirni davom ettirmaydi",
    "w": [
     "Definitiv xo'jayin, ichki a'zolarni iste'mol qilish orqali",
-    "Oraliq xo'jayin, tuxumlarni ifloslangan suvdan yutish orqali",
+    "Yakuniy xo'jayin, tuxumlarni najas bilan chiqaradi",
     "Tashqi muhit, tuxum bilan ifloslangan tuproq",
-    "Tashqi muhit, tuxum bilan ifloslangan suv"
+    "Oraliq xo'jayin, ya'ni qo'y va qoramol"
    ],
    "x": "«Odam tasodifiy oraliq xo'jayin sifatida zanjirga qo'shiladi va uni davom ettirmaydi»"
   },
@@ -37,10 +37,10 @@
    "q": "Odam itni silaganda tuxumlar qayerga tushadi?",
    "c": "Qo'llariga va yuziga tushadi",
    "w": [
-    "Teriga va tumshug'iga tushadi",
-    "Jigar va o'pka ichiga tushadi",
-    "Suv va tuproq ichiga tushadi",
-    "Najas va ichak ichiga tushadi"
+    "Tuproq va changga tushadi",
+    "Oziq-ovqat va suvga tushadi",
+    "Tashqi muhitga tushadi",
+    "Itning ichki a'zolariga tushadi"
    ],
    "x": "«Itlar tuxum bilan ifloslangan junini yalaganda, tuxumlar teriga va tumshug'iga o'tadi, odam itni silaganda, o'ynaganda yoki o'padigan bo'lganda qo'llariga va yuziga tushadi»"
   },
@@ -48,10 +48,10 @@
    "q": "Itlar exinokokk bilan qanday zararlanadi?",
    "c": "Uy so'yimidan qolgan xom ichki a'zolarni yeb",
    "w": [
-    "Ifloslangan oziq-ovqat va suv yutib",
-    "Qo'lni yuvmasdan ovqatlanish orqali",
-    "Tuproq va changdan tuxum yutib",
-    "Bolalar o'yinlarida tuproq yutib"
+    "Tuxum bilan ifloslangan tuproqni yalab",
+    "Qo'ylar bilan bevosita aloqa qilib",
+    "Ifloslangan suv va ko'katlarni yeb",
+    "Bolalar bilan yaqin aloqa qilib"
    ],
    "x": "«Itlar uy so'yimidan qolgan ichki a'zolarni (jigar, o'pka) xom holda yeganda zararlanadi»"
   },
@@ -60,9 +60,9 @@
    "c": "Tulkilar va yovvoyi hayvonlar",
    "w": [
     "Qo'ylar, qoramollar va boshqa chorva",
-    "Cho'ponlar, qassoblar va charm ishlovchilar",
+    "Qo'ylar va boshqa oraliq xo'jayinlar",
     "Uy so'yimidan qolgan ichki a'zolar",
-    "Ochiq suv havzalari va ariqlar"
+    "Qoramollar va boshqa o'txo'r hayvonlar"
    ],
    "x": "«Alveolyar shaklda tulkilar va yovvoyi hayvonlar, shuningdek tulki va it junidan o'tgan mevalar (yovvoyi rezavorlar) manba bo'lishi mumkin»"
   },
@@ -97,16 +97,16 @@
     "5 marta",
     "10 marta"
    ],
-   "x": "«Yakuniy xo'jayinlar organizmiga parazit tushgandan 4–12 hafta o'tgach najas bilan gelmint tuxumlarini ajrata boshlaydi va bir marta zararlangan hayvon 2–3 yil davomida qo'zg'atuvchi manbai bo'lib qolishi mumkin»"
+   "x": "«Jahon sog'liqni saqlash tashkiloti praziquantel bilan yiliga kamida 4 marta degelmintizatsiyani tavsiya etadi»"
   },
   {
    "q": "Qaysi guruhlar kasbiy aloqa tufayli ko'proq xavf ostida?",
    "c": "Cho'ponlar, chorvadorlar, qassoblar va oshpazlar",
    "w": [
-    "Itlar, yirtqichlar va boshqa hayvon xo'jayinlar",
-    "Qo'ylar, qoramollar va boshqa oraliq xo'jayinlar",
     "Bolalar va qishloq hududlarida yashovchilar",
-    "Kambag'allik va chekka hududlarda yashovchilar"
+    "Kambag'allik va chekka hududlarda yashovchilar",
+    "Itlarni boqish bilan shug'ullanuvchi bolalar",
+    "Ochiq suv manbalaridan foydalanuvchi bolalar"
    ],
    "x": "«Cho'ponlar, chorvadorlar, qassoblar va oshpazlar kasbiy aloqa tufayli ko'proq xavf ostida»"
   }

@@ -48,10 +48,10 @@
    "q": "Anopheles lichinkalarini boshqalardan ajratadigan belgi nima?",
    "c": "Suv yuzasiga parallel joylashishi",
    "w": [
-    "Lichinkalar soni va bosqichi",
-    "Yopishqoq tuzoqlarga tushishi",
-    "Maxsus cho'mich yoki to'r",
-    "Xavf darajasiga ko'ra tasniflanishi"
+    "Gruntni yuvish va ajratish",
+    "Idishlardagi kichik suvda yashashi",
+    "Issiqlik yoki quyosh nuri bilan haydalishi",
+    "Suv, shakar yoki tuz eritmasida flotatsiyasi"
    ],
    "x": "«Anopheles lichinkalarini boshqalardan suv yuzasiga parallel joylashishi bilan ajratish mumkin»"
   },
@@ -70,21 +70,21 @@
    "q": "Bezgak chivinlari lichinkalariga qarshi qaysi biologik vosita ishlatiladi?",
    "c": "Lichinkaxo'r baliqlar",
    "w": [
-    "Kemiruvchilar inlari",
-    "Yopishqoq tuzoqlar",
+    "Insektitsid purkash",
     "Ishlov berilgan to'rlar",
+    "Yopishqoq varaqlar",
     "Tubsiz to'r qafaslar"
    ],
    "x": "«Bezgak chivinlari uchun: ortiqcha suvlarni quritish yoki oqizish; sug'orish tarmog'ini to'g'ri boshqarish (suv turg'unligi bo'lmasligi); ariq va kanallarni tozalash, o'tlardan ozod qilish; lichinkalarni yo'qotuvchi vositalar yoki lichinkaxo'r baliqlardan foydalanish; idishlarni yopish»"
   },
   {
-   "q": "Mavsum boshida ko'payish joylariga ishlov berish nima uchun samarali?",
-   "c": "Chivinlar sonining o'sishidan oldin bajariladi",
+   "q": "Ko'payish joylariga ishlov berish qachon eng samarali?",
+   "c": "Mavsum boshida, chivinlar sonining o'sishidan oldin",
    "w": [
-    "Sug'orish ishlari tugagandan keyin bajariladi",
-    "Yomg'irdan keyin suv quriganda bajariladi",
-    "Lichinkalar voyaga yetgandan keyin bajariladi",
-    "Kemiruvchilar faolligi pasayganda bajariladi"
+    "Yomg'irdan keyin, vaqtinchalik suv quriganda",
+    "Sug'orish ishlari boshlangandan keyin, yozda",
+    "Lichinkalar voyaga yetgandan keyin, yozda",
+    "Kemiruvchilar faolligi pasayganda, qishda"
    ],
    "x": "«Shuning uchun mavsum boshida (chivinlar sonining o'sishidan oldin) ko'payish joylariga ishlov berish eng samarali»"
   },
@@ -92,10 +92,10 @@
    "q": "Ishlov samarasi past bo'lsa nima qilinadi?",
    "c": "Usul yoki vositalar o'zgartiriladi",
    "w": [
-    "Ko'payish joylari xaritaga tushiriladi",
-    "Lichinkalar cho'mich bilan olinadi",
-    "Yopishqoq varaqlar almashtiriladi",
-    "Tozalash kunlari o'tkaziladi"
+    "Ishlov berish hajmi kamaytiriladi",
+    "Ko'payish joylari jurnaldan chiqariladi",
+    "Aholi ishtirokisiz davom ettiriladi",
+    "Ishlov berilgan joylar tashlab qo'yiladi"
    ],
    "x": "«Samara past bo'lsa, usul yoki vositalar o'zgartiriladi»"
   },
@@ -103,10 +103,10 @@
    "q": "Ko'payish joylari aniqlangach ular bilan nima qilinadi?",
    "c": "Ro'yxatga olinib, xaritaga tushiriladi",
    "w": [
-    "Lichinkalar suv yuzasiga joylashtiriladi",
-    "Qafas-tuzoqlar pol ustiga o'rnatiladi",
-    "Sug'orish tarmog'i to'xtatiladi",
-    "Xaroba binolar ta'mirlanadi"
+    "Darhol insektitsid bilan purkaladi",
+    "Mahalla qo'mitalariga topshirib qo'yiladi",
+    "Jurnalga yozilmasdan ishlov beriladi",
+    "Namunalar laborantga saqlashga beriladi"
    ],
    "x": "«Topilgan joylar ro'yxatga olinib, xaritaga tushiriladi va xavf darajasiga ko'ra tasniflanadi»"
   }

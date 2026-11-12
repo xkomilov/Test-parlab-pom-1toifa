@@ -40,7 +40,7 @@
     "mahalliy manba orqali yuqish zanjiri bir necha avlodga ega",
     "import bemordan chivin orqali yuqish",
     "qon quyilishi orqali zararlanish",
-    "ovale-bezgak zanjirining uzilishi"
+    "chivinlar zichligi pasayishi bilan bog'liq holat"
    ],
    "x": "«Uchinchisi — qaytalanish (relaps): avval mahalliy zararlangan bemorning uch kunlik yoki ovale-bezgagi jigardagi uxlab yotuvchi shakllar hisobiga qaytalanishi»"
   },
@@ -83,32 +83,32 @@
    "w": [
     "sertifikatni darhol bekor qiladi",
     "maqom xavf ostida qolmaydi",
-    "javob bermasa ham holat saqlanib qoladi",
-    "yuqishni to'xtatilgan deb hisoblaydi"
+    "yuqish davom etsa ham maqom saqlanadi",
+    "import holatda sertifikat bekor bo'ladi"
    ],
    "x": "«Mahalliy holat sertifikatni darhol bekor qilmaydi, ammo hududda yuqish davom etsa, maqom xavf ostida qoladi»"
   },
   {
-   "q": "Aholi bilan ishlashda ma'lumot qanday beriladi?",
-   "c": "aniq va xotirjam tarzda",
+   "q": "Mahalliy holat bo'yicha tekshiruv tugagach, epidemiolog xulosasida nimalar baholanadi?",
+   "c": "o'choq cheklandimi, chivinlar zichligi pasaydimi",
    "w": [
-    "ommaviy vahima keltirib chiqarish tarzida",
-    "ochiq muloqot olib borilmasdan",
-    "oilaviy shifokorlar yordamisiz",
-    "faqat mahalla faollari orqali"
+    "bemor chet elga chiqqanmi, qon quyilganmi",
+    "parazit turi, yupqa va qalin preparatlar",
+    "sertifikat bekor qilinishi, maqom yo'qotilishi",
+    "tana harorati, teri rangi, taloq holati"
    ],
-   "x": "«Ommaviy vahima keltirib chiqarmaslik uchun ma'lumot aniq va xotirjam tarzda beriladi»"
+   "x": "«Mahalliy holat bo'yicha tekshiruv tugagach, epidemiolog xulosa chiqaradi: o'choq cheklandimi, yangi holatlar paydo bo'ldimi, chivinlar zichligi pasaydimi, aholi xabardor qilindimi»"
   },
   {
-   "q": "Xulosada kelgusida takrorlanmasligi uchun nima beriladi?",
-   "c": "tavsiyalar beriladi",
+   "q": "Mahalliy holat qayd etilganda kontaktlar necha kun davomida tibbiy kuzatuvda bo'ladi?",
+   "c": "21 kun davomida",
    "w": [
-    "ommaviy qon surtmasi olinadi",
-    "to'rlar tarqatiladi",
-    "isitmalovchilar qidiriladi",
-    "xonalarga ichki purkash qilinadi"
+    "10 kun davomida",
+    "7 kun davomida",
+    "3 kun davomida",
+    "2 kun davomida"
    ],
-   "x": "«Xulosada zanjirdagi zaif bo'g'inlar aniqlanadi va kelgusida takrorlanmasligi uchun tavsiyalar beriladi»"
+   "x": "«Kontaktlar to'liq ro'yxatga olinib bezgakka tekshiriladi va 21 kun davomida tibbiy kuzatuvda bo'ladi, kuzatuv varag'ida tana harorati, teri rangi, taloq va jigar holati qayd etiladi»"
   }
  ],
  "039": [
@@ -130,7 +130,7 @@
     "kemacha, lichinka, g'umbak va imago",
     "lichinka, suzgich, g'umbak va imago",
     "tuxum, lichinka, po'st va imago",
-    "g'umbak, tuxum, lichinka va havo"
+    "tuxum, lichinka, shira va imago"
    ],
    "x": "«Chivinlar to'liq o'zgarish bilan rivojlanadigan hasharotlar: ularning hayot siklida to'rt bosqich bor — tuxum, lichinka, g'umbak va imago (voyaga yetgan chivin)»"
   },
@@ -140,8 +140,8 @@
    "w": [
     "to'p shaklida birgalikda qo'yiladi",
     "kemacha shaklida qo'yiladi",
-    "havo to'ldirilgan suzgichlari yo'q",
-    "suv yuzasiga qo'yilmaydi"
+    "yon tomonlarida nafas olish nayi bo'ladi",
+    "suv ostida suzib yuradi"
    ],
    "x": "«Anopheles tuxumlari alohida-alohida qo'yiladi, yon tomonlarida havo to'ldirilgan suzgichlari bo'ladi va suv yuzasida suzib yuradi»"
   },
@@ -149,10 +149,10 @@
    "q": "Lichinkalar nima sababdan suv yuzasiga parallel joylashadi?",
    "c": "ularda nafas olish nayi yo'q",
    "w": [
-    "suv ostidan nafas oladi",
-    "faqat shira bilan oziqlanadi",
-    "qanotlari qurigach uchib ketadi",
-    "to'rt marta po'st tashlaydi"
+    "suv ostidan nafas olishi",
+    "havo to'ldirilgan suzgichlari borligi",
+    "faqat shira bilan oziqlanishi",
+    "to'rt marta po'st tashlashi"
    ],
    "x": "«Anopheles lichinkalari suv yuzasiga parallel joylashadi, chunki ularda boshqa chivinlardagi kabi nafas olish nayi yo'q; ular nafas teshiklari orqali to'g'ridan-to'g'ri suv yuzasidan havo oladi»"
   },
@@ -216,9 +216,9 @@
    "c": "ichki purkash va to'rlar",
    "w": [
     "qaytaruvchi vositalar va ko'payish joylariga ishlov",
-    "tutqichlarda tutish va lupa ostida o'rganish",
-    "namunalarni belgilash va saqlash",
-    "lichinkalarni to'r bilan olish"
+    "faqat tashqarida qaytaruvchi vositalar",
+    "ko'payish joylariga ishlov berish",
+    "lichinkalarni yo'qotuvchi vositalar solish"
    ],
    "x": "«Bu xususiyatlar nazorat usulini belgilaydi: uy ichida chaqadigan chivinlarga ichki purkash va to'rlar samarali, tashqarida chaqadiganlarga esa qaytaruvchi vositalar va ko'payish joylariga ishlov kerak»"
   }
@@ -240,7 +240,7 @@
    "c": "jinsiy ko'payadi",
    "w": [
     "jinssiz ko'payadi",
-    "bo'linish orqali ko'payadi",
+    "shizogoniya orqali ko'payadi",
     "faqat odamda ko'payadi",
     "chivinda ko'paymaydi"
    ],
@@ -266,7 +266,7 @@
     "bitta erkak gameta",
     "ko'p yadroli gameta"
    ],
-   "x": "«Erkak gameta urg'ochi gametaga yetib, uni urug'lantiradi»"
+   "x": "«Erkak gametotsit bir necha harakatchan erkak gametaga (mikrogametalar) bo'linadi, urg'ochi gametotsit esa bitta urg'ochi gametaga (makrogameta) aylanadi»"
   },
   {
    "q": "Zigota nimaga aylanadi?",
@@ -302,7 +302,7 @@
    "x": "«Sporozoitlar bilan to'lgan so'lak bezli chivin yuqtirishga qodir»"
   },
   {
-   "q": "Nima uchun P. vivax mo''tadil iqlimli hududlarda ko'proq uchraydi?",
+   "q": "Nima uchun P. vivax mo'tadil iqlimli hududlarda ko'proq uchraydi?",
    "c": "sovuqroq haroratda ham rivojlana oladi",
    "w": [
     "issiqroq harorat talab qiladi",
@@ -310,7 +310,7 @@
     "chivin umri uzoq bo'lmaydi",
     "sporogoniya haroratga bog'liq emas"
    ],
-   "x": "«vivax sovuqroq haroratda ham rivojlana oladi, P»"
+   "x": "«P. vivax sovuqroq haroratda ham rivojlana oladi, P. falciparum esa issiqroq harorat talab qiladi, shuning uchun P. vivax mo''tadil iqlimli hududlarda ko'proq uchraydi, P. falciparum esa tropik hududlarda ustun»"
   },
   {
    "q": "Sporogoniya ma'lum pastki chegaradan past haroratda nima bo'ladi?",
@@ -362,10 +362,10 @@
    "q": "Jigar shizonti nechta merozoit hosil qiladi?",
    "c": "minglab merozoitlar",
    "w": [
-    "bir necha merozoit",
-    "48 ta merozoit",
     "ikki merozoit",
-    "72 ta merozoit"
+    "bir necha merozoit",
+    "ko'p yadroli merozoit",
+    "bir necha gametotsit"
    ],
    "x": "«Bunday shizont minglab merozoitlarni hosil qiladi»"
   },
@@ -378,7 +378,7 @@
     "qondagi erkak va urg'ochi gametotsitlar",
     "eritrotsitdagi halqa shaklidagi trofozoitlar"
    ],
-   "x": "«ovale da sporozoitlarning bir qismi jigar hujayralarida darhol bo'linmaydi, balki uzoq muddat uyquda qoladi; ular gipnozoitlar deb ataladi»"
+   "x": "«P. vivax va P. ovale da sporozoitlarning bir qismi jigar hujayralarida darhol bo'linmaydi, balki uzoq muddat uyquda qoladi; ular gipnozoitlar deb ataladi»"
   },
   {
    "q": "Gipnozoitlar nima sababdan faqat to'g'ri davolash orqali yo'q qilinadi?",
@@ -411,7 +411,7 @@
     "15 soat",
     "10 soat"
    ],
-   "x": "«ovale da taxminan 48 soat (uch kunlik bezgak), P»"
+   "x": "«Siklning davomiyligi turga bog'liq: P. vivax va P. ovale da taxminan 48 soat (uch kunlik bezgak), P. malariae da taxminan 72 soat (to'rt kunlik bezgak), P. falciparum da u sinxron emas va isitma tartibsiz bo'lishi mumkin»"
   },
   {
    "q": "Parazitemiya tropik bezgakda nima sababdan juda yuqori bo'lishi mumkin?",
@@ -422,7 +422,7 @@
     "jigarda gipnozoitlar hosil qiladi",
     "isitma tartibsiz bo'ladi"
    ],
-   "x": "«falciparum har yoshdagi eritrotsitlarni zararlay oladi, shuning uchun parazitemiya juda yuqori bo'lishi va kasallik og'ir kechishi mumkin; boshqa turlar ko'pincha yosh yoki keksa eritrotsitlarni tanlaydi, shu sababli parazitemiya nisbatan past bo'ladi»"
+   "x": "«P. falciparum har yoshdagi eritrotsitlarni zararlay oladi, shuning uchun parazitemiya juda yuqori bo'lishi va kasallik og'ir kechishi mumkin; boshqa turlar ko'pincha yosh yoki keksa eritrotsitlarni tanlaydi, shu sababli parazitemiya nisbatan past bo'ladi»"
   },
   {
    "q": "Gametotsitlar qaysi jihatdan epidemiologik xavf tug'diradi?",

@@ -6,8 +6,8 @@
    "w": [
     "Tuxumlar tuproqda uzoq yetiladi",
     "Qo'ng'izlar don mahsulotlarini zararlaydi",
-    "Manba odam, ba'zan kemiruvchi",
-    "Gigiyena choralari talab etilmaydi"
+    "Ular faqat kemiruvchilar orqali tarqaladi",
+    "Davolashdan keyin qayta zararlanish bo'lmaydi"
    ],
    "x": "«Bunday gelmintozlarda tuproqda yetilish talab etilmaydi, shuning uchun ular oilalar va uyushgan jamoalarda tez tarqaladi, davolashdan keyin ham qayta zararlanish ehtimoli yuqori»"
   },
@@ -23,24 +23,24 @@
    "x": "«Zanjirni uzish uchun uchta narsa: manbani yo'qotish (zararlanganlarni aniqlash va davolash), yo'lni to'sish (gigiyena va sanitariya), moyil odamlarni himoya qilish (o'qitish va ko'nikma shakllantirish)»"
   },
   {
-   "q": "Tuxumlar bir necha kun yashashi mumkinligi nimani bildiradi?",
-   "c": "Tozalash muntazam bo'lishi kerakligini",
+   "q": "Kontakt gelmintozlar tuxumi tashqi muhitga chiqqach qancha vaqtda infeksion bo'ladi?",
+   "c": "Ko'pincha bir necha soat ichida",
    "w": [
-    "Tozalash faqat davolashda kerakligini",
-    "Uy hayvonlarini davolash kerakligini",
-    "Sabzavotni yuvish shart emasligini",
-    "Kemiruvchilarga qarshi kurash ahamiyatsizligini"
+    "Tuproqda yetilgandan keyin, 3 hafta o'tgach",
+    "Kemiruvchilar tanasida, bir necha kun",
+    "Bir necha hafta o'tgach, tuproqda",
+    "Bir necha oy o'tgach, xo'jayin ichida"
    ],
-   "x": "«Maktab va bog'chada profilaktika dasturi haftalik nam tozalash, har kungi qo'l yuvish nazorati, o'yinchoqlarni muntazam yuvish va yilda kamida bir marta bolalar tekshiruvidan iborat bo'lishi mumkin»"
+   "x": "«Kontakt gelmintozlar — tuxumlari tashqi muhitga chiqqach, juda tez, ko'pincha bir necha soat ichida infeksion bo'ladigan yoki odamdan odamga bevosita aloqa orqali o'tadigan gelmintozlar»"
   },
   {
    "q": "Gimenolepidozda bilvosita yo'l qaysi?",
    "c": "Qo'ng'izlar bilan ifloslangan don mahsulotlari",
    "w": [
     "Ostritsa tuxumli sochiq va choyshab",
-    "Burgalar bilan ifloslangan hojatxona",
+    "Iflos qo'llar orqali tuxumlarni yutish",
     "Kemiruvchilar yashaydigan uy-joy",
-    "Yopiq saqlanadigan oziq-ovqat"
+    "Changdan nafas olish orqali yutish"
    ],
    "x": "«Gimenolepidozda tuxumlar ifloslangan oziq-ovqat va suv orqali ham yutilishi mumkin, qo'ng'izlar bilan ifloslangan don mahsulotlari esa bilvosita yo'l bo'lishi mumkin»"
   },
@@ -60,7 +60,7 @@
    "c": "Oila a'zolarining hammasini",
    "w": [
     "Uy hayvonlari va kemiruvchilarni",
-    "Bog'cha va maktab xodimlarini",
+    "Faqat zararlangan bolalarni",
     "Oziq-ovqat bilan ishlovchilarni",
     "Internat va bolalar uylarini"
    ],
@@ -71,20 +71,20 @@
    "c": "Sovun va sochiqlar",
    "w": [
     "Mebendazol va pirantel pamoat",
-    "Yumshoq o'yinchoqlar va mebel",
-    "Hojatxona va yuvinish xonalari",
-    "Kemiruvchilar va hasharotlar nazorati"
+    "Kemiruvchilar va hasharotlar nazorati",
+    "Xodimlar tibbiy ko'rigi va davolash",
+    "Sanitariya tozalash va uyni shamollatish"
    ],
    "x": "«Bog'cha, maktab, internat va bolalar uylarida profilaktika: muntazam sanitariya tozalash (hojatxona, yuvinish xonalari, o'yinchoqlar, mebel); yuvinish uchun sovun va sochiqlar bilan ta'minlash; bolalarni qo'l yuvishga o'rgatish; xodimlar tibbiy ko'rigi; gelmintozga shubha qilingan bolalarni tekshirish; aniqlanganlarni davolash»"
   },
   {
-   "q": "Maktab va bog'chada bolalar tekshiruvi qanchalik o'tkazilishi mumkin?",
+   "q": "Maktab va bog'chada bolalar tekshiruvi qanday muntazamlikda o'tkazilishi mumkin?",
    "c": "Yilda kamida bir marta",
    "w": [
     "Haftada kamida bir marta",
-    "Yilda kamida ikki marta",
     "Har kuni ertalab",
-    "Har kungi nazorat orqali"
+    "Oyda kamida bir marta",
+    "Har kuni kechqurun"
    ],
    "x": "«Maktab va bog'chada profilaktika dasturi haftalik nam tozalash, har kungi qo'l yuvish nazorati, o'yinchoqlarni muntazam yuvish va yilda kamida bir marta bolalar tekshiruvidan iborat bo'lishi mumkin»"
   },
@@ -104,9 +104,9 @@
    "c": "Hojatxonadan keyin",
    "w": [
     "Hojatxonadan oldin",
+    "Ovqatdan keyin",
     "Ertalab yuvinishdan oldin",
-    "Choyshab almashtirishdan keyin",
-    "Ovqatdan keyin yuvinishdan oldin"
+    "Choyshab almashtirishdan keyin"
    ],
    "x": "«Eng muhim chora — qo'lni sovun bilan yuvish: hojatxonadan keyin, ovqatdan oldin, ko'chadan kelgach, hayvonlar bilan muloqotdan keyin»"
   }
@@ -162,7 +162,7 @@
    "w": [
     "Albendazol qo'llanadi",
     "Mebendazol qo'llanadi",
-    "Sanitariya va gigiyena ta'limi qo'llanadi",
+    "A vitamini qo'llanadi",
     "Davriy davolash qo'llanadi"
    ],
    "x": "«JSST bolalar o'rtasida tuproq orqali yuqadigan gelmintozlarga qarshi ommaviy degelmintizatsiya uchun albendazol (400 mg) va mebendazol (500 mg) dorilarini tavsiya etadi; strongiloidozda ivermektin qo'llanadi»"
@@ -174,20 +174,20 @@
     "62 foiz",
     "50 foiz",
     "22 foiz",
-    "5–6 foiz"
+    "30 foiz"
    ],
-   "x": "«Shu ilovaning ikkinchi ilovasida JSST monitoring indikatorlari keltirilgan: davolash qamrovi shahar maktablarida 90 foiz va undan ko'p, qishloq maktablarida 80 foiz va undan ko'p, qishloq muassasalarida 75 foiz va undan ko'p bo'lishi maqsad qilingan; JSST endemik mamlakatlarda maktab yoshidagi bolalarning kamida 75 foizini qamrab olishni belgilaganligi qayd etiladi»"
+   "x": "«JSST endemik mamlakatlarga dasturlar muvaffaqiyatini profilaktik kimyoterapiya joriy etilgandan 5–6 yil o'tgach, samarali davolash qamrovi kamida 75 foiz bo'lgan holda epidemiologik baholash orqali o'lchashni, so'ngra davolash chastotasini moslashtirishni tavsiya etadi; ta'sirni kuzatish ko'rsatkichlari — har qanday tuproq gelmintozi tarqalganligi va o'rta hamda og'ir intensivlik tarqalganligi [1]. 2010–2019 yillarda tuproq gelmintozlaridan yo'qotilgan nogironlikka moslashtirilgan hayot yillari yiliga 50 foizdan ko'proq kamaygan»"
   },
   {
-   "q": "Dastur muvaffaqiyati joriy etilgandan necha yil o'tgach baholanadi?",
-   "c": "5–6 yil o'tgach",
+   "q": "JSST ommaviy degelmintizatsiyani qaysi uch gelmintoz bo'yicha strategiya asosi deb hisoblaydi?",
+   "c": "Askarida, qilbosh chuvalchang, g'ajakbosh",
    "w": [
-    "2 yil o'tgach",
-    "75 yil o'tgach",
-    "50 yil o'tgach",
-    "2030 yil o'tgach"
+    "Strongyloides stercoralis, qilbosh chuvalchang, askarida",
+    "Askarida, g'ajakbosh, Strongyloides stercoralis",
+    "Qilbosh chuvalchang, Strongyloides stercoralis, g'ajakbosh",
+    "Albendazol, mebendazol, Strongyloides stercoralis"
    ],
-   "x": "«JSST endemik mamlakatlarga dasturlar muvaffaqiyatini profilaktik kimyoterapiya joriy etilgandan 5–6 yil o'tgach, samarali davolash qamrovi kamida 75 foiz bo'lgan holda epidemiologik baholash orqali o'lchashni, so'ngra davolash chastotasini moslashtirishni tavsiya etadi; ta'sirni kuzatish ko'rsatkichlari — har qanday tuproq gelmintozi tarqalganligi va o'rta hamda og'ir intensivlik tarqalganligi»"
+   "x": "«Jahon sog'liqni saqlash tashkiloti (JSST) uni tuproq orqali yuqadigan gelmintozlar (askarida, qilbosh chuvalchang, g'ajakbosh) bo'yicha global strategiyaning asosi sifatida tavsiya etadi»"
   },
   {
    "q": "Degelmintizatsiyaning cheklovi nimada?",
@@ -195,7 +195,7 @@
    "w": [
     "Qayta zararlanishni to'liq yo'qotadi",
     "Tibbiyot xodimi bo'lmagan shaxslar bermaydi",
-    "Parazitlar sonini oshiradi",
+    "Faqat endemik hududlarda ishlaydi",
     "Strongiloidozni albendazol bilan davolaydi"
    ],
    "x": "«Degelmintizatsiya qayta zararlanishning oldini olmaydi, shuning uchun u sanitariya, qo'l yuvish va gigiyena ta'limi bilan birga o'tkaziladi»"
@@ -225,24 +225,24 @@
  ],
  "084": [
   {
-   "q": "Uch asosiy tuproq gelmintidan qaysi biri eng ko'p tarqalgan?",
-   "c": "Askarida (A. lumbricoides)",
+   "q": "2010-yilda butun dunyoda A. lumbricoides bilan qancha kishi zararlangani taxmin qilingan?",
+   "c": "819 million kishi",
    "w": [
-    "Qilbosh chuvalchang (Trichuris trichiura)",
-    "G'ajakbosh chuvalchanglar (Necator americanus)",
-    "Ancylostoma duodenale (g'ajakbosh)",
-    "Necator americanus va Ancylostoma duodenale"
+    "439 million kishi",
+    "465 million kishi",
+    "22 million kishi",
+    "50 million kishi"
    ],
-   "x": "«lumbricoides bilan zararlangani taxmin qilingan, bu uch asosiy tuproq gelmintidan (g'ajakbosh — 439 million, qilbosh chuvalchang — 465 million) eng ko'pi»"
+   "x": "«2010-yilda butun dunyoda 819 million kishi A. lumbricoides bilan zararlangani taxmin qilingan, bu uch asosiy tuproq gelmintidan (g'ajakbosh — 439 million, qilbosh chuvalchang — 465 million) eng ko'pi»"
   },
   {
    "q": "Urg'ochi askarida uzunligi qancha?",
-   "c": "Urg'ochisi uzunligi taxminan 20–35 sm",
+   "c": "Urg'ochisi 20–35 sm",
    "w": [
-    "Erkagi uzunligi taxminan 15–30 sm",
-    "Tuxum kattaligi taxminan 45–75 mkm",
-    "Urug'lanmagan tuxum kattaligi taxminan 35–50 mkm",
-    "Lichinka migratsiyasi taxminan ikki hafta"
+    "Erkagi 15–30 sm",
+    "Urg'ochisi 45–75 sm",
+    "Erkagi 20–35 sm",
+    "Urg'ochisi 35–50 sm"
    ],
    "x": "«Voyaga yetgan askarida pushti-oq yoki sarg'ish rangli, silindrsimon, ikki uchi o'tkir, tanasi silliq; urg'ochisi uzunligi taxminan 20–35 sm, erkagi 15–30 sm, erkagining dum uchi egilgan»"
   },
@@ -251,9 +251,9 @@
    "c": "Qalin, bo'rtmali oqsil qobig'li, sariq-jigarrang",
    "w": [
     "Cho'ziqroq, yupqaroq, ichi donador tuxum",
-    "Silindrsimon, ikki uchi o'tkir",
-    "Bitta dorsal va ikkita ventral labli",
-    "Pushti-oq, sarg'ish, tanasi silliq"
+    "Silliq oqsil qobig'li, rangi pushti-oq",
+    "Ichida L2 lichinkasi rivojlangan tuxum",
+    "Ikki uchi o'tkir, silindrsimon tuxum"
    ],
    "x": "«Urug'langan tuxumlar oval yoki yumaloq, kattaligi taxminan 45–75 × 35–50 mkm, qalin, bo'rtmali (mammilyar) oqsil qobig'i bilan qoplangan, rangi sariq-jigarrang, ichida bitta hujayra bo'ladi»"
   },
@@ -270,14 +270,14 @@
   },
   {
    "q": "Tuxum tuproqda yetilishi uchun taxminan qancha vaqt kerak?",
-   "c": "Yetilishi uchun taxminan 3 hafta",
+   "c": "3 hafta",
    "w": [
-    "Migratsiya taxminan ikki hafta davom etadi",
-    "Tuxum ichida lichinka (L2) rivojlanadi",
-    "Yetilgan tuxum yillab tuproqda saqlanishi mumkin",
-    "Tuxum qo'yishgacha yana taxminan 2 oy kerak"
+    "2 hafta",
+    "5 hafta",
+    "8 hafta",
+    "10 hafta"
    ],
-   "x": "«Jahon sog'liqni saqlash tashkiloti tuxumlar tuproqda yetilishi uchun taxminan 3 hafta kerakligini va shu sababli yangi najasdan to'g'ridan-to'g'ri yuqish bo'lmasligini ta'kidlaydi»"
+   "x": "«Jahon sog'liqni saqlash tashkiloti tuxumlar tuproqda yetilishi uchun taxminan 3 hafta kerakligini va shu sababli yangi najasdan to'g'ridan-to'g'ri yuqish bo'lmasligini ta'kidlaydi [2]. Yetilishi uchun namlik, iliq harorat va kislorod zarur; tuproqda tuxum ichida lichinka (L2) rivojlanadi»"
   },
   {
    "q": "Lichinkalarning o'pka orqali o'tishi nimaga sabab bo'ladi?",
@@ -292,12 +292,12 @@
   },
   {
    "q": "Voyaga yetgan askarida odam ichagida qancha yashaydi?",
-   "c": "Odam ichagida taxminan bir yil yashaydi",
+   "c": "Bir yil",
    "w": [
-    "Lichinkalar ikki hafta ko'chadi",
-    "Yetilgan tuxum yillab saqlanadi",
-    "Askarida 819 million kishini zararlaydi",
-    "Tuxum qo'ya boshlashi uchun 2 oy"
+    "Bir oy",
+    "Ikki yil",
+    "Bir hafta",
+    "Uch yil"
    ],
    "x": "«Voyaga yetgan askarida odam ichagida taxminan bir yil yashaydi»"
   },
@@ -318,21 +318,21 @@
    "w": [
     "Ko'pchilikda chuvalchanglar juda ko'p, kichik qismda kam",
     "Aholi orasida bir tekis tarqaladi",
-    "Yengil zararlanishda odamlar kasallanadi",
+    "Chuvalchanglar faqat bolalarda juda ko'p bo'ladi",
     "Kasallik og'irligi parazitlar soniga bog'liq emas"
    ],
    "x": "«Askaridoz aholi orasida notekis tarqaladi: ko'pchilikda chuvalchanglar kam, kichik qismda esa juda ko'p»"
   },
   {
-   "q": "Askarida odam tanasida ko'payadimi?",
-   "c": "Odam tanasida ko'paymaydi",
+   "q": "Askaridozda qayta zararlanish qachon yuz beradi?",
+   "c": "Infeksion bosqichlar bilan aloqadan keyin",
    "w": [
-    "Odam tanasida ko'payadi",
-    "Qayta zararlanish yuz bermaydi",
-    "Yangi najasdan to'g'ridan-to'g'ri yuqadi",
-    "Tuxum infeksion holda chiqadi"
+    "Askarida odam tanasida ko'payganda",
+    "Voyaga yetgan chuvalchang chiqqanda",
+    "Yangi najasdan to'g'ridan-to'g'ri yuqqanda",
+    "Tuxum infeksion holda chiqqanda"
    ],
-   "x": "«lumbricoides odam tanasida ko'paymasligini, qayta zararlanish faqat tashqi muhitdagi infeksion bosqichlar bilan aloqadan keyin yuz berishini ta'kidlaydi»"
+   "x": "«Askarida odamda ko'paymaydi: Jahon sog'liqni saqlash tashkiloti A. lumbricoides odam tanasida ko'paymasligini, qayta zararlanish faqat tashqi muhitdagi infeksion bosqichlar bilan aloqadan keyin yuz berishini ta'kidlaydi»"
   }
  ]
 }

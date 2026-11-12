@@ -13,14 +13,14 @@
   },
   {
    "q": "Bemorning kiyim-boshi nima maqsadda bitlarga tekshiriladi?",
-   "c": "Bitli shaklni farqlash",
+   "c": "Epidemik bitli shaklni farqlash",
    "w": [
     "Kanalar yo'qligini nazorat qilish",
-    "Kemiruvchilar sonini kamaytirish",
+    "Kemiruvchilar kirishini aniqlash",
     "Yoriqlar mahkamlanganini aniqlash",
-    "Joy qancha vaqt bo'sh turgan"
+    "Bemor tunagan joyni belgilash"
    ],
-   "x": "«Biroq, bitli shakldan farqlash uchun bemorning kiyim-boshi bitlarga tekshiriladi»"
+   "x": "«Adabiyotda qaytalama terlama antibiotiklarga sezgir ekani va chidamlilik qayd etilmaganini, kana orqali yuqadigan shaklda odatda 7 yoki 10 kunlik kurs qo'llanishini ko'rsatadi; davolashda Yarish–Gerksgeymer reaksiyasi xavfi bor [1]. Kana orqali yuqadigan KQT odamdan odamga bevosita yuqmagani uchun bemorni qat'iy izolyatsiya qilish shart emas [2]. Biroq, bitli shakldan farqlash uchun bemorning kiyim-boshi bitlarga tekshiriladi»"
   },
   {
    "q": "Epidemiolog o'choqda nimani aniqlaydi?",
@@ -28,7 +28,7 @@
    "w": [
     "Kanalar qaysi akaritsid bilan o'ldirilgan",
     "Bemor qaysi antibiotik bilan davolangan",
-    "Kemiruvchilar sonini kamaytirish usulini",
+    "Qaysi o'choqda deratizatsiya o'tkazilgan",
     "Inkubatsion davr o'rtacha necha kun"
    ],
    "x": "«Epidemiolog o'choqqa boradi va quyidagilarni aniqlaydi: bemor qayerda va qaysi binoda tunagan; bu joyda kemiruvchilar, kanalar bormi; yana kimlar shu joyda bo'lgan va ularda isitma bormi; joy qancha vaqt bo'sh turgan yoki qachon foydalanishga berilgan»"
@@ -50,8 +50,8 @@
    "w": [
     "Deratizatsiya (kemiruvchilarga qarshi) vosita",
     "Antibiotik (spirohetalarga qarshi) vosita",
-    "Oziq-ovqat qoldiqlarini yig'ish vositasi",
-    "Qon surtmasi olish vositasi"
+    "Devor va pollarni ta'mirlash vositasi",
+    "Epidemiologik kuzatuv vositasi"
    ],
    "x": "«O'choqda kanalar yo'q qilinadi: eski uy-joylar, qo'ralar, omborlar, g'orlar va kemiruvchilar inlari yumshoq kanalar uchun akaritsid (kanalarga qarshi) vosita bilan ishlov beriladi»"
   },
@@ -60,9 +60,9 @@
    "c": "Yumshoq kanalar uzoq yashaydi",
    "w": [
     "Kemiruvchilar sonini kamaytirish kerak",
-    "Yoriqlar va g'ovaklar mahkamlanadi",
-    "Bezgakdan holi hududda tekshiriladi",
-    "Aholi tunagan joyini aytadi"
+    "Yoriqlar va g'ovaklar mahkamlanmaydi",
+    "Kemiruvchilar ishlovdan so'ng qoladi",
+    "Antibiotik ishlovdan so'ng kerak bo'ladi"
    ],
    "x": "«Ishlov takroran o'tkaziladi, chunki yumshoq kanalar uzoq yashaydi va ayrimlari ishlovdan so'ng ham qoladi»"
   },
@@ -104,9 +104,9 @@
    "c": "Inkubatsion davrga bog'liq",
    "w": [
     "Kanalar uzoq yashashiga bog'liq",
+    "Antibiotik kursi davomiyligiga bog'liq",
     "Ishlov takroran o'tkazilishiga bog'liq",
-    "Bemor kasalxonaga yotqizilishiga bog'liq",
-    "Turistik joylar egalariga bog'liq"
+    "Bayonnoma yuritilishiga bog'liq"
    ],
    "x": "«Kuzatuv muddati inkubatsion davrga bog'liq»"
   }
@@ -138,10 +138,10 @@
    "q": "Faqat kemiruvchilarni yo'qotish nima uchun xavfli?",
    "c": "Ochlikdan kanalar boshqa qon manbasini qidiradi",
    "w": [
-    "Kimyoviy vositalar ekologik xavfsiz hisoblanadi",
-    "Zaharli yem kanalarga ta'sir qilmaydi",
-    "Mexanik tuzoqlar kanalarni ko'paytiradi",
-    "Uy atrofi tartibda saqlanadi"
+    "Zaharli yem odamlar uchun xavfli bo'ladi",
+    "Ekologik oqibatlar hisobga olinadi",
+    "Kanalar uy atrofida kemiruvchilarni jalb qiladi",
+    "Kemiruvchilar yo'qolgach ombor tartibsiz qoladi"
    ],
    "x": "«Kanalarga qarshi ishlov bilan birgalikda olib borilsa, samara yuqori bo'ladi: faqat kemiruvchilarni yo'qotish kanalarning odamga o'tishini kuchaytirishi mumkin, chunki ochlikdan kanalar boshqa qon manbasini qidiradi»"
   },
@@ -149,10 +149,10 @@
    "q": "Yumshoq kanalarga ishlov nima uchun takrorlanadi?",
    "c": "Yillar davomida yashashi mumkin",
    "w": [
-    "Oziq-ovqat yopiq idishda saqlanadi",
-    "Chiqindilar o'z vaqtida olib chiqiladi",
-    "Eshik va derazalar zich yopiladi",
-    "Uy atrofi va omborlar tartibda saqlanadi"
+    "Kemiruvchilar ishlovdan keyin qaytadi",
+    "Ishlov berilgan joylarda kanalar ko'payadi",
+    "Kanalar akaritsid vositaga chidamli bo'ladi",
+    "Uy atrofi tartibsiz saqlanadi"
    ],
    "x": "«Ishlov takrorlanadi, chunki yumshoq kanalar yillar davomida yashashi mumkin»"
   },
@@ -171,10 +171,10 @@
    "q": "Kana chaqishini payqash nima uchun qiyin?",
    "c": "Og'riqsiz va qisqa vaqtda chaqadi",
    "w": [
-    "Uy atrofi va omborlar kemiruvchilarni jalb qiladi",
-    "Kanalar yillar davomida yashaydi",
-    "Kemiruvchilar kanalarni jalb qiladi",
-    "Xavfli joyda bo'lgandan keyin isitma paydo bo'ladi"
+    "Kanalar odamni og'riqli chaqadi",
+    "Chaqish uzoq muddat davom etadi",
+    "Kasallik belgilari darhol paydo bo'ladi",
+    "Kemiruvchilar kanalarni jalb qiladi"
    ],
    "x": "«Kanalar odamni og'riqsiz va qisqa vaqtda chaqadi, shu sababli kana chaqishini payqash qiyin; ehtiyot choralari oldindan ko'rilishi kerak»"
   },
@@ -230,8 +230,8 @@
    "w": [
     "It va mushuk tabiiy xo'jayin",
     "Uy hayvonlari va odam birga xo'jayin",
-    "Tuproq oraliq xo'jayin hisoblanadi",
-    "Bolalar bog'chasi muhiti xo'jayin"
+    "Chaqaloqlar, o'smirlar va kattalar xo'jayin",
+    "Tuproq va changdagi tuxumlar xo'jayin"
    ],
    "x": "«Ostritsa faqat odamda parazitlik qiladi: odam yagona tabiiy xo'jayin»"
   },
@@ -241,8 +241,8 @@
    "w": [
     "Ingichka, ip singari ko'rinishda",
     "Bachadoni to'la tuxum bilan to'lgan",
-    "Birinchi bosqich lichinkasi ko'rinadi",
-    "Uzunligi 9–12 mm, diametri 0,5 mm"
+    "Uzunligi 9–12 mm, diametri 0,5 mm",
+    "Anal teshikdan chiqqan urg'ochi chuvalchang"
    ],
    "x": "«Tuxumlari ikki qavatli, cho'ziq-oval»"
   },
@@ -250,10 +250,10 @@
    "q": "Urg'ochi chuvalchang tuxum qo'yish uchun qachon chiqadi?",
    "c": "Kechasi, odam uxlab yotganda",
    "w": [
-    "Kechasi, bola qashinganda",
-    "Kechasi, bola qo'lini yuvganda",
-    "Kechasi, odam hojatxonada bo'lganda",
-    "Kechasi, odam tuxum yutganda"
+    "Ertalab, bola qashinganda",
+    "Odam hojatxonada bo'lganda, kunduzi",
+    "Bola o'ynaganda, ertalab",
+    "Bola qo'lini yuvganda, ertalab"
    ],
    "x": "«Urg'ochi chuvalchanglar tuxum qo'yish uchun odatda kechasi, odam uxlab yotganda, anal teshikdan chiqadi va tuxumlarni anal atrofidagi to'qimaga yopishqoq modda bilan yopishtiradi»"
   },
@@ -305,7 +305,7 @@
    "q": "Nima uchun enterobioz geogelmintoz emas?",
    "c": "Tuxumlar tuproqda yetilmaydi",
    "w": [
-    "Tuxumlar tuproqda yetiladi",
+    "Hayvonlardan odamga bevosita yuqadi",
     "Uy hayvonlari manba hisoblanadi",
     "Lichinkalar tuproqda ikki marta po'st tashlaydi",
     "Tuxumlar tashqi muhitda bir necha oy saqlanadi"
@@ -318,7 +318,7 @@
    "w": [
     "Bolalar chuvalchang tuxumini tuproqda yetiltiradi",
     "Bolalar uy hayvonlari bilan birga yashaydi",
-    "Bolalar kechasi anal teshikdan tuxum qo'yadi",
+    "Bolalar ichak bakteriyalari bilan zararlanadi",
     "Bolalar yuvinish qoidalariga qat'iy rioya qiladi"
    ],
    "x": "«Bolalar jamoalari — bog'chalar va maktablar — tarqalish uchun qulay, chunki bolalar yaqin aloqada, o'yinchoq va hojatxonani birgalikda ishlatadi»"
@@ -338,22 +338,22 @@
  "077": [
   {
    "q": "Enterobioz ko'pincha qanday kechadi?",
-   "c": "Ko'pincha belgisiz yoki yengil",
+   "c": "Belgisiz yoki yengil kechadi",
    "w": [
-    "Ko'pincha tizimli infeksiya sifatida",
-    "Ko'pincha diseminatsiya bilan asoratlanib",
-    "Ko'pincha buyrak va jigar zararlanishi",
-    "Ko'pincha qorin pardasi yallig'lanishi"
+    "Tizimli infeksiya sifatida kechadi",
+    "Diseminatsiya bilan asoratlanib kechadi",
+    "Buyrak va jigar zararlanishi bilan kechadi",
+    "Qorin pardasi yallig'lanishi bilan kechadi"
    ],
-   "x": "«Enterobioz ko'pincha belgisiz yoki yengil kechadi; asosiy belgi — kechasi kuchayadigan anal qichishish, bezovta uyqu, teri tirnalishi, qizlarda vulvovaginit»"
+   "x": "«Enterobiozning katta qismi belgisiz yoki yengil belgilar bilan kechadi»"
   },
   {
    "q": "Enterobiozning eng xarakterli klinik belgisi qaysi?",
    "c": "Anal teshik atrofidagi qichishish",
    "w": [
     "Siydik yo'llari infeksiyasi",
+    "Dispeptik buzilishlar",
     "Qizlarda vulvovaginit",
-    "Tunda tishlarni g'ijirlatish",
     "Ertalab charchagan bo'lish"
    ],
    "x": "«Eng xarakterli klinik belgi — anal teshik atrofidagi qichishish, ayniqsa kechqurun va tunda kuchayadi»"
@@ -362,7 +362,7 @@
    "q": "Qichishish nima uchun kechasi kuchayadi?",
    "c": "Urg'ochi chuvalchanglar anal teshikdan chiqadi",
    "w": [
-    "Bola ertalab charchagan bo'ladi",
+    "Bola kechasi tirnoqlarini tishlaydi",
     "Tuxumlar bola qo'liga yopishadi",
     "Qiz bolalarda jinsiy a'zolarga o'tadi",
     "Ichak bakteriyalari yopishishi tufayli"
@@ -374,22 +374,22 @@
    "c": "Vulvovaginit va ajralmalar",
    "w": [
     "Buyrak va jigar yallig'lanishi",
-    "Gemorroy va anal yoriqlar",
+    "Anal teshik atrofida dermatit",
     "Qorin pardasi yallig'lanishi",
     "Siydik pufagi va buyrak"
    ],
    "x": "«Qiz bolalarda ostritsa jinsiy a'zolarga o'tishi mumkin: vulvovaginit (qin va tashqi jinsiy a'zolar yallig'lanishi), ajralmalar, qichishish»"
   },
   {
-   "q": "Immuniteti pasaygan kishilarda ostritsa nimaga olib keladi?",
-   "c": "Invaziv, tizimli infeksiya keltirmaydi",
+   "q": "Sezilarli immunosupressiyali bemorlarda ostritsa nimaga sabab bo'ladi?",
+   "c": "Noqulaylik va qaytalanishga sabab bo'ladi",
    "w": [
-    "Strongiloidoz kabi diseminatsiya beradi",
-    "Xavfli diseminatsiyaga olib keladi",
-    "Tizimli infeksiya keltirib chiqaradi",
-    "Qaytalanish va noqulaylik bo'lmaydi"
+    "Strongiloidozdagidek xavfli diseminatsiyaga olib keladi",
+    "Invaziv, tizimli infeksiyani keltirib chiqaradi",
+    "Jigar va buyrakda ichakdan tashqari holatlarni beradi",
+    "Qorin pardasi va ko'z zararlanishiga sabab bo'ladi"
    ],
-   "x": "«Sharhda ta'kidlanishicha, sezilarli immunosupressiyasi bo'lgan bemorlarda ham ostritsa invaziv, tizimli infeksiya keltirib chiqarmaydi»"
+   "x": "«Biroq bu bemorlarda ham noqulaylik va qaytalanish mavjud»"
   },
   {
    "q": "Ota-onalarga enterobioz haqida nima tushuntiriladi?",
@@ -403,7 +403,7 @@
    "x": "«Ota-onalarga enterobioz sifatsiz parvarish belgisi emasligi, bu keng tarqalgan va to'liq davolanadigan holat ekani tushuntiriladi»"
   },
   {
-   "q": "Qaysi kasalliklar teri sabablariga kiradi?",
+   "q": "Anal qichishishning teri bilan bog'liq sabablari qaysilar?",
    "c": "Dermatit, zamburug' infeksiyasi, qo'tir",
    "w": [
     "Gemorroy va anal yoriqlar",
@@ -420,7 +420,7 @@
     "Umumiy qon tahlilida eozinofiliya topilganda",
     "Tunda kuchayadigan qichish aniqlanganda",
     "Dispeptik alomatlar kuzatilganda",
-    "Bemor tishlarini g'ijirlatganda"
+    "Qorin og'rig'i va ich ketishi kuzatilganda"
    ],
    "x": "«Yakuniy tashxis perianal burmalardan olingan qirmada ostritsa tuxumlari aniqlanganda yoki bemor va uning yaqinlari najasda oq rangli, ipsimon mayda yetuk gijjalarni ko'rganda qo'yiladi»"
   },
@@ -430,8 +430,8 @@
    "w": [
     "Enterobiozni tasdiqlovchi belgi",
     "Yakuniy tashxis mezoni",
-    "Tunda kuchayadigan perianal qichish",
-    "Immunosupressiya belgisi"
+    "Eng ishonchli laboratoriya usuli",
+    "Qirmadagi tuxum o'rnini bosuvchi belgi"
    ],
    "x": "«Umumiy qon tahlilidagi eozinofiliya enterobiozni tasdiqlovchi belgi emas, balki tunda kuchayadigan perianal qichish va dispeptik buzilishlar bilan birga taxminiy omil hisoblanadi»"
   },
@@ -439,10 +439,10 @@
    "q": "Ota-onalar uchun davolash qanday o'tkaziladi?",
    "c": "Butun oila uchun, gigiyena choralari bilan birga",
    "w": [
-    "Faqat bemor uchun, tashxis bilan birga",
-    "Butun oila uchun, asoratlar bilan birga",
-    "Bola uchun, qaytalanish bilan birga",
-    "Ota-onalar uchun, ruhiy noqulaylik bilan birga"
+    "Faqat bemor bola uchun, gigiyenasiz",
+    "Bola uchun, ruhiy noqulaylik tufayli",
+    "Bemor bola uchun, tashxis kechikkanda",
+    "Ota-onalar uchun, sharmanda bo'lmasdan"
    ],
    "x": "«Davolash butun oila uchun, gigiyena choralari bilan birga o'tkazilishi, qayta paydo bo'lsa, sharmanda bo'lmasdan qayta murojaat qilish kerakligi aytiladi»"
   }

@@ -29,7 +29,7 @@
     "Surunkali bosqichda",
     "Inkubatsion davrda",
     "Belgisiz davrda",
-    "Klinik fazalarda"
+    "Sirroz bosqichida"
    ],
    "x": "«Umumiy qon tahlilida eozinofiliya (ayniqsa o'tkir bosqichda), kamqonlik, leykotsitoz; biokimyoda jigar fermentlari (ALT, AST), gamma-glutamiltransferaza va ishqoriy fosfataza oshishi, sariqlikda bilirubin oshishi mumkin»"
   },
@@ -51,7 +51,7 @@
     "Virusli gepatit, toksokaroz va exinokokkoz",
     "Jigar xo'ppozi, opistorxoz va jigar o'smalari",
     "Isitma, teri toshmalari va nafas qisilishi",
-    "Isitma va teri toshmalari bilan eozinofiliya"
+    "Ichki qon ketish va jigar hujayralari nobud bo'lishi"
    ],
    "x": "«Surunkali fassiolyozning asoratlari: o't yo'llarining torayishi va yallig'lanishi (xolangit), o't toshlari, o't yo'llarining to'silishi, xolesistit, pankreatit, jigar sirrozi, temir tanqisligi kamqonligi (chuvalchanglar qon bilan oziqlanishi tufayli)»"
   },
@@ -92,10 +92,10 @@
    "q": "Surunkali bosqichdagi o't yo'llari belgilari qaysi kasallikka o'xshaydi?",
    "c": "O't tosh kasalligiga",
    "w": [
-    "Virusli gepatitga",
-    "Exinokokkozga",
-    "Opistorxozga",
-    "Toksokarozga"
+    "Virusli gepatit kasalligiga",
+    "Exinokokkoz kasalligiga",
+    "Opistorxoz kasalligiga",
+    "Toksokaroz kasalligiga"
    ],
    "x": "«O'tkir bosqichda eozinofiliya va isitma boshqa gelmintozlarga ham xos; surunkali bosqichda o't yo'llari belgilari o't tosh kasalligiga o'xshaydi»"
   },

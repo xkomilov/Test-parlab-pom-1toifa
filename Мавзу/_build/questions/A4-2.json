@@ -34,13 +34,13 @@
    "x": "«Shuning uchun KQT ni yo'q qilish uchun odamlarni davolashning o'zi yetarli emas, chunki tabiiy manba saqlanib qoladi»"
   },
   {
-   "q": "Manbani aniqlashda tutilgan kemiruvchilarning qoni nima bilan tekshiriladi?",
-   "c": "Qon surtmasi yoki serologiya",
+   "q": "Kanalarda spirohetalar qanday usul bilan izlanadi?",
+   "c": "Mikroskopiya yoki molekulyar usul",
    "w": [
-    "Mikroskopiya yoki molekulyar usul",
-    "Insektitsid-akaritsid ishlov",
-    "Bemorlarning tunagan joylarini xaritalash",
-    "Deratizatsiya yoki dezinsektsiya"
+    "Qon surtmasi yoki serologiya",
+    "Qon zardobi yoki xaritalash",
+    "Serologik so'rov yoki xaritalash",
+    "Tur aniqlash yoki deratizatsiya"
    ],
    "x": "«Manbalarni aniqlash uchun quyidagilar bajariladi: kemiruvchilar tutiladi va ularning qoni qon surtmasi yoki serologiya bilan tekshiriladi; kanalar kemiruvchi inlari, g'orlar va uy-joylardan yig'iladi, tur aniqlanadi va ularda spirohetalar mikroskopiya yoki molekulyar usul bilan izlanadi; itlar va mushuklar tekshiriladi; bemorlarning tunagan joylari xaritalanadi»"
   },
@@ -56,15 +56,15 @@
    "x": "«Kemiruvchilar manbai bo'lgani uchun uy-joylarda kemiruvchilarga qarshi kurash (deratizatsiya) va ularga yo'l bermaydigan qurilish (kemiruvchilardan himoyalangan uylar) zarur»"
   },
   {
-   "q": "Kanalar yashaydigan joylarga qanday ishlov beriladi?",
-   "c": "Insektitsid-akaritsid ishlov berish",
+   "q": "Kanalar yashaydigan joylarni dezinsektsiya qilish uchun nima qilinadi?",
+   "c": "Insektitsid-akaritsid bilan ishlov berish",
    "w": [
-    "Kemiruvchilarni tutib, qon olish",
-    "Bemorlarning tunagan joylarini xaritalash",
+    "Kemiruvchilarga yo'l bermaydigan qurilish",
     "Aholiga tunamaslikni tushuntirish",
+    "Bemorlarning tunagan joylarini xaritalash",
     "Itlar va mushuklarni tekshirish"
    ],
-   "x": "«Kanalar yashaydigan joylarni insektitsid-akaritsid bilan ishlov berish (dezinsektsiya), eski binolarni ta'mirlash, yoriqlarni mahkamlash, g'orlar va inlarga kirmaslik tavsiya etiladi»"
+   "x": "«Kanalar yashaydigan joylarni insektitsid-akaritsid bilan ishlov berish (dezinsektsiya), eski binolarni ta'mirlash, yoriqlarni mahkamlash, g'orlar va inlarga kirmaslik tavsiya etiladi [3]. Aholiga xavfli joylarda tunamaslik tushuntiriladi»"
   },
   {
    "q": "Odam epidemik shaklda qanday rol o'ynaydi?",
@@ -204,10 +204,10 @@
    "q": "Davolash boshida bemor nima uchun kuzatuv ostida bo'lishi kerak?",
    "c": "Yarish–Gerksgeymer reaksiyasi xavfi bor",
    "w": [
-    "Inkubatsion davr 18 kundan ortiq",
-    "Isitmasiz davr taxminan 1 hafta",
-    "Taloq va jigar kattalashadi",
-    "Qaytalanishlar soni bir necha marta"
+    "Spirohetalar antigenini o'zgartirishi mumkin",
+    "Isitmasiz davr tezda boshlanib ketadi",
+    "Taloq va jigar kattalashishi mumkin",
+    "Kana chaqqan joyda o'zgarish bo'lmaydi"
    ],
    "x": "«Davolashda Yarish–Gerksgeymer reaksiyasi xavfi bor»"
   },
@@ -230,8 +230,8 @@
    "w": [
     "Isitmasiz davrda aniqlanadi",
     "Davolash boshlangandan keyin",
-    "Kana chaqqan joyda",
-    "Qaytalanishlar orasida"
+    "Bezgak surtmasi manfiy bo'lsa",
+    "Kana chaqqani esda bo'lsa"
    ],
    "x": "«Diagnostikaning o'ziga xos jihati shundaki, qo'zg'atuvchi spirohetalar qonda faqat isitma davrida ko'rinadi, isitmasiz davrda esa mikroskopik jihatdan aniqlanmaydi»"
   },
@@ -283,10 +283,10 @@
    "q": "Serologik testlarning cheklanishi nimada?",
    "c": "Borrelia turlari orasida o'zaro reaksiya beradi",
    "w": [
-    "Spirohetalarni faqat isitmasiz davrda topadi",
-    "Qon surtmasi tayyorlashni talab qiladi",
-    "Maxsus qorong'i maydon mikroskopini talab qiladi",
-    "Turni belgilashga imkon bermaydi"
+    "Spirohetalar DNK sini aniqlay olmaydi",
+    "Faqat Lyme borreliozni aniqlaydi",
+    "Qalin tomchida sezgirroq hisoblanadi",
+    "Ma'lumotnoma laboratoriyalarida o'tkaziladi"
    ],
    "x": "«Biroq serologiya Borrelia turlari orasida o'zaro reaksiyaga (boshqa Borrelia, jumladan Lyme borrelioz bilan) kirishishi mumkin va o'tkir tashxis uchun cheklangan»"
   },
@@ -296,8 +296,8 @@
    "w": [
     "Antitelolarni va Lyme borreliozni",
     "Eritrotsitlar orasidagi spirohetalarni",
-    "Qon zardobidagi bilirubinni va fermentlarni",
-    "Leykotsitlar va bilirubinning oshishi"
+    "Qorong'i maydonda tirik spirohetalarni",
+    "Leykotsitlar o'zgarishi va kamqonlikni"
    ],
    "x": "«Molekulyar usullar (PZR) spirohetalar DNK sini aniqlaydi va turni belgilashga imkon beradi; ular ma'lumotnoma laboratoriyalarida o'tkaziladi»"
   },
@@ -343,7 +343,7 @@
     "Isitmasiz davrda, antibiotikdan keyin",
     "Isitmasiz davrda, antibiotikdan oldin",
     "Inkubatsion davrda, kana chaqqanda",
-    "Qaytalanishlar orasidagi isitmasiz davrda"
+    "Isitma qaytganda, antibiotikdan keyin"
    ],
    "x": "«Eng muhim ko'rsatma: namunani isitma xuruji davrida olish»"
   },
@@ -359,13 +359,13 @@
    "x": "«Serologik tahlil uchun qon zardobi, molekulyar tahlil uchun to'liq qon olinadi»"
   },
   {
-   "q": "Ijobiy natija zudlik bilan xabar qilinsa nima boshlanadi?",
-   "c": "Favqulodda epidemiologik tekshiruv boshlanadi",
+   "q": "Ijobiy natija zudlik bilan kimga xabar qilinadi?",
+   "c": "Shifokorga va sanitariya-epidemiologiya xizmatiga",
    "w": [
-    "Qon surtmasi qayta bo'yaladi",
-    "Tajriba laboratoriyasi ehtiyotkorlik talab etadi",
-    "Manfiy natija takroran tekshiriladi",
-    "Spirohetalar soni taxminan ko'rsatiladi"
+    "Birgalikda tunagan odamlarga va laborantga",
+    "Laborant va tajriba laboratoriyasiga",
+    "Bemorga va tekshirgan laborantga",
+    "Tajriba laboratoriyasi va bemorga"
    ],
    "x": "«Ijobiy natija zudlik bilan shifokorga va sanitariya-epidemiologiya xizmatiga xabar qilinadi, chunki bu favqulodda epidemiologik tekshiruvni boshlash uchun asos»"
   },
@@ -373,10 +373,10 @@
    "q": "KQT ga tekshirish qaysi bemorlarda ko'rsatiladi?",
    "c": "Bezgak surtmasi manfiy, isitmasi davom etayotganlar",
    "w": [
-    "Davriy isitmasi bo'lmagan bemorlar",
-    "Isitmasiz davrda sog'lom bo'lgan odamlar",
-    "Kemiruvchilar yashamaydigan joyda tunaganlar",
-    "Qon bilan ishlamaydigan laborantlar"
+    "Bezgak surtmasi ijobiy bo'lgan, isitmasi tushganlar",
+    "Eski uyda tunamagan, isitmasiz bemorlar",
+    "Endemik hududda bo'lmagan, titroqsiz bemorlar",
+    "Guruhdan alohida tunagan, isitmasiz shaxslar"
    ],
    "x": "«Quyidagi shaxslarda KQT ga tekshirish ko'rsatiladi: endemik hududda (Markaziy Osiyo kabi) yashagan yoki bo'lgan va yuqori isitma, titroq, bosh og'rig'i, mushak og'rig'i bilan kelgan bemorlar; davriy (qaytalanuvchi) isitmasi bor bemorlar; eski uy, g'or, qo'ra yoki kemiruvchilar bor joyda tunaganlar; bezgak surtmasi manfiy bo'lgan, isitmasi esa davom etayotganlar; bir joyda tunagan bir necha kishi orasida isitma bo'lsa, ularning barchasi»"
   },
@@ -386,8 +386,8 @@
    "w": [
     "Zararsizlantiriladigan naychaga tashlanadi",
     "Spirt solingan idishga tashlanadi",
-    "Toza buyum oynasiga tashlanadi",
-    "Qoplagich oyna ostiga tashlanadi"
+    "Antikoagulyant solingan naychaga tashlanadi",
+    "Metanol solingan idishga tashlanadi"
    ],
    "x": "«Qon bilan ishlaganda qo'lqop, xalat kiyiladi, har bir bemor uchun yangi lanset ishlatiladi, o'tkir buyumlar maxsus idishga tashlanadi, ifloslangan materiallar zararsizlantiriladi»"
   },
@@ -403,26 +403,26 @@
    "x": "«Qorong'i maydon uchun yangi (ho'l) tomchi preparat tayyorlanadi, qoplagich oyna bilan yopiladi va darhol ko'riladi»"
   },
   {
-   "q": "Yupqa surtma uchun spreder qanday burchak ostida tutiladi?",
-   "c": "45 graduslik burchak ostida",
+   "q": "Qon surtmasida spirohetalar qanday ko'rinadi?",
+   "c": "Eritrotsitlar orasida cho'ziq, spiral tuzilma",
    "w": [
-    "100 graduslik burchak ostida",
-    "48 graduslik burchak ostida",
-    "72 graduslik burchak ostida",
-    "10 graduslik burchak ostida"
+    "Eritrotsitlar ichida parazitlar sifatida",
+    "Leykotsitlar orasida cho'ziq, oval tuzilma",
+    "To'qimalarda cho'ziq, spiral tuzilma",
+    "Eritrotsitlar orasida qisqa, silindrsimon tuzilma"
    ],
-   "x": "«Jahon sog'liqni saqlash tashkilotining bezgak mikroskopiyasi standart protsedurasida (MM-SOP-05A) bu amallar batafsil bayon qilingan: qalin tomchi uchun taxminan 1 sm doira, yupqa surtma uchun spreder 45 graduslik burchak ostida»"
+   "x": "«Qon surtmalari havoda quritiladi; yupqa surtma metanol bilan fiksatsiya qilinadi; Giemza bilan bo'yaladi (pH 7,2 buferli suvda) [3]. Bezgak uchun tavsiya etilgan bo'yash tartibi: tezkor usulda 10 foizli eritma 8–10 daqiqa, sekin usulda 3 foizli eritma 45–60 daqiqa [3]. Spirohetalar eritrotsitlar orasida cho'ziq, spiral shaklli tuzilma sifatida ko'rinadi»"
   },
   {
-   "q": "Bezgak SOP ida parazit yo'q deyishdan oldin nechta maydon ko'riladi?",
-   "c": "100 maydon",
+   "q": "Preparatda bezgak parazitlari nima uchun ham izlanadi?",
+   "c": "Aralash infeksiya yoki alternativ tashxis bo'lishi mumkin",
    "w": [
-    "45 maydon",
-    "48 maydon",
-    "72 maydon",
-    "10 maydon"
+    "Spirohetalar eritrotsitlar ichida joylashadi",
+    "Qalin tomchi faqat bezgak uchun tayyorlanadi",
+    "Isitma davrida spirohetalar ko'rinmay qoladi",
+    "Spirohetalar sonini taxminiy ko'rsatish kerak"
    ],
-   "x": "«Qorong'i maydon uchun yangi (ho'l) tomchi preparat tayyorlanadi, qoplagich oyna bilan yopiladi va darhol ko'riladi»"
+   "x": "«Preparatda bezgak parazitlari ham izlanadi, chunki aralash infeksiya yoki alternativ tashxis bo'lishi mumkin»"
   },
   {
    "q": "Qo'shimcha laboratoriya tekshiruvlari nimalarni o'z ichiga oladi?",

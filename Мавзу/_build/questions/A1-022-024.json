@@ -15,10 +15,10 @@
    "q": "Davolangandan keyin ham uch kunlik bezgakda xavf nega tugamaydi?",
    "c": "jigarda uxlab yotuvchi shakllar hosil bo'ladi",
    "w": [
-    "bemor primakvin qabul qilgan bo'ladi",
     "qalin tomchida parazit soni kamayadi",
     "qayta yuqish manbasi doimo saqlanadi",
-    "dorilar to'liq ichilmagan bo'ladi"
+    "bemor kuzatuv ro'yxatidan chiqarilgan bo'ladi",
+    "bemor ko'rikdan qolgan bo'ladi"
    ],
    "x": "«Sababi shundaki, Plasmodium vivax jigarda uxlab yotuvchi shakllar hosil qiladi va ular oylar o'tgach kasallikni qaytarishi mumkin»"
   },
@@ -28,8 +28,8 @@
    "w": [
     "faqat kasalxonada yotqizilgan bemorlar",
     "isitmali kasallik bilan og'riganlar",
-    "bezgakdan holi hudud aholisi",
-    "ota-onalarga murojaat qilingan bolalar"
+    "chivin ko'p bo'lgan hudud aholisi",
+    "oilaviy poliklinika va sanitariya xizmati xodimlari"
    ],
    "x": "«Kuzatuvga uch kunlik bezgak bilan og'rigan va davolangan barcha bemorlar, shuningdek, parazit tashuvchilar kiradi»"
   },
@@ -38,9 +38,9 @@
    "c": "manzil, parazit turi va davolash sxemasi",
    "w": [
     "telefon raqami, manzil va oila tarkibi",
-    "tashxis sanasi, laboratoriya natijalari va jurnal",
-    "chivin faolligi mavsumi va profilaktik suhbat",
-    "qaytalanishlar soni va aniqlanish muddati"
+    "bemor kartasi, laboratoriya jurnali va xulosa",
+    "tashxis sanasi va davolash dorilari davomiyligi",
+    "chivin faolligi mavsumi va profilaktik suhbat"
    ],
    "x": "«Kuzatuv ro'yxatida bemorning manzili, parazit turi, davolash sxemasi, primakvin qabul qilgan-qilmagani va keyingi tekshiruv sanalari ko'rsatiladi»"
   },
@@ -51,7 +51,7 @@
     "chivin ko'pmi, to'r o'rnatilganmi",
     "taloq kattalashganmi, jigar holati qanday",
     "qalin tomchi sifatli tayyorlanganmi",
-    "ota-onalarga murojaat qilinganmi"
+    "ma'lumotnoma laboratoriyasiga yuborilganmi"
    ],
    "x": "«Kuzatuv davomida qaytalanish aniqlansa, bemor yana davolanadi, qaytalanishning sababi tahlil qilinadi: dori to'liq ichilganmi, primakvin berilganmi, qayta yuqish bo'lmaganmi»"
   },
@@ -100,15 +100,15 @@
    "x": "«Kuzatuv dasturining samarasi qaytalanishlar soni, ular aniqlanish muddati va bemorlarning kuzatuvdan to'liq o'tish ulushi bilan baholanadi»"
   },
   {
-   "q": "Chivin faolligi mavsumidan oldin nima qilinadi?",
-   "c": "kuzatuv ro'yxati qayta ko'rib chiqiladi",
+   "q": "Kuzatuvdan chiqarilgan bemor kelgusida nima qilishi kerak?",
+   "c": "isitma bo'lsa, ilgari bezgak bilan og'riganini aytishi",
    "w": [
-    "kuzatuv muddati qaytadan hisoblanadi",
-    "bemorlar kasalxonaga yotqiziladi",
-    "qon surtmasi manfiy deb yoziladi",
-    "primakvin kursi qaytadan beriladi"
+    "primakvin kursini qaytadan to'liq qabul qilishi",
+    "ma'lumotnoma laboratoriyasiga murojaat qilishi",
+    "kuzatuv ro'yxatidan qayta o'tib ko'rikka kelishi",
+    "bemor ma'lumotlarini shifokordan yashirishi"
    ],
-   "x": "«Shuning uchun kuzatuvga olingan bemorlar ro'yxati chivin faolligi mavsumidan oldin qayta ko'rib chiqiladi, ularga profilaktik suhbat o'tkaziladi»"
+   "x": "«Kuzatuvdan chiqarilgan bemor keyinchalik isitma paydo bo'lsa, ilgari bezgak bilan og'riganini shifokorga aytishi kerak»"
   }
  ],
  "023": [
@@ -141,7 +141,7 @@
     "gipnozoitlar qayta faollashuvini",
     "kuzatuv muddati to'liq tugaganini",
     "bemor klinik sog'ayib ketganini",
-    "bemor qayta zararlanganini"
+    "bezgakdan holi hududda chivin yo'qligini"
    ],
    "x": "«Tropik bezgakda qaytalanish ko'pincha qondagi parazitlar to'liq yo'qotilmaganini, ya'ni davolash muvaffaqiyatsiz bo'lganini ko'rsatadi»"
   },
@@ -180,14 +180,14 @@
   },
   {
    "q": "Kuzatuvda qaysi usul ishonchli bo'lib qoladi?",
-   "c": "qon surtmasi mikroskopiyasi",
+   "c": "mikroskopiya ishonchli usul",
    "w": [
-    "tezkor testlarning cheklovi",
-    "HRP2 oqsili tahlili",
-    "kamqonlik darajasi tahlili",
-    "oila a'zolariga tushuntirish"
+    "tezkor testlar natijasi",
+    "HRP2 oqsilini aniqlash",
+    "kamqonlik darajasini aniqlash",
+    "parhez va dam olish"
    ],
-   "x": "«Bemor belgilangan kuzatuv muddati davomida qaytalanishsiz o'tsa, qon surtmasi manfiy bo'lsa va klinik jihatdan sog'ayib ketgan bo'lsa, kuzatuvdan chiqariladi»"
+   "x": "«Shu sababli kuzatuvda mikroskopiya ishonchli usul bo'lib qoladi»"
   },
   {
    "q": "Salomatlik yaxshi bo'lsa ham qon surtmasi nega takroran tekshiriladi?",
@@ -195,30 +195,30 @@
    "w": [
     "bemor kartasi jurnalga kiritilishi kerak",
     "qon tahlili kamqonlik darajasini ko'radi",
-    "bemor kartaga kiritilishi zarur",
-    "gipnozoitlar qonda ko'rinadi"
+    "gipnozoitlar qonda ko'rinadi",
+    "tezkor testlar har doim to'liq aniqlaydi"
    ],
    "x": "«Bemorga qon surtmasini takroran tekshirishning zarurligi tushuntiriladi, chunki salomatlik yaxshi bo'lsa ham, qonda parazit bo'lishi mumkin»"
   },
   {
-   "q": "Kamqonlik bo'lgan bemorga qanday maslahat beriladi?",
-   "c": "temir saqlovchi mahsulotlar iste'mol qilish",
+   "q": "Tropik bezgak kuzatuvidan chiqarish uchun qanday shartlar kerak?",
+   "c": "qaytalanishsiz o'tish, manfiy surtma va klinik sog'ayish",
    "w": [
-    "shifokor tavsiyalariga amal qilmaslik",
-    "dorilarni qabul qilishni to'xtatish",
-    "chivin chaqishidan himoyalanmaslik",
-    "oila a'zolaridan ajralib yashash"
+    "gametotsitlarning qonda bir necha kun saqlanishi",
+    "artemizininga qisman chidamlilik aniqlanishi",
+    "oila a'zolariga tushuntirish berilishi",
+    "kamqonlikka qarshi temir mahsulotlari iste'mol qilinishi"
    ],
-   "x": "«Bemor kamqonlikka qarshi temir saqlovchi mahsulotlarni iste'mol qilishi, jismoniy zo'riqishdan saqlanishi va shifokor tavsiyalariga amal qilishi kerak»"
+   "x": "«Bemor belgilangan kuzatuv muddati davomida qaytalanishsiz o'tsa, qon surtmasi manfiy bo'lsa va klinik jihatdan sog'ayib ketgan bo'lsa, kuzatuvdan chiqariladi»"
   },
   {
    "q": "Kimlar tropik bezgak kuzatuviga olinadi?",
-   "c": "ayniqsa sayohatchilar va mehnat migrantlari",
+   "c": "tropik bezgak bilan davolangan barcha shaxslar",
    "w": [
-    "faqat bolalar va homilador ayollar",
-    "bezgakdan holi hudud aholisi",
+    "faqat bolalar va homilador ayollar guruhi",
+    "bezgakdan holi hududning barcha aholisi",
     "chivin chaqqan har bir shaxs",
-    "oila a'zolari va qo'shnilar"
+    "oila a'zolari va qo'shni uy aholisi"
    ],
    "x": "«Kuzatuvga tropik bezgak bilan og'rigan va davolangan barcha shaxslar, ayniqsa endemik hududlardan kelgan sayohatchilar va mehnat migrantlari kiradi»"
   }
@@ -296,8 +296,8 @@
    "w": [
     "ommaviy dori berish va kimyoprofilaktika",
     "aholini ko'chirish va chivinlarni yo'qotish",
-    "import holatlarni cheklash va yashirish",
-    "import holatlarni hisobga olmaslik"
+    "iqtisodiy samarani oshirish va xarajatlarni qisqartirish",
+    "sertifikat olish uchun ariza topshirish"
    ],
    "x": "«Birinchisi — kuchli epidemiologik kuzatuv: har bir isitmalagan bemor tekshiriladi, barcha holatlar qayd etiladi va tasniflanadi»"
   },

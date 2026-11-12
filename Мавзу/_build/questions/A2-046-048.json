@@ -1,15 +1,15 @@
 {
  "046": [
   {
-   "q": "Zoonoz teri leyshmaniozining qo'zg'atuvchisi qaysi guruhga mansub?",
-   "c": "kinetoplastidlar sinfiga mansub sodda jonivor",
+   "q": "Leishmania chivincha ichagida va makrofaglarda qaysi shakllarda o'sadi?",
+   "c": "ichagida promastigot, makrofaglarda amastigot",
    "w": [
-    "chivinchalar sinfiga mansub hasharot",
-    "kemiruvchilar sinfiga mansub hayvon",
-    "makrofaglar sinfiga mansub hujayra",
-    "promastigotlar sinfiga mansub shakl"
+    "ichagida amastigot, makrofaglarda promastigot",
+    "ichagida kinetoplast, makrofaglarda promastigot",
+    "ichagida promastigot, makrofaglarda kinetoplast",
+    "ichagida amastigot, makrofaglarda kinetoplast"
    ],
-   "x": "«Leishmania sodda jonivorlar (Protozoa) olamining kinetoplastidlar sinfiga mansub»"
+   "x": "«Adabiyotda ta'kidlanishicha, Leishmania digenetik sodda jonivor bo'lib, chivincha ichagida promastigot shaklida, sut emizuvchining makrofaglarida esa amastigot shaklida o'sadi»"
   },
   {
    "q": "Kinetoplast nima?",
@@ -38,9 +38,9 @@
    "c": "amastigot ko'rinishida",
    "w": [
     "promastigot ko'rinishida",
-    "xivchinli promastigot shaklida",
-    "harakatchan shaklda",
-    "makrofag ichidagi shaklda"
+    "kinetoplast ko'rinishida",
+    "chivincha ichagidagi shaklda",
+    "xivchinli harakatchan shaklda"
    ],
    "x": "«Odam tanasida va kemiruvchilarda parazit faqat amastigot ko'rinishida uchraydi, shu sababli laboratoriya tashxisida teri yarasidan olingan materialda amastigotlar izlanadi»"
   },
@@ -49,9 +49,9 @@
    "c": "promastigotlarga aylanib ko'payadi",
    "w": [
     "makrofaglarga aylanib ko'payadi",
-    "yangi makrofaglarni zararlaydi",
-    "yallig'lanish va yara hosil qiladi",
-    "kemiruvchi parazitiga aylanadi"
+    "kemiruvchi parazitiga aylanib ko'payadi",
+    "yangi amastigotlarga aylanib ko'payadi",
+    "kinetoplastga aylanib ko'payadi"
    ],
    "x": "«Chivincha ichagida amastigotlar promastigotlarga aylanib ko'payadi va chivinchaning ovqat hazm qilish yo'lining oldingi qismiga ko'chadi»"
   },
@@ -113,7 +113,7 @@
  ],
  "047": [
   {
-   "q": "Hindiston subkontinentida visseral leyshmaniozning asosiy manbai kim?",
+   "q": "Hindiston subkontinentida visseral leyshmaniozning asosiy manbai nima?",
    "c": "odam (antroponoz)",
    "w": [
     "taxminan 70 hayvon turi",
@@ -121,10 +121,10 @@
     "makrofaglar ichidagi amastigotlar",
     "limfa tugunlari aspirati"
    ],
-   "x": "«donovani tarqalgan Hindiston subkontinentida asosiy manba odam (antroponoz); L»"
+   "x": "«L. donovani tarqalgan Hindiston subkontinentida asosiy manba odam (antroponoz); L. infantum tarqalgan hududlarda asosiy rezervuar uy iti va yovvoyi it oilasi hayvonlari (zoonoz)»"
   },
   {
-   "q": "Leishmania infantum tarqalgan hududlarda asosiy rezervuar kim?",
+   "q": "Leishmania infantum tarqalgan hududlarda asosiy rezervuar nima?",
    "c": "uy iti va yovvoyi it oilasi",
    "w": [
     "taloq va jigar makrofaglari",
@@ -132,7 +132,7 @@
     "immuniteti pasaygan bemorlar",
     "OIV bilan yashovchilar"
    ],
-   "x": "«infantum tarqalgan hududlarda asosiy rezervuar uy iti va yovvoyi it oilasi hayvonlari (zoonoz)»"
+   "x": "«L. donovani tarqalgan Hindiston subkontinentida asosiy manba odam (antroponoz); L. infantum tarqalgan hududlarda asosiy rezervuar uy iti va yovvoyi it oilasi hayvonlari (zoonoz)»"
   },
   {
    "q": "Amastigotlarning o'lchami qancha?",
@@ -172,8 +172,8 @@
    "c": "qon va limfa orqali ichki a'zolarga",
    "w": [
     "teri orqali chivinchaning ichagiga",
-    "chivincha tomonidan teriga yuboriladi",
-    "makrofaglar ichida ko'payadi",
+    "teri makrofaglari ichida qoladi",
+    "faqat teri yarasi atrofiga",
     "chivincha ichagiga qaytadi"
    ],
    "x": "«Teri shaklidan farqli o'laroq, visseral turlarda parazit qon va limfa orqali taloq, jigar va suyak ko'migiga o'tadi»"
@@ -182,10 +182,10 @@
    "q": "Immun javob susayganda qanday xavf ortadi?",
    "c": "ikkilamchi infeksiyalar (zotiljam, sil)",
    "w": [
-    "suyak ko'migi faoliyati kuchayadi",
-    "leykopeniya va kamqonlik yo'qoladi",
-    "kamqonlik va isitma yo'qoladi",
-    "limfa tugunlari faoliyati kuchayadi"
+    "tartibsiz isitma yo'qolishi",
+    "kamqonlik va leykopeniya yo'qolishi",
+    "suyak ko'migi faoliyati kuchayishi",
+    "limfa tugunlari faoliyati kuchayishi"
    ],
    "x": "«Immun javob susayadi, shuning uchun ikkilamchi infeksiyalar (zotiljam, ich ketishi, sil) xavfi ortadi»"
   },
@@ -193,10 +193,10 @@
    "q": "Serologik testlar nimani aniqlaydi?",
    "c": "antitelolarni aniqlaydi",
    "w": [
-    "makrofaglar ichidagi amastigotlar",
-    "xivchinli promastigot shakllari",
-    "yirik yadro va kinetoplast",
-    "chivincha ichagidagi parazitlar"
+    "makrofaglar ichidagi amastigotlarni aniqlaydi",
+    "xivchinli promastigot shakllarini aniqlaydi",
+    "yirik yadro va kinetoplastni aniqlaydi",
+    "chivincha ichagidagi parazitlarni aniqlaydi"
    ],
    "x": "«Serologik testlar antitelolarni aniqlaydi»"
   },
@@ -236,15 +236,15 @@
    "x": "«Turlararo farq morfologik emas, molekulyar va biokimyoviy usullar bilan aniqlanadi»"
   },
   {
-   "q": "Surxondaryodagi tadqiqotda antroponoz tashuvchi ulushi qanday o'zgargan?",
-   "c": "5,4 foizdan 41,4 foizgacha oshgan",
+   "q": "Surxondaryodagi tadqiqot antroponoz shaklning epidemiologik ahamiyati haqida nimani ko'rsatadi?",
+   "c": "ahamiyati ortayotgan bo'lishi mumkin",
    "w": [
-    "41,4 foizdan 5,4 foizgacha kamaygan",
-    "5,4 foizdan 14 foizgacha oshgan",
-    "5,4 foizdan 41,4 foizgacha kamaygan",
-    "o'rtacha 5,4 foiz bo'lib qolgan"
+    "ahamiyati kamayayotgan bo'lishi mumkin",
+    "ahamiyati ancha kam bo'lishi mumkin",
+    "zoonoz shakl butunlay yo'qolgani",
+    "P. papatasi ustunligi yo'qolgani"
    ],
-   "x": "«sergenti ulushi o'rtacha 5,4 foizdan 41,4 foizgacha sezilarli oshganini ko'rsatgan, zoonoz leyshmaniozning tashuvchisi P»"
+   "x": "«Bu ma'lumot O'zbekistonda antroponoz shaklning epidemiologik ahamiyati ortayotgan bo'lishi mumkinligiga ishora qiladi»"
   },
   {
    "q": "Antroponoz shaklda kemiruvchilarga qarshi kurash nima sababdan samara bermaydi?",
@@ -280,7 +280,7 @@
    "x": "«Davolangan bemorlar yara bitguncha kuzatuvda bo'ladi, chunki ular manba bo'lib qolishi mumkin»"
   },
   {
-   "q": "Nima sababdan antroponoz shakl uchun yilli yara nomi paydo bo'lgan?",
+   "q": "Nima sababdan antroponoz shakl «yilli yara» deb ataladi?",
    "c": "kasallik bir yildan ortiq davom etishi mumkin",
    "w": [
     "yara qaytalanib bitadi",
@@ -288,7 +288,7 @@
     "inkubatsiya muddati bir yil bo'ladi",
     "yara chandiq hosil qilmaydi"
    ],
-   "x": "«Qaytalanuvchi lyupoid (volchankasimon) yoki surunkali tuberkuloid shakllar bir necha yil davom etishi mumkin va bu davrda bemor past darajadagi parazit tashuvchi bo'lib qoladi»"
+   "x": "«inkubatsiya muddati ancha uzun (oylar), yara sekin rivojlanadi, odatda quruqroq, chetlari ko'tarilgan va chandiq hosil qilib asta-sekin bitadi; kasallik uzoq, bir yildan ortiq davom etishi mumkin, shu sababli»"
   },
   {
    "q": "Antroponoz shaklda yara qanday bo'ladi?",
@@ -332,7 +332,7 @@
     "yara materialida amastigot bo'lmaydi",
     "bo'yash usuli turlarga qarab o'zgaradi"
    ],
-   "x": "«major) aniqlash molekulyar usullar yordamida amalga oshiriladi, mikroskopiyada ular bir-biridan ajralmaydi»"
+   "x": "«Turni (L. tropica yoki L. major) aniqlash molekulyar usullar yordamida amalga oshiriladi, mikroskopiyada ular bir-biridan ajralmaydi»"
   }
  ]
 }

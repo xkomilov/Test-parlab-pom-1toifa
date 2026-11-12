@@ -9,16 +9,16 @@
     "Sanitariya, savdogar va bozor jihatlarini",
     "Kimyoterapiya, dori va doza jihatlarini"
    ],
-   "x": "«Kuzatuv odamlar (laboratoriya tasdiqlangan holatlar), hayvonlar (so'yishda jigar ekspertizasi), mollyuskalar va atrof-muhit bo'yicha olib boriladi»"
+   "x": "«buning uchun hayvon, inson va atrof-muhit jihatlarini bog'laydigan yagona»"
   },
   {
    "q": "Veterinariya xizmati qanday ishlarni bajaradi?",
    "c": "Chorva mollarini tekshiradi, zararlanganlarini davolaydi",
    "w": [
-    "Chorva mollarini ifloslangan yaylovlarga haydaydi",
-    "Jigar braki hisobini yuritmaydi",
-    "Mollyuskalarni suv havzalariga tashlaydi",
-    "Najas va jigar ekspertizasini to'xtatadi"
+    "Odamlarni tekshiradi, bemorlarni triklabendazol bilan davolaydi",
+    "Mollyuskalarni tekshiradi, suv havzalarini quritadi",
+    "Ko'katlarni tekshiradi, savdogarlarga talablar qo'yadi",
+    "Maktablarda aholini o'qitadi, ommaviy davolaydi"
    ],
    "x": "«Veterinariya xizmati chorva mollarini muntazam tekshiradi (najas, so'yishda jigar ekspertizasi), zararlanganlarini davolaydi, jigar braki hisobini yuritadi»"
   },
@@ -28,8 +28,8 @@
    "w": [
     "Chorva mollarini fassiolyozga qarshi davolash",
     "Ko'katlarni bozorda gigiyenik sotish",
-    "Suv havzalarini najas bilan ifloslantirish",
-    "Mollyuskalarni ko'katlar bilan oziqlantirish"
+    "Aholini maktablarda o'qitish va davolash",
+    "Ommaviy davolashda triklabendazol berish"
    ],
    "x": "«Ularga qarshi kurash usullari: suv havzalarini quritish yoki oqimini yaxshilash, sug'orish ariqlarini tozalash va o'tlardan ozod qilish, kimyoviy yoki biologik molyuskasidlar, chorvani zararlangan suvdan ajratish»"
   },
@@ -37,10 +37,10 @@
    "q": "Ko'katlarni sug'orishda nimaga rioya qilinadi?",
    "c": "Hayvon najasi bilan ifloslangan suv ishlatilmaydi",
    "w": [
-    "Ariq suvi najas bilan o'g'itlanadi",
-    "Xom ko'katlar ifloslangan yaylovdan yig'iladi",
-    "Sug'orishda hayvon najasi qo'llanadi",
-    "Savdogarlarga talablar qo'yilmaydi"
+    "Faqat ariq va kanal suvidan foydalaniladi",
+    "Savdogarlarga talablar qo'yilmaydi",
+    "Yovvoyi ko'katlar xom holda yig'iladi",
+    "Ko'katlar bozorda ochiq sotiladi"
    ],
    "x": "«Ko'katlarni sug'orishda hayvon najasi bilan ifloslangan suv ishlatmaslik, ko'katlarni bozorda gigiyenik sharoitda sotish, savdogarlarga talablar qo'yish kerak»"
   },
@@ -59,10 +59,10 @@
    "q": "Ommaviy davolashda qaysi guruhlar davolanadi?",
    "c": "Maktab yoshidagi bolalar (5–14 yosh) yoki barcha aholi",
    "w": [
-    "Chorvadorlar va veterinarlar",
-    "Oilaviy shifokorlar va mahalla qo'mitalari",
-    "Veterinarlar va oilaviy shifokorlar",
-    "Barcha hayvonlar va mollyuskalar"
+    "Chorvadorlar va oilaviy shifokorlar",
+    "Faqat laboratoriya tasdiqlangan bemorlar va chorvadorlar",
+    "Veterinarlar va savdogarlar (15–30 yosh)",
+    "Maktab yoshidagi bolalar (1–4 yosh) yoki chorvadorlar"
    ],
    "x": "«Jahon sog'liqni saqlash tashkiloti ko'p odam zararlangan hududlarda aholiga asoslangan profilaktik kimyoterapiyani tavsiya etadi: fassiolyoz holatlari klasterlashgan subtuman, qishloq yoki jamoalarda maktab yoshidagi bolalarni (5–14 yosh) yoki barcha aholini har 12 oyda triklabendazol 10 mg/kg yagona dozada davolash»"
   },
@@ -81,9 +81,9 @@
    "q": "Aholini o'qitish qaysi yo'llar orqali amalga oshiriladi?",
    "c": "Maktablar, oilaviy shifokorlar, mahalla, veterinarlar",
    "w": [
-    "Triklabendazol, yaylovlar, ariqlar, hayvonlar",
-    "Bozorlar, ko'katlar, suv omborlari, hayvonlar",
-    "Kimyoterapiya, fassiolitsidlar, molyuskasidlar",
+    "Savdogarlar, bozorlar, ko'katlar, chorvadorlar",
+    "Laboratoriya, kasalxona, ekspertiza, veterinarlar",
+    "Yaylovlar, ariqlar, suv omborlari, chorvadorlar",
     "Kuzatuv, laboratoriya, ekspertiza, jigar braki"
    ],
    "x": "«Maktablar, oilaviy shifokorlar, mahalla qo'mitalari va veterinarlar orqali ma'lumotlar tarqatiladi»"
@@ -92,10 +92,10 @@
    "q": "Chorvadorlarga hayvonlarni davolashning qanday foydasi tushuntiriladi?",
    "c": "Jigar braki kamayishi iqtisodiy foydasi",
    "w": [
-    "Jigar braki ko'payishi iqtisodiy foydasi",
-    "Mollyuskalar ko'payishi iqtisodiy foydasi",
-    "Qayta zararlanish yuqori bo'lishi foydasi",
-    "Ko'katlar gigiyenasi iqtisodiy foydasi"
+    "Dori narxi kamayishi iqtisodiy foydasi",
+    "Chorva mollari soni kamayishi iqtisodiy foydasi",
+    "Ko'katlar gigiyenasi iqtisodiy foydasi",
+    "Mollyuskalar kamayishi iqtisodiy foydasi"
    ],
    "x": "«Chorvadorlarga hayvonlarni davolashning iqtisodiy foydasi (jigar braki kamayishi) tushuntiriladi»"
   },
@@ -103,10 +103,10 @@
    "q": "Kuzatuv qaysi yo'nalishlar bo'yicha olib boriladi?",
    "c": "Odamlar, hayvonlar, mollyuskalar va atrof-muhit",
    "w": [
-    "Odamlar va laboratoriya tasdiqlangan holatlar",
-    "Hayvonlar va so'yishda jigar ekspertizasi",
-    "Mollyuskalar va sug'orish ariqlari",
-    "Tibbiyot va veterinariya xizmatlari"
+    "Odamlar, hayvonlar, ko'katlar va bozorlar",
+    "Hayvonlar, ko'katlar, savdogarlar va chorvadorlar",
+    "Mollyuskalar, ariqlar, yaylovlar va chorvadorlar",
+    "Tibbiyot, veterinariya va sanitariya xizmatlari"
    ],
    "x": "«Kuzatuv odamlar (laboratoriya tasdiqlangan holatlar), hayvonlar (so'yishda jigar ekspertizasi), mollyuskalar va atrof-muhit bo'yicha olib boriladi»"
   }

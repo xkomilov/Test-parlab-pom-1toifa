@@ -12,11 +12,11 @@
    "x": "«Tashxis uch bosqichdan iborat: to'g'ri namuna olish, tegishli usulni qo'llash va natijani talqin qilish»"
   },
   {
-   "q": "Ichakdan tashqari holatlarda qaysi namunalar kerak bo'lishi mumkin?",
+   "q": "Ichakdan tashqari holatlarda najasdan tashqari qaysi namunalar kerak bo'lishi mumkin?",
    "c": "qon zardobi yoki boshqa namunalar",
    "w": [
-    "najas yoki fiziologik eritma",
-    "formalin yoki efir namunasi",
+    "fiksatsiya qilingan nam surtma",
+    "formalin–efir cho'kmasi",
     "sink sulfatli flotatsiya namunasi",
     "ichak suyuqligi yoki ip"
    ],
@@ -29,31 +29,31 @@
     "kistalar sonini oshirib, topish ehtimolini yaxshilashga",
     "parazit DNKsini topib, turlarni farqlashga",
     "yog' va ifloslikni ajratib, kistalarni saqlashga",
-    "antigenni aniqlab, kistalarni deformatsiya qilishga"
+    "antigenni aniqlab, turlarni farqlashga"
    ],
    "x": "«U fiziologik eritmada tayyorlanadi va trofozoitlarning harakatini ko'rishga imkon beradi»"
   },
   {
-   "q": "Nam surtma musbat namunalarning qanchasini aniqlagan?",
-   "c": "musbat namunalarning 34,74 foizini",
+   "q": "Faqat nam surtma bilan cheklanish nimaga olib keladi?",
+   "c": "ko'plab zararlangan odamlarni o'tkazib yuborishga",
    "w": [
-    "musbat namunalarning 65,26 foizini",
-    "musbat namunalarning 2–4 foizini",
-    "musbat namunalarning 5–6 foizini",
-    "musbat namunalarning 5 foizini"
+    "kistalar sonini oshirib, topishni yaxshilashga",
+    "kistalar deformatsiyasini kamaytirishga",
+    "tur darajasida tasdiqlashga",
+    "ortiqcha davolashning oldini olishga"
    ],
-   "x": "«Biroq sezgirligi past: bitta tadqiqotda to'g'ridan-to'g'ri nam surtma musbat namunalarning faqat 34,74 foizini aniqlagan, formalin–efir konsentratsiyasi esa 65,26 foizini»"
+   "x": "«faqat nam surtma bilan cheklanish ko'plab zararlangan odamlarni o'tkazib yuborishga olib keladi»"
   },
   {
-   "q": "Formalin–efir usulining afzalligi nimada?",
-   "c": "kistalar deformatsiyasi kamroq bo'ladi",
+   "q": "Formalin–efir cho'ktirish usuli nimani ajratadi?",
+   "c": "yog' va boshqa ifloslikni",
    "w": [
-    "kistalar deformatsiyasi ko'proq bo'ladi",
-    "kistalar soni kamayadi",
-    "trofozoit harakati ko'rinadi",
-    "yog' ajralmaydi"
+    "trofozoitlarning harakatini",
+    "parazit DNKsini",
+    "kistalar deformatsiyasini",
+    "ichak suyuqligini"
    ],
-   "x": "«Formalin–efir cho'ktirish usuli yog' va boshqa ifloslikni ajratadi va lyamblya kistalarini kamroq buzadi; sharhda u sink sulfatli flotatsiyaga qaraganda kistalar deformatsiyasi kamroq bo'lishi bilan ajralib turishi yozilgan»"
+   "x": "«Formalin–efir cho'ktirish usuli yog' va boshqa ifloslikni ajratadi»"
   },
   {
    "q": "Bitta manfiy namuna nimani anglatadi?",
@@ -61,7 +61,7 @@
    "w": [
     "kasallikni tasdiqlaydi",
     "tashxisni yakunlaydi",
-    "kistalarni istisno qilmaydi",
+    "tur aniqligini beradi",
     "namunalar soni kam bo'ladi"
    ],
    "x": "«Kistalar najas bilan notekis chiqadi, shuning uchun bitta manfiy namuna kasallikni istisno qilmaydi»"
@@ -92,10 +92,10 @@
    "q": "Hisobotda nimalar ko'rsatiladi?",
    "c": "namuna turi, usul, shakl, tur nomi va miqdori",
    "w": [
-    "ichak suyuqligi, Entero-Test va ip",
-    "fiziologik eritma, efir va formalin",
-    "antigen, PCR va Entero-Test",
-    "kistalar deformatsiyasi va flotatsiya"
+    "reaktivlar muddati va surtma tayyorlash tartibi",
+    "ikkinchi mutaxassis tekshiruvi va o'qitish",
+    "musbat preparatlarni saqlab qo'yish",
+    "sifat nazorati va takroriy o'qish"
    ],
    "x": "«Hisobotda namuna turi, tekshiruv usuli, topilgan shakl (kista yoki trofozoit), tur nomi va miqdori (masalan, ko'rish maydonida ko'p, kam) ko'rsatiladi»"
   },
@@ -103,10 +103,10 @@
    "q": "Tashxis sifati nimaga bog'liq?",
    "c": "reaktivlar muddati va mikroskop holatiga",
    "w": [
-    "kistalar soni va sink sulfat holatiga",
     "bitta namuna va kechikkan tekshiruvga",
     "antigen va PCR qimmatligiga",
-    "trofozoit harakati va fiziologik eritmaga"
+    "ko'rish maydonidagi miqdorga va tur nomiga",
+    "fiziologik eritma va formalin–efirga"
    ],
    "x": "«Tashxis sifati laboratoriyaning ichki nazoratiga bog'liq: reaktivlar muddati, mikroskop holati, surtmalarni tayyorlash tartibi va natijani ikkinchi mutaxassis tekshiruvi»"
   }
@@ -117,22 +117,22 @@
    "c": "yagona oxirgi xo'jayin — mushuksimonlar",
    "w": [
     "oraliq xo'jayin — qushlar va sutemizuvchilar",
-    "oxirgi xo'jayin — odam va issiqqonli hayvonlar",
-    "yagona oraliq xo'jayin — mushuksimonlar",
-    "barcha qushlar yagona oxirgi xo'jayin"
+    "yagona xo'jayin — odam va issiqqonli hayvonlar",
+    "oxirgi xo'jayin — barcha sutemizuvchilar",
+    "oxirgi xo'jayin — qushlar va odam"
    ],
    "x": "«gondii ning yagona oxirgi xo'jayini — mushuksimonlar, ular ichagida parazit hayot siklini yakunlaydi; barcha issiqqonli hayvonlar, shu jumladan sutemizuvchilar va qushlar, oraliq xo'jayin bo'lishi mumkin»"
   },
   {
-   "q": "Qaysi hayvonlar oraliq xo'jayin bo'lishi mumkin?",
-   "c": "barcha issiqqonli hayvonlar",
+   "q": "Yuqish yo'llarini bilish nimani belgilaydi?",
+   "c": "profilaktika choralarini",
    "w": [
-    "faqat mushuksimonlar va odam",
-    "mushuksimonlar va qushlar",
-    "sutemizuvchilar va OIV",
-    "qushlar va yagona xo'jayin"
+    "oxirgi xo'jayinni",
+    "muzlatish haroratini",
+    "laboratoriya xavfsizligini",
+    "ijtimoiy-iqtisodiy darajani"
    ],
-   "x": "«gondii ning yagona oxirgi xo'jayini — mushuksimonlar, ular ichagida parazit hayot siklini yakunlaydi; barcha issiqqonli hayvonlar, shu jumladan sutemizuvchilar va qushlar, oraliq xo'jayin bo'lishi mumkin»"
+   "x": "«Yuqish yo'llarini bilish profilaktika choralarini belgilaydi.»"
   },
   {
    "q": "Muzlatish orqali kistalarni faolsizlantirish uchun nima kerak?",
@@ -140,30 +140,30 @@
    "w": [
     "kamida uch kun +20 °C",
     "kamida uch kun −2 °C",
-    "uch kun 20 °C",
-    "kamida kun −20 °C"
+    "kamida 20 kun −3 °C",
+    "kamida uch kun +2 °C"
    ],
    "x": "«Sharhda tuxum bo'lmagan to'qima kistalarini yo'qotish uchun muzlatish ishlatilishi mumkin: kistalarni faolsizlantirish uchun kamida uch kun −20 °C kerak»"
   },
   {
-   "q": "Qaysi usullar faolsizlantiruvchi sifatida tilga olingan?",
+   "q": "Muzlatishdan tashqari kistalarni faolsizlantiruvchi qaysi usullar bor?",
    "c": "tuzlash va quritish",
    "w": [
-    "xom go'sht va suv",
-    "pichoq va taxta",
-    "sabzavot va idish",
-    "oosita va kista"
+    "pichoq va taxtani sovun bilan yuvish",
+    "sabzavotni sovun bilan yuvish",
+    "ko'zga tegmasdan oldin qo'l yuvish",
+    "mushuk najasidan saqlanish"
    ],
-   "x": "«Tuzlash va quritish ham faolsizlantiruvchi usullar sifatida tilga olingan»"
+   "x": "«Tuzlash va quritish ham faolsizlantiruvchi usullar»"
   },
   {
    "q": "Pichoq va taxtani sovun bilan yuvish nimani oldini oladi?",
    "c": "o'zaro ifloslanishni",
    "w": [
-    "latent kistalarni",
-    "homiladorlikni",
-    "oositalarni",
-    "muzlatishni"
+    "latent kistalarning hosil bo'lishini",
+    "onadan bolaga o'tishni",
+    "oositalarning sporulyatsiyasini",
+    "kistalarni muzlatishni"
    ],
    "x": "«Xom go'sht bilan ishlashda pichoq, taxta va qo'llarni sovun bilan yuvish o'zaro ifloslanishning oldini oladi»"
   },
@@ -194,9 +194,9 @@
    "c": "past daromadli mamlakatlarda",
    "w": [
     "rivojlangan Yevropa mamlakatlarida",
-    "homilador ayollar mamlakatlarida",
     "sanitariya yaxshi mamlakatlarda",
-    "qushlar mamlakatlarida"
+    "oziq-ovqat nazorati yaxshi mamlakatlarda",
+    "ijtimoiy-iqtisodiy darajasi yuqori mamlakatlarda"
    ],
    "x": "«Al-Malki sharhida toksoplazmoz past daromadli mamlakatlarda ko'p, rivojlangan Yevropa mamlakatlarida kam uchrashi, shuning uchun uni yo'qotish aholining ijtimoiy-iqtisodiy darajasi oshmaguncha qiyin bo'lishi yozilgan»"
   },
@@ -217,8 +217,8 @@
    "w": [
     "har biri bir xil yo'lni to'xtatadi",
     "faqat qo'lni yuvish yetarli",
-    "ular o'zaro ifloslantiradi",
-    "ular yuqish yo'llarini ko'paytiradi"
+    "ular laboratoriyada qo'llanadi",
+    "ular immuniteti zaif odamlarga kerak"
    ],
    "x": "«Ularning har biri turli yuqish yo'lini to'xtatadi, shuning uchun birgalikda qo'llanilganda samarali»"
   }

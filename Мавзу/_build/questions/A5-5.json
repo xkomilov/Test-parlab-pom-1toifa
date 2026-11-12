@@ -16,7 +16,7 @@
    "c": "Belgisizlar aniqlanmay qoladi",
    "w": [
     "Belgilari borlar aniqlanmay qoladi",
-    "Bo'g'im chiqarayotganlar qamrab olinmaydi",
+    "Tur bo'g'imdan aniqlanmaydi",
     "Xavf guruhlari qamrab olinadi",
     "Oila a'zolari tekshirilmaydi"
    ],
@@ -29,12 +29,12 @@
     "Shifokorga murojaat qilganlar",
     "Bo'g'im chiqarayotgan odamlar",
     "Davolangan bemorlar",
-    "Ommaviy axborot vositalari"
+    "Mahalla faollari va oilaviy shifokorlar"
    ],
    "x": "«Faol aniqlash uchun xavf ostidagi guruhlar tanlanadi: xom yoki yarim xom mol go'shti iste'mol qiluvchilar; teniarinxozli bemorning oila a'zolari va birga ovqatlanganlar; qassoblar, oshpazlar, go'sht bilan ishlovchilar; chorvadorlar; zararlangan go'sht manbasi aniqlangan joydagi aholi»"
   },
   {
-   "q": "Bu teskari yo'nalishdagi izlash nimani topishga imkon beradi?",
+   "q": "Zararlangan go'sht manbasidan kelib chiqib izlash nimani topishga imkon beradi?",
    "c": "Taeniaz tashuvchilarni",
    "w": [
     "Zararlangan qoramollarni",
@@ -70,10 +70,10 @@
    "q": "Zararlangan go'sht aniqlansa, nima qilinadi?",
    "c": "Go'shtni kim iste'mol qilgani aniqlanadi",
    "w": [
-    "Iste'molchilar xabardor qilinmaydi",
-    "Veterinar bilan hamkorlik to'xtatiladi",
-    "Ommaviy davolash o'tkaziladi",
-    "Najas tekshiruvi o'tkazilmaydi"
+    "Aholi punktida ommaviy davolash o'tkaziladi",
+    "Xo'jalikdagi hayvonlar yo'qotiladi",
+    "Faqat veterinar tekshiruvi bilan cheklanadi",
+    "Veterinar bilan hamkorlik to'xtatiladi"
    ],
    "x": "«Zararlangan qoramol go'shti aniqlansa (go'sht ekspertizasida sistitserk topilsa), shu go'shtni kim iste'mol qilgani aniqlanadi: xo'jalik, bozor, do'kon, restoran»"
   },
@@ -100,20 +100,20 @@
    "x": "«Aholini xabardor qilish orqali odamlar bo'g'imlar chiqsa, uyalmasdan murojaat qiladi»"
   },
   {
-   "q": "Nazorat tekshiruviga bemorlar qachon chaqiriladi?",
-   "c": "2, 4 va 6 oyda",
+   "q": "Ho'kiz tasmasimon chuvalchangi bilan zararlangan shaxslarni aniqlash qaysi yo'llar bilan amalga oshiriladi?",
+   "c": "Passiv, faol va go'sht manbasidan izlash",
    "w": [
-    "Uch martalik manfiy natijadan keyin",
-    "2 oyda bir marta",
-    "4 oyda bir marta",
-    "6 oyda bir marta"
+    "Passiv, faol va ommaviy davolash",
+    "Faol, laboratoriya va ommaviy axborot",
+    "Passiv, so'rovnoma va perianal qirindi",
+    "Laboratoriya, faol va epizootik tekshiruv"
    ],
-   "x": "«Davolangandan keyin bemorlar poliklinikaning yuqumli kasalliklar xonasida yoki hudud shifokori dispanser kuzatuvida bo'lib, 2, 4 va 6 oyda nazorat tekshiruviga chaqiriladi va uch martalik manfiy natijadan keyin hisobdan chiqariladi»"
+   "x": "«Aniqlash bir necha yo'l bilan amalga oshiriladi: bemorning o'zi shikoyat qilib kelishi (passiv), shu bilan birga xavf guruhlarini tekshirish (faol), go'sht manbasidan kelib chiqib izlash»"
   }
  ],
  "101": [
   {
-   "q": "Qaysi chora qo'llab-quvvatlovchi chora hisoblanadi?",
+   "q": "Taeniaz nazoratida qaysi chora qo'llab-quvvatlovchi chora hisoblanadi?",
    "c": "Sanitariyani yaxshilash",
    "w": [
     "Taeniazni davolash",
@@ -129,8 +129,8 @@
    "w": [
     "Ularni erkin boqib saqlash",
     "Ularni nazoratsiz so'yish",
-    "Ularni ochiq yaylovda saqlash",
-    "Ularni odam najasiga qo'yish"
+    "Ularni sistitserk uchun tekshirmaslik",
+    "Ularni najas bilan boqish"
    ],
    "x": "«Teniozda cho'chqalarni erkin boqmaslik, ularni yopiq joyda saqlash, odam najasidan himoya qilish zarur»"
   },
@@ -157,24 +157,24 @@
    "x": "«Go'sht faqat veterinar nazoratdan o'tgan holda iste'molga chiqarilishi kerak»"
   },
   {
-   "q": "Yaylovlarda va fermalarda ishlovchilar uchun nima bo'lishi shart?",
-   "c": "Hojatxonalar",
+   "q": "Yaylovlarda va fermalarda ishlovchilar uchun qaysi talab qo'yiladi?",
+   "c": "Hojatxonalar bo'lishi",
    "w": [
-    "Oqova suvni tozalash",
-    "Kanalizatsiya",
-    "Yaylov, o'tloq va sug'orish",
-    "Yaylov va o'tloq"
+    "Oqova suvni sug'orishda ishlatish",
+    "Najasni yaylovda ishlatish",
+    "Yaylovda ochiq hojat qilish",
+    "Fermalarga begona shaxslar kirishi"
    ],
    "x": "«Yaylovlarda va fermalarda ishlovchilar uchun hojatxonalar bo'lishi, najas va oqova suvni yaylov, o'tloq va sug'orishda ishlatmaslik talab etiladi»"
   },
   {
    "q": "Cho'chqalar zararlanishini nima oldini oladi?",
-   "c": "TSOL18 vaksinasi",
+   "c": "TSOL18 vaksinasi bilan emlash",
    "w": [
-    "Oksfendazol bilan davolash",
-    "Praziquantel dozasi",
-    "Niclosamid dozasi",
-    "Albendazol dozasi"
+    "Go'shtni yaxshilab pishirish",
+    "Go'sht ekspertizasi o'tkazish",
+    "Qo'l gigiyenasiga rioya qilish",
+    "Taeniazni davolash"
    ],
    "x": "«Jahon sog'liqni saqlash tashkiloti cho'chqalar orasida yaxshi chorvachilik amaliyoti, TSOL18 vaksinasi bilan emlash va oksfendazol bilan davolashni qayd etadi: vaksina cho'chqalar zararlanishini oldini oladi, oksfendazol esa zararlanganlarni davolaydi»"
   },
@@ -182,9 +182,9 @@
    "q": "Oksfendazol cho'chqalarga nima qiladi?",
    "c": "Zararlanganlarni davolaydi",
    "w": [
-    "Zararlanishni oldini oladi",
-    "Go'sht ekspertizasini o'tkazadi",
-    "Ochiq defekatsiyani to'xtatadi",
+    "Zararlanishning oldini oladi",
+    "Cho'chqalarni najasdan himoya qiladi",
+    "Sistitserklarni ekspertizada aniqlaydi",
     "Sanitariyani yaxshilaydi"
    ],
    "x": "«Jahon sog'liqni saqlash tashkiloti cho'chqalar orasida yaxshi chorvachilik amaliyoti, TSOL18 vaksinasi bilan emlash va oksfendazol bilan davolashni qayd etadi: vaksina cho'chqalar zararlanishini oldini oladi, oksfendazol esa zararlanganlarni davolaydi»"
@@ -225,13 +225,13 @@
  ],
  "102": [
   {
-   "q": "Odam uchun eng muhim ikki shakl qaysi?",
+   "q": "Exinokokkozning odam uchun eng muhim ikki shakli qaysi?",
    "c": "Kistoz va alveolyar",
    "w": [
     "Poliskistoz va unistitoz",
-    "Kistoz va poliskistoz",
-    "Alveolyar va unistitoz",
-    "Gidatid va neotropik"
+    "Neotropik va poliskistoz",
+    "Unistitoz va neotropik",
+    "Neotropik va oligartrus"
    ],
    "x": "«Odam uchun eng muhim ikki shakl — kistoz va alveolyar»"
   },
@@ -242,7 +242,7 @@
     "E. granulosus",
     "E. vogeli",
     "E. oligarthrus",
-    "Echinococcus turkumi"
+    "Taenia turkumi"
    ],
    "x": "«multilocularis (alveolyar)»"
   },
@@ -261,10 +261,10 @@
    "q": "Voyaga yetgan E. granulosus uzunligi qancha?",
    "c": "Taxminan 3–7 mm",
    "w": [
-    "Itning ichagi 3–7 mm",
-    "Bo'g'imi 3–4 mm",
-    "Skoleksi 5–10 mm",
-    "Tuxumi 5–15 mm"
+    "Taxminan 30–40 mm",
+    "Odatda 1–2 mm",
+    "Taxminan 15–20 mm",
+    "Juda kichik 3–4 mm"
    ],
    "x": "«granulosus juda kichik (taxminan 3–7 mm), itning (va boshqa it oilasi vakillarining) ingichka ichagida yashaydi»"
   },
@@ -275,7 +275,7 @@
     "3–7 bo'g'imdan",
     "5–10 bo'g'imdan",
     "5–15 bo'g'imdan",
-    "3–4 so'rg'ichdan"
+    "1–2 bo'g'imdan"
    ],
    "x": "«U skoleks (kanchalar va to'rt so'rg'ichli) va 3–4 bo'g'imdan iborat»"
   },
@@ -291,12 +291,12 @@
    "x": "«Tuxumlar kichik, dumaloq, qalin radial chiziqli qobiqli, ichida oltita kanchali lichinka (onkosfera) bor; ularni mikroskopda Taenia tuxumlaridan ajratib bo'lmaydi»"
   },
   {
-   "q": "It qanday zararlanadi?",
+   "q": "It E. granulosus bilan qanday zararlanadi?",
    "c": "Kistali jigar va o'pkani yeganda",
    "w": [
     "Ifloslangan o'tlarni yeganda",
     "Chuvalchang tuxumini yeganda",
-    "Kemiruvchilarni yeganda",
+    "Suv va tuproqni yeganda",
     "Tulki najasini yeganda"
    ],
    "x": "«It oraliq xo'jayinning ichki a'zolarini (kistali jigar, o'pka) yeganda protoskolekslarni yutadi va ichakda voyaga yetgan chuvalchangga aylantiradi»"
@@ -327,9 +327,9 @@
    "q": "Alveolyar exinokokkoz qanday inkubatsion davrga ega?",
    "c": "5–15 yillik belgisiz davrga",
    "w": [
-    "3–7 yillik belgisiz davrga",
+    "20–30 yillik belgisiz davrga",
     "3–4 yillik belgisiz davrga",
-    "5–10 yillik belgisiz davrga",
+    "1–2 yillik belgisiz davrga",
     "50 yillik belgisiz davrga"
    ],
    "x": "«Bu shakl jigarda o'sma kabi infiltrativ o'sadi, 5–15 yillik belgisiz inkubatsion davrga ega va davolanmasa o'limga olib keladi»"

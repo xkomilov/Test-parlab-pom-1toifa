@@ -15,10 +15,10 @@
    "q": "Qilbosh chuvalchang uchun og'ir intensivlik qaysi ko'rsatkichga to'g'ri keladi?",
    "c": "10 000 epg va undan yuqori",
    "w": [
-    "1–999 epg va undan yuqori",
-    "1000–9999 epg va undan yuqori",
-    "1–9999 epg va undan yuqori",
-    "999 epg va undan yuqori"
+    "1–999 epg",
+    "1000–9999 epg",
+    "5000 epg va undan yuqori",
+    "50 000 epg dan yuqori"
    ],
    "x": "«O'rta intensivlik 1000–9999 epg, og'ir intensivlik 10 000 epg va undan yuqori»"
   },
@@ -37,32 +37,32 @@
    "q": "O'rta va og'ir zararlanishda qorin og'rig'i ko'pincha qayerda bo'ladi?",
    "c": "O'ng yonbosh sohada va kindik atrofida",
    "w": [
-    "To'g'ri ichak va kindik atrofida",
-    "O'ng yonbosh sohada va anal teshikda",
-    "Anal teshik va kindik atrofida",
-    "Qorin shishishi va kindik atrofida"
+    "To'g'ri ichak va anal teshik atrofida",
+    "Ko'r ichak va yo'g'on ichak atrofida",
+    "Yo'g'on ichak va to'g'ri ichak atrofida",
+    "Ko'r ichak va anal teshik atrofida"
    ],
    "x": "«O'rta va og'ir zararlanishda ichak belgilari paydo bo'ladi: qorin og'rig'i (ko'pincha o'ng yonbosh sohada va kindik atrofida), ko'ngil aynishi, ishtaha pasayishi, surunkali diareya, najasda shilimshiq va qon, tenezm (defekatsiyaga bo'lgan og'riqli chaqiriq), qorin shishishi»"
   },
   {
-   "q": "Trixuroz dizenteriya sindromiga qaysi belgilar xos?",
-   "c": "Surunkali qonli ich ketishi va tenezm",
+   "q": "O'rta va og'ir zararlanishda trixosefalyoz qanday kechadi?",
+   "c": "Dizenteriyaga o'xshash kechadi",
    "w": [
-    "Bosh og'rig'i va serjahllik",
-    "Uyqu buzilishi va serjahllik",
-    "Ishtaha pasayishi va ko'ngil aynishi",
-    "Allergik reaksiyalar va eozinofiliya"
+    "Ankilostomidozga o'xshash kechadi",
+    "Lyambliyozga o'xshash kechadi",
+    "Appenditsitga o'xshash kechadi",
+    "Belgisiz yengil kechadi"
    ],
-   "x": "«Bunga surunkali tenezm va ich ketishi sabab bo'ladi»"
+   "x": "«Bunday zararlanishda trixosefalyoz dizenteriyaga o'xshash kechadi»"
   },
   {
    "q": "Endoskopiyada og'ir trixosefalyozda nima ko'rinadi?",
    "c": "Yopishgan ko'plab chuvalchanglar",
    "w": [
     "Ichak poliplari va yarali kolit",
-    "Amyobli dizenteriya trofozoitlari",
-    "Kron kasalligi va lyambliyoz",
-    "Sharko–Leyden kristallari"
+    "Kron kasalligi o'zgarishlari",
+    "To'g'ri ichak shilliq qavati prolapsi",
+    "Shilliq qavatdagi amyoba trofozoitlari"
    ],
    "x": "«Ichak shilliq qavati yallig'lanib, qon ketadi; endoskopiyada to'g'ri va yo'g'on ichak shilliq qavatiga yopishgan ko'plab chuvalchanglarni ko'rish mumkin»"
   },
@@ -82,31 +82,31 @@
    "c": "Temir tanqisligi kamqonligi",
    "w": [
     "Oqsil tanqisligi kamqonligi",
-    "Qon tanqisligi kamqonligi",
     "Surunkali yallig'lanish kamqonligi",
-    "Oziqlanish kamqonligi"
+    "Oziqlanish buzilishi kamqonligi",
+    "Allergik reaksiya kamqonligi"
    ],
    "x": "«Surunkali qon yo'qotish temir tanqisligi kamqonligiga olib keladi»"
   },
   {
-   "q": "Trixosefalyozda qon yo'qotish qaysi kasallikka qaraganda kamroq?",
-   "c": "Ankilostomidozga qaraganda",
+   "q": "Qonli ich ketishi bor bolalarda trixosefalyozni ham tekshirish nega zarur?",
+   "c": "Noto'g'ri tashxis uzoq davom etuvchi kamqonlikka olib keladi",
    "w": [
-    "Lyambliyozga qaraganda",
-    "Yarali kolitga qaraganda",
-    "Amyobli dizenteriyaga qaraganda",
-    "Kron kasalligiga qaraganda"
+    "Yengil zararlanishda doim belgilar kuchli bo'ladi",
+    "Bakterial infeksiya trixosefalyozdan keyin rivojlanadi",
+    "Najasda tuxum topilmasa, davolash zarur bo'lmaydi",
+    "Amyobli dizenteriya trixosefalyozni to'liq yo'qotadi"
    ],
-   "x": "«Trixosefalyozda qon yo'qotish ankilostomidozga qaraganda kamroq, lekin og'ir zararlanishda sezilarli bo'ladi»"
+   "x": "«Qonli ich ketishi bor bolalarda faqat bakterial infeksiyani emas, trixosefalyozni ham tekshirish kerak, chunki noto'g'ri tashxis uzoq davom etuvchi kamqonlik va o'sishdan orqada qolishga olib keladi»"
   },
   {
    "q": "Davolashdan keyin tiklanishni nima tezlashtiradi?",
    "c": "Temir preparatlari va oqsilga boy parhez",
    "w": [
-    "Qayta najas tekshiruvi va kuzatuv",
     "Antibiotiklar va bakteriologik tekshiruv",
     "Sabzavotlarni yuvish va qo'lni yuvish",
-    "Oziqlanishni yaxshilash va degelmintizatsiya"
+    "Endoskopiya va qayta mikroskopiya",
+    "Qayta zararlanish va kamqonlik"
    ],
    "x": "«Temir preparatlari va oqsilga boy parhez tiklanishni tezlashtiradi»"
   }
@@ -135,24 +135,24 @@
    "x": "«Trixosefalyozning o'ziga xosligi shundaki, qilbosh chuvalchanglar kam tuxum qo'yadi va ular kichik, shu sababli tuxumlarni topish uchun sinchkov mikroskopiya va, ayniqsa intensivlikni baholashda, miqdoriy usullar kerak»"
   },
   {
-   "q": "Qilbosh chuvalchang tuxumi flotatsiyada qanday ko'tariladi?",
-   "c": "Yaxshi ko'tariladi",
+   "q": "Qilbosh chuvalchang tuxumi qaysi boyitish usulida yuzaga yaxshi ko'tariladi?",
+   "c": "Flotatsiya usulida",
    "w": [
-    "Yomon ko'tariladi",
-    "Yuzaga ko'tarilmaydi",
-    "Cho'ktirishda ko'tariladi",
-    "Fiziologik eritmada ko'tariladi"
+    "Cho'ktirish usulida",
+    "To'g'ridan-to'g'ri surtmada",
+    "Kato–Katz usulida",
+    "Endoskopiya usulida"
    ],
    "x": "«Qilbosh chuvalchang tuxumi flotatsiyada yaxshi ko'tariladi»"
   },
   {
-   "q": "Yengil zararlanishda sezgirlik past bo'lsa nima foydali?",
+   "q": "Yengil zararlanishda sezgirlik past bo'lsa, tashxis uchun nima foydali?",
    "c": "Bir necha kun ketma-ket namuna olish",
    "w": [
-    "Bitta manfiy natija bilan to'xtash",
-    "Faqat sifat tahlili qilish",
-    "Tuxumni boshqa tuzilma bilan adashtirish",
-    "Aralash infeksiyani o'tkazib yuborish"
+    "Bitta namunani bir marta tekshirish",
+    "Faqat endoskopiya o'tkazish",
+    "Dasturlarda skriningni to'xtatish",
+    "Davolashdan keyin namuna olmaslik"
    ],
    "x": "«Yengil zararlanishda bir necha kun ketma-ket namuna olish foydali»"
   },
@@ -161,9 +161,9 @@
    "c": "Yangi tekshirilishi kerak",
    "w": [
     "Quruq holda tekshirilishi kerak",
-    "Yod eritmasi bilan tekshirilishi kerak",
     "Bir necha kundan keyin tekshirilishi kerak",
-    "Davolashdan keyin tekshirilishi kerak"
+    "Davolashdan keyin tekshirilishi kerak",
+    "Formalin–efir bilan cho'ktirilgach tekshirilishi kerak"
    ],
    "x": "«Suyuq najas yangi tekshirilishi kerak»"
   },
@@ -215,10 +215,10 @@
    "q": "Najas bir martalik tekshiruvining kamchiligi nimada?",
    "c": "Sezgirligi past bo'lishi mumkin",
    "w": [
-    "Sezgirligi yuqori bo'lishi mumkin",
     "Tuxumlar flotatsiyada ko'tarilmaydi",
-    "Faqat yengil toifani ko'rsatadi",
-    "Boshqa gelmint tuxumlarini ko'rsatmaydi"
+    "Boshqa gelmint tuxumlarini ko'rsatmaydi",
+    "Og'ir holatlarda endoskopiya talab qiladi",
+    "Fiziologik eritmada tuxumlar ko'rinmaydi"
    ],
    "x": "«Najas bir martalik tekshiruvi Jahon sog'liqni saqlash tashkiloti tavsiya qilgan usul bo'lib, ommaviy davolash dasturlarini kuzatishda keng qo'llanadi, lekin uning sezgirligi past bo'lishi mumkin»"
   }
@@ -230,8 +230,8 @@
    "w": [
     "Kontakt",
     "Odamdan odamga bevosita",
-    "Hasharotlar orqali",
-    "Sovun bilan yuvish orqali"
+    "Yangi najas orqali",
+    "Davriy davolash orqali"
    ],
    "x": "«Askaridoz va trixosefalyozning yuqish mexanizmi fekal–oral: zararlangan odam najasi bilan tuxum chiqaradi, tuxumlar tuproqda yetiladi, so'ng yetilgan tuxumlar og'iz orqali yutiladi»"
   },
@@ -239,10 +239,10 @@
    "q": "Geogelmintozlarda tuproq qanday muhit hisoblanadi?",
    "c": "Majburiy oraliq muhit",
    "w": [
-    "Majburiy oraliq xo'jayin",
     "Asosiy xo'jayin muhiti",
     "Qo'shimcha oraliq muhit",
-    "Kontakt oraliq muhit"
+    "Kontakt oraliq muhit",
+    "Tashqi xo'jayin muhiti"
    ],
    "x": "«Demak, tuproq majburiy oraliq muhit»"
   },
@@ -251,9 +251,9 @@
    "c": "Tuxumlar tuproqda yetilishi kerak",
    "w": [
     "Lichinkalar ichakda yetilishi kerak",
-    "Chuvalchang suvda yetilishi kerak",
-    "Najas tuproqda yetilishi kerak",
-    "Tuxumlar suvda yetilishi kerak"
+    "Suvda tuxumlar 3 hafta yetilishi kerak",
+    "Sabzavotda tuxumlar yetilishi kerak",
+    "Chuvalchang odam ichida yetilishi kerak"
    ],
    "x": "«Jahon sog'liqni saqlash tashkiloti tuxumlar yetilishi uchun tuproqda taxminan 3 hafta kerakligini, shu sababli yangi najasdan yoki odamdan odamga bevosita yuqish bo'lmasligini aytadi»"
   },
@@ -264,7 +264,7 @@
     "Qilbosh chuvalchang tuxumlari",
     "Enterobioz tuxumlari",
     "Sabzavotga yopishgan tuxumlar",
-    "Kontakt gelmintoz tuxumlari"
+    "Yangi najasdagi tuxumlar"
    ],
    "x": "«Trixosefalyoz tuxumlari ayniqsa nam va soyali joylarda yaxshi saqlanadi, askarida tuxumlari esa quruqlikka va past haroratga chidamliroq»"
   },
@@ -274,8 +274,8 @@
    "w": [
     "Odamdagi voyaga yetgan chuvalchanglar",
     "Zararlangan odam bilan bevosita aloqa",
-    "Yangi najas bilan bevosita aloqa",
-    "Yangi najasdagi tuxumlar"
+    "Chuvalchanglarning odamda ko'payishi",
+    "Zararlangan odam najasi"
    ],
    "x": "«Askarida va qilbosh chuvalchang odamda ko'paymaydi; qayta zararlanish faqat tashqi muhitdagi infeksion bosqichlar bilan aloqadan keyin yuz beradi»"
   },
@@ -284,7 +284,7 @@
    "c": "Tozalanmagan oqova suv bilan sug'orish",
    "w": [
     "Toza ichimlik suvi bilan sug'orish",
-    "Najasni kompostlash orqali o'g'itlash",
+    "Hojatxona va kanalizatsiya qurish",
     "Sabzavotlarni yuvish va tozalash",
     "Najasni xavfsiz yo'qotish va hojatxonalar"
    ],
@@ -306,9 +306,9 @@
    "c": "Uzoq vaqt, ba'zan yillab",
    "w": [
     "Taxminan 3 hafta davomida",
-    "Bahor-kuz oylarida",
     "Bir necha kun davomida",
-    "Bir necha soat davomida"
+    "Bir necha soat davomida",
+    "Faqat sovuq oylarda"
    ],
    "x": "«Tashqi muhitda tuxumlar uzoq vaqt, ba'zan yillab saqlanadi»"
   },
@@ -317,7 +317,7 @@
    "c": "Hojatxona va oqova tizimi yo'qligi",
    "w": [
     "Toza ichimlik suvi yetarliligi",
-    "Najasni kompostlash va yuvish",
+    "Hojatxonalarning yetarli bo'lishi",
     "Qo'lni sovun bilan yuvish",
     "Poyabzal kiyish va qo'lqop"
    ],
@@ -327,10 +327,10 @@
    "q": "Bolalar nega ko'proq zararlanadi?",
    "c": "Tuproq bilan o'ynab, qo'lini og'ziga tiqadi",
    "w": [
-    "Tuproqli buyumlarni mexanik ko'chiradi",
+    "Sabzavotlarni xom iste'mol qiladi",
     "Dehqonchilik bilan ko'p shug'ullanadi",
-    "Hasharotlar tuxumlarni og'ziga ko'chiradi",
-    "Sabzavotlarni yuvmasdan pishiradi"
+    "Chang va pashshalar tuxumlarni ko'chiradi",
+    "Qo'shimcha yo'llar bilan ko'proq zararlanadi"
    ],
    "x": "«Bolalar tuproq bilan o'ynaydi, qo'lini og'ziga tiqadi, gigiyena ko'nikmalari shakllanmagan»"
   }
@@ -348,7 +348,7 @@
    "x": "«Birinchisi — yuqish manbai va omillarini aniqlash: bemor qayerda, nima orqali zararlangan»"
   },
   {
-   "q": "Holat qanday tasdiq bilan qayd etiladi?",
+   "q": "Epidemiologik tekshiruvda geogelmintoz holati qanday tasdiq bilan qayd etiladi?",
    "c": "Najas mikroskopiyasida tuxumlar topilishi",
    "w": [
     "Epidemiologik anamnezda xavf aniqlanishi",
@@ -392,13 +392,13 @@
    "x": "«Hududdagi umumiy vaziyatni baholash uchun tanlab olingan aholi guruhlarida (odatda maktab o'quvchilari) najas tekshiruvi o'tkaziladi»"
   },
   {
-   "q": "Epidemiologik baholash qaysi davolash qamrovida o'tkaziladi?",
+   "q": "Epidemiologik baholash davolash qamrovi qanday bo'lganda o'tkaziladi?",
    "c": "Kamida 75 foiz",
    "w": [
-    "75 foizdan past",
-    "20 foizdan yuqori",
-    "5–6 foizdan yuqori",
-    "20 foizdan past"
+    "50 foizdan past",
+    "20 foizdan past",
+    "30 foizdan past",
+    "5–6 foizdan yuqori"
    ],
    "x": "«Jahon sog'liqni saqlash tashkiloti epidemiologik baholashni profilaktik kimyoterapiya boshlangandan 5–6 yil o'tgach, davolash qamrovi kamida 75 foiz bo'lganda o'tkazishni va ko'rsatkich sifatida har qanday tuproq gelmintozi tarqalganligini hamda o'rta va og'ir intensivlik tarqalganligini ishlatishni tavsiya etadi»"
   },
@@ -436,12 +436,12 @@
    "x": "«Jahon sog'liqni saqlash tashkiloti endemik hududlarda xavf ostidagi guruhlarni davriy, individual tashxissiz davolashni tavsiya etadi»"
   },
   {
-   "q": "Zararlanish qaysi omillarga bog'liq?",
+   "q": "Epidemiologik ma'lumotlar tahlilida zararlanishning qaysi omillari aniqlanadi?",
    "c": "Sanitariya yo'qligi va suv sifati",
    "w": [
-    "Hududlar xaritasi va tarqalganlik",
-    "Namunalar soni va intensivlik",
-    "Bayonnoma va yuqori idora",
+    "Namunalar soni va tarqalganlik",
+    "Davolash qamrovi va baholash muddati",
+    "Maktab o'quvchilari va skrining",
     "Tashqi muhit ishlovi va xarita"
    ],
    "x": "«Yig'ilgan ma'lumotlar tahlil qilinadi: qaysi hududlarda, qaysi yosh va kasb guruhlarida zararlanish yuqori; qaysi omillar (sanitariya yo'qligi, suv sifati, najas bilan o'g'itlash, qo'l yuvmaslik) bog'liq»"

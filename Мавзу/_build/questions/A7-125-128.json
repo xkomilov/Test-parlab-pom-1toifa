@@ -15,7 +15,7 @@
    "q": "Toksokarozda eng ko'p qo'llanadigan tasdiqlash usuli qaysi?",
    "c": "IgG antitelolarni aniqlovchi EIA (ELISA)",
    "w": [
-    "Western blot yordamida biopsiya",
+    "najas mikroskopiyasi orqali tuxum topish",
     "ko'z suyuqligida eozinofillarni topish",
     "o'pka rentgenida infiltratlarni topish",
     "jigar biopsiyasida granulemani topish"
@@ -70,34 +70,34 @@
    "q": "Visseral toksokarozda ultratovush yoki KT nimani ko'rsatishi mumkin?",
    "c": "jigarda gipoexogen (gipodens) o'choqlarni",
    "w": [
-    "o'pka rentgenida infiltratlar topiladi",
-    "ko'z suyuqligida antitelolar va eozinofillar",
-    "to'r pardada granulema, endoftalmit",
-    "vitreoretinal tortishuv va endoftalmit"
+    "miyada o'choqlarni va eozinofiliyani",
+    "ko'z suyuqligida antitelolar va eozinofillarni",
+    "to'r pardada granulema va endoftalmitni",
+    "vitreoretinal tortishuv va endoftalmitni"
    ],
    "x": "«Visseral toksokarozda ultratovush yoki KT jigarda gipoexogen (gipodens) o'choqlarni ko'rsatishi mumkin; o'pka rentgenida infiltratlar topiladi»"
   },
   {
-   "q": "Quyidagilardan qaysi biri tashxis xatosi emas?",
-   "c": "anamnezni sinchiklab yig'ish tashxisning birinchi bosqichi",
+   "q": "Toksokarozni tashxislashda qaysi xato hisoblanadi?",
+   "c": "seropozitivlikni avtomatik kasallik deb talqin qilish",
    "w": [
-    "seropozitivlikni avtomatik kasallik deb talqin qilish",
-    "serologiya manfiy bo'lganda ko'z shaklini istisno qilish",
-    "najas tahlilini toksokarozda foydali deb hisoblash",
-    "eozinofiliyada boshqa gelmintozlarni tekshirmaslik"
+    "anamnezni sinchiklab yig'ish",
+    "eozinofiliyada boshqa gelmintozlarni tekshirish",
+    "mezonlar kombinatsiyasini baholash",
+    "serologik namunani to'g'ri olish va saqlash"
    ],
-   "x": "«Anamnezni sinchiklab yig'ish tashxisning birinchi bosqichi»"
+   "x": "«seropozitivlikni avtomatik kasallik deb talqin qilish»"
   },
   {
-   "q": "Amaliy mezonlarning to'rtinchisi qaysi?",
-   "c": "ijobiy serologiya",
+   "q": "Serologiya manfiy bo'lsa, ko'z toksokarozini istisno qilish mumkinmi?",
+   "c": "yo'q, ko'z shaklida titr past bo'lishi mumkin",
    "w": [
-    "mos epidemiologik anamnez",
-    "mos klinik belgilar",
-    "eozinofiliya (ko'z shaklidan tashqari)",
-    "boshqa sabablarning istisno qilinishi"
+    "ha, chunki ko'z shaklida titr doim yuqori bo'ladi",
+    "ha, chunki antitelolar faol infeksiyani ajratadi",
+    "yo'q, chunki najas tahlilida tuxum topiladi",
+    "kerak emas, Western blot har doim ijobiy"
    ],
-   "x": "«(4) ijobiy serologiya»"
+   "x": "«ko'z shaklida titr past bo'lishi mumkin»"
   },
   {
    "q": "Laborantning toksokarozdagi vazifasi nima?",
@@ -149,10 +149,10 @@
    "q": "Toksokaroz odamdan odamga yuqadimi?",
    "c": "yuqmaydi: lichinkalar odamda voyaga yetmaydi",
    "w": [
-    "tuxum chiqaradi va bemorni ajratish shart",
+    "bemor tuxum chiqaradi, ajratish shart",
     "yuqadi: lichinkalar odamda voyaga yetadi",
-    "bolalar xavf ostida va yuqadi",
-    "najas bilan tashqi muhitga yuqadi"
+    "bolalar o'rtasida tuproq orqali yuqadi",
+    "kasal bola tuxumni najas bilan chiqaradi"
    ],
    "x": "«Toksokaroz odamdan odamga yuqmaydi: lichinkalar odamda voyaga yetmaydi va tuxum chiqarmaydi»"
   },
@@ -204,7 +204,7 @@
    "q": "Odamlar ko'pincha qanday tuxumlarni yutib zararlanadi?",
    "c": "tuproqda yoki xom sabzavotda embrionlangan tuxum",
    "w": [
-    "tuproqda yoki ko'katlarda embrionlashmagan tuxum",
+    "hayvon najasidagi embrionlashmagan tuxum",
     "hayvon junida lichinkalar va chuvalchanglar",
     "go'sht va ichki a'zolarda lichinkalar",
     "suv va oziq-ovqatda chuvalchang lichinkalari"
@@ -215,10 +215,10 @@
    "q": "Nega hayvonni silagandan keyin qo'l yuvish tavsiya etiladi?",
    "c": "junida tuxumlar bo'lishi mumkin",
    "w": [
-    "najasida lichinkalar bo'lishi mumkin",
-    "tuproqda lichinkalar bo'lishi mumkin",
-    "suvda tuxumlar bo'lishi mumkin",
-    "ichki a'zolarda tuxumlar bo'lishi mumkin"
+    "tuproqda ifloslangan tuxumlar bo'ladi",
+    "ichki a'zolarida paratenik lichinkalar bo'ladi",
+    "ifloslangan sabzavot tuxumlarni yuqtiradi",
+    "suv manbalari najas bilan ifloslanadi"
    ],
    "x": "«It yoki mushuk junida ifloslangan tuproq yoki najas orqali tuxumlar bo'lishi mumkin; hayvonni silagandan so'ng qo'lni yuvmasdan ovqatlanish zararlanishga olib kelishi mumkin»"
   }
@@ -269,24 +269,24 @@
    "x": "«Bolalarda tirnoq tishlash, barmoq so'rish va geofagiyaning oldini olish, geofagiya bo'lsa, sababini (temir tanqisligi, ruhiy omillar) aniqlash»"
   },
   {
-   "q": "Albendazol haqida nima aytilgan?",
-   "c": "qisqa kurslari tufayli tanlov preparati",
+   "q": "Albendazol toksokarozda nima uchun tanlov preparati bo'lib qolgan?",
+   "c": "jiddiy yon ta'sirlarsiz qisqa kurslari tufayli",
    "w": [
-    "samaradorligi to'liq baholangan preparat",
-    "nevrologik shaklda o'rni aniqlangan preparat",
-    "ko'z shaklida yagona tanlov preparati",
-    "yon ta'sirlari jiddiy preparat"
+    "nevrologik shakldagi o'rni aniqlangani tufayli",
+    "samaradorligi to'liq baholangani tufayli",
+    "ko'z shaklida yagona preparat bo'lgani tufayli",
+    "tuproq sanitariyasiga ta'sir qilgani tufayli"
    ],
-   "x": "«Magnaval sharhida albendazol keng qo'llanilishi va jiddiy yon ta'sirlarsiz qisqa kurslari tufayli tanlov preparati bo'lib qolgani, ammo uning samaradorligi aniqroq baholanishi kerakligi, anthelmintiklarning nevrologik va ko'z toksokarozidagi o'rni hali aniqlanmagani yozilgan»"
+   "x": "«albendazol keng qo'llanilishi va jiddiy yon ta'sirlarsiz qisqa kurslari tufayli tanlov preparati bo'lib qolgani»"
   },
   {
    "q": "Bemorlarni davolash profilaktikada nega kamroq ahamiyatli?",
    "c": "kasallik odamdan odamga yuqmaydi",
    "w": [
-    "kasallik bolalarda ko'proq uchraydi",
-    "kasallik asoratlari oldini oladi",
-    "kasallik albendazol bilan davolanadi",
-    "kasallik ko'z shaklida og'ir kechadi"
+    "bolalar toksokarozga ko'proq moyil",
+    "davolash asoratlar oldini oladi",
+    "albendazol qisqa kurslarda beriladi",
+    "ko'z shaklida oftalmolog ishtirok etadi"
    ],
    "x": "«Toksokaroz odamdan odamga yuqmagani uchun bemorlarni davolash profilaktikada kamroq ahamiyatli, ammo kasallik asoratlarining oldini oladi»"
   },
@@ -295,9 +295,9 @@
    "c": "veterinariya, tibbiyot va atrof-muhit",
    "w": [
     "veterinariya, laboratoriya va davolash",
-    "tibbiyot, tuproq va veterinariya",
+    "laboratoriya, oziq-ovqat va sanitariya",
     "atrof-muhit, oziq-ovqat va gigiyena",
-    "tibbiyot, albendazol va tuproq"
+    "bolalar, hayvonlar va maydonchalar"
    ],
    "x": "«Tibbiyot va veterinariya hamkorligi»"
   },
@@ -306,7 +306,7 @@
    "c": "qo'l yuvish va sabzavot gigiyenasini tushuntirish",
    "w": [
     "itlar va mushuklarni gijjaga qarshi davolash",
-    "bemorlarni oftalmolog bilan davolash",
+    "albendazol kursini tanlash va belgilash",
     "najasni darhol yig'ib yo'q qilish",
     "to'siq qurish va qumni almashtirish"
    ],
@@ -324,15 +324,15 @@
    "x": "«Laboratoriyaning o'zida ham umumiy xavfsizlik qoidalariga rioya qilish, ya'ni qo'lqop kiyish, ish joyini dezinfeksiya qilish va namunalarni ehtiyotkorlik bilan tashish zarur»"
   },
   {
-   "q": "Magnaval sharhi profilaktik choralar qayerda qo'llanishi kerakligini ko'rsatadi?",
-   "c": "odamlarda va uy hayvonlarida",
+   "q": "Kuchuk va mushukchalarni gijjaga qarshi davolash qachondan boshlanadi?",
+   "c": "2–3 haftalikdan boshlab",
    "w": [
-    "bemorlarda va oftalmologlarda",
-    "bolalar maydonchalarida va qum qutilarida",
-    "veterinariya va tibbiyot xo'jaliklarida",
-    "uy hayvonlarida va tuproqda"
+    "bir haftalikdan boshlab",
+    "bir yoshdan boshlab",
+    "tug'ilishdan oldin boshlab",
+    "katta yoshdan boshlab"
    ],
-   "x": "«Magnaval sharhi profilaktik choralar odamlarda ham, uy hayvonlarida ham qo'llanishi kerakligini ko'rsatadi»"
+   "x": "«ularni erta yoshdan boshlab (2–3 haftalikdan) davriy davolash tavsiya etiladi»"
   }
  ],
  "128": [
@@ -340,10 +340,10 @@
    "q": "E. histolytica bilan morfologik farq qilmaydigan uchta tur qaysilar?",
    "c": "E. moshkovskii, E. dispar va E. bangladeshi",
    "w": [
-    "histolytica, dispar va bangladeshi",
-    "moshkovskii, histolytica va dispar",
-    "dizenteriya amyobasi, dispar va bangladeshi",
-    "kriptosporidiy, xilomastiks va blastotsistis"
+    "Giardia duodenalis, xilomastiks va blastotsistis",
+    "lyamblya, kriptosporidiy va E. histolytica",
+    "kriptosporidiy, xilomastiks va blastotsistis",
+    "dizenteriya amyobasi, lyamblya va xilomastiks"
    ],
    "x": "«E. histolytica bilan morfologik jihatdan farq qilmaydigan uchta tur mavjud: E. moshkovskii, E. dispar va E. bangladeshi»"
   },
@@ -353,32 +353,32 @@
    "w": [
     "kriptosporidiy va xilomastiks",
     "blastotsistis va E. moshkovskii",
-    "E. dispar va lyamblya",
-    "xilomastiks va dizenteriya amyobasi"
+    "E. dispar va E. moshkovskii",
+    "kriptosporidiy va blastotsistis"
    ],
    "x": "«Manbalarda tasdiqlangan ikki asosiy patogen — lyamblya va dizenteriya amyobasi»"
   },
   {
-   "q": "Lyamblioz yiliga qancha holat bilan aniqlanadi?",
-   "c": "200 milliondan ortiq holat",
+   "q": "Lyamblioz tashxisida qaysi yondashuv iqtisodiy va yuqori sezgir hisoblanadi?",
+   "c": "mikroskopiya va konsentratsiya usulini birga ishlatish",
    "w": [
-    "8 milliondan ortiq holat",
-    "30 milliondan ortiq holat",
-    "17,7 milliondan ortiq holat",
-    "1,5 milliondan ortiq holat"
+    "faqat to'g'ridan-to'g'ri surtma ishlatish",
+    "immunologik va molekulyar usullarni asosiy qilish",
+    "fiksatsiya va bo'yash usulini birga ishlatish",
+    "to'g'ridan-to'g'ri surtma va fiksatsiyani birga ishlatish"
    ],
-   "x": "«Hooshyar va hamkasblarining sharhida lyamblioz butun dunyoda uchrashi, bolalarda ham, kattalarda ham diareyaning keng tarqalgan sababi ekani, yiliga 200 milliondan ortiq holat aniqlanishi, rivojlanayotgan mamlakatlarda tarqalish yuqoriroq ekani yozilgan»"
+   "x": "«mikroskopiya va konsentratsiya usulini birga ishlatish iqtisodiy va yuqori sezgir yondashuv sifatida tavsiya etilgani»"
   },
   {
-   "q": "Belgisiz bolalarda lyambliya infeksiyasi rivojlanayotgan mamlakatlarda necha foiz?",
-   "c": "8 dan 30 foizgacha",
+   "q": "Amyobiazning oldini olish asosan nimaga qaratilgan?",
+   "c": "sanitariya va toza suv bilan ta'minlashga",
    "w": [
-    "1 dan 8 foizgacha",
-    "5 dan 30 foizgacha",
-    "8 dan 17 foizgacha",
-    "1 dan 30 foizgacha"
+    "samarali vaksina bilan emlashga",
+    "mikroskopik usul sezgirligini oshirishga",
+    "najas konsentratsiyasi usulini qo'llashga",
+    "aholi zichligi va gigiyenaga"
    ],
-   "x": "«Belgisiz bolalarda infeksiya ulushi rivojlanayotgan mamlakatlarda 8 dan 30 foizgacha, sanoati rivojlangan hududlarda 1 dan 8 foizgacha xabar qilingan»"
+   "x": "«amyobiazning oldini olish asosan sanitariya va toza suv bilan ta'minlashga qaratilgani»"
   },
   {
    "q": "Qaysi amyobalar patogen emas deb hisoblanadi?",
@@ -397,7 +397,7 @@
    "w": [
     "kistalar mikroskop ostida ko'rinmaydi",
     "kistalar faqat trofozoit shaklida bo'ladi",
-    "amyobalar faqat gelmintlarda uchraydi",
+    "mikroskop sezgirligi malakaga bog'liq emas",
     "amyoba kistalari patogen emas"
    ],
    "x": "«histolytica bilan morfologik jihatdan farq qilmaydigan uchta tur mavjud: E»"
@@ -425,13 +425,13 @@
    "x": "«Ichak protozoylari tarqalishi sanitariya holati, ichimlik suvi sifati, aholi zichligi va shaxsiy gigiyena darajasiga bog'liq»"
   },
   {
-   "q": "Protozoylar gelmintlardan nimasi bilan farq qiladi?",
+   "q": "Protozoylar gelmintlardan qanday farq qiladi?",
    "c": "bir hujayrali, mikroskopik va odam tanasida ko'payadi",
    "w": [
     "ko'p hujayrali va odam tanasida ko'paymaydi",
     "tuxum chiqaradi va ko'p hujayrali bo'ladi",
-    "bir hujayrali va odam tanasida ko'paymaydi",
-    "ko'p hujayrali, mikroskopik va odam tanasida ko'payadi"
+    "tuxum konsentratsiyasi usuli bilan topiladi",
+    "kuchli infeksiya uchun ko'p kista kerak"
    ],
    "x": "«Ichak protozoylari gelmintlardan tuzilishi bilan keskin farq qiladi: ular bir hujayrali, mikroskopik va odam tanasida ko'payadi, shuning uchun bir nechta kista kuchli infeksiyaga olib kelishi mumkin»"
   },
@@ -441,7 +441,7 @@
    "w": [
     "tuxum konsentratsiyasi usullari",
     "immunologik va molekulyar usullar",
-    "konsentratsiya usulidagi mikroskopiya",
+    "tekshirilgan namunalar soni va hudud",
     "sanitariya va toza suv"
    ],
    "x": "«Bu farq laborant tekshiruv usulini tanlashiga ta'sir qiladi: protozoylar uchun fiksatsiya va bo'yash, gelmintlar uchun tuxum konsentratsiyasi usullari ko'proq ahamiyatli»"

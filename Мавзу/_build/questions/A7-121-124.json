@@ -1,15 +1,15 @@
 {
  "121": [
   {
-   "q": "Opistorxoz tashxisi nimalarga asoslanadi?",
-   "c": "anamnez, klinik shubha va najasda tuxum topish",
+   "q": "Opistorxoz tashxisida epidemiologik anamnezda nima aniqlanadi?",
+   "c": "xom yoki yaxshi pishmagan chuchuk suv baliq iste'moli",
    "w": [
-    "ultratovush, KT va MRT dagi o'zgarishlar",
+    "najasda tuxum topilishi va ikkita surtma",
     "eozinofiliya va jigar fermentlari oshishi",
-    "serologiya va PZR natijalari",
-    "baliq turlari va tutilgan joy"
+    "ultratovush, KT yoki MRT dagi o'zgarishlar",
+    "o't porsiyalarida chuvalchang topilishi"
    ],
-   "x": "«Opistorxoz tashxisi anamnez, klinik shubha, eozinofiliya va ko'rinishdan so'ng najasda (yoki o'tda) tuxumni topishga asoslanadi; serologiya va PZR qo'shimcha»"
+   "x": "«epidemiologik anamnez (xom yoki yaxshi pishmagan chuchuk suv baliq iste'moli)»"
   },
   {
    "q": "Opistorxozning asosiy parazitologik usuli qaysi?",
@@ -26,7 +26,7 @@
    "q": "Yengil zararlanishda tuxum kam bo'lsa nima qo'llanadi?",
    "c": "boyitish (cho'ktirish) usullari",
    "w": [
-    "ikkita Kato–Katz surtma tayyorlash",
+    "bitta manfiy natija bilan to'xtash",
     "ultratovush, KT yoki MRT",
     "serologiya va PZR qo'shimcha usullar",
     "duodenal zondlash va o't tekshiruvi"
@@ -45,13 +45,13 @@
    "x": "«Bu usul invaziv va kamdan-kam qo'llanadi»"
   },
   {
-   "q": "Mutaxassis tuxumni ajratishda qaysi belgilarga e'tibor beradi?",
+   "q": "Mutaxassis opistorx tuxumini ajratishda qaysi belgilarga e'tibor beradi?",
    "c": "yelkachali qopqoq, o'lcham va shakl",
    "w": [
-    "o't porsiyalari, chuvalchanglar va tuxum",
-    "do'mboqcha, mirasidiy va baliq turi",
-    "ko'l, daryo va suv ombori",
-    "sazan, leshch va plotva"
+    "sariqlik, holsizlik va o'ng qovurg'a ostida og'riq",
+    "eozinofiliya, bilirubin va ishqoriy fosfataza",
+    "ultratovush, KT va MRT dagi o'zgarishlar",
+    "sazan, leshch va plotva turlari"
    ],
    "x": "«Mutaxassis yelkachali qopqoq, o'lcham va shaklga e'tibor beradi»"
   },
@@ -62,7 +62,7 @@
     "najas namunalarida tuxum va mirasidiyni",
     "o't porsiyalarida tuxum yoki chuvalchanglarni",
     "o't yo'llari va jigar o'zgarishlarini",
-    "baliq turlari va tutilgan joyni"
+    "jigar va o't yo'llari fermentlarini"
    ],
    "x": "«Jahon sog'liqni saqlash tashkiloti immunologik usullar serum namunalarida parazitga xos antitelolarni yoki serum yoki najasda antigenlarni aniqlashini, ular sezgirroq bo'lishi mumkinligini, lekin antitelolar aniqlanishi joriy, yaqinda yoki o'tgan infeksiyani ajratmasligini va boshqa trematoda antigenlari bilan o'zaro reaksiyalar bo'lishi mumkinligini ta'kidlaydi; PZR kabi molekulyar usullar ham foyda berishi mumkin, lekin hozircha eksperimental bosqichda»"
   },
@@ -93,22 +93,22 @@
    "c": "o'tkir bosqichda",
    "w": [
     "surunkali bosqichda",
-    "belgisiz bosqichda",
-    "yengil bosqichda",
-    "klinik bosqichda"
+    "yengil zararlanishda",
+    "fibroz bosqichida",
+    "xolangiokarsinoma bosqichida"
    ],
    "x": "«Umumiy qon tahlilida eozinofiliya (ko'pincha o'tkir bosqichda), biokimyoda jigar va o't yo'llari fermentlari (ishqoriy fosfataza, GGT, bilirubin) oshishi mumkin»"
   },
   {
-   "q": "Qaysi usul tashxis xatolarini kamaytiradi?",
-   "c": "ikkita Kato–Katz surtma qo'llash",
+   "q": "Laborant tashxis xatolarini kamaytirish uchun nima qo'llashi kerak?",
+   "c": "ikkita Kato–Katz surtma, boyitish va takroriy tekshiruv",
    "w": [
-    "bitta manfiy natija bilan to'xtash",
-    "serologiyaga haddan tashqari tayanish",
-    "baliq iste'moli anamnezini so'ramaslik",
-    "tuxumni boshqa trematoda tuxumi bilan adashtirish"
+    "bitta surtma, duodenal zondlash va serologiya",
+    "serologiya, PZR va ultratovush tekshiruvi",
+    "ultratovush, KT va MRT tekshiruvlari bilan chegaralanish",
+    "baliq turlari va tutilgan joyni aniqlash"
    ],
-   "x": "«Laborant ikkita Kato–Katz surtma, boyitish va takroriy tekshiruv qo'llashi kerak»"
+   "x": "«Laborant ikkita Kato–Katz surtma, boyitish va takroriy tekshiruv qo'llashi kerak.»"
   }
  ],
  "122": [
@@ -119,7 +119,7 @@
     "bemorlarni davolash va kuzatuv",
     "sanitariya nazorati va qirg'oq fermalari",
     "baliq sotuvchilarini nazoratga olish",
-    "suv havzalariga najas tushishi"
+    "aholini o'qitish va axborot tarqatish"
    ],
    "x": "«nazorat qilishning maqsadi zararlanish xavfini va tegishli kasallikni kamaytirish ekanini»"
   },
@@ -127,32 +127,32 @@
    "q": "Opistorxozning asosiy shaxsiy profilaktika choralari qaysi?",
    "c": "chuchuk suv baliqni ichigacha yaxshi pishirish",
    "w": [
-    "yengil tuzlangan va quritilgan baliq",
-    "sovuq dudlangan baliq va xom ikra",
-    "shashlik va kabobni ichi xom qoldirish",
-    "qiyma baliq va xom baliq"
+    "hojatxonalar tashkil etish va oqova suvni tozalash",
+    "baliq mahsulotlarini sanitariya-veterinariya ekspertizasi",
+    "aholini praziquantel bilan ommaviy davolash",
+    "rezervuar hayvonlar orasida opistorxozni davolash"
    ],
-   "x": "«Asosiy shaxsiy chora — chuchuk suv baliqni ichigacha yaxshi pishirish (qaynatish, qovurish, dimlash) yoki ishonchli muzlatish»"
+   "x": "«Asosiy shaxsiy chora — chuchuk suv baliqni ichigacha yaxshi pishirish (qaynatish, qovurish, dimlash) yoki ishonchli muzlatish.»"
   },
   {
-   "q": "Baliq ishlashda xom va pishgan mahsulotlar uchun nima ishlatiladi?",
-   "c": "alohida pichoq va taxta",
+   "q": "Baliq ishlash qoidalari nimaning oldini oladi?",
+   "c": "metaserkariyalarning boshqa mahsulotlarga o'tishini",
    "w": [
-    "qovurish, dimlash va qaynatish",
-    "kompressor usuli va hazm qilish",
-    "ishonchli muzlatish va issiq ishlov",
-    "sovun bilan yuvilgan qo'llar"
+    "mirasidiyning suv havzalariga tushishini",
+    "kasal odamning suvga tuxum chiqarishini",
+    "suv havzalariga najas tushishini",
+    "baliqchilik xo'jaliklarida baliq zararlanishini"
    ],
-   "x": "«Baliqni tozalash va kesishda xom va pishgan mahsulotlar uchun alohida pichoq va taxta ishlatish; qo'llarni sovun bilan yuvish; xom baliqni tatib ko'rmaslik; baliq chiqindilarini (ichak, ikra) mushuk va itlarga xom bermaslik; chiqindilarni suv havzalariga tashlamaslik»"
+   "x": "«Bu qoidalar metaserkariyalarning boshqa mahsulotlarga o'tishini va hayvonlarning zararlanishini oldini oladi.»"
   },
   {
    "q": "Veterinariya-sanitariya ekspertizasida zararlangan partiyalar bilan nima qilinadi?",
    "c": "ishlov beriladi yoki yo'q qilinadi",
    "w": [
-    "kompressor usuli bilan hazm qilinadi",
-    "baliq mushaklarida metaserkariyalar izlanadi",
     "mushuk va itlarga xom beriladi",
-    "suv havzalariga tashlanadi"
+    "suv havzalariga tashlanadi",
+    "kompressor usuli bilan tekshiriladi",
+    "baliq sotuvchilari nazoratiga olinadi"
    ],
    "x": "«Baliq mahsulotlari sanitariya-veterinariya ekspertizasidan o'tadi: baliq mushaklarida metaserkariyalar izlanadi (kompressor usuli yoki hazm qilish usuli); zararlangan partiyalar ishlov beriladi (muzlatish, issiq ishlov) yoki yo'q qilinadi; baliq sotuvchilari nazoratga olinadi»"
   },
@@ -174,40 +174,40 @@
     "faqat profilaktik kimyoterapiya va kuzatuv",
     "ommaviy davolash va ikra tekshiruvi",
     "baliq mushaklarida metaserkariyalar izlash",
-    "rezervuar hayvonlar va bemorlarni aniqlash"
+    "dozalarni shifokor belgilashi va kuzatuv"
    ],
    "x": "«Shu sababli bunday dasturlar jamoat salomatligi ta'limi, veterinariya va qishloq xo'jalik tadbirlari, oziq-ovqat xavfsizligi va yaxshilangan suv, sanitariya hamda gigiyena bilan birga olib borilishi kerak»"
   },
   {
-   "q": "Qaysi tur bo'yicha kanserogenlik ma'lumotlari kam?",
-   "c": "O. felineus",
+   "q": "Nega faqat profilaktik kimyoterapiya tarqalganlikni kamaytirish uchun yetarli emas?",
+   "c": "davolashdan keyin yuqori qayta zararlanish bo'ladi",
    "w": [
-    "O. viverrini",
-    "C. sinensis",
-    "xolangiokarsinoma xavfi",
-    "uzoq muddatli kuzatuv"
+    "praziquantel yagona dozada ta'sir qilmaydi",
+    "bemorlar najasi suv havzalariga tushmaydi",
+    "rezervuar hayvonlar zararlanishdan himoyalangan",
+    "baliq mushaklarida metaserkariyalar bo'lmaydi"
    ],
-   "x": "«felineus bo'yicha ma'lumotlar kam»"
+   "x": "«faqat profilaktik kimyoterapiya tarqalganlikni kamaytirish uchun yetarli emas: yomon sanitariya va oziq-ovqat gigiyenasi, hayvon rezervuarlari va madaniy ovqatlanish odatlari davolashdan keyin yuqori qayta zararlanishga olib keladi»"
   },
   {
-   "q": "Uzoq yillar opistorxozli bemorlar nima bo'yicha kuzatuvda bo'ladi?",
-   "c": "o't yo'llari holati bo'yicha (ultratovush)",
+   "q": "Uzoq yillar opistorxozli bemorlarda kuzatuv nimaga qaratilgan?",
+   "c": "o't yo'llari holatini ultratovush bilan baholashga",
    "w": [
-    "praziquantel dozasi bo'yicha (kuniga 3 marta)",
-    "baliq zararlanishi bo'yicha (veterinar nazorat)",
-    "najas tushishi bo'yicha (suv havzalari)",
-    "rezervuar hayvonlar bo'yicha (mushuk va itlar)"
+    "baliq zararlanishini veterinar nazorat qilishga",
+    "najas tushishini suv havzalarida to'xtatishga",
+    "rezervuar hayvonlarni mushuk va itlar orasida davolashga",
+    "dozalarni shifokor belgilashga"
    ],
-   "x": "«Shuning uchun uzoq yillar davom etgan opistorxozli bemorlar o't yo'llari holati bo'yicha kuzatuvda bo'lishi tavsiya etiladi (ultratovush)»"
+   "x": "«uzoq yillar davom etgan opistorxozli bemorlar o't yo'llari holati bo'yicha kuzatuvda bo'lishi tavsiya etiladi (ultratovush)»"
   },
   {
    "q": "Bemorlarni davolash nega zanjirni uzadi?",
    "c": "kasal odam suvga tuxum chiqaradi",
    "w": [
-    "kasal odam suvga metaserkariyalar chiqaradi",
-    "rezervuar hayvonlar suvga tuxum chiqaradi",
-    "baliq suvga tuxum chiqaradi",
-    "kasal odam suvga mirasidiy chiqaradi"
+    "baliq mushaklarida metaserkariyalar bo'ladi",
+    "rezervuar hayvonlar xom baliq yeydi",
+    "baliq chiqindilari suvga tashlanadi",
+    "oqova suv tozalanmasdan tushadi"
    ],
    "x": "«Odamlardagi opistorxozni aniqlash va davolash zanjirni uzadi, chunki kasal odam suvga tuxum chiqaradi»"
   },
@@ -225,15 +225,15 @@
  ],
  "123": [
   {
-   "q": "Toksokaroz qaysi parazit lichinkalari ta'sirida yuzaga keladi?",
-   "c": "it va mushuk askaridalari lichinkalari",
+   "q": "Voyaga yetgan toksokara chuvalchanglari qayerda yashaydi?",
+   "c": "it va mushuklarning ingichka ichagida",
    "w": [
-    "mushuk va qoramol askaridalari lichinkalari",
-    "tovuq va cho'chqa askaridalari lichinkalari",
-    "o'rdak va qo'zi askaridalari lichinkalari",
-    "voyaga yetgan it askaridalari tuxumlari"
+    "odam va tovuqning ingichka ichagida",
+    "qoramol va cho'chqa ichki a'zolarida",
+    "paratenik xo'jayinlar go'shtida",
+    "tuproq va qum qutilarida"
    ],
-   "x": "«Toksokaroz — it va mushuk askaridalari lichinkalari odam tanasida ko'chib yurishi natijasida yuzaga keladigan zoonoz gelmintoz»"
+   "x": "«Voyaga yetgan chuvalchanglar mazkur hayvonlarning ingichka ichagida yashaydi»"
   },
   {
    "q": "Toksokarozda odam qanday xo'jayin hisoblanadi?",
@@ -241,7 +241,7 @@
    "w": [
     "asosiy xo'jayin, ingichka ichakda yashaydi",
     "oraliq xo'jayin, tuxum chiqaradi",
-    "paratenik xo'jayin, tuxum qo'yadi",
+    "yakuniy xo'jayin, tuxum qo'yadi",
     "rezervuar xo'jayin, najas chiqaradi"
    ],
    "x": "«Najas tekshiruvida odamdagi toksokaroz aniqlanmaydi, chunki lichinkalar ichakda voyaga yetmaydi va tuxum chiqarmaydi; shuning uchun najasda tuxum topilmagani kasallik yo'qligini bildirmaydi»"
@@ -252,7 +252,7 @@
    "w": [
     "ifloslangan sabzavot va ko'katlar, xom jigar",
     "xom yoki yaxshi pishmagan go'sht va ichki a'zolar",
-    "ifloslangan suv va itlar junidagi tuxumlar",
+    "ifloslangan suv va junidagi tuxumlar",
     "tovuq, qoramol va o'rdak paratenik xo'jayinlari"
    ],
    "x": "«Infeksiyaning asosiy manbai — zararlangan itlar va mushuklar, ayniqsa kuchuklar va mushukchalar»"
@@ -284,9 +284,9 @@
    "c": "oylar va hatto yillar infeksion bo'lib qoladi",
    "w": [
     "bir necha hafta infeksion bo'lib qoladi",
-    "2–4 hafta infeksion bo'lib qoladi",
-    "hayvon junida embrionlashgan bo'lib qoladi",
-    "faqat tuproqda infeksion bo'lib qoladi"
+    "dezinfektantlar ta'sirida nobud bo'ladi",
+    "sovuq ta'sirida infeksionligini yo'qotadi",
+    "2–4 hafta infeksion bo'lib qoladi"
    ],
    "x": "«Toksokara tuxumlari tashqi muhitda uzoq saqlanadi: qulay sharoitda oylar va hatto yillar infeksion bo'lib qoladi»"
   },
@@ -317,8 +317,8 @@
    "c": "lichinkalar ichakda voyaga yetmaydi va tuxum chiqarmaydi",
    "w": [
     "tuxumlar tuproqda embrionlashmagan holda qoladi",
-    "lichinkalar ichakda voyaga yetadi, ammo tuxum chiqarmaydi",
-    "tuxumlar infeksion bo'lishi uchun 2–4 hafta kerak",
+    "hayvon junida embrionlashmagan tuxumlar bo'ladi",
+    "infeksion bo'lish uchun 2–4 hafta kerak",
     "voyaga yetgan chuvalchanglar hayvonlar ichagida yashaydi"
    ],
    "x": "«Najas tekshiruvida odamdagi toksokaroz aniqlanmaydi, chunki lichinkalar ichakda voyaga yetmaydi va tuxum chiqarmaydi; shuning uchun najasda tuxum topilmagani kasallik yo'qligini bildirmaydi»"
@@ -341,9 +341,9 @@
    "c": "lichinkalar jigar, o'pka kabi ichki a'zolarga o'tganda",
    "w": [
     "lichinkalar ko'zga yetganda",
-    "lichinkalar markaziy asab tizimiga o'tganda",
+    "ko'rish pasayishi va leykokoriya paydo bo'lganda",
     "lichinkalar ichakda voyaga yetganda",
-    "toksoplazmoz bilan zararlanganda"
+    "retinoblastomadan farqlanishi kerak bo'lganda"
    ],
    "x": "«Visseral shakl lichinkalar ichki a'zolar — jigar, o'pka, yurak, buyrak, ba'zan markaziy asab tizimi — ga o'tganda rivojlanadi»"
   },
@@ -414,15 +414,15 @@
    "x": "«Lichinkalar markaziy asab tizimiga o'tganda nevrologik belgilar: tutqanoq, bosh og'rig'i, ongning o'zgarishi, meningit, ensefalit, miyelit belgilari, periferik nevropatiya, ko'rish yoki xulq-atvor buzilishi»"
   },
   {
-   "q": "AQShda 6 yosh va undan katta aholining necha foizi seropozitiv bo'lgan?",
-   "c": "13,9 foizi",
+   "q": "Ko'pchilik zararlangan odamlarda toksokaroz qanday kechadi?",
+   "c": "klinik belgilar bo'lmaydi",
    "w": [
-    "1–7 foizi",
-    "20–50 foizi",
-    "2–4 foizi",
-    "6 foizi"
+    "ko'rlik va to'r parda ajralishi rivojlanadi",
+    "tutqanoq va meningit belgilari kuzatiladi",
+    "isitma va jigar kattalashishi uchraydi",
+    "yuqori eozinofiliya aniqlanadi"
    ],
-   "x": "«Seroprevalent tadqiqotlar ko'rsatadiki, ko'p odamlarda Toxocara antitelolari bor, lekin kasallik belgilari yo'q: AQShda 1988–1994-yillarda 6 yosh va undan katta aholining 13,9 foizi seropozitiv bo'lgan»"
+   "x": "«Ko'pchilik zararlangan odamlarda belgilar bo'lmaydi.»"
   },
   {
    "q": "Toksokarozning asoratlari qaysilar?",
@@ -439,7 +439,7 @@
    "q": "Najas tekshiruvi toksokarozda nega manfiy chiqadi?",
    "c": "lichinkalar ichak ichida voyaga yetmaydi",
    "w": [
-    "chuvalchanglar ichak ichida voyaga yetadi",
+    "tuxumlar tuproqda infeksion bo'ladi",
     "lichinkalar ichak ichida tuxum chiqaradi",
     "lichinkalar jigar va o'pkaga o'tadi",
     "eozinofiliya najas tahlilini o'zgartiradi"

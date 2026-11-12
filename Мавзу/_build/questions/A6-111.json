@@ -5,9 +5,9 @@
    "c": "Xom yoki yarim xom baliqni iste'mol qilib",
    "w": [
     "Bemor odam bilan bevosita aloqada bo'lib",
-    "Ichigacha yaxshi pishirib iste'mol qilib",
-    "Itlar najasini suv havzasiga tushirib",
-    "Xom qisqichbaqasimonni iste'mol qilib"
+    "Xom qisqichbaqasimonni iste'mol qilib",
+    "Itlar va mushuklar bilan aloqada bo'lib",
+    "Suv havzalariga najas tashlab"
    ],
    "x": "«Odam keng tasmasimon chuvalchang pleroserkoid lichinkalari bor baliqni xom, yarim xom yoki yetarli ishlov berilmagan holda iste'mol qilganda zararlanadi»"
   },
@@ -37,10 +37,10 @@
    "q": "Qaysi baliqlar xavfliroq hisoblanadi?",
    "c": "Pleroserkoidlarni to'playdigan yirik yirtqich baliqlar",
    "w": [
-    "Mayda baliqlar, forel va losos",
     "Muzlatilgan va yaxshi pishirilgan baliqlar",
     "Dengiz baliqlari va tinch okean baliqlari",
-    "Cho'rtan, laqqa va olabuga baliqlari"
+    "Qisqichbaqasimonlar va mayda baliqlar",
+    "Pleroserkoidlarni to'plamaydigan mayda baliqlar"
    ],
    "x": "«Yirtqich baliqlar mayda baliqlarni yeb, pleroserkoidlarni to'playdi, shuning uchun yirik yirtqich baliqlar xavfliroq»"
   },
@@ -62,7 +62,7 @@
     "Tuxum suvda rivojlanmaydi",
     "Qisqichbaqasimon va baliq kerak emas",
     "Bemor najasi xavfli emas",
-    "Bemor hojatxonadan foydalanmaydi"
+    "Bemor boshqalar bilan baliq yemaydi"
    ],
    "x": "«Difillobotriaz odamdan odamga bevosita yuqmaydi: tuxum suvda rivojlanishi, qisqichbaqasimon va baliqdan o'tishi kerak»"
   },

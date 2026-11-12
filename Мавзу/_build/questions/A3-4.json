@@ -48,10 +48,10 @@
    "q": "Epidemiolog nima sababdan bemorni chivinchalardan himoya qiladi?",
    "c": "Bemor manba bo'lishi mumkin",
    "w": [
-    "Bemor stasionarda davolanadi",
-    "Bemor tezkor testlar bilan tekshiriladi",
-    "Bemor faol qidiruvga qaratiladi",
-    "Bemor bayonnomada qayd etiladi"
+    "Bemor faol qidiruvdan o'tkaziladi",
+    "Bemor bayonnomada qayd etilmaydi",
+    "Bemor tezkor testlar bilan tekshirilmaydi",
+    "Bemor ma'lumotnoma markaziga yuboriladi"
    ],
    "x": "«Epidemiolog davolash o'tkazilayotganini nazorat qiladi va bemorni chivinchalardan himoya qilish choralarini ko'radi, chunki bemor manba bo'lishi mumkin»"
   },
@@ -61,8 +61,8 @@
    "w": [
     "Barcha zararlanganlar kasallikni rivojlantiradi",
     "Kasal bo'lganlarning faqat kichik qismi zararlanadi",
-    "Itlarning katta qismi belgisiz kasallanadi",
-    "Kasal bo'lganlar bayonnomada qayd etiladi"
+    "Tezkor testlar faqat kasallarni aniqlaydi",
+    "Aholi dispanser nazoratida bo'ladi"
    ],
    "x": "«parazit bilan zararlanganlarning faqat kichik qismi kasallikni rivojlantirishini ta'kidlaydi»"
   },
@@ -92,10 +92,10 @@
    "q": "Tadbirlarni o'z vaqtida o'tkazish uchun nima aniq belgilanadi?",
    "c": "Mas'ul shaxslar va muddatlar",
    "w": [
-    "Chivinchalar zichligi va muddatlar",
+    "Mas'ul laboratoriya va stasionar",
     "Bemor ma'lumotlari va tasdiqlash usuli",
-    "Hayvonlar va mas'ul laboratoriya",
-    "Aholi so'rovi va ma'lumotnoma markazi"
+    "Faol qidiruv va aholi so'rovi",
+    "Hayvonlar nazorati va hisobot shakli"
    ],
    "x": "«Tadbirlarni o'z vaqtida o'tkazish uchun mas'ul shaxslar va muddatlar aniq belgilanadi: kim xabar beradi, kim o'choqqa boradi, kim namunalarni yetkazadi, kim ishlov o'tkazadi, kim hisobot topshiradi»"
   },
@@ -103,10 +103,10 @@
    "q": "Murakkab holatda xodimlar nima sababdan ma'lumotnoma markazi bilan maslahatlashadi?",
    "c": "Kasallik kamdan-kam uchraydi",
    "w": [
-    "Kasallik yuqori idoraga yuboriladi",
-    "Bemor stasionarda davolanmaydi",
-    "Laborant tezkor testni bajarmaydi",
-    "Epidemiolog namunalarni yetkazmaydi"
+    "Bemor stasionarda davolanadi",
+    "Laborant natijani darhol xabar qiladi",
+    "Epidemiolog namunalarni yetkazadi",
+    "Bayonnoma yuqori idoraga yuboriladi"
    ],
    "x": "«Kasallik kamdan-kam uchraydigani uchun xodimlar murakkab holatda ma'lumotnoma markazi bilan maslahatlashadi»"
   }
@@ -117,9 +117,9 @@
    "c": "Zoonoz xarakterda ekanini",
    "w": [
     "Antroponoz xarakterda ekanini",
-    "Antroponoz o'choq ekanini",
+    "Parazit aniq tur sifatida ajratilganini",
     "Epidemiologik belgilar yo'qligini",
-    "Phlebotomus alexandri tashuvchi ekanini"
+    "Kemiruvchilar tashuvchi ekanini"
    ],
    "x": "«Farg'ona vodiysidagi Namangan viloyati Pop tumanida visseral leyshmaniozning o'chog'ida o'tkazilgan epidemiologik va entomologik tadqiqot kasallikning klinik va epidemiologik belgilari uning zoonoz xarakterda ekanini va, ehtimol, Leishmania infantum bilan bog'liqligini ko'rsatganini, ammo parazit ajratib olinmagani sababli aniq tur xarakteristikasi o'tkazilmaganini bayon qilgan»"
   },
@@ -130,7 +130,7 @@
     "Ikkita punktda kamdan-kam uchraydigan tur",
     "Barcha punktlarda eudominant tur",
     "Ikkita punktda parazit ajratilgan tur",
-    "Ikkita punktda zoonoz tur"
+    "Farg'ona vodiysida eudominant bo'lgan tur"
    ],
    "x": "«Surxondaryo viloyatida chivinchalar tarkibini o'rgangan ish Phlebotomus alexandri visseral leyshmaniozning ehtimoliy tashuvchisi sifatida ikkita punktda eudominant bo'lganini qayd etgan»"
   },
@@ -160,10 +160,10 @@
    "q": "Visseral leyshmaniozli bemorlarni davolash qayerda o'tkaziladi?",
    "c": "Stasionarda o'tkaziladi",
    "w": [
-    "Pop tumanida o'tkaziladi",
+    "Surxondaryo viloyatida o'tkaziladi",
+    "Namangan viloyatida o'tkaziladi",
     "Endemik hududda o'tkaziladi",
-    "Laboratoriyada o'tkaziladi",
-    "Chorva binolarida o'tkaziladi"
+    "Laboratoriyada o'tkaziladi"
    ],
    "x": "«Davolash stasionarda o'tkaziladi»"
   },
@@ -229,9 +229,9 @@
    "c": "O'limga olib keladigan kechikishga",
    "w": [
     "Keraksiz va zaharli davolashga",
-    "Namunani qayta yetkazishga",
+    "Yangi reaktiv partiyasini tekshirishga",
     "Preparatni qayta tayyorlashga",
-    "Yaroqsiz namunani qayta yetkazishga"
+    "Ikkinchi ko'rib chiqishni bekor qilishga"
    ],
    "x": "«Leyshmanioz tashxisi laboratoriya natijasiga tayanadi: noto'g'ri musbat natija keraksiz va og'ir (ko'pincha zaharli) davolashga, noto'g'ri manfiy natija esa bemor uchun o'limga olib keladigan kechikishga sabab bo'ladi, ayniqsa visseral shaklda»"
   },
@@ -342,7 +342,7 @@
    "w": [
     "Dorilar immun tizimni to'liq tiklaydi",
     "Dorilar parazitni to'liq chiqaradi",
-    "Immun tizim sog'lom bo'ladi",
+    "Bemor dispanser kuzatuvidan chiqariladi",
     "Bemor ko'rikka kelmaydi"
    ],
    "x": "«Jahon sog'liqni saqlash tashkiloti dorilar parazitni tanadan to'liq chiqarmasligini va immun tizim sog'lom bo'lishini talab qilishini, shu sababli immunosupressiya yuz berganda kasallik qaytalanishi mumkinligini ta'kidlaydi»"
@@ -374,9 +374,9 @@
    "c": "Ularda qaytalanish va o'lim xavfi yuqori",
    "w": [
     "Ularda qaytalanish va o'lim xavfi past",
-    "Ularda PKDL faqat kasalxonada uchraydi",
+    "Ularda kasallik faqat bolalarda uchraydi",
     "Ularda kasallik qaytalanmaydi",
-    "Ularda dorilar parazitni chiqaradi"
+    "Ularda PKDL toshmasi paydo bo'lmaydi"
    ],
    "x": "«OIV bilan yashovchilar uchun kuzatuv ayniqsa muhim, chunki ularda qaytalanish va o'lim xavfi yuqori»"
   },
@@ -428,10 +428,10 @@
    "q": "Kala-azardan keyingi teri leyshmaniozi toshmasi qayerda paydo bo'ladi?",
    "c": "Yuz, qo'llarning yuqori qismi va tanada",
    "w": [
-    "Taloq va jigar o'lchamlarida",
+    "Teri va jigar o'lchamlarida",
     "Yuz, qo'llarning pastki qismi va tanada",
-    "Yuz, qo'llarning yuqori qismi va jigarda",
-    "Taloq, jigar va qo'llarning yuqori qismida"
+    "Yuz, taloq va jigar o'lchamlarida",
+    "Tanada va qo'llarning pastki qismida"
    ],
    "x": "«PKDL toshmasi yuz, qo'llarning yuqori qismi va tanada dog'li, papulyoz yoki tugunli ko'rinishda paydo bo'ladi»"
   },

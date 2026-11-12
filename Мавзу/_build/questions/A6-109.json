@@ -7,7 +7,7 @@
     "Taenia saginata chuvalchangi",
     "Taenia solium chuvalchangi",
     "Hymenolepis nana chuvalchangi",
-    "Mayda qisqichbaqasimon chuvalchang"
+    "Metagonimoz so'rg'ichli chuvalchangi"
    ],
    "x": "«Difillobotriazning klassik qo'zg'atuvchisi — keng tasmasimon chuvalchang, Diphyllobothrium latum (yangi nomi Dibothriocephalus latus)»"
   },
@@ -15,10 +15,10 @@
    "q": "Voyaga yetgan keng tasmasimon chuvalchang odamning qayerida yashaydi?",
    "c": "Ingichka ichakda yashaydi",
    "w": [
-    "Ikrasi va jigarida yashaydi",
-    "Baliq mushaklarida yashaydi",
-    "Qisqichbaqasimon ichida yashaydi",
-    "Suv ombori tubida yashaydi"
+    "Jigarida yashaydi",
+    "Mushaklarida yashaydi",
+    "Ikrasida yashaydi",
+    "Ichki a'zolarida yashaydi"
    ],
    "x": "«Voyaga yetgan keng tasmasimon chuvalchang odam ingichka ichagida yashaydi va odamda uchraydigan eng uzun tasmasimon chuvalchanglardan biri: uzunligi 10 metrdan oshishi mumkin, minglab bo'g'imlardan iborat»"
   },
@@ -114,10 +114,10 @@
    "q": "Difillobotriozda kamqonlikka nima sabab bo'ladi?",
    "c": "B12 vitamini va folat kislota almashinuvining buzilishi",
    "w": [
-    "Folat kislota va ikrasi almashinuvining buzilishi",
-    "B12 vitamini va tuxum miqdori oshishi",
-    "Qisqichbaqasimon va baliq ikrasi yetishmovchiligi",
-    "Pleroserkoid lichinkalarning jigarda joylashishi"
+    "Temir va folat kislota almashinuvining buzilishi",
+    "B12 vitamini va oqsil almashinuvining buzilishi",
+    "Chuvalchang bo'g'imlarining jigarda joylashishi",
+    "Pleroserkoid lichinkalarning ichakda ko'payishi"
    ],
    "x": "«Baliqni qayta ishlash korxonalari xodimlari uchun sanitariya minimumi o'quv materialida difillobotrioz gijja bilan zararlanishning og'ir turi sifatida tavsiflanadi: u ko'pincha xavfli kamqonlikka olib keladi, bunga B12 vitamini va folat kislota almashinuvining buzilishi sabab bo'ladi; keng tasmasimon gijja odam organizmida parazitlik qiluvchi eng yirik gijja bo'lib, uzunligi 3–4 metr, ba'zan 10 metrgacha yetadi»"
   }

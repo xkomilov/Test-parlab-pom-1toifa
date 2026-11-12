@@ -4,10 +4,10 @@
    "q": "Kistoz exinokokkoz klinikasi qaysi omillarga bog'liq?",
    "c": "Kasallik shakliga, kistaning joylashuvi va o'lchamiga",
    "w": [
-    "Qorin og'rig'i, sariqlik va jigar kattalashishi",
-    "Kista suyuqligi sizishi va eozinofiliya",
-    "Haroratning ko'tarilishi va kista yiringlashi",
-    "Surunkali yo'tal, nafas qisilishi va qon tupurish"
+    "Kista yiringlashi, yorilishi va allergik belgilarga",
+    "Bemorning jigar o'lchamiga va davolash usuliga",
+    "Kistaning qobig'iga, suyuqligiga va yorilishiga",
+    "Bemorning tashxis usuliga va natijasiga"
    ],
    "x": "«Exinokokkoz klinikasi kasallik shakliga (kistoz yoki alveolyar), kistaning joylashuvi, o'lchami va soniga bog'liq»"
   },
@@ -15,10 +15,10 @@
    "q": "Alveolyar exinokokkozda parazit lichinkalari uzoq a'zolarga qanday o'tadi?",
    "c": "Qon va limfa orqali o'tishi mumkin",
    "w": [
-    "Taloq orqali jigarga o'tishi mumkin",
-    "O't yo'llari orqali jigarga o'tishi mumkin",
-    "Kista suyuqligi orqali o'pkada joylashishi",
-    "Siqilish orqali qorin bo'shlig'iga o'tishi"
+    "O't yo'llari orqali jigarga joylashadi",
+    "Siqilish orqali o'pkada joylashadi",
+    "Kista suyuqligi orqali taloqda joylashadi",
+    "Tarqoq ekinish orqali jigarda joylashadi"
    ],
    "x": "«Parazit lichinkalari jigarga qo'shni a'zolarga (taloq) yoki uzoq a'zolarga (o'pka, miya) qon va limfa orqali o'tib, metastazlar hosil qilishi mumkin»"
   },
@@ -37,10 +37,10 @@
    "q": "Jigar exinokokkozida ko'p uchraydigan belgilar qaysilar?",
    "c": "Qorin og'rig'i, ko'ngil aynishi va qusish",
    "w": [
-    "Patologik sinishlar va suyak exinokokkozi belgilari",
+    "Surunkali yo'tal va ko'krak qafasi og'rig'i",
+    "Patologik sinishlar va suyak og'rig'i",
     "Tutqanoq va intrakranial bosim belgilari",
-    "Gematuriya va kistaning og'riqqa olib kelishi",
-    "Qon tupurish, isitma va tiniq suyuqlik"
+    "Gematuriya va buyrak sohasidagi og'riq"
    ],
    "x": "«Jahon sog'liqni saqlash tashkiloti jigarda kista bo'lganda qorin og'rig'i, ko'ngil aynishi va qusish ko'p uchrashini ta'kidlaydi»"
   },
@@ -60,9 +60,9 @@
    "c": "Tiniq suyuqlik va kista qobig'i parchalari",
    "w": [
     "Ko'p miqdorda qon va kista parchalari",
-    "Qon tupurish va xo'ppoz qobig'i parchalari",
-    "Isitma va ikkilamchi kistalar parchalari",
-    "Ko'p miqdorda tiniq qon va suyuqlik"
+    "Yiringli suyuqlik va xo'ppoz qobig'i parchalari",
+    "Ko'p miqdorda yiring va ikkilamchi kistalar",
+    "Allergik toshmalar va eozinofiliya"
    ],
    "x": "«Kista bronxga yorilsa, bemor ko'p miqdorda tiniq suyuqlik va kista qobig'i parchalari bilan yo'taladi, qon tupurish, isitma bo'lishi mumkin»"
   },
@@ -70,10 +70,10 @@
    "q": "Yorilgan o'pka kistasida qanday asorat yuzaga kelishi mumkin?",
    "c": "Ikkilamchi infeksiya va o'pka xo'ppozi",
    "w": [
-    "Portal gipertenziya va sariqlik bosimi",
-    "Anafilaktik shok va gematuriya belgilari",
-    "Tutqanoq va intrakranial bosim belgilari",
-    "Patologik sinishlar va holsizlik belgilari"
+    "Portal gipertenziya va mexanik sariqlik",
+    "Anafilaktik shok va tarqoq ekinish",
+    "Patologik sinishlar va suyak shikastlanishi",
+    "Gematuriya va buyrak shikastlanishi"
    ],
    "x": "«Yorilgan kista ikkilamchi infeksiyaga uchrashi va o'pka xo'ppozi yuzaga kelishi mumkin»"
   },
@@ -84,9 +84,9 @@
     "Allergik belgilar va eozinofiliya",
     "Ishtaha pasayishi va vazn yo'qotish",
     "Kista suyuqligining ozgina sizishi",
-    "Belgisiz inkubatsion davr uzayishi"
+    "Jigar o'lchamining kattalashishi"
    ],
-   "x": "«Kistoz exinokokkozning asosiy asoratlari: kistaning yorilishi, yiringlashi, o't yo'llariga yoki bronxga ochilishi, qorin bo'shlig'iga yorilib, tarqoq ekinish (ikkilamchi exinokokkoz), anafilaktik shok (kista suyuqligi qonga tushganda), siqilish (portal gipertenziya, sariqlik)»"
+   "x": "«Haroratning ko'tarilishi odatda kista yiringlaganda yoki yorilganda kuzatiladi»"
   },
   {
    "q": "Kista suyuqligining ozgina sizishi qanday belgilarga olib kelishi mumkin?",

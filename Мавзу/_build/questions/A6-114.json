@@ -6,8 +6,8 @@
    "w": [
     "Opistorx turkumi trematodalari",
     "Lymnaea turkumi mollyuskalari",
-    "Fasciola turkumi o'txo'r hayvonlari",
-    "Lymnaea turkumi suv o'simliklari"
+    "Fasciola turkumi serkariyalari",
+    "Opistorx turkumi tasmasimon chuvalchanglari"
    ],
    "x": "«Fassiolyoz — jigar va o't yo'llarining parazitar kasalligi bo'lib, uni Fasciola turkumi so'rg'ichli chuvalchanglari, ya'ni trematodalar, qo'zg'atadi»"
   },
@@ -27,9 +27,9 @@
    "c": "Yassi, barg shaklidagi, kulrang-jigarrang chuvalchang",
    "w": [
     "Yassi, oval, qopqoqli, sarg'ish-jigarrang chuvalchang",
-    "Yirik, barg shaklidagi, konussimon so'rg'ichli kista",
-    "Kichik, oval, qopqoqli, kulrang-jigarrang tuxum",
-    "Yirikroq, yassi, barg shaklidagi mollyuska"
+    "Yirik, oval, qopqoqli, sarg'ish-jigarrang tuxum",
+    "Yassi, rozetkasimon, sarg'ish-jigarrang chuvalchang",
+    "Kichik, oval, qopqoqli, kulrang-jigarrang chuvalchang"
    ],
    "x": "«hepatica yassi, barg shaklidagi, kulrang-jigarrang chuvalchang, uzunligi taxminan 2–3 sm, kengligi 1 sm atrofida; old qismida konussimon bo'rtiq va ikkita so'rg'ich (og'iz va qorin) bor»"
   },
@@ -50,8 +50,8 @@
    "w": [
     "Opistorx tuxumi",
     "Mirasidiy tuxumi",
-    "Serkariya tuxumi",
-    "Metaserkariya tuxumi"
+    "Metaserkariya tuxumi",
+    "Redi tuxumi"
    ],
    "x": "«Fassiola tuxumi katta, oval, qopqoqli (operkulum), sarg'ish-jigarrang, o'lchami taxminan 130–150 × 60–90 mkm (trematoda tuxumlari ichida eng yirigi)»"
   },
@@ -62,7 +62,7 @@
     "Qisqichbaqasimon va xom baliq",
     "Qo'y, qoramol va echki",
     "Suv qalampiri va sabzavot",
-    "Sabzavotlar va yuvilmagan o'tlar"
+    "Mirasidiy va serkariya lichinkalari"
    ],
    "x": "«Hayot sikli bir oraliq xo'jayinli: tuxum najas bilan suvga tushadi, ikki-uch haftada tuxumdan lichinka (mirasidiy) chiqadi va chuchuk suv mollyuskasiga (ko'pincha Lymnaea turkumi) kiradi»"
   },
@@ -94,7 +94,7 @@
    "w": [
     "Ikkinchi oraliq xo'jayin baliq bo'ladi",
     "Chuvalchang ichakda yashaydi",
-    "Tuxum najas bilan chiqmaydi",
+    "Ikkinchi oraliq xo'jayin mollyuska bo'ladi",
     "Odam asosiy xo'jayin bo'ladi"
    ],
    "x": "«Bu mexanizm fassiolyozni boshqa trematodozlardan (baliq orqali yuqadigan opistorxoz) farqlaydi»"

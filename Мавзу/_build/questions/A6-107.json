@@ -15,10 +15,10 @@
    "q": "Nima uchun zararlanish joyi va vaqtini aniqlash qiyin?",
    "c": "Kasallik uzoq yillar yashirin kechadi",
    "w": [
-    "Tashqi muhit ifloslanishi baholanmaydi",
-    "Itlar najasi laboratoriyada tekshirilmaydi",
-    "Chorva mollari so'yilmaydi",
-    "Veterinar xizmati bilan hamkorlik yo'q"
+    "Bemor odamdan odamga yuqtiradi",
+    "Zararlanish manbasi hayvonlarda aniqlanmaydi",
+    "Bemorning oila a'zolari tekshirilmaydi",
+    "Tashqi muhit ifloslanishi baholanmaydi"
    ],
    "x": "«Kasallik uzoq yillar yashirin kechgani uchun zararlanish joyi va vaqtini aniqlash qiyin, bu tekshiruvning o'ziga xos murakkabligi»"
   },
@@ -48,10 +48,10 @@
    "q": "Nima uchun bolalikdagi yashash joylari ham so'raladi?",
    "c": "Kasallik yillar o'tib bilinadi",
    "w": [
-    "Bolalar itlar bilan ko'proq o'ynaydi",
-    "Bolalikda ultratovush skrining o'tkaziladi",
+    "Bolalikdagi joylarda skrining o'tkazilgan",
     "Bolalar so'yish ishlarida qatnashadi",
-    "Bolalarda kasallik odamdan yuqadi"
+    "Bolalarda itlar bilan aloqa yo'q",
+    "Bolalarda tashxis qo'yish qiyin"
    ],
    "x": "«Bemordan quyidagilar so'raladi: yashash joyi (qishloq/shahar), hozirgi va avvalgi yashash joylari (bolalikdagi joylar ham, chunki kasallik yillar o'tib bilinadi); kasbi (chorvador, cho'pon, qassob, dehqon); itlar bilan aloqa (uyida it bormi, qo'ylarni qo'riqlaydimi, itni silash, bolalikda itlar bilan o'ynash); uy so'yimi va ichki a'zolar bilan ishlash; sabzavot va suv manbalari; oilada boshqa exinokokkoz holatlari»"
   },
@@ -61,8 +61,8 @@
    "w": [
     "Tashxisni tasdiqlash uchun ularning kasbi kerak",
     "Itlarni degelmintizatsiya qilish uchun ular tekshiriladi",
-    "Tuproq va suv namunalari ulardan olinadi",
-    "Kasallik ular orasida yashirin kechadi"
+    "Kasallik ular orasida odamdan odamga yuqadi",
+    "Ular so'yish ekspertizasi uchun namunalar beradi"
    ],
    "x": "«Bemorning oila a'zolari va yaqin atrofdagi xavf guruhlari ultratovush va (imkoniyatga ko'ra) serologik tekshiruvdan o'tkaziladi, chunki ular ham bir xil muhitda yashagan, bir xil itlar bilan aloqada bo'lgan»"
   },
@@ -84,7 +84,7 @@
     "Oila a'zolari skrining natijalarini yig'ish",
     "Bemor ma'lumotlarini yuqori idoraga yuborish",
     "Itlar va chorva tekshiruvini tashkil etish",
-    "Tashxis sanasi va kista bosqichini yashirish"
+    "Bemorni boshqa bemorlardan ajratib qo'yish"
    ],
    "x": "«Baza yillik tahlil va nazorat dasturlarini rejalashtirish uchun foydalaniladi»"
   },
@@ -100,15 +100,15 @@
    "x": "«Chorva mollari orasida zararlanish: so'yish ekspertizasi ma'lumotlari (jigar va o'pkada kista), uy so'yimi amaliyoti, ichki a'zolarni itlarga berish odatlari»"
   },
   {
-   "q": "Bitta ob'ektdan nechta surtma olinadi?",
-   "c": "25 ta surtma",
+   "q": "Exinokokkoz holati epidemiologik tekshiruvda qachon qayd etiladi?",
+   "c": "Tashxis qo'yilgan zahoti qayd etiladi",
    "w": [
-    "4 ta surtma",
-    "10 ta surtma",
-    "24 ta surtma",
-    "357 ta surtma"
+    "Serologiya tasdiqlanganda qayd etiladi",
+    "Itlar tekshirilganda qayd etiladi",
+    "Jarrohlik o'tkazilganda qayd etiladi",
+    "Yillik tahlil o'tkazilganda qayd etiladi"
    ],
-   "x": "«Tekshiruvning sanitariya-gelmintologik qismi ham belgilangan: tashqi muhit elementlari tenidlar onkosferalari va Toxocara canis ga tekshiriladi; tuproq va ko'kat namunalari hayvonlar turadigan joydan kamida 10 m aylanadan olinadi, bitta ob'ektdan 25 surtma, 4 tuproq, 4 sabzavot, 4 ko'kat va 4 suv namunasi olinib, 24 soat ichida tekshiriladi, tuproq esa +4 °C da uch kungacha saqlanishi mumkin»"
+   "x": "«Holat tashxis qo'yilgan zahoti qayd etiladi»"
   }
  ]
 }

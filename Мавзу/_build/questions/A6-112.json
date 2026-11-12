@@ -15,10 +15,10 @@
    "q": "Epidemiolog bemor yegan baliq haqida nimalarni aniqlaydi?",
    "c": "Qaysi baliqni, qachon va qayerdan yegani",
    "w": [
-    "Bemor kimligi va yoshi, tashxis qo'yilgan sana",
-    "Birga yegan odamlar soni va ularning tekshiruv natijalari",
-    "Baliq sotilgan joy va suv havzasining sanitariya holati",
-    "Hojatxona mavjudligi va o'tkazilgan tadbirlar"
+    "Bemorning yoshi, jinsi va kimligi",
+    "Tashxis qo'yilgan sana va davolash natijasi",
+    "Bemor najasidagi tuxumlar va bo'laklar soni",
+    "Kamqonlik va vitamin yetishmovchiligi darajasi"
    ],
    "x": "«Epidemiolog quyidagilarni aniqlaydi: bemor qaysi baliqni, qachon, qayerdan, qanday ishlov bilan yegan; baliq tutilgan joy (ko'l, suv ombori, daryo); boshqalar ham shu baliqdan yeganmi; baliq qaerda sotilgan»"
   },
@@ -37,10 +37,10 @@
    "q": "Nima uchun difillobotriaz bemoriga izolyatsiya va karantin kerak emas?",
    "c": "Odamdan odamga yuqmaydi",
    "w": [
-    "Kasallik ko'pincha belgisiz",
+    "Kasallik ko'pincha belgisiz kechadi",
     "Bemor najasi suvga tushmaydi",
-    "Tadbirlar yuqori idoraga yuboriladi",
-    "Baliq manbai aniqlangan"
+    "Baliq sotuvchilari tekshirilmaydi",
+    "Hojatxonalar mavjud emas"
    ],
    "x": "«Difillobotriaz odamdan odamga yuqmagani uchun izolyatsiya va karantin kerak emas; asosiy e'tibor manba va muhitga qaratiladi»"
   },
@@ -62,7 +62,7 @@
     "Najasda tuxum va bo'laklar",
     "B12 yetishmovchiligi va kamqonlik",
     "Suv havzasida korasidiy lichinkasi",
-    "Xom baliq sotilgan joyi"
+    "Baliq kesimlarida skoleksning bo'laklari"
    ],
    "x": "«Baliq ekspertizasi (pleroserkoidlarni mushak kesimlarida izlash) o'tkaziladi»"
   },
@@ -70,10 +70,10 @@
    "q": "Bemor najasi suv havzalariga tushmasligi uchun nima qilinadi?",
    "c": "Hojatxonadan foydalaniladi, najas xavfsiz yo'qotiladi",
    "w": [
-    "Najas ochiq suv havzalariga yuboriladi",
-    "Najas baliq ikrasi bilan aralashtiriladi",
-    "Bemor xom baliq taomlarini iste'mol qiladi",
-    "Bemor najasi baliqchilarga topshiriladi"
+    "Izolyatsiya qilinadi, karantin e'lon qilinadi",
+    "Xom baliq taomlari tayyorlanadigan joylar yopiladi",
+    "Bemor oila a'zolaridan ajratib qo'yiladi",
+    "Baliq tutilgan joy va suv ombori yopiladi"
    ],
    "x": "«Bemor najasi suv havzalariga tushmasligi uchun hojatxonadan foydalanishi va najas xavfsiz yo'qotilishi kerak»"
   },
@@ -103,9 +103,9 @@
    "q": "Tekshiruv ro'yxatining vazifasi nima?",
    "c": "Tekshiruvni bir xil va to'liq o'tkazishga yordam beradi",
    "w": [
-    "Faqat bemor yoshini va kimligini aniqlaydi",
+    "Bemor yoshini va kimligini aniqlaydi",
     "Baliq sotilgan joyni belgilaydi",
-    "Davolash dozalarini shifokorsiz belgilaydi",
+    "Bemorni kasalxonaga yotqizishni belgilaydi",
     "Izolyatsiya va karantin muddatini belgilaydi"
    ],
    "x": "«Ro'yxat tekshiruvni bir xil va to'liq o'tkazishga yordam beradi va hech bir muhim savol e'tibordan chetda qolmasligini ta'minlaydi»"

@@ -7,7 +7,7 @@
     "ifloslangan ovqat bilan og'iz orqali kirishi",
     "teri orqali to'g'ridan-to'g'ri o'tishi",
     "kasal odam bilan bevosita aloqa orqali tarqalishi",
-    "tashqi muhit omillarining birgalikdagi ishtiroki"
+    "qon quyish yoki ifloslangan igna orqali o'tishi"
    ],
    "x": "«Transmissiv yo'l — qo'zg'atuvchining qon so'ruvchi bo'g'imoyoqli tashuvchi orqali o'tishi bo'lib, bezgak, leyshmanioz, qaytalama terlama va boshqa kasalliklarda uchraydi»"
   },
@@ -17,7 +17,7 @@
    "w": [
     "qo'zg'atuvchi odam tanasida jinsiy ko'payishdan o'tadi",
     "tashuvchi hasharot qo'zg'atuvchini ovqat orqali o'tkazadi",
-    "qo'zg'atuvchi kemiruvchilar uyalarida saqlanadi",
+    "tashuvchi qo'zg'atuvchini faqat mexanik ko'chiradi",
     "qo'zg'atuvchi tashqi muhitda ko'payishdan o'tadi"
    ],
    "x": "«Bu uch kasallik transmissiv yo'lning maxsus (biologik) turiga kiradi, chunki qo'zg'atuvchi tashuvchi organizmida rivojlanadi yoki ko'payadi»"
@@ -29,7 +29,7 @@
     "tashuvchi organizmida jinsiy ko'payish kechadi",
     "tashuvchi oraliq xo'jayin rolini o'ynaydi",
     "qo'zg'atuvchi tashuvchi ichida bosqichdan o'tadi",
-    "qo'zg'atuvchi odam tanasida jinssiz ko'payadi"
+    "qo'zg'atuvchi chivin organizmida jinsiy ko'payishdan o'tadi"
    ],
    "x": "«Ikkinchisi — mexanik transmissiya: tashuvchi qo'zg'atuvchini faqat mexanik ko'chiradi, uning organizmida rivojlanish bo'lmaydi»"
   },
@@ -61,21 +61,21 @@
    "w": [
     "Anopheles turkumi urg'ochi chivinlari",
     "yumshoq kanalar turkumi argasid vakillari",
-    "bit va qattiq kanalar urg'ochilari",
-    "kemiruvchilar uyalaridagi chivinlar"
+    "bit turkumi urg'ochilari",
+    "qattiq kanalar turkumi vakillari"
    ],
    "x": "«Bu kasallik Leishmania turkumi sodda jonivorlari tomonidan qo'zg'atiladi va ular Phlebotomus turkumi, ya'ni chivinchalar (pashsha) urg'ochilarining chaqishi bilan yuqadi»"
   },
   {
-   "q": "Leyshmanioz qaysi shakllarda kechadi?",
-   "c": "teri, visseral va shilliq-teri shakllarida",
+   "q": "Leyshmaniozda kasallik xavfini kamaytirish uchun nima nazorat qilinadi?",
+   "c": "chivinchalarning ko'payish joylari: axlat, uyalar, zax joylar",
    "w": [
-    "teri, qon va visseral shakllarida",
-    "faqat teri va visseral shakllarda",
-    "visseral, endemik va epidemik shakllarda",
-    "endemik, epidemik va shilliq-teri shakllarida"
+    "qon quyish va ifloslangan igna ishlatish holatlari",
+    "eski uylar va g'orlardagi yumshoq kanalar",
+    "ifloslangan ovqat va suv manbalari",
+    "bemorlar qonidagi spirohetalar zichligi"
    ],
-   "x": "«Kasallik teri, visseral va shilliq-teri shakllarida kechadi»"
+   "x": "«Chivinchalarning ko'payish joylari, ya'ni uy atrofidagi axlat, kemiruvchilar uyalari va zax joylar nazorat qilinsa, kasallik xavfi kamayadi»"
   },
   {
    "q": "Qaytalama terlamani qaysi qo'zg'atuvchi keltirib chiqaradi?",
@@ -83,21 +83,21 @@
    "w": [
     "Plasmodium turkumi sodda jonivorlari",
     "Leishmania turkumi sodda jonivorlari",
-    "Phlebotomus turkumi spirohetalari",
-    "Anopheles turkumi spirohetalari"
+    "Trypanosoma turkumi sodda jonivorlari",
+    "Anopheles turkumi chivinlari"
    ],
    "x": "«Qaytalama terlama Borrelia turkumi spirohetalari tomonidan qo'zg'atiladi va ikki turdagi kasalliklar mavjud: yumshoq kanalar (argasid) orqali yuqadigan endemik shakl va bit orqali yuqadigan epidemik shakl»"
   },
   {
    "q": "Borrelia recurrentis odamdan odamga qaysi yo'l bilan o'tadi?",
-   "c": "bit orqali epidemik shaklda",
+   "c": "bit orqali, epidemik shaklda",
    "w": [
-    "yumshoq kanalar orqali endemik shaklda",
-    "qattiq kanalar orqali tarqaladi",
-    "chivinchalar orqali teri shaklida",
-    "Anopheles chivinlari orqali"
+    "yumshoq kanalar orqali, endemik shaklda",
+    "qattiq kanalar orqali, epidemik shaklda",
+    "Phlebotomus chivinchalari orqali, endemik shaklda",
+    "Anopheles chivinlari orqali, epidemik shaklda"
    ],
-   "x": "«recurrentis bit orqali odamdan odamga o'tadi, B»"
+   "x": "«faqat B. recurrentis bit orqali odamdan odamga o'tadi»"
   },
   {
    "q": "Entomologik kuzatuvda nimalar baholanadi?",
@@ -106,7 +106,7 @@
     "bemorlardagi qo'zg'atuvchini aniqlash natijalari",
     "qon surtmasi, aspirat va serologik tahlil",
     "tashuvchi bilan odam aloqasining davomiyligi",
-    "serologik tahlil natijalarining aniqligi"
+    "uy-joy holati va tashqarida uxlash odati"
    ],
    "x": "«Ikkinchi vazifada entomologik kuzatuv olib boriladi: chivin yoki chivincha tutiladi, turi aniqlanadi, zichligi va mavsumiy faolligi baholanadi, ba'zan ularda qo'zg'atuvchi bor-yo'qligi tekshiriladi»"
   }
@@ -121,7 +121,7 @@
     "falciparum turi",
     "ovale turi"
    ],
-   "x": "«vivax uch kunlik bezgakni (malaria tertiana), P»"
+   "x": "«Plasmodium vivax uch kunlik bezgak qo'zg'atuvchisi hisoblanadi»"
   },
   {
    "q": "Uch kunlik bezgakda isitma xurujlari qanday takrorlanadi?",
@@ -129,8 +129,8 @@
    "w": [
     "har uch kunda, ya'ni 72 soatda",
     "ko'pincha tartibsiz bo'ladi",
-    "to'rt kunda isitma qaytalanadi",
-    "qonda parazit yillab saqlanadi"
+    "har bir kunda, ya'ni 24 soatda",
+    "oylar o'tib qaytalanish shaklida"
    ],
    "x": "«Uch kunlik bezgakning klassik belgisi — har ikki kunda, ya'ni har 48 soatda takrorlanadigan isitma xurujlari»"
   },
@@ -138,15 +138,15 @@
    "q": "Uch kunlik bezgak qaytalanishining sababi nima?",
    "c": "jigarda uxlab yotuvchi shakllar",
    "w": [
-    "qon surtmasidagi Shuffner nuqtalari",
+    "tezkor testdagi xato salbiy natija",
     "eritrotsitning kattalashishi holati",
-    "chivin organizmidagi jinsiy ko'payish",
-    "makakalar orasida aylanish sikli"
+    "tropik bezgakning tartibsiz isitmasi",
+    "qon surtmasidagi Shuffner nuqtalari"
    ],
    "x": "«Bu parazitning muhim xususiyati — jigarda uxlab yotuvchi shakllar (gipnozoitlar) hosil qilishi; shu sababli kasallik dastlabki davolashdan keyin ham oylar o'tib qaytalanishi mumkin»"
   },
   {
-   "q": "Qaytalanishning oldini olish uchun nima qilinadi?",
+   "q": "Uch kunlik bezgak qaytalanishining oldini olish uchun nima tavsiya etiladi?",
    "c": "asosiy davoga primakvin qo'shiladi",
    "w": [
     "tezkor test natijasini kutish",
@@ -163,7 +163,7 @@
     "past darajali parazitemiya va yillab saqlanish",
     "jigarda uxlab yotuvchi shakllar hosil bo'lishi",
     "har 72 soatda takrorlanadigan xurujlar",
-    "primakvin bilan davolanganda qaytalanish"
+    "har 48 soatda takrorlanadigan isitma xurujlari"
    ],
    "x": "«Og'ir shakllarda hushning buzilishi, tutqanoq, nafas qiyinlashuvi, to'q yoki qonli siydik, sariqlik va g'ayritabiiy qon ketish kuzatiladi»"
   },
@@ -173,8 +173,8 @@
    "w": [
     "48 soat ichida",
     "72 soat ichida",
-    "ikki kunda",
-    "oylar o'tib"
+    "oylar o'tib",
+    "yillab saqlangandan keyin"
    ],
    "x": "«falciparum bezgagi 24 soat ichida og'ir kasallik va o'limga olib kelishi mumkinligini qayd etadi»"
   },
@@ -190,15 +190,15 @@
    "x": "«Bu tur kam uchraydi, ammo uzoq davom etuvchi, past darajali parazitemiya bilan tavsiflanadi: parazit odam qonida yillab saqlanishi mumkin»"
   },
   {
-   "q": "P. ovale asosan qaysi hududda tarqalgan?",
-   "c": "asosan Afrika qit'asida",
+   "q": "P. ovale qaysi hududda asosan tarqalgan?",
+   "c": "Afrika qit'asida",
    "w": [
     "Janubi-Sharqiy Osiyoda",
-    "Afrikadan tashqari ko'pchilik mamlakatlarda",
-    "Saxaradan janubdagi mamlakatlarda",
+    "Afrikadan tashqari ko'pchilik mamlakatlarda ustun",
+    "o'rmonli hududlarda, makakalar orasida",
     "bezgak o'choqlari kuchli hududlarda"
    ],
-   "x": "«ovale esa asosan tropik Afrika va Okeaniyada uchraydigan, P»"
+   "x": "«U asosan Afrikada tarqalgan, boshqa mintaqalarda kam uchraydi»"
   },
   {
    "q": "P. knowlesi qanday tur hisoblanadi?",
@@ -218,7 +218,7 @@
     "qalin tomchida parazitni aniqlash osonligi",
     "jigarda uxlab yotuvchi gipnozoitlarni aniqlash",
     "aralash bezgakda barcha turlarni yozish",
-    "Shuffner nuqtalarini aniqlash natijasi"
+    "tezkor testda P. falciparum oqsillarini aniqlash"
    ],
    "x": "«Qalin tomchida parazitni aniqlash oson, yupqa surtmada esa turni aniqlash va parazitemiya darajasini baholash qulay»"
   }
@@ -231,7 +231,7 @@
     "P. vivax klassik tur",
     "falciparum klassik tur",
     "malariae klassik tur",
-    "ovale klassik tur"
+    "cynomolgi primat turi"
    ],
    "x": "«Odamga o'tadigan zoonoz bezgakning eng aniq tasdiqlangan turi — makakalar parazitlari bo'lgan Plasmodium knowlesi»"
   },
@@ -242,7 +242,7 @@
     "odam parazitining chivin orqali hayvonga o'tishi",
     "odamdan odamga bevosita yuqish yo'li",
     "yovvoyi primatlar orasida saqlanib qolishi",
-    "klassik turlarning yo'qotilgan hududlarda qolishi"
+    "klassik turlarning chivin orqali odamdan odamga o'tishi"
    ],
    "x": "«Zoonoz bezgak deb hayvon (asosan primatlar) parazitining chivin orqali odamga o'tishi va odamda kasallik chaqirishiga aytiladi»"
   },
@@ -262,20 +262,20 @@
    "c": "parazitemiya oshadi va kasallik og'ir kechishi mumkin",
    "w": [
     "odamdan odamga yuqish yo'li o'zgaradi",
-    "hayvon rezervuari yo'qoladi va parazitemiya oshadi",
+    "odamdan odamga yuqish juda ko'p bo'ladi",
     "chivin orqali yuqish yo'li o'zgaradi",
     "hayvon rezervuari yo'qoladi va xavf kamayadi"
    ],
    "x": "«Shu sababli parazitemiya tez oshadi va kasallik og'ir kechishi mumkin»"
   },
   {
-   "q": "P. knowlesi ning aniq turi qaysi usul bilan aniqlanadi?",
+   "q": "Plasmodium knowlesi ning aniq turi qaysi usul bilan aniqlanadi?",
    "c": "molekulyar tahlil usullari",
    "w": [
     "qon surtmasi mikroskopiyasi natijasi",
-    "sayohat tarixi va qon surtmasi natijasi",
-    "klinik kechishni baholash yordamida",
-    "chivin chaqishini hisoblash"
+    "sayohat tarixini baholash",
+    "klinik kechishni baholash",
+    "tezkor test natijasini o'qish"
    ],
    "x": "«falciparum deb qo'yilgan tashxis shubhali bo'lsa, ma'lumotnoma laboratoriyasiga molekulyar tahlil uchun yuboriladi»"
   },
@@ -284,7 +284,7 @@
    "c": "cynomolgi, simium va brasilianum",
    "w": [
     "vivax, falciparum va malariae",
-    "malariae, ovale va knowlesi",
+    "malariae, ovale va falciparum",
     "falciparum, ovale va simium",
     "knowlesi, malariae va brasilianum"
    ],
@@ -295,8 +295,8 @@
    "c": "yovvoyi primatlar orasida parazit saqlanib qoladi",
    "w": [
     "parazit odamdan odamga yuqish yo'li bilan saqlanadi",
-    "tashuvchi o'rmon chivinlari sayohatchilarga yuqadi",
-    "asosiy manba odam hisoblanadi",
+    "odamdan odamga yuqish juda ko'p uchraydi",
+    "asosiy manba odam bo'lib, hayvon rezervuari yo'q",
     "klassik turlar odamlarda saqlanib qoladi"
    ],
    "x": "«Shuning uchun odamlarni davolash bilan kasallikni yo'qotib bo'lmaydi, chunki yovvoyi primatlar orasida parazit saqlanib qoladi»"
@@ -313,26 +313,26 @@
    "x": "«Odam odatda o'rmonga yaqin yashovchi yoki o'rmonda ishlovchi shaxs bo'ladi: dehqonlar, o'rmonchilar, sayyohlar»"
   },
   {
-   "q": "Sayohatchilar uchun kimyoprofilaktika qancha davom ettiriladi?",
-   "c": "hududdan chiqqandan keyin to'rt hafta",
+   "q": "Endemik hududdan qaytgan sayohatchida kimyoprofilaktika qancha davom ettiriladi?",
+   "c": "hududdan chiqqandan keyin ham to'rt hafta",
    "w": [
     "faqat endemik hududda bo'lgan paytda",
-    "sayohat tarixi aniqlangunga qadar",
     "isitma paydo bo'lgunga qadar",
+    "hududdan chiqqandan keyin bir hafta",
     "hududga kirishdan oldin to'rt hafta"
    ],
    "x": "«Endemik hududga borayotgan sayohatchilar uchun kimyoprofilaktika tavsiya etiladi va u hududdan chiqqandan keyin ham to'rt hafta davom ettiriladi»"
   },
   {
-   "q": "O'zbekiston bezgak bo'yicha qanday maqomga ega?",
-   "c": "bezgakdan holi deb sertifikatlangan",
+   "q": "Zoonoz bezgakda yuqish yo'li qanday zanjirdan iborat?",
+   "c": "hayvon-chivin-odam yo'li",
    "w": [
-    "zoonoz tur keng tarqalgan hudud",
-    "manba saqlanib qolgan hudud",
-    "primatlar rezervuari mavjud hudud",
-    "klassik turlar ustun bo'lgan hudud"
+    "odam-chivin-odam yo'li",
+    "chivin-hayvon-odam yo'li",
+    "odam-hayvon-chivin yo'li",
+    "chivin-odam-hayvon yo'li"
    ],
-   "x": "«O'zbekiston bezgakdan holi deb sertifikatlangan, shuning uchun zoonoz tur asosan import qilinishi mumkin bo'lgan xavf sifatida e'tiborga olinadi»"
+   "x": "«Odamdan odamga yuqish juda kam, ya'ni asosan yuqish yo'li hayvon-chivin-odam»"
   }
  ]
 }

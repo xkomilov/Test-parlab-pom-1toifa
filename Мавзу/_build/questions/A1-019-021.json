@@ -9,7 +9,7 @@
     "eritrositar shakllar",
     "relaps shakllari"
    ],
-   "x": "«malariae) uchun bunday tavsiya berilmaydi, chunki ularda gipnozoit shakllari odatda aniqlanmaydi, ammo P»"
+   "x": "«Ana shu shakllar uyqusiz, ya'ni gipnozoitlar deb ataladi»"
   },
   {
    "q": "Jigarda uyqusiz shakllar bezgakning qaysi turlarida bo'ladi?",
@@ -20,7 +20,7 @@
     "to'rt kunlik va ovale-bezgakda",
     "tropik bezgak va ovale-bezgakda"
    ],
-   "x": "«Demak, jigarda uyqusiz shakllar uch kunlik bezgakda (P»"
+   "x": "«Jigarda uyqusiz shakllar — gipnozoitlar — uch kunlik (P. vivax) va ovale-bezgak (P. ovale) uchun xos»"
   },
   {
    "q": "Jigarda kechadigan bosqich qanday ataladi?",
@@ -35,14 +35,14 @@
   },
   {
    "q": "Gipnozoitlar faollashganda nimaga sabab bo'ladi?",
-   "c": "kasallik qaytalanishiga",
+   "c": "uzoq muddatli qaytalanishlarga",
    "w": [
-    "kasallik qon bosqichining yo'qolishiga",
-    "jigar bosqichining yo'qolishiga",
+    "qon bosqichining butunlay yo'qolishiga",
     "qon surtmasida parazit ko'rinmasligiga",
-    "kasallik jigar bosqichining tugashiga"
+    "jigar bosqichining yo'qolishiga",
+    "sporozoitlarning jigarga kirishiga"
    ],
-   "x": "«Birinchisi — yaqin (qisqa muddatli) qaytalanish, ya'ni qondagi parazitlar to'liq yo'qotilmaganda bir necha hafta ichida kasallik yana boshlanishi; bu davolashning samarasizligi yoki parazit dori qarshiligi bilan bog'liq bo'lishi mumkin»"
+   "x": "«Ular uzoq muddatli qaytalanishlarga sabab bo'ladi, laboratoriyada aniqlanmaydi va primakvin bilan davolanadi»"
   },
   {
    "q": "Gipnozoitlar qon surtmasida nima uchun ko'rinmaydi?",
@@ -67,24 +67,24 @@
    "x": "«Bu holat laboratoriya natijasi va klinik qaror o'rtasidagi muhim farqni ko'rsatadi: manfiy qon surtmasi gipnozoitlar yo'qligini isbotlamaydi»"
   },
   {
-   "q": "Gipnozoitlarga qarshi qaysi dori qo'llaniladi?",
-   "c": "jigar bosqichiga qarshi primakvin",
+   "q": "Tropik va to'rt kunlik bezgakda primakvin qo'shish nega tavsiya etilmaydi?",
+   "c": "ularda gipnozoit shakllari odatda aniqlanmaydi",
    "w": [
-    "qon shakllariga qarshi xlorokin",
-    "jigar bosqichiga qarshi xlorokin",
-    "qon bosqichiga qarshi primakvin",
-    "gipnozoitlarga qarshi xlorokin"
+    "ularda jigar bosqichi bir necha oy davom etadi",
+    "ularda qaytalanish dori qarshiligi bilan bog'liq",
+    "ularda sporozoitlar jigarga kirmaydi",
+    "ularda qon testlari faqat jigar bosqichini aniqlaydi"
    ],
-   "x": "«Gipnozoitlarga ta'sir qiladigan dori jigar bosqichiga qarshi bo'lishi kerak»"
+   "x": "«Tropik bezgak (P. falciparum) va to'rt kunlik bezgak (P. malariae) uchun bunday tavsiya berilmaydi, chunki ularda gipnozoit shakllari odatda aniqlanmaydi»"
   },
   {
    "q": "Uzoq muddatli qaytalanish nima bilan bog'liq?",
    "c": "gipnozoitlarning qayta faollashishi",
    "w": [
     "davolashning samarasizligi yoki parazit dori qarshiligi",
-    "parazit dori qarshiligi holati",
     "qondagi parazitlar to'liq yo'qotilmasligi",
-    "sporozoitlarning jigarga kirishi"
+    "sporozoitlarning jigarga kirishi",
+    "manfiy qon surtmasi natijasi"
    ],
    "x": "«Ikkinchisi — uzoq muddatli qaytalanish, ya'ni gipnozoitlar faollashishi tufayli oylar o'tgach paydo bo'ladigan xuruj»"
   },
@@ -121,18 +121,18 @@
     "yengil bezgak",
     "boshqa turlar bezgagi"
    ],
-   "x": "«Og'ir asoratlarni asosan tropik bezgak, ya'ni P»"
+   "x": "«Og'ir asoratlar asosan Plasmodium falciparum qo'zg'atadigan tropik bezgak bilan bog'liq»"
   },
   {
-   "q": "Tropik bezgak nega og'ir kechadi?",
+   "q": "P. falciparum parazitemiyasi nega juda yuqori bo'lishi mumkin?",
    "c": "har yoshdagi eritrotsitni zararlay oladi",
    "w": [
-    "faqat yosh eritrotsitlarni tanlaydi",
-    "boshqa turlar asosan yosh eritrotsitlarni tanlaydi",
-    "keksa eritrotsitlarni zararlamaydi",
-    "kichik qon tomirlariga yopishmaydi"
+    "asosan yosh eritrotsitlarni tanlaydi",
+    "asosan keksa eritrotsitlarni tanlaydi",
+    "kichik qon tomirlariga yopishmaydi",
+    "sekin rivojlanadi va a'zolarni zararlamaydi"
    ],
-   "x": "«falciparum har yoshdagi eritrotsitni zararlay oladi, shuning uchun parazitemiya juda yuqori bo'lishi mumkin, boshqa turlar esa asosan yosh yoki keksa eritrotsitlarni tanlaydi»"
+   "x": "«Birinchidan, P. falciparum har yoshdagi eritrotsitni zararlay oladi, shuning uchun parazitemiya juda yuqori bo'lishi mumkin, boshqa turlar esa asosan yosh yoki keksa eritrotsitlarni tanlaydi»"
   },
   {
    "q": "Zararlangan eritrotsitlar kichik qon tomirlariga yopishsa nima bo'ladi?",
@@ -157,15 +157,15 @@
    "x": "«Unda zararlangan eritrotsitlar miya kapillyarlarida to'planib, qon oqimini buzadi, natijada hushning buzilishi, tutqanoq va koma rivojlanadi»"
   },
   {
-   "q": "Bosh miya bezgagida qanday holatlar rivojlanadi?",
-   "c": "hushning buzilishi, tutqanoq va koma",
+   "q": "Tropik bezgakning eng xavfli asorati qaysi?",
+   "c": "bosh miya (serebral) bezgagi",
    "w": [
-    "siydik ajralishi kamayishi va to'q siydik",
-    "o'pka shishi, atsidoz va nafas qisilishi",
-    "rangpar teri va yurak urishi tezlashuvi",
-    "qon shakar pasayishi va g'ayritabiiy qon ketishlar"
+    "og'ir kamqonlik holati",
+    "buyrak va jigar yetishmovchiligi",
+    "nafas yetishmovchiligi va atsidoz",
+    "gipoglikemiya va qon ketishlar"
    ],
-   "x": "«Unda zararlangan eritrotsitlar miya kapillyarlarida to'planib, qon oqimini buzadi, natijada hushning buzilishi, tutqanoq va koma rivojlanadi»"
+   "x": "«Eng xavfli asorat — bosh miya (serebral) bezgagi»"
   },
   {
    "q": "Og'ir kamqonlik qanday namoyon bo'ladi?",
@@ -183,7 +183,7 @@
    "c": "qon shakar miqdorining pasayishi",
    "w": [
     "qon ivish tizimining buzilishi",
-    "qon shakar miqdorining ko'tarilishi",
+    "qonda gemoglobin miqdorining pasayishi",
     "kreatinin va bilirubin pasayishi",
     "trombotsitlar soni pasayishi"
    ],
@@ -251,7 +251,7 @@
    "c": "shaxsiy himoya vositalari, kimyoprofilaktika va emlash",
    "w": [
     "erta tashxis, davolash va epidemiologik kuzatuv",
-    "chivin to'rlari va qaytaruvchi vositalar",
+    "mikroskopiya yoki tezkor test o'tkazish",
     "sanitariya-ma'rifiy ishlar va dispanser nazorati",
     "atrof-muhitni boshqarish va suv havzalari holati"
    ],
@@ -264,7 +264,7 @@
     "yozda tashqarida ishlovchilarni davolash va tekshirish",
     "kimyoprofilaktika va profilaktik kimyoterapiya",
     "dispanser nazoratiga olish va tekshirish",
-    "entomologik ko'rsatmalar bo'yicha ishlov berish"
+    "emlash va ommaviy dori berish"
    ],
    "x": "«Jahon sog'liqni saqlash tashkiloti chivin chaqishidan saqlanish choralarini sanab o'tadi: chivin to'rlari ostida uxlash, kechqurundan keyin DEET, IR3535 yoki ikaridin tarkibli qaytaruvchi vositalardan foydalanish, spiral va bug'latgichlardan foydalanish, himoya kiyimlari kiyish va deraza to'rlaridan foydalanish»"
   },
@@ -275,7 +275,7 @@
     "chivinlar hududda hali faol bo'ladi",
     "chivinlar kechqurun va tunda faol bo'ladi",
     "moyil odamlar emlanmagan bo'ladi",
-    "shifokor bilan maslahatlashish zarur bo'ladi"
+    "dorilar hududda bo'lgan davrda qabul qilinadi"
    ],
    "x": "«Birinchisi — sayohatchilar uchun kimyoprofilaktika: endemik hududga borishdan bir necha hafta oldin shifokor bilan maslahatlashish kerak; ba'zi dorilar safardan 2–3 hafta oldin boshlanadi, hududda bo'lgan butun davr davomida qabul qilinadi va oxirgi mumkin bo'lgan zararlanishdan keyin 4 hafta davom ettiriladi, chunki parazitlar jigardan hali chiqishi mumkin»"
   },
@@ -313,15 +313,15 @@
    "x": "«Aholi bezgak belgilari, chivin chaqishidan himoyalanish yo'llari va isitma paydo bo'lganda darhol shifokorga murojaat qilish zarurligi haqida xabardor bo'lishi kerak»"
   },
   {
-   "q": "Endemik davlatdan qaytganlar qanday nazoratga olinadi?",
-   "c": "uch yil dispanser nazoratiga",
+   "q": "Sayohatchilar kimyoprofilaktikani oxirgi mumkin bo'lgan zararlanishdan keyin qancha davom ettiradi?",
+   "c": "4 hafta davomida",
    "w": [
-    "bir yil emlash nazoratiga",
-    "isitma paydo bo'lguncha entomologik nazoratga",
-    "uch hafta kimyoprofilaktika nazoratiga",
-    "maslahat xonalarida davriy nazoratga"
+    "2 hafta davomida",
+    "3 hafta davomida",
+    "bir hafta davomida",
+    "6 hafta davomida"
    ],
-   "x": "«Qaytganlar uch yil dispanser nazoratiga olinadi va yashash joylarida entomologik ko'rsatmalarga ko'ra insektitsidlar bilan ishlov beriladi»"
+   "x": "«oxirgi mumkin bo'lgan zararlanishdan keyin 4 hafta davom ettiriladi, chunki parazitlar jigardan hali chiqishi mumkin»"
   },
   {
    "q": "Yuqish yo'lini uzish uchun nima qilinadi?",

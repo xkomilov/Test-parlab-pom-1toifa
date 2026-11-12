@@ -45,15 +45,15 @@
    "x": "«O'pkada rentgenda o'tkinchi infiltratlar (Lyoffler sindromi) va qonda eozinofiliya bo'lishi mumkin»"
   },
   {
-   "q": "Kech davrda qorin og'rig'i qanday xarakterda bo'ladi?",
-   "c": "Kindik atrofida, xurujsimon",
+   "q": "Askaridozning kech davrida qorin og'rig'i asosan qaysi sohada bo'ladi?",
+   "c": "Kindik atrofida",
    "w": [
-    "Ko'krak qafasida, xurujsimon",
-    "O'pkada, xurujsimon",
-    "Ingichka ichakda, xurujsimon",
-    "Jigarda, xurujsimon"
+    "O't yo'llarida",
+    "Ingichka ichakda",
+    "Jigarda",
+    "Ko'krak qafasida"
    ],
-   "x": "«Voyaga yetgan askaridalar ingichka ichakda joylashgach, belgilar ichak buzilishlari bilan namoyon bo'ladi: qorin og'rig'i (ko'pincha kindik atrofida, xurujsimon), ko'ngil aynishi, ishtaha buzilishi yoki oshishi, qusish, ich ketishi yoki ich qotishi, qorinning shishishi, so'lak oqishi»"
+   "x": "«Voyaga yetgan askaridalar ingichka ichakda joylashgach, belgilar ichak buzilishlari bilan namoyon bo'ladi: qorin og'rig'i (ko'pincha kindik atrofida, xurujsimon)»"
   },
   {
    "q": "Eng og'ir asorat qaysi?",
@@ -82,9 +82,9 @@
    "c": "3–10 yosh",
    "w": [
     "1–2 yosh",
-    "5–7 yosh",
     "11–15 yosh",
-    "20 yosh"
+    "15–20 yosh",
+    "30–40 yosh"
    ],
    "x": "«Bolalar (3–10 yosh) eng ko'p zarar ko'radi, chunki ular tuproq bilan ko'p aloqada bo'ladi va tanalari kichik, shuning uchun chuvalchanglar ichakni to'sib qo'yishi osonroq»"
   },
@@ -92,23 +92,23 @@
    "q": "Askaridoz bolalarda o'sishning buzilishiga nega olib keladi?",
    "c": "Oziq moddalar so'rilishi yomonlashadi",
    "w": [
-    "Erta davrda lichinkalar jigarga ko'chadi",
-    "Najasda tuxum soni kamayadi",
-    "Ichak yo'li chuvalchang bilan to'silmaydi",
-    "Allergik reaksiya kuchsiz bo'ladi"
+    "Lichinkalar to'qimalarni shikastlaydi",
+    "Allergik reaksiyalar kuchli rivojlanadi",
+    "Toksik ta'sir uyqu buzilishini chaqiradi",
+    "Teri toshmalari va qichima paydo bo'ladi"
    ],
    "x": "«Jahon sog'liqni saqlash tashkilotiga ko'ra, tuproq gelmintlari xo'jayin oziq moddalarining so'rilishini yomonlashtiradi, ishtahani pasaytiradi, askarida esa ichakda A vitamini uchun raqobat qilishi mumkin; natijada bolalarda o'sish va jismoniy rivojlanish buziladi»"
   },
   {
-   "q": "Askaridozni davolash uchun qaysi dorilar qo'llanadi?",
-   "c": "Albendazol yoki mebendazol",
+   "q": "Davolashdan keyin askaridozda qanday kuzatuv o'tkaziladi?",
+   "c": "Bola qayta tekshiriladi, oila a'zolari ko'rikdan o'tkaziladi",
    "w": [
-    "Albendazol yoki toksokaroz",
-    "Mebendazol yoki gastroduodenit",
-    "Strongiloidoz yoki ankilostomidoz",
-    "Lyambliyoz yoki appenditsit"
+    "Oila a'zolari davolanadi, bola qayta tekshirilmaydi",
+    "Bola stasionarda davolanadi, oila a'zolari tekshirilmaydi",
+    "Najas mikroskopiyasi takrorlanmaydi, davolash to'xtatiladi",
+    "Bola allergik reaksiya uchun qayta tekshiriladi"
    ],
-   "x": "«Askaridozni davolash uchun albendazol yoki mebendazol qo'llanadi»"
+   "x": "«Davolashdan keyin bola qayta tekshiriladi va oila a'zolari ham ko'rikdan o'tkaziladi»"
   }
  ],
  "086": [
@@ -129,7 +129,7 @@
    "w": [
     "Najasda lichinkalar ko'p",
     "Tuxumlar urug'lanmagan",
-    "Chuvalchang ichakda yo'q",
+    "Eozinofiliya aniqlanmaydi",
     "Intensivlik past"
    ],
    "x": "«Askaridoz tashxisida davrni ham hisobga olish kerak: erta (ko'chish) davrda najasda tuxum yo'q, shuning uchun bu davrda tashxis boshqa belgilarga asoslanadi»"
@@ -152,7 +152,7 @@
     "Cho'ziqroq, yupqaroq, ichi donador",
     "Yupqa, ichi donador, sarg'ish",
     "Uzun, pushti-oq, silindrsimon",
-    "Sarg'ish-jigarrang, ichi donador"
+    "Yupqa, silliq, ichida bitta hujayra"
    ],
    "x": "«Askarida tuxumi o'ziga xos: oval yoki yumaloq, qalin, bo'rtmali qobiqli, sarg'ish-jigarrang, ichida bitta hujayra»"
   },
@@ -225,15 +225,15 @@
  ],
  "087": [
   {
-   "q": "Trixosefalyozning qo'zg'atuvchisi qaysi parazit?",
-   "c": "Trichuris trichiura",
+   "q": "Qilbosh chuvalchang tuxumi boshqa gelmint tuxumlaridan nima orqali ajratiladi?",
+   "c": "Ikki qutbdagi tiqinlari",
    "w": [
-    "Askarida",
-    "G'ajakboshlar",
-    "Trichuridae oilasi",
-    "Hookworm"
+    "Qalin jigarrang qobig'i",
+    "Bir hujayrali lichinkasi",
+    "Ingichka tuk singari uchi",
+    "Kattaligi taxminan 3–5 sm"
    ],
-   "x": "«Trichuris trichiura — nematodalar sinfining Trichuridae oilasiga mansub parazit»"
+   "x": "«Bu tavsif tashxis uchun asosiy: tuxumni boshqa gelmint tuxumlaridan ikki qutbdagi tiqinlari bilan ajratish oson»"
   },
   {
    "q": "Qilbosh chuvalchang qaysi hududlarda ko'proq uchraydi?",
@@ -242,7 +242,7 @@
     "Iliq va quruq iqlimli hududlarda",
     "Sanitariya yaxshi bo'lgan joylarda",
     "Soyali va quruq hududlarda",
-    "Quruqlikka chidamli hududlarda"
+    "Past haroratli quruq hududlarda"
    ],
    "x": "«Kasallik asosan iliq va nam iqlimli hududlarda, sanitariya yaxshi bo'lmagan joylarda uchraydi va bolalarda ko'proq kuzatiladi»"
   },
@@ -302,13 +302,13 @@
    "x": "«Qilbosh chuvalchang tuxumlari uchun eng qulay muhit — iliq, nam, soyali tuproq; ular ayniqsa quruqlikka va past haroratga askarida tuxumlariga qaraganda kamroq chidamli»"
   },
   {
-   "q": "Askaridadan farqli ravishda lichinkalar nima qilmaydi?",
-   "c": "O'pka orqali ko'chmaydi",
+   "q": "Askaridadan farqli ravishda qilbosh chuvalchang lichinkalari qaysi bosqichdan o'tmaydi?",
+   "c": "Qon va o'pka orqali ko'chish",
    "w": [
-    "Ichak shilliq qavatiga kirmaydi",
-    "Po'st tashlamaydi",
-    "Ingichka ichakda tuxumdan chiqmaydi",
-    "Tuproqda yetilmaydi"
+    "Ko'r ichakda shilliq qavatga kirish",
+    "Bir necha marta po'st tashlash",
+    "Ingichka ichakda tuxumdan chiqish",
+    "Tuproqda tuxumning yetilishi"
    ],
    "x": "«Askaridadan farqli o'laroq, lichinkalar qon aylanish tizimi va o'pka orqali ko'chmaydi, ya'ni o'pka bosqichi yo'q»"
   },
@@ -316,21 +316,21 @@
    "q": "Tuxum qo'yishning boshlanishi uchun qancha vaqt kerak?",
    "c": "Taxminan 2–3 oy",
    "w": [
-    "Taxminan 1–2 hafta",
+    "1–2 hafta",
     "Taxminan 3 hafta",
-    "Taxminan 5–7 yil",
-    "Taxminan 20–24 sutka"
+    "5–7 yil",
+    "20–24 sutka"
    ],
    "x": "«Tuxum qo'yishning boshlanishi uchun taxminan 2–3 oy kerak, chuvalchang odamda bir necha yil yashashi mumkin»"
   },
   {
-   "q": "Surunkali qon yo'qotish nimaga olib keladi?",
-   "c": "Kamqonlikka",
+   "q": "Trixosefalyozda surunkali qon yo'qotishning oqibati nima?",
+   "c": "Kamqonlik",
    "w": [
-    "Ichak shilliq qavati qizarishiga",
-    "Ikkilamchi bakterial infeksiyaga",
-    "Mayda qon ketishlarga",
-    "Temir va oqsil yo'qotilishiga"
+    "Ichak shilliq qavati qizarishi",
+    "Ikkilamchi bakterial infeksiya",
+    "Chuvalchangning odamda ko'payishi",
+    "Tuxumning tuproqda yetilishi"
    ],
    "x": "«Surunkali qon yo'qotish kamqonlikka olib keladi»"
   }

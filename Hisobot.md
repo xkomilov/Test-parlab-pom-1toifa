@@ -9,7 +9,7 @@
 A = 299, B = 298, C = 299, D = 299, E = 298. Birorta faylda uch marta ketma-ket bir xil harf yo'q.
 
 ## 3. Uzun to'g'ri javoblar ulushi
-To'g'ri javob eng uzun noto'g'ri javobdan 10% dan uzun: 260 ta savol (17,4%). Hech birida 30% chegarasi oshmagan.
+To'g'ri javob eng uzun noto'g'ri javobdan 10% dan uzun: 254 ta savol (17,0%). Hech birida 30% chegarasi oshmagan.
 
 ## 4. Mavzu matnlari o'rtasidagi farqlar
 1. 009: «O'zbekistonda parazitologiya maktabi» bo'limida avvalgi qoralamadan qolgan buzilgan jumla bor ("Avvalgi qoralamada tilga olingan boshqa mahalliy olimlarning nomlari (masalan, N.M. Matchanov va Sh.M." jumlasi uzilgan). Savollar bu jumlaga tayanmagan; matnni tuzatish kerak.
@@ -22,3 +22,6 @@ To'g'ri javob eng uzun noto'g'ri javobdan 10% dan uzun: 260 ta savol (17,4%). He
 - Qat'iy QA (build_tests.js): xato 0.
 - Fayllar jszip bilan qayta o'qildi: savollar soni, izohda iqtibos, kirill aralashmasi yo'qligi, ketma-ket harflar tekshirildi: muammo 0.
 - Tibbiy mazmunni mutaxassis tekshirishi kerak. Ba'zi noto'g'ri variantlar mavzu matnidagi iboralar bilan cheklanib tuzilgani uchun biroz sodda ko'rinishi mumkin.
+
+## Sifat tekshiruvi (ikkinchi o'tish)
+Savollarning mazmuni alohida sifat tekshiruvidan o'tkazildi (013–149): kesilgan yoki javobni tasdiqlamagan iqtiboslar almashtirildi, to'g'ri javobning parafrazasi bo'lgan yoki bir so'z farqli "tuzoq" variantlar, ma'nosiz variantlar va hujjat ilovasiga havola qilgan savollar yangilandi. Taxminan yarmi savollar o'zgargan. Qat'iy QA qayta o'tkazildi: xato 0.

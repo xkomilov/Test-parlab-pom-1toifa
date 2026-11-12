@@ -28,7 +28,7 @@
    "w": [
     "Ichigacha yaxshi pishirilgan",
     "Ishonchli muzlatilgan baliq",
-    "Tuzlangan va quritilgan",
+    "Muzlatilgan va ichigacha pishgan",
     "Qovurilgan va ichigacha pishgan"
    ],
    "x": "«Xavfli taom va ishlov usullari: xom baliq (stroganina, tuzlangan xom baliq); yengil tuzlangan va quritilgan baliq (vobla, taran); sovuq dudlangan baliq; yarim xom qovurilgan baliq, qalin kesilgan baliq; baliq kabobi va shashlik tashqi tomondan pishgani bilan ichi xom; xom baliq ikrasi; qiyma baliq (tatib ko'rish)»"
@@ -45,13 +45,13 @@
    "x": "«Rezervuar hayvonlar — mushuklar, itlar va boshqa baliq yeydigan yirtqichlar»"
   },
   {
-   "q": "Hayvonlardan odamga opistorxoz yuqadimi?",
-   "c": "To'g'ridan-to'g'ri yuqmaydi",
+   "q": "Opistorxoz hayvonlardan odamga qanday yuqadi?",
+   "c": "Baliq orqali, to'g'ridan-to'g'ri yuqmaydi",
    "w": [
-    "To'g'ridan-to'g'ri yuqadi",
-    "Itlar orqali to'g'ridan-to'g'ri yuqadi",
-    "Mushuklar orqali to'g'ridan-to'g'ri yuqadi",
-    "Yirtqichlar orqali to'g'ridan-to'g'ri yuqadi"
+    "Itlar bilan aloqa orqali to'g'ridan-to'g'ri yuqadi",
+    "Mushuklar bilan o'ynash orqali to'g'ridan-to'g'ri yuqadi",
+    "Yirtqichlar najasi orqali to'g'ridan-to'g'ri yuqadi",
+    "Odamdan odamga to'g'ridan-to'g'ri yuqadi"
    ],
    "x": "«Uy hayvonlari ham odam bilan bir xil zararlanish manbasi (baliq) orqali kasallanadi; odamdan odamga yoki hayvondan odamga to'g'ridan-to'g'ri yuqmaydi»"
   },
@@ -100,13 +100,13 @@
    "x": "«Zararlanish yo'lini uzish: chuchuk suv baliqni ichigacha yaxshi pishirish yoki ishonchli muzlatish; xom, yarim xom, yengil tuzlangan, quritilgan va sovuq dudlangan baliqdan saqlanish; baliq tayyorlashda pichoq va taxtani xom va pishgan mahsulot uchun alohida ishlatish; baliq chiqindilarini hayvonlarga xom bermaslik; hojatxonalar va oqova suv tozalash; suv havzalariga najas tushishini oldini olish; aholini o'qitish»"
   },
   {
-   "q": "Hojatxonalar yo'qligi zanjirga qanday ta'sir qiladi?",
-   "c": "Najasning suvga tushishi zanjirni davom ettiradi",
+   "q": "Hojatxonalar yo'qligi va najasning suvga tushishi nimaga olib keladi?",
+   "c": "Zanjirni davom ettirishga",
    "w": [
-    "Najasning suvga tushishi zanjirni uzadi",
-    "Hojatxonalar zanjirni davom ettiradi",
-    "Oqova suv zanjirni uzadi",
-    "Mollyuskalar zanjirni uzadi"
+    "Zanjirni uzishga",
+    "Mollyuskalar tarqalishiga",
+    "Baliqlarning zararlanmasligiga",
+    "Oqova suv tozalanishiga"
    ],
    "x": "«Hojatxonalar yo'qligi, najasning suvga tushishi zanjirni davom ettiradi»"
   }

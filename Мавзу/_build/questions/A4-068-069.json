@@ -72,8 +72,8 @@
    "w": [
     "Faqat odam",
     "Kiyim biti",
-    "Yumshoq kanalar",
-    "Ornithodoros kanalari"
+    "Qattiq iksodid kanalar",
+    "Borrelia miyamotoi turi"
    ],
    "x": "«Kana orqali yuqadigan endemik shaklda esa qo'zg'atuvchi turlar ko'p, rezervuar kemiruvchilar, yuqish kana chaqishi bilan»"
   },
@@ -92,12 +92,12 @@
    "q": "Markaziy Osiyoda kanali qaytalama terlamani qaysi Borrelia turlari qo'zg'atadi?",
    "c": "B. persica va B. latyschewii",
    "w": [
-    "Epidemik B. recurrentis turi",
-    "Faqat B. miyamotoi turi",
-    "Ornithodoros kanalariga xos turlar",
-    "Qattiq kanalar turlari"
+    "B. recurrentis va B. miyamotoi",
+    "B. persica va B. recurrentis",
+    "B. latyschewii va B. miyamotoi",
+    "B. miyamotoi va B. persica"
    ],
-   "x": "«latyschewii ning rezervuari esa kemiruvchilar»"
+   "x": "«KQT etiologiyasi: Borrelia turkumi spirohetalari, Markaziy Osiyoda B. persica va B. latyschewii, yumshoq Ornithodoros kanalari tashuvchisi, kemiruvchilar rezervuari»"
   },
   {
    "q": "Epidemik va endemik shaklni farqlash nimaga ta'sir qiladi?",
@@ -129,8 +129,8 @@
    "w": [
     "Kemiruvchilar faqat cho'lda ko'payadi",
     "Spirohetalar issiq hududlarda ko'payadi",
-    "Ro'yxatga olingan hududlar shunday tanlanadi",
-    "Klinik holatlar bunday joylarda ko'proq tasdiqlanadi"
+    "Eski uy-joylar faqat cho'lda qurilgan",
+    "Serologik so'rovlar cho'lda ko'proq o'tkaziladi"
    ],
    "x": "«Bunday o'choqlar odatda quruq, issiq, cho'l va yarim cho'l, tog' oldi hududlarida, kemiruvchilar inlari, g'orlar, qadimiy inshootlar, eski uy-joylar va chorva qo'ralari mavjud joylarda shakllanadi, chunki yumshoq kanalar aynan shunday yashash joylarida yashaydi»"
   },

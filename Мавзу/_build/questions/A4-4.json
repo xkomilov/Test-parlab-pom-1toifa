@@ -6,8 +6,8 @@
    "w": [
     "Shikoyatlarga qarab tashxis qo'yishga",
     "Oddiy najas tekshiruviga",
-    "Ko'z bilan ko'rilgan chuvalchangga",
-    "Tayyor tashxis to'plamlariga"
+    "Oila a'zolari tekshiruviga",
+    "Jamoa tekshiruvi natijalariga"
    ],
    "x": "«Enterobioz tashxisi klinik shubha va laboratoriya tasdig'iga asoslanadi»"
   },
@@ -16,9 +16,9 @@
    "c": "Tuxumlar anal atrofiga qo'yiladi",
    "w": [
     "Tuxumlar ichak ichiga qo'yiladi",
-    "Najasda tuxumlar topilishi kerak",
-    "Tuxumlar ko'z bilan ko'rinadi",
-    "Chuvalchanglar ertalab chiqadi"
+    "Chuvalchanglar najasda ko'rinmaydi",
+    "Tuxumlar najasda ko'p topiladi",
+    "Najas bilan tuxumlar doim chiqadi"
    ],
    "x": "«Najas tekshiruvida ostritsa tuxumi kamdan-kam topiladi, chunki tuxumlar anal atrofida qo'yiladi»"
   },
@@ -45,24 +45,24 @@
    "x": "«Enterobioz tashxisi klinik shubha va yopishqoq tasma testi bilan tasdiqlanadi; namuna ertalab, yuvinishdan oldin olinadi, mikroskopda xarakterli tuxumlar topiladi»"
   },
   {
-   "q": "Yopishqoq tasma testida preparat uchun nima shart emas?",
-   "c": "Maxsus saqlash yoki ishlov berish",
+   "q": "Yopishqoq tasma testida mikroskopda nima topilsa, infeksiya tasdiqlanadi?",
+   "c": "Xarakterli ostritsa tuxumlari",
    "w": [
-    "Ertalab namuna olish",
-    "Buyum oynasiga yopishtirish",
-    "Mikroskopda tuxum topish",
-    "Anal va perianal sohaga bosiladi"
+    "Boshqa gelmint tuxumlari",
+    "Yopishqoq tasma bo'laklari",
+    "Anal atrofidagi yopishqoq ip",
+    "Defekatsiya qoldiqlari"
    ],
-   "x": "«Sharhda uning tartibi bayon qilingan: tasma ertalab, defekatsiyadan va jinsiy a'zolarni yuvishdan oldin olinadi; yopishqoq tomoni (masalan, 10×2 sm o'lchamli kesilgan tasma) o'tirgichlar ochilgan holda anal va perianal sohaga bir necha marta ketma-ket bosiladi; so'ng tasma yopishqoq tomoni pastga qaratilib buyum oynasiga yopishtiriladi; mikroskopda xarakterli tuxumlarni topish infeksiyani tasdiqlaydi; preparatni maxsus saqlash yoki ishlov berish shart emas»"
+   "x": "«Sharhda uning tartibi bayon qilingan: tasma ertalab, defekatsiyadan va jinsiy a'zolarni yuvishdan oldin olinadi; yopishqoq tomoni (masalan, 10×2 sm o'lchamli kesilgan tasma) o'tirgichlar ochilgan holda anal va perianal sohaga bir necha marta ketma-ket bosiladi; so'ng tasma yopishqoq tomoni pastga qaratilib buyum oynasiga yopishtiriladi; mikroskopda xarakterli tuxumlarni topish infeksiyani tasdiqlaydi; preparatni maxsus saqlash yoki ishlov berish shart emas [1]. Mikrobiologik laboratoriyalar va dorixonalar tayyor tashxis to'plamlarini taklif qiladi»"
   },
   {
    "q": "Laborant ostritsa tuxumini nimalardan farqlashi kerak?",
    "c": "Paxta tolalari, o'simlik changlari, havo pufakchalari",
    "w": [
     "Yopishqoq tasma, buyum oynasi, paxta tayoqchasi",
-    "Ota-onalar, shifokor, laborant",
     "Mebendazol, pirantel pamoat, pirvinyum embonat",
-    "Defekatsiya, yuvinish, ertalab"
+    "Anal sohadagi qirma, najas, fiziologik eritma",
+    "Kasallik tarixi, shikoyatlar, klinik shubha"
    ],
    "x": "«Laborant paxta tolalari, o'simlik changlari, boshqa gelmint tuxumlari va havo pufakchalarini ostritsa tuxumidan farqlashi kerak»"
   },
@@ -83,7 +83,7 @@
    "w": [
     "Najas tahlili ishonchli usul hisoblanadi",
     "Chuvalchang har kuni ko'zga ko'rinadi",
-    "Oila a'zolarini tekshirish shart emas",
+    "Tuxumlar anal atrofida har kuni topiladi",
     "Tasma kunduz olinganda aniqroq bo'ladi"
    ],
    "x": "«Bitta manfiy natija enterobiozni istisno qilmaydi, chunki urg'ochilar har kecha tuxum qo'ymaydi»"
@@ -141,7 +141,7 @@
     "Kechqurun, bolalar yuvinishidan keyin",
     "Kechqurun, bolalar yuvinishidan oldin",
     "Ertalab, yuvingandan keyin",
-    "Ertalab, ota-onalar yuvinishidan oldin"
+    "Ertalab, bolalar ovqatdan oldin"
    ],
    "x": "«Eng ishonchli usul — yopishqoq tasma testi, ertalab, bolalar yuvinishidan oldin olinadi»"
   },
@@ -179,15 +179,15 @@
    "x": "«Davolashdan keyin kuzatuv o'tkaziladi: bir necha hafta o'tgach takroriy tekshiruv; yangi holatlar qayd etiladi»"
   },
   {
-   "q": "Namunalarni kim oladi?",
-   "c": "Hamshira namunalar oladi",
+   "q": "Bolalar muassasasida epidemiolog nimaga javobgar?",
+   "c": "Tekshiruv va nazoratga",
    "w": [
-    "Laborant namunalar oladi",
-    "Epidemiolog namunalar oladi",
-    "Tarbiyachi namunalar oladi",
-    "Muassasa rahbari namunalar oladi"
+    "Tashxis va davolashga",
+    "Namunalar olishga",
+    "Sanitariya choralariga",
+    "Bolalar bilan gigiyena ishlariga"
    ],
-   "x": "«DSENM mutaxassislari o'yinchoqlar, choyshablar, gilamlar, sport anjomlari, xalatlar, qo'llar, kiyim shkaflari, eshik tutqichlari va stollardan 1 foizli natriy ishqori yoki 20 foizli glitserin eritmasiga shimdirilgan tampon bilan surtmalar oladi; o'choqlarda kompleks sog'lomlashtirish o'tkazilganda namunalar yiliga 2–3 marta olinadi, kasallik topilgan muassasalarda namunalar soni ikki baravar ko'paytiriladi»"
+   "x": "«Mas'uliyat aniq taqsimlanadi: shifokor tashxis va davolashga, hamshira namunalar olishga, laborant tahlilga, epidemiolog tekshiruv va nazoratga, muassasa rahbari sanitariya choralariga, tarbiyachi bolalar bilan gigiyena ishlariga javobgar»"
   },
   {
    "q": "Qaysi xodimlar ayniqsa nazoratda bo'lishi kerak?",
@@ -201,24 +201,24 @@
    "x": "«Oshpazlar va oziq-ovqat bilan ishlovchilar ayniqsa nazoratda bo'lishi kerak»"
   },
   {
-   "q": "Sanitariya-gelmintologik surtma tamponi qaysi eritmaga shimdiriladi?",
-   "c": "1 foizli natriy ishqori yoki 20 foizli glitserin",
+   "q": "Epidemiyaga qarshi tadbirlar samarasi qanday baholanadi?",
+   "c": "Tashqi muhitni gelmintologik tekshirish",
    "w": [
-    "10 foizli natriy ishqori yoki 2 foizli glitserin",
-    "20 foizli natriy ishqori yoki 1 foizli glitserin",
-    "3 foizli natriy ishqori yoki 40 foizli glitserin",
-    "2 foizli natriy ishqori yoki 3 foizli glitserin"
+    "Barcha bolalarni qayta davolash",
+    "Yuqori idoraga yuborilgan natijalar",
+    "Bolalarda qichishish takrorlanishi",
+    "Ota-onalar hamkorligining natijasi"
    ],
-   "x": "«DSENM mutaxassislari o'yinchoqlar, choyshablar, gilamlar, sport anjomlari, xalatlar, qo'llar, kiyim shkaflari, eshik tutqichlari va stollardan 1 foizli natriy ishqori yoki 20 foizli glitserin eritmasiga shimdirilgan tampon bilan surtmalar oladi; o'choqlarda kompleks sog'lomlashtirish o'tkazilganda namunalar yiliga 2–3 marta olinadi, kasallik topilgan muassasalarda namunalar soni ikki baravar ko'paytiriladi»"
+   "x": "«Tadbirlar samarasi tashqi muhitni sanitariya-gelmintologik tekshirish bilan baholanadi»"
   },
   {
    "q": "Namunalarning birortasida musbat natija aniqlansa nima hisoblanadi?",
    "c": "Tartibning qo'pol buzilishi",
    "w": [
-    "Namunalar yiliga 2–3 marta olinadi",
-    "Bolalarning sog'lomlashishi",
-    "Kompleks sog'lomlashtirish samarasi",
-    "Yiliga 2–3 marta olinadigan tekshiruv"
+    "Kompleks sog'lomlashtirish natijasi",
+    "Bolalarning sog'lomlashish ko'rsatkichi",
+    "Takroriy tekshiruv natijasi",
+    "Namunalar yiliga 2–3 marta olinadi"
    ],
    "x": "«Namunalarning birortasida musbat natija aniqlansa, bu sanitariya-gigiyena tartibining qo'pol buzilishi hisoblanadi va muassasa rahbariyati qonun asosida javobgarlikka tortiladi»"
   }
@@ -241,8 +241,8 @@
    "w": [
     "To'rtta so'rg'ichli skoleks",
     "Kancalar bilan rostellum",
-    "Ingichka iplar (filamentlar)",
-    "Ikki qutbdagi ko'tarilgan qobiq"
+    "Dumli sistitserkoid lichinka",
+    "Bo'g'imlari ko'p proglottidlar"
    ],
    "x": "«Tuxumlari dumaloq yoki oval, mayda (taxminan 40–50 mkm), shaffof, ikki qobiqli; ichki qobiq ikki qutbida ko'tarilgan va undan ingichka iplar (filamentlar) chiqadi; ichida oltita kanchali lichinka (onkosfera) bo'ladi»"
   },
@@ -253,7 +253,7 @@
     "Oltita kanchali onkosfera",
     "Ikki qutbida ingichka iplar",
     "Ko'p kichik proglottidlar",
-    "Ingichka filamentlar"
+    "Dumli sistitserkoid va burgalar"
    ],
    "x": "«Voyaga yetgan chuvalchang kichik: uzunligi odatda 2–4 sm, ingichka, boshchasi (skoleks) to'rtta so'rg'ich va kancalar bilan ta'minlangan rostellum bilan, bo'g'imlari (proglottidlar) ko'p, ammo kichik»"
   },
@@ -263,8 +263,8 @@
    "w": [
     "Ichak bo'shlig'iga",
     "Qo'ng'iz to'qimasiga",
-    "Un yoki donni zararlovchi qo'ng'izlarga",
-    "Sut emizuvchi bo'g'imlariga"
+    "Burgalar to'qimasiga",
+    "Un yoki donni zararlovchi qo'ng'izlarga"
    ],
    "x": "«Ichakda onkosfera chiqib, ingichka ichakning vorsinkalariga kiradi va u yerda sistitserkoidga aylanadi»"
   },
@@ -275,7 +275,7 @@
     "Tashqi muhitda yetilishi shart",
     "Oraliq xo'jayinda yetiladi",
     "Bir necha oy o'tgach infeksion",
-    "Qo'ng'izda dumli bo'ladi"
+    "Burgalar yutgandan keyin infeksion"
    ],
    "x": "«Voyaga yetgan chuvalchang tuxum hosil qiladi va tuxumlar najas bilan chiqadi; ular darhol infeksion bo'ladi (tashqi muhitda yetilishi shart emas)»"
   },
@@ -284,9 +284,9 @@
    "c": "Un yoki donni zararlovchi qo'ng'izlar va burgalar",
    "w": [
     "Kemiruvchilar, sichqon va kalamush",
-    "Askarida va qilbosh chuvalchang",
-    "Bolalar, bog'cha va maktab",
-    "Boshqa tasmasimon chuvalchang tashuvchilari"
+    "Bolalar va boshqa sut emizuvchilar",
+    "Taenia solium tashuvchilari va boshqa odamlar",
+    "Askarida va qilbosh chuvalchang"
    ],
    "x": "«Bilvosita siklda tuxumlarni oraliq xo'jayin — un yoki donni zararlovchi qo'ng'izlar (masalan, un qo'ng'izi) va burgalar — yutadi»"
   },
@@ -354,7 +354,7 @@
     "Bosh og'rig'i, bosh aylanishi, serjahllik",
     "Teri toshmalari va qichishish",
     "Kamqonlik va vazn yo'qotish",
-    "Uyqu buzilishi va serjahllik"
+    "Tutqanoqqa o'xshash holatlar"
    ],
    "x": "«Zararlanish intensiv bo'lganda ichak belgilari paydo bo'ladi: qorin og'rig'i (ko'pincha kindik atrofida va o'ng yonbosh sohada, xurujsimon), ko'ngil aynishi, qusish, ich ketishi (suyuq, shilimshiq aralash) yoki ich qotishi, ishtaha pasayishi yoki oshishi, qorinning ko'pirishi»"
   },
@@ -384,7 +384,7 @@
    "q": "Eozinofiliya haqida nima deyish mumkin?",
    "c": "Gelmintozlarning ko'pida uchraydi, spesifik emas",
    "w": [
-    "Gimenolepidozga xos spesifik belgi hisoblanadi",
+    "Eozinofillar soni yengil zararlanishda oshadi",
     "Yengil zararlanishda doim bo'ladi",
     "Tashxisni tasdiqlovchi asosiy mezon",
     "Faqat og'ir shaklda uchraydi"
@@ -396,7 +396,7 @@
    "c": "Massiv bo'lishi mumkin",
    "w": [
     "O'z-o'zidan to'xtashi mumkin",
-    "Ichki autoinvaziya to'xtashi mumkin",
+    "Yengil kechishi mumkin",
     "Faqat belgisiz kechishi mumkin",
     "Qon o'zgarishlari bo'lmasligi mumkin"
    ],
@@ -407,9 +407,9 @@
    "c": "Najas mikroskopiyasi (xarakterli tuxumlar)",
    "w": [
     "Umumiy qon tahlilidagi eozinofiliya",
-    "Ichak yallig'lanish belgilari",
-    "Ishtaha o'zgarishi, kayfiyat buzilishi",
-    "Klinik jihatdan ajratish qiyin"
+    "Klinik ko'rinishni baholash",
+    "Qorin og'rig'i xarakterini baholash",
+    "Bolalarda ishtaha o'zgarishini kuzatish"
    ],
    "x": "«Klinik jihatdan ularni ajratish qiyin, shu bois najas mikroskopiyasi (xarakterli tuxumlarni topish) hal qiluvchi»"
   },
@@ -420,7 +420,7 @@
     "Qon tahlilida eozinofillar sonini aniqlash",
     "Qorin og'rig'ini kuzatish",
     "Vazn yo'qotishni baholash",
-    "Tuxum miqdorini taxminan ko'rsatish"
+    "Ishtaha o'zgarishini baholash"
    ],
    "x": "«Biroq tuxumlar yo'qolganligini tasdiqlash uchun kuzatuv najas tekshiruvi tavsiya etiladi»"
   },

@@ -56,15 +56,15 @@
    "x": "«Molekulyar diagnostika usullari rivoji bu turlarni ajratishga imkon berdi; avvalgi faqat mikroskopiyaga asoslangan tasvirlar zararsiz shtammlar tufayli noaniq bo'lishi mumkin edi»"
   },
   {
-   "q": "Sharhda PCR diagnostikasi haqida nima aytilgan?",
-   "c": "tobora ko'proq mavjud",
+   "q": "Amyobiazda PCR asosidagi diagnostikaning holati qanday?",
+   "c": "tobora ko'proq mavjud, ammo yetarlicha ishlatilmayotgan",
    "w": [
-    "juda kam mavjud va keng ishlatilmoqda",
     "mavjud emas va ishlatilmaydi",
     "faqat sayohatchilar uchun ishlatiladi",
-    "xlorga chidamliligi bilan ajraladi"
+    "mikroskopiyadan ko'ra kamroq aniq hisoblanadi",
+    "juda kam mavjud va keng ishlatilmoqda"
    ],
-   "x": "«Sharhda PCR asosidagi diagnostika tobora ko'proq mavjud, ammo yetarlicha ishlatilmayotgani aytilgan»"
+   "x": "«PCR asosidagi diagnostika tobora ko'proq mavjud, ammo yetarlicha ishlatilmayotgani»"
   },
   {
    "q": "Qaysi guruhlarda amyobiaz muhim infeksiyaga aylangan?",
@@ -89,15 +89,15 @@
    "x": "«histolytica dan farq qilmaydigan uchta tur mavjudligi: E»"
   },
   {
-   "q": "Diareya 5 yoshgacha bolalar o'limining necha foizini tashkil etadi?",
-   "c": "9 foizini",
+   "q": "Amyobali kolit rivojlanayotgan mamlakatlarda qaysi davrda diareya sabablari ro'yxatiga kiradi?",
+   "c": "hayotning dastlabki ikki yilida",
    "w": [
-    "15 foizini",
-    "5 foizini",
-    "9 yoshgacha",
-    "15 yoshgacha"
+    "hayotning dastlabki 5 yilida",
+    "kattalar va sayohatchilar orasida",
+    "faqat 15 sababdan keyin",
+    "erkaklar orasida"
    ],
-   "x": "«Amyobali kolit rivojlanayotgan mamlakatlarda hayotning dastlabki ikki yilida diareyaning eng ko'p uchraydigan 15 sababi ro'yxatiga kiradi, bu hududlarda diareya 5 yoshgacha bolalar o'limining 9 foizini tashkil etadi»"
+   "x": "«rivojlanayotgan mamlakatlarda hayotning dastlabki ikki yilida diareyaning eng ko'p uchraydigan 15 sababi ro'yxatiga kiradi»"
   },
   {
    "q": "Parazit ichakda nima qilishi mumkin?",
@@ -118,8 +118,8 @@
    "w": [
     "invaziv trofozoitni yutishdan",
     "yo'g'on ichakdagi trofozoitlardan",
-    "kistalarning ko'payishidan",
-    "ifloslangan qo'l orqali"
+    "kortikosteroid davosidan",
+    "xlorlashdan"
    ],
    "x": "«Shirley va hamkasblarining sharhida Entamoeba histolytica yuqishi infeksion kistani yutishdan keyin sodir bo'lishi, bu odatda najas bilan ifloslangan qo'l, oziq-ovqat yoki suv orqali bo'lishi aytilgan»"
   },
@@ -135,12 +135,12 @@
    "x": "«Yutilgan kista ichakda trofozoitlarga aylanadi, ular yo'g'on ichakda ko'payadi va yangi kistalar hosil qiladi, kistalar najas bilan tashqi muhitga chiqadi»"
   },
   {
-   "q": "Nega faqat xlorlash yetarli emas?",
+   "q": "Nega suvni faqat xlorlash orqali zararsizlantirishga to'liq ishonib bo'lmaydi?",
    "c": "xlorga chidamlilik va past infeksion doza",
    "w": [
     "past chidamlilik va yuqori infeksion doza",
-    "suvni qaynatish va filtrlash",
-    "kasallanish past hududlar",
+    "kortikosteroid davosi va OIV omillari",
+    "najas bilan ifloslangan qo'l va oziq-ovqat",
     "atrof-muhitda barqarorlik yo'qligi"
    ],
    "x": "«histolytica past infeksion doza, xlorga chidamlilik va atrof-muhitda barqarorlik xususiyatlariga ega bo'lgani uchun oziq-ovqat va suv ta'minoti ifloslanishi orqali oson tarqalishi mumkin; hatto kasallanish past hududlarda ham aholi va harbiylar o'rtasida epidemik avj olishlar uchragan»"
@@ -201,13 +201,13 @@
    "x": "«Shaxsiy himoya vositalarisiz najas bilan ishlamaslik zarur, chunki kistalar laborantni ham zararlantirishi mumkin»"
   },
   {
-   "q": "Omillarning uchinchi guruhi qaysi?",
+   "q": "Qo'l yuvmaslik, xavfli jinsiy amaliyot va xom mahsulotni yuvmasdan iste'mol qilish qaysi omillar guruhiga kiradi?",
    "c": "xulq-atvor omillari",
    "w": [
     "biologik omillar",
     "sanitariya omillari",
     "immun omillar",
-    "jinsiy omillar"
+    "yo'ldosh omillar"
    ],
    "x": "«Uchinchi guruh — xulq-atvor: qo'l yuvmaslik, xavfli jinsiy amaliyot va xom mahsulotni yuvmasdan iste'mol qilish»"
   },
@@ -229,9 +229,9 @@
    "c": "amyobali kolit va amyoba jigar xo'ppozi",
    "w": [
     "bakterial dizenteriya va yarali kolit",
-    "klinik tasvir va laboratoriya topilmasi",
-    "serologik va molekulyar usullar",
-    "belgisiz kolonizatsiya va tashuvchilik"
+    "belgisiz kolonizatsiya va tashuvchilik",
+    "kortikosteroid davosi va PCR diagnostikasi",
+    "takroriy najas tekshiruvlari va dispanser kuzatuvi"
    ],
    "x": "«Shirley va hamkasblarining sharhida amyobiaz belgisiz kechishi yoki amyobali kolit hamda amyoba jigar xo'ppozi bilan og'ir infeksiyaga olib kelishi mumkinligi aytilgan»"
   },
@@ -251,9 +251,9 @@
    "c": "najasda amyoba topilmasligi ham mumkin",
    "w": [
     "najasda amyoba doim topiladi",
-    "isitma kuzatilmaydi",
-    "o'ng qovurg'a ostida og'riq yo'q",
-    "serologik usullar kerak emas"
+    "najas tekshiruvi serologiyadan aniqroq bo'ladi",
+    "najasda trofozoitlar ko'p topiladi",
+    "serologik yoki molekulyar usullar kerak emas"
    ],
    "x": "«Jigar xo'ppozida isitma, o'ng qovurg'a ostidagi og'riq kuzatilishi mumkin; bunda najasda amyoba topilmasligi ham mumkin, shuning uchun serologik yoki molekulyar usullar kerak bo'ladi»"
   },
@@ -269,15 +269,15 @@
    "x": "«Trofozoitlar jigarga qorin bo'shlig'i qon aylanishi (portal tizim) orqali yetib borishi va xo'ppoz hosil qilishi mumkin»"
   },
   {
-   "q": "Kortikosteroid tayinlashdan oldin nima qilish tavsiya etiladi?",
-   "c": "kortikosteroiddan oldin amyobiazni hisobga olish",
+   "q": "Kortikosteroid davosini boshlashdan oldin nimani hisobga olish tavsiya etiladi?",
+   "c": "amyobiazni hisobga olish",
    "w": [
-    "kortikosteroiddan keyin amyobiazni hisobga olish",
-    "kortikosteroiddan oldin yarali kolitni tasdiqlash",
-    "kortikosteroid bilan kolitni davolash",
-    "kortikosteroid o'rniga serologiyani qo'llash"
+    "yarali kolitni tasdiqlash",
+    "bakterial dizenteriya va yarali kolit",
+    "kolit va jigar xo'ppozi",
+    "dispanser kuzatuvini boshlash"
    ],
-   "x": "«Sharh amyobiazni kortikosteroid davosini boshlashdan oldin hisobga olish asoratlarni kamaytirishi mumkinligini ta'kidlaydi»"
+   "x": "«amyobiazni kortikosteroid davosini boshlashdan oldin hisobga olish asoratlarni kamaytirishi mumkin»"
   },
   {
    "q": "Mikroskopda amyoba topilishi nimani bermaydi?",
@@ -302,26 +302,26 @@
    "x": "«Qonli diareya yarali kolit, bakterial dizenteriya va boshqa infeksion kolitlarda ham uchraydi»"
   },
   {
-   "q": "Dinamikani kuzatish uchun nima foydali?",
+   "q": "Amyobiaz dinamikasini kuzatish uchun nima foydali?",
    "c": "takroriy najas tekshiruvlari",
    "w": [
     "faqat klinik kuzatuv",
-    "bakterial dizenteriya tashxisi",
-    "yarali kolit tashxisi",
+    "mikroskopik topilma bilan cheklanish",
+    "kortikosteroid davosini boshlash",
     "klinik tashxis xatolari"
    ],
    "x": "«Dinamikani kuzatish uchun takroriy najas tekshiruvlari foydali»"
   },
   {
-   "q": "Nazorat najas tekshiruvi qachon o'tkaziladi?",
-   "c": "davolash kursi tugagan kuni",
+   "q": "Amyobiaz bosqichma-bosqich qanday rivojlanishi mumkin?",
+   "c": "avval belgisiz kolonizatsiya, so'ngra to'qima invaziyasi",
    "w": [
-    "davolash kursi boshlangan kuni",
-    "dispanser kuzatuvi tugagan kuni",
-    "klinik belgilar yo'qolgan kuni",
-    "kolit boshlangan kuni"
+    "kolit boshlangach, belgisiz kolonizatsiya",
+    "jigar xo'ppozidan so'ng kolit",
+    "ichakdan tashqari tarqalish, so'ngra kolonizatsiya",
+    "kolit va jigar xo'ppozidan so'ng invaziya"
    ],
-   "x": "«6-ilovaga ko'ra amyobiazda nazorat najas tekshiruvi davolash kursi tugagan kuni o'tkaziladi, dispanser kuzatuvi esa kamida 12 oy davom etadi»"
+   "x": "«avval belgisiz kolonizatsiya, so'ngra to'qima invaziyasi, kolit, ba'zan ichakdan tashqari tarqalish»"
   },
   {
    "q": "Laborant tashxisga qanday hissa qo'shadi?",
@@ -348,15 +348,15 @@
    "x": "«Shirley va hamkasblarining sharhida amyobiazga qarshi samarali vaksina yo'qligi va shu sababli profilaktika sanitariya hamda toza suvga kirish imkoniyatiga qaratilishi aytilgan»"
   },
   {
-   "q": "Suv tozalash tizimida nima qilinishi zarur?",
-   "c": "xlorlashdan tashqari filtrlash",
+   "q": "Suv tozalash tizimida xlorlashdan tashqari nima zarur?",
+   "c": "filtrlash kabi qo'shimcha bosqichlar",
    "w": [
     "faqat xlorlashga ishonish",
-    "xlorlashni kuchaytirish",
-    "suvni najas bilan aralashtirish",
-    "kistalarni xlor bilan ko'paytirish"
+    "xlorlashni sovun bilan almashtirish",
+    "oqar suv bilan yuvilgan kanalizatsiya",
+    "vaksina bilan emlash kabi bosqichlar"
    ],
-   "x": "«Shuning uchun suv tozalash tizimida faqat xlorlashga ishonmaslik, filtrlash kabi qo'shimcha bosqichlar va suv manbalarini najas ifloslanishidan himoya qilish zarur»"
+   "x": "«suv tozalash tizimida faqat xlorlashga ishonmaslik, filtrlash kabi qo'shimcha bosqichlar»"
   },
   {
    "q": "Sanitariya va kanalizatsiya bo'yicha qaysi chora to'g'ri?",
@@ -381,13 +381,13 @@
    "x": "«Qo'lni sovun va oqar suv bilan yuvish, ayniqsa hojatxonadan keyin, ovqat tayyorlash va iste'moldan oldin, bolalarni parvarish qilgandan keyin, bevosita yo'lni to'xtatadi»"
   },
   {
-   "q": "Amyobiaz qaysi guruhlarda muhim infeksiya ekani tilga olingan?",
+   "q": "Amyobiaz qaysi guruhlarda ham muhim infeksiya hisoblanadi?",
    "c": "muhojirlar va qaytgan sayohatchilar",
    "w": [
-    "bolalar va harbiylar",
-    "aholi va harbiylar",
+    "sog'liqni saqlash xodimlari va laborantlar",
     "laborantlar va kontakt shaxslar",
-    "tashuvchilar va oziq-ovqat xodimlari"
+    "tashuvchilar va oziq-ovqat xodimlari",
+    "bolalar va kontakt shaxslar"
    ],
    "x": "«Sharhda amyobiaz muhojirlar, qaytgan sayohatchilar va erkaklar bilan jinsiy aloqa qiluvchi erkaklar orasida ham muhim infeksiya ekani tilga olingan»"
   },
@@ -400,16 +400,16 @@
     "vaksina tavsiya etiladi",
     "filtrlash tavsiya etiladi"
    ],
-   "x": "«Sharhda PCR asosidagi diagnostika tobora mavjud bo'lsa ham yetarlicha ishlatilmaydi va hozirda nitroimidazollar tavsiya etiladi»"
+   "x": "«hozirda nitroimidazollar tavsiya etiladi»"
   },
   {
    "q": "Jamoada avj olishda kasal odamlar bilan nima qilinadi?",
    "c": "vaqtincha oziq-ovqat bilan ishlashdan chetlashtiriladi",
    "w": [
     "oziq-ovqat bilan ishlashda davom ettiriladi",
-    "xlor bilan davolanadi",
     "sanitariya tozalash o'tkaziladi",
-    "kontakt shaxslar sifatida tekshiriladi"
+    "kontakt shaxslar sifatida tekshiriladi",
+    "umumiy suv manbasi aniqlanadi"
    ],
    "x": "«Biror jamoada bir nechta holat aniqlansa, quyidagilar amalga oshiriladi: umumiy suv va oziq-ovqat manbasi aniqlanadi, kontakt shaxslar tekshiriladi, kasal odamlar vaqtincha oziq-ovqat bilan ishlashdan chetlashtiriladi, sanitariya tozalash olib boriladi»"
   },
@@ -428,7 +428,7 @@
    "q": "Sharoit yaxshilanmasa nima bo'lishi mumkin?",
    "c": "kasallik qaytadan paydo bo'lishi mumkin",
    "w": [
-    "vaksina qaytadan tayinlanishi mumkin",
+    "profilaktika kerak bo'lmasligi mumkin",
     "kista butunlay yo'qolishi mumkin",
     "xlor yetarli bo'lishi mumkin",
     "tashuvchilar kamayishi mumkin"
@@ -440,7 +440,7 @@
    "c": "uzluksiz va ko'p tomonlama",
    "w": [
     "vaqtincha va bir tomonlama",
-    "xlorga tayangan va uzluksiz",
+    "bir martalik va ko'p tomonlama",
     "faqat vaksinaga tayangan",
     "laboratoriyaga tayangan va bir tomonlama"
    ],

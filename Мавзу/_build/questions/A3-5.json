@@ -18,18 +18,18 @@
     "Mushak ichiga",
     "Og'iz orqali",
     "Tomir yoki mushak ichiga",
-    "Stasionarda og'iz orqali"
+    "Qon quyish orqali"
    ],
    "x": "«Liposomal preparatlar maxsus tayyorlanadi, tomir ichiga sekin yuboriladi va yuborish vaqtida bemor kuzatiladi»"
   },
   {
-   "q": "Liposomal amfoterisin B ning kamchiligi nimada?",
-   "c": "Qimmatligi uning kamchiligi",
+   "q": "Liposomal amfoterisin B ning asosiy kamchiligi nimada?",
+   "c": "Narxining qimmatligi",
    "w": [
-    "Zaharliligi uning kamchiligi",
-    "Yon ta'sirlari uning kamchiligi",
-    "Homilaga zarari uning kamchiligi",
-    "Uzoq muddati uning kamchiligi"
+    "Homiladorlikda mumkin emas",
+    "Parazit chidamliligining rivojlanishi",
+    "Yurak va jigarga yon ta'siri",
+    "Uzoq muddat davomida yuborilishi"
    ],
    "x": "«Qimmatligi uning kamchiligi, lekin Jahon sog'liqni saqlash tashkiloti bilan kelishilgan narx tizimi va dori xayriya dasturi orqali dorilarga kirish yaxshilangani aytiladi»"
   },
@@ -71,9 +71,9 @@
    "c": "Mintaqa va parazit turi, bemorning yoshi",
    "w": [
     "Bemorning vazni va narx tizimi",
-    "Dori xayriya dasturi va stasionar",
+    "Dori narxi va xayriya dasturi",
     "Isitma yo'qolishi va vazn ortishi",
-    "Laborant va qon tahlili"
+    "Stasionar va qon tahlili"
    ],
    "x": "«Davolash tanlovi quyidagilarga bog'liq: mintaqa va parazit turi, bemorning yoshi, homiladorlik, OIV holati, jigar va buyrak faoliyati»"
   },
@@ -81,10 +81,10 @@
    "q": "OIV bilan birga kechganda antiretrovirus davo nimaga yordam beradi?",
    "c": "Qaytalanishni kechiktiradi, yashash davomiyligini oshiradi",
    "w": [
-    "Qaytalanishni oshiradi, yashash davomiyligini kamaytiradi",
-    "Parazitni to'liq chiqaradi, kasallikni kechiktiradi",
-    "Narx tizimini yaxshilaydi, dorilarni kamaytiradi",
-    "Yon ta'sirlarni oshiradi, o'lim xavfini kamaytiradi"
+    "Parazitni tanadan to'liq chiqarib yuboradi",
+    "Narx tizimini yaxshilaydi va dorilarni kamaytiradi",
+    "Ikkilamchi profilaktikani bekor qiladi",
+    "Yon ta'sirlarni kamaytirib, kuzatuvni to'xtatadi"
    ],
    "x": "«Jahon sog'liqni saqlash tashkiloti OIV bilan yashovchi leyshmaniya bilan zararlanganlarda kasallikning to'liq rivojlanish, qaytalanish va o'lim xavfi yuqori ekanini, antiretrovirus davo kasallik rivojlanishini kamaytirishi, qaytalanishni kechiktirishi va yashash davomiyligini oshirishini, 2022-yilda Sharqiy Afrika va Janubi-Sharqiy Osiyo uchun OIV va visseral leyshmaniozning koinfeksiyasi davolash bo'yicha yangi tavsiyalar chop etganini ta'kidlaydi»"
   },
@@ -130,7 +130,7 @@
     "Surxondaryo viloyatining Pop tumani",
     "Farg'ona vodiysining Surxondaryo tumani",
     "Namangan viloyatining Farg'ona tumani",
-    "Surxondaryo viloyatining ehtimoliy tumani"
+    "Farg'ona viloyatining Pop tumani"
    ],
    "x": "«Tasdiqlangan: Namangan viloyatining Pop tumani (Farg'ona vodiysi) visseral leyshmanioz o'chog'i sifatida tadqiq qilingan»"
   },
@@ -157,7 +157,7 @@
    "x": "«Visseral leyshmaniozning endemik o'chog'i shakllanishiga quyidagilar yordam beradi: tashuvchi chivinchalar turlari mavjudligi (Phlebotomus turlari), rezervuar hayvonlar (itlar, tulkilar, shakallar) yoki antroponoz zanjir, aholining oziqlanish holati, uy-joy sharoiti, iqlim»"
   },
   {
-   "q": "Jahon sog'liqni saqlash tashkilotiga ko'ra, qaysi omillar xavf omillari hisoblanadi?",
+   "q": "Qaysi omillar visseral leyshmanioz xavf omillari hisoblanadi?",
    "c": "Kambag'allik, yomon uy-joy va sanitariya",
    "w": [
     "Kuchli kuzatuv, yaxshi uy-joy va sanitariya",
@@ -185,7 +185,7 @@
     "Toifasi o'zgaradi",
     "Xavfli deb baholanadi",
     "Yuqori idoraga yuboriladi",
-    "Uzoq vaqt holat bo'lmaydi"
+    "Xaritada o'zgarmaydi"
    ],
    "x": "«Endemik hududlar ro'yxati o'zgarmas emas: yangi holatlar paydo bo'lsa, hudud ro'yxatga qo'shiladi; uzoq vaqt holat bo'lmasa va kuzatuv tizimi kuchli bo'lsa, toifasi o'zgaradi»"
   },
@@ -196,7 +196,7 @@
     "Viloyat ilmiy tadqiqotlari",
     "Shifokorlar va aholi",
     "Entomologik kuzatuvlar va yuqori idora",
-    "Rezervuar hayvonlar va chivinchalar"
+    "Aholi va ilmiy tadqiqotlar"
    ],
    "x": "«Xaritalar doimiy yangilanib turishi uchun tuman sanitariya-epidemiologiya xizmatlari holatlar haqida ma'lumotni muntazam yuqori idoraga yuboradi»"
   },
@@ -296,7 +296,7 @@
    "w": [
     "Chivinchalar ertalab faol",
     "Chivinchalar changdan himoyalangan",
-    "Chivinchalar yog'ingarchilikda faol",
+    "Chivinchalar kemiruvchi inlariga kirmaydi",
     "Chivinchalar shamolda faol"
    ],
    "x": "«Tuzoqlar kechqurun qo'yiladi va ertalab yig'iladi, chunki chivinchalar tunda faol»"
@@ -305,10 +305,10 @@
    "q": "Tuzoqlar qayerga qo'yiladi?",
    "c": "Kemiruvchi in teshigi oldiga, devor yoriqlariga",
    "w": [
-    "Mix yoki skotch yaqiniga, laboratoriyaga",
-    "Sovun va spirt yaqiniga, laboratoriyaga",
-    "Kuzatuv jurnali va qalam yoniga",
-    "Sovun va plyonka yaqiniga"
+    "Aholi bilan kelishmagan uy-joylar ichiga",
+    "Yorug'lik tuzoqlari va qo'lda tutish joyiga",
+    "Laboratoriya ichiga, mikroskop yoniga",
+    "Qog'oz varaqlar saqlanadigan toza yopiq qutiga"
    ],
    "x": "«Tuzoqlar chivinchalar eng ko'p bo'ladigan joylarga qo'yiladi: kemiruvchi in teshigi oldiga, devor yoriqlari va tosh orasiga, chorva binolari va uy-joylar ichiga, xaroba va uzoq vaqt foydalanilmagan inshootlar yaqiniga»"
   },
@@ -316,10 +316,10 @@
    "q": "Zichlik ko'rsatkichi sifatida nima hisoblanadi?",
    "c": "Bir kechaga to'g'ri keladigan chivinchalar soni",
    "w": [
-    "Tuzoqlar soni va kechalar soni yig'indisi",
-    "Jami tutilgan chivinchalar va aholi soni yig'indisi",
-    "Bir kechada tutilgan hasharotlar turi soni",
-    "Tuzoq o'lchami va moy qatlami qalinligi"
+    "Jami tutilgan chivinchalar soni",
+    "Bitta tuzoqning o'lchami va qatlami",
+    "Tuzoqlar soni va kechalar soni ko'paytmasi",
+    "Bir tuzoqdagi hasharotlar turlari soni"
    ],
    "x": "«Zichlik ko'rsatkichi sifatida bitta tuzoqdagi bir kechaga to'g'ri keladigan chivinchalar soni hisoblanadi: jami tutilgan chivinchalar ÷ (tuzoqlar soni × kechalar soni)»"
   },
